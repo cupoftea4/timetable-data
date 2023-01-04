@@ -72,23 +72,33 @@ async function doSelectiveParsing() {
 }
 
 async function doLecturerParsing() {
-    console.log("Downloading lecturer schedule")
     setSuffix(lecturerSuffix);
-
-    let lecturers = await getLecturers().catch(err => {
-        console.log("Got error while lecturers:", err);
-        process.exit(1);
-    });
-    lecturers = lecturers.map(el => el.trim());
-    writeFile(join(exportPath, lecturerDir, "all.json"), JSON.stringify(lecturers, null, 4));
     
+    console.log("Downloading departments for lecturer schedule")
     let departments = await getLecturerDepartments().catch(err => {
         console.log("Got error while lecturer departments:", err);
         process.exit(1);
     });
     departments = departments.map(el => el.trim());
     writeFile(join(exportPath, lecturerDir, "departments.json"), JSON.stringify(departments, null, 4));
+
+    const lecturersByDepartment = {};
+    for (let department of departments) {
+        console.log("Downloading lecturers from " + department);
+        await getLecturers(department).then(async lecturers => {
+            lecturers = lecturers.map(el => el.trim());
+            lecturersByDepartment[department] = lecturers;
+        }).catch(err => {
+            console.log("Got error while lecturers from " + department, err);
+        })
+    }
+    writeFile(join(exportPath, lecturerDir, "grouped.json"), JSON.stringify(lecturersByDepartment, null, 4));
+
+    const lecturers = Object.values(lecturersByDepartment).flat();
+    writeFile(join(exportPath, lecturerDir, "all.json"), JSON.stringify(lecturers, null, 4));
+
     await fetchTimetables(lecturers, join(lecturerDir, timetableDir));
+
     console.log("Done!")
 }
 
