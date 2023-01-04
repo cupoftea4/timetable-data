@@ -11,7 +11,7 @@ on:
 env:
   COMMIT_FOLDER: data
   PUSH_BRANCH: data
-  EMAIL: anotheramy12@gmail.com 
+  EMAIL: amy@gmail.com 
   NAME: cupoftea4
 jobs:
   update:
