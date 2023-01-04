@@ -4,15 +4,15 @@ name: Update schedule
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '0 2 * * *'
+    - cron: '*/5 * * * *'
 
   workflow_dispatch:
 
 env:
   COMMIT_FOLDER: data
   PUSH_BRANCH: data
-  EMAIL: zubiden@users.noreply.github.com
-  NAME: zubiden
+  # EMAIL: 
+  NAME: cupoftea4
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -37,7 +37,7 @@ jobs:
       - name: Commit files
         run: |
           git add --all $COMMIT_FOLDER
-          git config --local user.email "$EMAIL"
+          # git config --local user.email "$EMAIL"
           git config --local user.name "$NAME"
           git commit -m "Update $GITHUB_REPOSITORY" -a
           git filter-branch -f --prune-empty --subdirectory-filter $COMMIT_FOLDER
