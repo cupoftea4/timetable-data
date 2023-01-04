@@ -25,8 +25,8 @@ const selectiveDir = "selective";
 const selectiveSuffix = "schedule_selective";
 const lecturerSuffix = "lecturer_schedule";
 
-// doStudentScheduleParsing().then(() => doSelectiveParsing()).then(() => doLecturerParsing());
-doStudentScheduleParsing();
+doStudentScheduleParsing().then(() => doSelectiveParsing()).then(() => doLecturerParsing());
+// doStudentScheduleParsing();
 // doLecturerParsing()
 // doSelectiveParsing();
 
