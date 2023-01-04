@@ -26,8 +26,9 @@ const selectiveSuffix = "schedule_selective";
 const lecturerSuffix = "lecturer_schedule";
 
 // doStudentScheduleParsing().then(() => doSelectiveParsing()).then(() => doLecturerParsing());
+doStudentScheduleParsing();
 // doLecturerParsing()
-doSelectiveParsing();
+// doSelectiveParsing();
 
 async function doStudentScheduleParsing() {
     console.log("Downloading student schedule")
@@ -50,7 +51,7 @@ async function doStudentScheduleParsing() {
     groups = groups.map(el => el.trim());
     writeFile(join(exportPath, "groups.json"), JSON.stringify(groups, null, 4));
 
-    await fetchTimetables(groups, timetableDir);
+    // await fetchTimetables(groups, timetableDir);
 
     console.log("Done!");
 }
