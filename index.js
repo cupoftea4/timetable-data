@@ -25,6 +25,8 @@ const selectiveDir = "selective";
 const selectiveSuffix = "schedule_selective";
 const lecturerSuffix = "lecturer_schedule";
 
+const getTime = () => new Date().toLocaleTimeString();
+
 doStudentScheduleParsing().then(() => doSelectiveParsing()).then(() => doLecturerParsing());
 // doStudentScheduleParsing();
 // doLecturerParsing()
@@ -124,7 +126,7 @@ async function fetchTimetables(groups, dir) {
 function handleResponse(element, dir) {
     const url = new URL(element.config.url);
     const group = url.searchParams.get('studygroup_abbrname_selective') || url.searchParams.get('teachername_selective');
-    console.log('Parsing ' + group);
+    console.log(`[${getTime()}] Parsing ${group}`);
     if (element.error) {
         console.error(element.error);
         return;
