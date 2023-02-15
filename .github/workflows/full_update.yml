@@ -1,0 +1,50 @@
+name: Update schedule
+
+
+on:
+  schedule:
+    # * is a special character in YAML so you have to quote this string
+    - cron: '0 1 * * 1,3'
+
+  workflow_dispatch:
+
+env:
+  COMMIT_FOLDER: data
+  PUSH_BRANCH: data
+  EMAIL: 90093980+cupoftea4@users.noreply.github.com
+  NAME: cupoftea4
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          persist-credentials: false
+
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Initialize and run node
+        run: |
+          npm install
+          node full-update.js
+
+#      - name: "Echo all files in this directory"
+#        run: find $COMMIT_FOLDER -type f -printf "%f\n"
+
+      - name: Commit files
+        run: |
+          git add --all $COMMIT_FOLDER
+          git config --local user.email "$EMAIL"
+          git config --local user.name "$NAME"
+          git commit -m "Update $GITHUB_REPOSITORY" -a
+          git filter-branch -f --prune-empty --subdirectory-filter $COMMIT_FOLDER
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ env.PUSH_BRANCH }}
+          force: true

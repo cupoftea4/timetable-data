@@ -33,13 +33,7 @@ const lecturerExamsSuffix = "lecturer_exam";
 
 const getTime = () => new Date().toLocaleTimeString();
 
-// doStudentScheduleParsing().then(() => doSelectiveParsing()).then(() => doLecturerParsing());
-doExamsScheduleParsing();
-// doStudentScheduleParsing();
-// doLecturerParsing()
-// doSelectiveParsing();
-
-async function doStudentScheduleParsing() {
+export async function doStudentScheduleParsing() {
     console.log("Downloading student schedule")
     let institutes = await downloadInstitutes().catch(err => {
         console.log("Got error while downloading institutes:", err);
@@ -65,7 +59,7 @@ async function doStudentScheduleParsing() {
     console.log("Done!");
 }
 
-async function doExamsScheduleParsing() {
+export async function doExamsScheduleParsing() {
     let groups;
 
     console.log("Downloading exams schedule for students");
@@ -91,7 +85,7 @@ async function doExamsScheduleParsing() {
     console.log("Done!");
 }
 
-async function doSelectiveParsing() {
+export async function doSelectiveParsing() {
     console.log("Downloading selective schedule")
     setSuffix(selectiveSuffix);
 
@@ -106,7 +100,7 @@ async function doSelectiveParsing() {
     console.log("Done!")
 }
 
-async function doLecturerParsing() {
+export async function doLecturerParsing() {
     setSuffix(lecturerSuffix);
     
     console.log("Downloading departments for lecturer schedule")
