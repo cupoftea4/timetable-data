@@ -87,6 +87,27 @@ export async function getLecturers(department = null) {
 		}
 	}
 
+	export function prepareExamsTimetableRequest(timetableName = "All", timetableCategory = "All", isLecturers = false) {
+		let params = {};
+		if (isLecturers) {
+			params = {
+				namedepartment_selective: timetableCategory,
+				teachername_selective: timetableName
+			};
+		}  else {
+			params = {
+				departmentparent_abbrname_selective: timetableCategory,
+				studygroup_abbrname_selective: timetableName
+			};
+		}
+
+		return {
+			method: 'GET',
+			url: buildUrl(params, isLecturers ? NULP_STAFF : NULP_STUDENTS).toString(),
+			responseType: 'text',
+		}
+	}
+
 
 export async function getGroups(departmentparent_abbrname_selective = "All") {
 	return fetchHtml({ departmentparent_abbrname_selective }).then(html => {
@@ -101,10 +122,63 @@ export async function getGroups(departmentparent_abbrname_selective = "All") {
 
 export function parseTimetable(html) {
 	const content = parseAndGetOne(html, ".view-content");
-	const days = Array.from(content.children)
+	const days = Array.from(content?.children ?? [])
 		.map(parseDay)
 		.flat(1);
 	return days;
+}
+
+export function parseExamsTimetable(html) {
+	const content = parseAndGetOne(html, ".view-content");
+	const exams = Array.from(content?.children ?? [])
+						.map(parseExam)
+	if (exams.length === 0) throw Error("Exams timetable is empty");
+	return exams;
+}
+
+function parseExam(exam) {
+	const dayText = exam.querySelector(".view-grouping-header");
+	if(!dayText) {
+		throw Error("Got wrong DOM structure for exam!");
+	}
+	const date = new Date(dayText.textContent ?? "");
+	let lecturer = "", subject = "", number = 0, urls = [];
+	const contentChildren = exam.querySelector(".view-grouping-content")?.children ?? [];
+
+	[...contentChildren].forEach(child => {
+		// it's h3 with lesson number
+		if (!child.classList.contains("stud_schedule")) { 
+			number = parseInt(child.textContent ?? "0");
+		// it's stud_schedule with lesson info
+		} else { 																					
+			const examContent = child.querySelector(".group_content");
+			if(!examContent) {
+				throw Error("Got wrong DOM structure for exam!");
+			}
+			[...examContent.childNodes].forEach(node => {
+				// lecturer and subject are in text nodes
+				if(node?.textContent) {
+					const text = node.textContent?.trim();
+					if(!text) return;
+					if(!subject) subject = text; 
+					else if(!lecturer) lecturer = text;
+				}
+				// urls are in a tags
+				if(node?.nodeType === 1) {
+					const a = node.querySelector("a");
+					if(a) urls.push(a.href);
+				}
+			});
+		}
+	});
+
+	return {
+		date,
+		lecturer,
+		subject,
+		number,
+		urls
+	};
 }
 
 /*

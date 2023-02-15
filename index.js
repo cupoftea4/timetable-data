@@ -6,7 +6,9 @@ import axios from 'axios';
 import { 
     setSuffix,
     prepareTimetableRequest, 
+    prepareExamsTimetableRequest,
     parseTimetable, 
+    parseExamsTimetable,
     getGroups, 
     getInstitutes,
     getLecturers,
@@ -20,14 +22,19 @@ const exportPath = join(dirname(fileURLToPath(import.meta.url)), dir);
 const instituteDir = "institutes";
 const timetableDir = "timetables";
 const lecturerDir = "lecturers";
+const examsDir = "exams";
+const lecturerExamsDir = "exams/lecturers";
 
 const selectiveDir = "selective";
 const selectiveSuffix = "schedule_selective";
 const lecturerSuffix = "lecturer_schedule";
+const examsSuffix = "students_exam";
+const lecturerExamsSuffix = "lecturer_exam";
 
 const getTime = () => new Date().toLocaleTimeString();
 
-doStudentScheduleParsing().then(() => doSelectiveParsing()).then(() => doLecturerParsing());
+// doStudentScheduleParsing().then(() => doSelectiveParsing()).then(() => doLecturerParsing());
+doExamsScheduleParsing();
 // doStudentScheduleParsing();
 // doLecturerParsing()
 // doSelectiveParsing();
@@ -54,6 +61,32 @@ async function doStudentScheduleParsing() {
     writeFile(join(exportPath, "groups.json"), JSON.stringify(groups, null, 4));
 
     await fetchTimetables(groups, timetableDir);
+
+    console.log("Done!");
+}
+
+async function doExamsScheduleParsing() {
+    let groups;
+
+    console.log("Downloading exams schedule for students");
+    groups = await getExamsGroups().catch(err => {
+        console.log("Got error while downloading groups:", err);
+        process.exit(1);
+    });
+    groups = groups.map(el => el.trim());
+
+    setSuffix(examsSuffix);
+    await fetchTimetables(groups, examsDir);
+
+    console.log("Downloading exams schedule for lecturers");
+    groups = await getLecturerExamsGroups().catch(err => {
+        console.log("Got error while downloading groups:", err);
+        process.exit(1);
+    });
+    groups = groups.map(el => el.trim());
+
+    setSuffix(lecturerExamsSuffix);
+    await fetchTimetables(groups, lecturerExamsDir);
 
     console.log("Done!");
 }
@@ -105,7 +138,12 @@ async function doLecturerParsing() {
 }
 
 async function fetchTimetables(groups, dir) {
-    const requests = groups.map((group) => prepareTimetableRequest(group, undefined, dir.includes("lecturers")));
+    let requests;
+    if (dir.includes("exams")) {
+        requests = groups.map((group) => prepareExamsTimetableRequest(group, undefined, dir.includes("lecturer")));
+    } else {
+        requests = groups.map((group) => prepareTimetableRequest(group, undefined, dir.includes("lecturer")));
+    }
     const requestQueue = [];
     let currentPosition = 0;
     for (; currentPosition < MAX_PARALLEL_REQUESTS; currentPosition++) {
@@ -133,7 +171,9 @@ function handleResponse(element, dir) {
     }
 
     try {
-        const timetable = parseTimetable(element.data);
+        const timetable = (dir.includes("exams")) 
+            ? parseExamsTimetable(element.data) 
+            : parseTimetable(element.data);
         writeFile(join(exportPath, dir, group + ".json"), JSON.stringify(timetable, null, 4));
     } catch (e) {
         console.error(e);
@@ -152,6 +192,16 @@ async function downloadInstitutes() {
     let inst = await getInstitutes()
     inst.sort(localeCompare);
     return inst;
+}
+
+function getExamsGroups() {
+    setSuffix(examsSuffix);
+    return getGroups();
+} 
+
+function getLecturerExamsGroups() {
+    setSuffix(lecturerExamsSuffix);
+    return getLecturers();
 }
 
 function writeFile(filePath, contents) {

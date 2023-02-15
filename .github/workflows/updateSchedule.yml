@@ -4,14 +4,14 @@ name: Update schedule
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: '0 2 * * *'
+    - cron: '0 1 * * *'
 
   workflow_dispatch:
 
 env:
   COMMIT_FOLDER: data
   PUSH_BRANCH: data
-  EMAIL: amy@gmail.com 
+  EMAIL: 90093980+cupoftea4@users.noreply.github.com
   NAME: cupoftea4
 jobs:
   update:
