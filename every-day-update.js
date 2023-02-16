@@ -1,3 +1,6 @@
-import { doStudentScheduleParsing } from './data.js';
+import axios from 'axios';
 
-doStudentScheduleParsing();
+// axios.get("https://raw.githubusercontent.com/cupoftea4/timetable-data/data/timetables/ПВ-33.json", {
+//   responseType: 'json',
+// }).then(response => response.data).then(console.log);
+// doStudentScheduleParsing();
