@@ -1,3 +1,3 @@
-import { doStudentScheduleParsing } from './data.js';
+import { doStudentScheduleParsing } from './data';
 
 doStudentScheduleParsing();
