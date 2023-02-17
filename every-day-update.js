@@ -1,3 +1,3 @@
-import { doStudentScheduleParsing } from './data';
+import { getRecentTimetables } from './update-data.js';
 
-doStudentScheduleParsing();
+getRecentTimetables();

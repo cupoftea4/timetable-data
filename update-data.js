@@ -1,6 +1,6 @@
 import { mkdirSync, writeFile as _writeFile } from 'fs';
 import { join, dirname } from 'path';
-import { fileURLToPath } from 'url';
+import { fileURLToPath, URL } from 'url';
 import axios from 'axios';
 
 import { 
@@ -129,6 +129,61 @@ export async function doLecturerParsing() {
     await fetchTimetables(lecturers, join(lecturerDir, timetableDir));
 
     console.log("Done!")
+}
+
+function showStats(data) {
+    const array = Object.entries(data);
+    console.log("Stats:");
+    console.log("The most opened:");
+    array.slice(0, 10).sort((a, b) => b[1] - a[1])
+        .forEach(el => {
+            const params = new URL(el[0]).searchParams;
+            console.log(
+                el[1] + "\t", 
+                (params.get("studygroup_abbrname_selective") ?? params.get("teachername_selective")) + 
+                    (el[0].includes("exam") ? " (exams)" : "")
+            );
+        });
+    console.log(`Total: ${array.length}`);
+}
+
+export async function getRecentTimetables() {
+    const data = await axios.get("https://lpnu.pp.ua/used-timetables.json", {
+		responseType: 'json',
+	}).then(response => response.data);
+    showStats(data);
+    const requests = Object.keys(data).filter(el => el.includes("lpnu.ua")).map(el => ({
+            method: 'GET',
+            url: new URL(decodeURI(el)),
+            responseType: 'text',            
+        }));
+    const getRequestDir = (request) => {
+        const url = request.config.url.toString();
+        const isExams = url.includes("exam");
+        const isLecturer = url.includes("staff");
+        const isSelective = url.includes("schedule_selective");
+        if (isExams) 
+            return isLecturer ? lecturerExamsDir : examsDir;
+        if (isSelective) 
+            return join(selectiveDir, timetableDir);
+        if (isLecturer) 
+            return join(lecturerDir, timetableDir);
+        return timetableDir;
+    };
+    const requestQueue = [];
+    let currentPosition = 0;
+    for (; currentPosition < Math.min(MAX_PARALLEL_REQUESTS, requests.length); currentPosition++) {
+        requestQueue.push(axios(requests[currentPosition]));
+    }
+    while (requestQueue.length) {
+        const request = await requestQueue.shift();
+        handleResponse(request, getRequestDir(request));
+        if (currentPosition < requests.length) {
+            requestQueue.push(axios(requests[currentPosition]));
+            currentPosition++;
+            await new Promise(resolve => setTimeout(resolve, 500));
+        }
+    }
 }
 
 async function fetchTimetables(groups, dir) {
