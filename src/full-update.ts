@@ -1,4 +1,4 @@
-import { doStudentScheduleParsing, doSelectiveParsing, doLecturerParsing, doExamsScheduleParsing } from './data.js';
+import { doStudentScheduleParsing, doSelectiveParsing, doLecturerParsing, doExamsScheduleParsing } from './update-data.js';
 
 doStudentScheduleParsing().then(
   () => doSelectiveParsing()).then(

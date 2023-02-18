@@ -7,11 +7,11 @@ const NULP_STAFF = "https://staff.lpnu.ua/";
 
 let timetableSuffix = "students_schedule";
 
-export function setSuffix(suffix) {
+export function setSuffix(suffix: string) {
 	timetableSuffix = suffix;
 }
 
-function buildUrl(params = {}, base = NULP_STUDENTS) {
+function buildUrl(params: Record<string, string> = {}, base = NULP_STUDENTS) {
 	let baseUrl = base + timetableSuffix;
 	const url = new URL(baseUrl);
 	for (let key in params) {
@@ -29,20 +29,20 @@ function fetchHtml(params = {}, url = NULP_STUDENTS) {
 export async function getInstitutes() {
 	return fetchHtml().then(html => {
 		const select = parseAndGetOne(html, "#edit-departmentparent-abbrname-selective");
-		const institutes = Array.from(select.children)
-			.map(child => child.value)
+		const institutes = Array.from(select?.children ?? [])
+			.map(child => (child as HTMLInputElement).value)
 			.filter(inst => inst !== "All")
 			.sort((a, b) => a.localeCompare(b));
 		return institutes;
 	})
 }
 
-export async function getLecturers(department = null) {
+export async function getLecturers(department: string | null = null) {
 	return fetchHtml(department ? 
 		{department_name_selective: department} : {}, NULP_STAFF).then(html => {
 		const select = parseAndGetOne(html, "#edit-teachername-selective");
 		const lecturers = Array.from(select?.children ?? [])
-								.map(child => (child).value)
+								.map(child => (child as HTMLInputElement).value)
 								.filter(inst => inst !== "All")
 								.sort((a, b) => a.localeCompare(b));
 		return lecturers;
@@ -55,7 +55,7 @@ export async function getLecturers(department = null) {
 		return fetchHtml({}, NULP_STAFF).then(html => {
 			const select = parseAndGetOne(html, "#edit-department-name-selective");
 			const departments = Array.from(select?.children ?? [])
-				.map(child => (child).value)
+				.map(child => (child as HTMLInputElement).value)
 				.filter(depart => depart !== "All")
 				.sort((a, b) => a.localeCompare(b));
 			return departments;
@@ -84,7 +84,7 @@ export async function getLecturers(department = null) {
 			method: 'GET',
 			url: buildUrl(params, isLecturers ? NULP_STAFF : NULP_STUDENTS).toString(),
 			responseType: 'text',
-		}
+		} as const;
 	}
 
 	export function prepareExamsTimetableRequest(timetableName = "All", timetableCategory = "All", isLecturers = false) {
@@ -105,22 +105,22 @@ export async function getLecturers(department = null) {
 			method: 'GET',
 			url: buildUrl(params, isLecturers ? NULP_STAFF : NULP_STUDENTS).toString(),
 			responseType: 'text',
-		}
+		} as const;
 	}
 
 
 export async function getGroups(departmentparent_abbrname_selective = "All") {
 	return fetchHtml({ departmentparent_abbrname_selective }).then(html => {
 		const select = parseAndGetOne(html, "#edit-studygroup-abbrname-selective");
-		const groups = Array.from(select.children)
-			.map(child => child.value)
+		const groups = Array.from(select?.children ?? [])
+			.map(child => (child as HTMLInputElement).value)
 			.filter(inst => inst !== "All")
 			.sort((a, b) => a.localeCompare(b));
 		return groups;
 	})
 }
 
-export function parseTimetable(html) {
+export function parseTimetable(html: string) {
 	const content = parseAndGetOne(html, ".view-content");
 	const days = Array.from(content?.children ?? [])
 		.map(parseDay)
@@ -128,7 +128,7 @@ export function parseTimetable(html) {
 	return days;
 }
 
-export function parseExamsTimetable(html) {
+export function parseExamsTimetable(html: string) {
 	const content = parseAndGetOne(html, ".view-content");
 	const exams = Array.from(content?.children ?? [])
 						.map(parseExam)
@@ -136,13 +136,13 @@ export function parseExamsTimetable(html) {
 	return exams;
 }
 
-function parseExam(exam) {
+function parseExam(exam: Element) {
 	const dayText = exam.querySelector(".view-grouping-header");
 	if(!dayText) {
 		throw Error("Got wrong DOM structure for exam!");
 	}
 	const date = new Date(dayText.textContent ?? "");
-	let lecturer = "", subject = "", number = 0, urls = [];
+	let lecturer = "", subject = "", number = 0, urls: string[] = [];
 	const contentChildren = exam.querySelector(".view-grouping-content")?.children ?? [];
 
 	[...contentChildren].forEach(child => {
@@ -165,7 +165,7 @@ function parseExam(exam) {
 				}
 				// urls are in a tags
 				if(node?.nodeType === 1) {
-					const a = node.querySelector("a");
+					const a = (node as Element).querySelector("a");
 					if(a) urls.push(a.href);
 				}
 			});
@@ -192,15 +192,15 @@ function parseExam(exam) {
 			...
 */
 
-function parseDay(day) {
+function parseDay(day: Element) {
 	const dayText = day.querySelector(".view-grouping-header");
 	if (!dayText) {
 		throw Error("Got wrong DOM structure for day!");
 	}
 	const dayNumber = dayToNumber(dayText.textContent);
-	const contentChildren = day.querySelector(".view-grouping-content").children;
+	const contentChildren = day.querySelector(".view-grouping-content")?.children ?? [];
 
-	let dayLessons = [];
+	let dayLessons: any[] = [];
 
 	let currentLessonNumber = 0;
 	for (let i = 0; i < contentChildren.length; i++) {
@@ -214,19 +214,19 @@ function parseDay(day) {
 			})
 			dayLessons = dayLessons.concat(lessons);
 		} else {
-			currentLessonNumber = Number.parseInt(child.textContent);
+			currentLessonNumber = Number.parseInt(child.textContent ?? "0");
 		}
 	}
 	return dayLessons;
 }
 
-function parsePair(pair) {
+function parsePair(pair: Element) {
 	const lessonElements = pair.querySelectorAll(".group_content");
 	const lessons = [];
 
 	for (let element of lessonElements) {
-		const id = element.parentElement.id;
-		const meta = parseLessonId(id);
+		const id = element.parentElement?.id;
+		const meta = parseLessonId(id ?? "");
 
 		const data = parseLessonData(element);
 
@@ -256,7 +256,7 @@ function parsePair(pair) {
 	return lessons;
 }
 
-function parseLessonData(element) {
+function parseLessonData(element: Element) {
 	const texts = []
 	let lessonUrls = [];
 	let br = false;
@@ -265,7 +265,7 @@ function parseLessonData(element) {
 			if (br) texts.push(""); //sometimes text is skipped with sequenced <br/> 
 			br = true;
 		} else if (node.nodeName === "SPAN") {
-			lessonUrls.push(node.querySelector("a").href);
+			lessonUrls.push((node as Element).querySelector("a")?.href);
 			br = false;
 		} else {
 			br = false;
@@ -280,9 +280,9 @@ function parseLessonData(element) {
 	}
 }
 
-function parseLessonId(id) {
+function parseLessonId(id: string) {
 	const split = id.split("_");
-	let subgroup = "all";
+	let subgroup: number | "all" = "all";
 	let week = "full";
 	if (id.includes("sub")) {
 		subgroup = Number.parseInt(split[1]);
@@ -296,7 +296,7 @@ function parseLessonId(id) {
 	}
 }
 
-function tryToGetType(location) {
+function tryToGetType(location: string) {
 	location = location.toLowerCase();
 	if (location.includes("практична")) return "practical";
 	if (location.includes("лабораторна")) return "lab";
@@ -304,8 +304,8 @@ function tryToGetType(location) {
 	return "lection";
 }
 
-function dayToNumber(day) {
-	switch (day.toLowerCase()) {
+function dayToNumber(day: string | null) {
+	switch (day?.toLowerCase()) {
 		case "пн":
 			return 1;
 		case "вт":
@@ -325,7 +325,7 @@ function dayToNumber(day) {
 	}
 }
 
-function parseAndGetOne(html, css) {
+function parseAndGetOne(html: string, css: string) {
 	const { document } = (new JSDOM(html)).window;
 	return document.querySelector(css);
 }

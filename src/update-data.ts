@@ -1,7 +1,7 @@
 import { mkdirSync, writeFile as _writeFile } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath, URL } from 'url';
-import axios from 'axios';
+import axios, { AxiosRequestConfig, AxiosResponse } from 'axios';
 
 import { 
     setSuffix,
@@ -17,7 +17,7 @@ import {
 
 const MAX_PARALLEL_REQUESTS = 10;
 
-const dir = "data";
+const dir = "../data";
 const exportPath = join(dirname(fileURLToPath(import.meta.url)), dir);
 const instituteDir = "institutes";
 const timetableDir = "timetables";
@@ -111,7 +111,7 @@ export async function doLecturerParsing() {
     departments = departments.map(el => el.trim());
     writeFile(join(exportPath, lecturerDir, "departments.json"), JSON.stringify(departments, null, 4));
 
-    const lecturersByDepartment = {};
+    const lecturersByDepartment: Record<string, string[]> = {};
     for (let department of departments) {
         console.log("Downloading lecturers from " + department);
         await getLecturers(department).then(async lecturers => {
@@ -131,7 +131,7 @@ export async function doLecturerParsing() {
     console.log("Done!")
 }
 
-function showStats(data) {
+function showStats(data: Record<string, number>) {
     const array = Object.entries(data);
     console.log("Stats:");
     console.log("The most opened:");
@@ -152,13 +152,13 @@ export async function getRecentTimetables() {
 		responseType: 'json',
 	}).then(response => response.data);
     showStats(data);
-    const requests = Object.keys(data).filter(el => el.includes("lpnu.ua")).map(el => ({
+    const requests: AxiosRequestConfig[] = Object.keys(data).filter(el => el.includes("lpnu.ua")).map(el => ({
             method: 'GET',
-            url: new URL(decodeURI(el)),
+            url: decodeURI(el), // CHANGED HERE FROM "new URL(decodeURI(el))"
             responseType: 'text',            
         }));
-    const getRequestDir = (request) => {
-        const url = request.config.url.toString();
+    const getRequestDir = (request:  AxiosResponse<any, any>) => {
+        const url = request.config.url?.toString() ?? "";
         const isExams = url.includes("exam");
         const isLecturer = url.includes("staff");
         const isSelective = url.includes("schedule_selective");
@@ -176,7 +176,9 @@ export async function getRecentTimetables() {
         requestQueue.push(axios(requests[currentPosition]));
     }
     while (requestQueue.length) {
+        
         const request = await requestQueue.shift();
+        if (request?.status !== 200) continue;
         handleResponse(request, getRequestDir(request));
         if (currentPosition < requests.length) {
             requestQueue.push(axios(requests[currentPosition]));
@@ -186,8 +188,8 @@ export async function getRecentTimetables() {
     }
 }
 
-async function fetchTimetables(groups, dir) {
-    let requests;
+async function fetchTimetables(groups: string[], dir: string) {
+    let requests: AxiosRequestConfig[];
     if (dir.includes("exams")) {
         requests = groups.map((group) => prepareExamsTimetableRequest(group, undefined, dir.includes("lecturer")));
     } else {
@@ -201,6 +203,7 @@ async function fetchTimetables(groups, dir) {
 
     while (requestQueue.length) {
         const request = await requestQueue.shift();
+        
         handleResponse(request, dir);
         if (currentPosition < requests.length) {
             requestQueue.push(axios(requests[currentPosition]));
@@ -210,26 +213,23 @@ async function fetchTimetables(groups, dir) {
     }
 }
 
-function handleResponse(element, dir) {
-    const url = new URL(element.config.url);
+function handleResponse(response: AxiosResponse | undefined, dir: string) {
+    if (response?.status !== 200) return;
+    const url = new URL(response.config.url ?? "");
     const group = url.searchParams.get('studygroup_abbrname_selective') || url.searchParams.get('teachername_selective');
     console.log(`[${getTime()}] Parsing ${group}`);
-    if (element.error) {
-        console.error(element.error);
-        return;
-    }
 
     try {
         const timetable = (dir.includes("exams")) 
-            ? parseExamsTimetable(element.data) 
-            : parseTimetable(element.data);
+            ? parseExamsTimetable(response.data) 
+            : parseTimetable(response.data);
         writeFile(join(exportPath, dir, group + ".json"), JSON.stringify(timetable, null, 4));
     } catch (e) {
         console.error(e);
     }
 }
 
-async function downloadGroups(institute) {
+async function downloadGroups(institute?: string) {
     console.log("Downloading groups " + (institute || ""))
     let groups = await getGroups(institute)
     groups.sort(localeCompare);
@@ -253,7 +253,7 @@ function getLecturerExamsGroups() {
     return getLecturers();
 }
 
-function writeFile(filePath, contents) {
+function writeFile(filePath: string, contents: string) {
     mkdirSync(dirname(filePath), { recursive: true });
 
     _writeFile(filePath, contents, err => {
@@ -261,6 +261,6 @@ function writeFile(filePath, contents) {
     });
 }
 
-function localeCompare(a, b) {
+function localeCompare(a: any, b: any) {
     return a.localeCompare(b);
 }

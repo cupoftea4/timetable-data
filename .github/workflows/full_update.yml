@@ -29,7 +29,7 @@ jobs:
       - name: Initialize and run node
         run: |
           npm install
-          node full-update.js
+          npm run full-update
 
       - name: Commit files
         run: |

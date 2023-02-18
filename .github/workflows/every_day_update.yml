@@ -34,7 +34,7 @@ jobs:
       - name: Initialize and run node
         run: |
           npm install
-          node every-day-update.js
+          npm run update
 
       - name: Commit files
         run: |
