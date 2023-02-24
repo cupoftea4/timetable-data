@@ -134,8 +134,8 @@ export async function doLecturerParsing() {
 function showStats(data: Record<string, number>) {
     const array = Object.entries(data);
     console.log("Stats:");
-    console.log("The most opened:");
-    array.slice(0, 10).sort((a, b) => b[1] - a[1])
+    console.log("Most used:");
+    array.sort((a, b) => b[1] - a[1]).slice(0, 30)
         .forEach(el => {
             const params = new URL(el[0]).searchParams;
             console.log(

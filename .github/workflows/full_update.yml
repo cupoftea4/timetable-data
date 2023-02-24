@@ -4,7 +4,7 @@ name: Full update
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: '0 1 * * 1,3,5' # every Monday, Wednesday and Friday at 3:00 AM?
+    - cron: '0 1 * * 1,3,6' # every Monday, Wednesday and Saturday at 3:00 AM?
 
   workflow_dispatch:
 

@@ -1,3 +1,3 @@
-import { getRecentTimetables } from './update-data.js';
+import { getRecentTimetables } from './utils/update-data.js';
 
 getRecentTimetables();
