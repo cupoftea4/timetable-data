@@ -17,7 +17,7 @@ import {
 
 const MAX_PARALLEL_REQUESTS = 10;
 
-const dir = "../data";
+const dir = "../../data";
 const exportPath = join(dirname(fileURLToPath(import.meta.url)), dir);
 const instituteDir = "institutes";
 const timetableDir = "timetables";
