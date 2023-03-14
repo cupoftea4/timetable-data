@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Проектні технології та командна робота в освітній діяльності",
+        "lecturer": "ПЦ-22, 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83328841095?pwd=OEFyUjRIY3J3Yk8ybjRxVElyVG1vQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектні технології та командна робота в освітній діяльності",
+        "lecturer": "ПЦ-22, 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83328841095?pwd=OEFyUjRIY3J3Yk8ybjRxVElyVG1vQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Проектні технології та командна робота в освітній діяльності",
+        "lecturer": "ПЦ-21, 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83328841095?pwd=OEFyUjRIY3J3Yk8ybjRxVElyVG1vQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Проектні технології та командна робота в освітній діяльності",
+        "lecturer": "ПЦ-21, 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83328841095?pwd=OEFyUjRIY3J3Yk8ybjRxVElyVG1vQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Проектні технології та командна робота в освітній діяльності",
+        "lecturer": "ПЦ-21, ПЦ-22, 701 XXXVI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83328841095?pwd=OEFyUjRIY3J3Yk8ybjRxVElyVG1vQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

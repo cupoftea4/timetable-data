@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Онисик С.Б.,",
+        "subject": "Моделювання та оптимізація систем керування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76144894053?pwd=WmAnEA0aY1hL1UvQAZGCFVBj5hSzRa.1"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Роман В.І.,",
+        "subject": "Інтелектуальні системи керування",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/84786944331?pwd=eDB2cjRRSjR2NmFYS1hvOWlsOFdldz09"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Крих Г.Б.,",
+        "subject": "Методи сучасної теорії керування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72289293697?pwd=WEQyQUZrVkNkRXd3bmVOejRST1Awdz09"
+        ]
+    }
+]

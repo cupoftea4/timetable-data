@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Дацишин Х.П.,",
+        "subject": "Історія світової літератури",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/71903640099?pwd=a3hMMEx1enRETnFMeHQ2cE50OXdGdz09%20%20Meeting%20ID:%20719%200364%200099%20Passcode:%20RPuk0f"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Кіца М.О.,",
+        "subject": "Реклама в ЗМІ",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/76567969806?pwd=Gvu8uMnSngQXRa4u9pGH0qG5Xc6W9I.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Струк Н.А.,",
+        "subject": "Підготовка і створення репортажу і авторського сюжету на ТВ",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Іваницька Б.В.,",
+        "subject": "Концепція, проект, бізнес-моделювання радіо- , телепередачі",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73913613269?pwd=W5704qaKPr7TJlwNCxEAhjRoshpLsC.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Мудра І.М., вибіркова",
+        "subject": "Соціальні мережі і журналістика",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ]
+    }
+]

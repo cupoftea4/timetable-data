@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ГБ-31,",
+        "subject": "Гідротехнічні споруди",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "БД-48,",
+        "subject": "Гідротехнічні споруди",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ]
+    }
+]

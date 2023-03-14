@@ -1,0 +1,48 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "АВ-23,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/5419500628?pwd=MhsYXL174DsdrS4CWfvJoTlaGjhQxw.1",
+            "https://us04web.zoom.us/j/5419500628?pwd=MhsYXL174DsdrS4CWfvJoTlaGjhQxw.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КБ-202,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/5419500628?pwd=MhsYXL174DsdrS4CWfvJoTlaGjhQxw.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "СА-21, СА-22,",
+        "subject": "Іноземна мова за професійним спрямуванням,частина 3",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/5419500628?pwd=MhsYXL174DsdrS4CWfvJoTlaGjhQxw.1"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ТР-22,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/5419500628?pwd=MhsYXL174DsdrS4CWfvJoTlaGjhQxw.1"
+        ]
+    },
+    {
+        "date": "2023-02-25T00:00:00.000Z",
+        "lecturer": "МТЯС-11,",
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/5419500628?pwd=MhsYXL174DsdrS4CWfvJoTlaGjhQxw.1"
+        ]
+    }
+]

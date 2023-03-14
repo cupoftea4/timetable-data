@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "ЕВ-43, ЕВ-44,",
+        "subject": "Ділова іноземна мова, частина 4",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/81240698039?pwd=ZlpWUzRiNDFMa2daRmJ6QnRGYjNUdz09",
+            "https://us02web.zoom.us/j/89037644098?pwd=RVFmekgySWJINXF4c1VtVnZraFlKUT09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПС-23,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/89605514822?pwd=SWFuSmpmNEViT0xyeUdEM1IzZk1xdz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ЖР-22,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/82275254850?pwd=SzhianJFK3Y1NEEraHM5QU5aM1hsUT09"
+        ]
+    }
+]

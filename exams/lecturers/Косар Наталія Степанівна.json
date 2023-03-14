@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "МК-31, МК-32, МК-33, МК-34,",
+        "subject": "Маркетингова цінова політика",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20412%20010%206738%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20Q84wff"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "МЕ-48, МЕ-49,",
+        "subject": "Стратегічний маркетинг",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20412%20010%206738%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20Q84wff"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "МКІМ-11, МКМ-11,",
+        "subject": "Стратегічний маркетинг та стратегічний менеджмент",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20412%20010%206738%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20Q84wff"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "МКМА-11,",
+        "subject": "Стратегічний маркетинг та стратегічний менеджмент",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/4120106738?pwd=c2xKSFNQZTBIQTFqMnQwc1VtYUdkdz09%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20412%20010%206738%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20Q84wff"
+        ]
+    }
+]

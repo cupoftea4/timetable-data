@@ -1,0 +1,120 @@
+[
+    {
+        "subject": "Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2",
+        "lecturer": "ХТ-47, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85490643066?pwd=aDF5N0lpQlJnYlZIK25ZcDg3UFdtQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2",
+        "lecturer": "ХТ-47, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85490643066?pwd=aDF5N0lpQlJnYlZIK25ZcDg3UFdtQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Процеси та апарати хімічних технологій, частина 2",
+        "lecturer": "ХТ-21, 025 IX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2",
+        "lecturer": "ХТ-47, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85490643066?pwd=aDF5N0lpQlJnYlZIK25ZcDg3UFdtQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2",
+        "lecturer": "ХТ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85490643066?pwd=aDF5N0lpQlJnYlZIK25ZcDg3UFdtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Чисельне моделювання механічних розрахунків обладнання хімічних виробництв, частина 2",
+        "lecturer": "ХТ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85490643066?pwd=aDF5N0lpQlJnYlZIK25ZcDg3UFdtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Розрахунок і контруювання машин та апаратів хімічної технології, частина 2",
+        "lecturer": "ХТ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84639945337?pwd=VW5KeURDd0JnZkM2UVh5R3RXMmlwQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Розрахунок і контруювання машин та апаратів хімічної технології, частина 2",
+        "lecturer": "ХТ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84639945337?pwd=VW5KeURDd0JnZkM2UVh5R3RXMmlwQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Іваночко У.І.,",
+        "subject": "Архітектурне проектування житлових будівель",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Шиндер В.К.,",
+        "subject": "Основи теорії споруд",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aRu17lV_TRYNaYEV8d55VAyCFhPnPZ3XJ5dp8RR3y_Yc1%40thread.tacv2/1669814037198?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Гуменник І.В.,",
+        "subject": "Дизайн архітектурного середовища",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Вознюк Л.І.,",
+        "subject": "Архітектурні конструкції",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Дида І.А.,",
+        "subject": "Історія архітектури, частина 3",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3alD0NBToLmbghwN7oZWvlS7C5b8cS1u_8_P-SXC9Otg01%40thread.tacv2/conversations?groupId=098b0813-ad47-4e6f-9951-46ac1a45f021&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

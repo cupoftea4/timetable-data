@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Мороз Н.В.,",
+        "subject": "Міжнародні банківські операції",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aab521cf962344978ae8d89feb264b1e1%40thread.tacv2/1669581069518?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b13e593-014c-46d1-9831-88a0de1ce689%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Кондрат І.Ю.,",
+        "subject": "Страхові послуги",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8ca2e569e2864a8b8d41f0e48c9dcb1f%40thread.tacv2/1669360467881?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a997c256-ed0b-49df-9c78-670812388e8b%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Чубка О.М.,",
+        "subject": "Фінансовий аналіз",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac1fc4e7edbec4c11a1353b45d8c23283%40thread.tacv2/1669569782367?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc3f344e-23b1-4f3c-8061-ac1692431764%22%7d"
+        ]
+    }
+]

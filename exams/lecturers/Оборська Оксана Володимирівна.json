@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КН-211, КН-212, КН-213,",
+        "subject": "Прикладне програмування",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78340347026?pwd=luRkMw7jAhqr75esd9eCtbe32xnZ6D.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "КН-208, КН-209, КН-210,",
+        "subject": "Прикладне програмування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78340347026?pwd=luRkMw7jAhqr75esd9eCtbe32xnZ6D.1"
+        ]
+    }
+]

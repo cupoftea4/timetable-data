@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Панчак Р.Т.,",
+        "subject": "Адміністрування САПР",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/82419890805?pwd=VnlFOTMzaG82TUhoZlZ5WFlpQzY4dz09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Файтас О.І.,",
+        "subject": "Управління ІТ-проектами",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/syg-hqac-srv?hs=122&authuser=2"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Каркульовський В.І.,",
+        "subject": "Методи проектування",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Кривий Р.З.,",
+        "subject": "Теорія прийняття рішень",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/vsz-mgdj-xve"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Стефанович Т.О.,",
+        "subject": "Методи ділових комунікацій",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/dez-cdyo-utv"
+        ]
+    }
+]

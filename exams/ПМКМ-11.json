@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Любінський Б.Б.,",
+        "subject": "Серверне WEB - програмування",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:6nFdJGXzYOjanEzWKF2WP70datUrBFCCtNrqTgv3cZA1@thread.tacv2/1676290328572?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%221511483e-55ef-477b-a68c-0dbfd0cfec66%22%7D"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Польовий В.Є.,",
+        "subject": "Сучасні Web-технології",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Юзефович Р.М.,",
+        "subject": "Чисельні методи математичної фізики",
+        "number": 2,
+        "urls": []
+    }
+]

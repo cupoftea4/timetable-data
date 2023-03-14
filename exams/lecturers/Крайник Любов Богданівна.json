@@ -1,0 +1,66 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "КН-202, КН-204,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/88240338209?pwd=bTdoT0JoR1NOdkxBNzZ0M2VVcG1xZz09"
+        ]
+    },
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "КН-205, КН-210,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/84099041870?pwd=U05mWU4rY2xlV1JqbmJwVmJHR2ZZZz09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "КН-211,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/81974769095?pwd=blNBT24yZ0xZSGtRZTFZWVZpcDFWdz09",
+            "https://us05web.zoom.us/j/82515625596?pwd=YUNGOXlwV25tMjlhQ3M5MjArNU9lUT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "ФР-21,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/83837358260?pwd=NUtXelgwaEs1MStxaFA2YUh5OXdtUT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "БТ-21,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/83304850814?pwd=cjVJakpsbjkzdnBONWZMb2oxckZyZz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ПМ-23,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/85676666272?pwd=c3RrVXorNHhoRXRiR3hrN254TWhTUT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "КБ-209,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/84848120479?pwd=dkgvSVI2RklnTHZTVlNHN0Z2VmZWdz09"
+        ]
+    }
+]

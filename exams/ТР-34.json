@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Колодій Р.С.,",
+        "subject": "Системи передавання інформації",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/ipb-yfjm-ekw?authuser=2&pli=1"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Шаповалов Ю.І.,",
+        "subject": "Мікропроцесорні системи в телекомунікаціях та радіотехніці",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av2Itle9LE9umEMuiPh_wy53Vo-WEcjyOYv2oL-zhQEs1%40thread.tacv2/1670361163187?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2218673b2b-f266-4a5f-9223-3e9b94e5bf41%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Децик К.О.,",
+        "subject": "Комутація та розподіл інформації",
+        "number": 2,
+        "urls": [
+            "http://meet.google.com/ujv-oork-soh"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Прудиус І.Н.,",
+        "subject": "Антенно-фідерні пристрої",
+        "number": 2,
+        "urls": []
+    }
+]

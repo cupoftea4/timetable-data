@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "МБ-23, МП-24,",
+        "subject": "Металорізальні верстати",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3as1xA_OgkRV-vMN0k5Z28ijcXz3H_Kyr3JBWY767yYdA1%40thread.tacv2/conversations?groupId=0c524cc2-9a1a-4ffa-a5e4-6afb1ef009d1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "МБ-31, МБ-32,",
+        "subject": "Металорізальні верстати",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0Y02SodLyTyXHSldOsGCzdype-DB6rh5sA6hdi9T2qc1%40thread.tacv2/conversations?groupId=42be7514-2151-4a81-b646-d8b549fe6e2f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "МП-42,",
+        "subject": "Обладнання та матеріали для виготовлення упаковок, частина 2",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aHYzKb8wrW3_rknhD4_EC6mEyi6YyfdjZqS_zcEq80W01%40thread.tacv2/conversations?groupId=8b491766-807b-4ef7-8f76-ad2174ad9228&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "МП-31, МП-32,",
+        "subject": "Металорізальні верстати",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0Y02SodLyTyXHSldOsGCzdype-DB6rh5sA6hdi9T2qc1%40thread.tacv2/conversations?groupId=42be7514-2151-4a81-b646-d8b549fe6e2f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "МПТП-11,",
+        "subject": "Технологічні процеси пакування харчових продуктів",
+        "number": 1,
+        "urls": []
+    }
+]

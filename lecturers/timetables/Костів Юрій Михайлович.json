@@ -1,0 +1,144 @@
+[
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-47, КБ-48, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a187f75ee364644a399bcc5dbaf19457e%40thread.tacv2/conversations?groupId=c7c4037c-ddd8-4c14-929b-abb0dff0ae36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-47, КБ-48, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a187f75ee364644a399bcc5dbaf19457e%40thread.tacv2/conversations?groupId=c7c4037c-ddd8-4c14-929b-abb0dff0ae36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології створення та застосування систем захисту інформаційно-комунікаційних систем",
+        "lecturer": "КББІ-12, 215 XX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технології створення та застосування систем захисту інформаційно-комунікаційних систем",
+        "lecturer": "КББІ-12, 216а XX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технології створення та застосування систем захисту інформаційно-комунікаційних систем",
+        "lecturer": "КББІ-11, 216а XX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Технології створення та застосування систем захисту інформаційно-комунікаційних систем",
+        "lecturer": "КББІ-11, 227 XX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a187f75ee364644a399bcc5dbaf19457e%40thread.tacv2/conversations?groupId=c7c4037c-ddd8-4c14-929b-abb0dff0ae36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a187f75ee364644a399bcc5dbaf19457e%40thread.tacv2/conversations?groupId=c7c4037c-ddd8-4c14-929b-abb0dff0ae36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-48, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a187f75ee364644a399bcc5dbaf19457e%40thread.tacv2/conversations?groupId=c7c4037c-ddd8-4c14-929b-abb0dff0ae36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-48, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a187f75ee364644a399bcc5dbaf19457e%40thread.tacv2/conversations?groupId=c7c4037c-ddd8-4c14-929b-abb0dff0ae36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

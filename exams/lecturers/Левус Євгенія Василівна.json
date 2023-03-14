@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПЗ-31, ПЗ-32, ПЗ-33,",
+        "subject": "Комп`ютерна графіка",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/3081432086?pwd=WEgxa3RsM21lQzZxRXgyWDdhS2JHZz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ПЗ-34, ПЗ-35, ПЗ-36,",
+        "subject": "Комп`ютерна графіка",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/3081432086?pwd=WEgxa3RsM21lQzZxRXgyWDdhS2JHZz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ПЗ-45, ПЗ-46,",
+        "subject": "Декларативне програмування",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/3081432086?pwd=WEgxa3RsM21lQzZxRXgyWDdhS2JHZz09"
+        ]
+    }
+]

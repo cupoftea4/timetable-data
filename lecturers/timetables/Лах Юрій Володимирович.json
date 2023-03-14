@@ -1,0 +1,317 @@
+[
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Системний аналіз інформаційної безпеки",
+        "lecturer": "КБ-43, КБ-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Системний аналіз інформаційної безпеки",
+        "lecturer": "КБ-43, КБ-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Безпека веб-додатків",
+        "lecturer": "КБ-35, КБ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4a3b0452e29644258d52f26ee555e4a8%40thread.tacv2/KB44?groupId=188814ff-1724-4239-881c-023c0a79ad71&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Системний аналіз інформаційної безпеки",
+        "lecturer": "КБ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системний аналіз інформаційної безпеки",
+        "lecturer": "КБ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "WEB безпека",
+        "lecturer": "КБа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4c667811eb8c41a9919a4b0a45d25b77%40thread.tacv2/KBa21?groupId=60395e47-4735-4876-b061-f9d2f7ae40de&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "WEB безпека",
+        "lecturer": "КБа-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4c667811eb8c41a9919a4b0a45d25b77%40thread.tacv2/KBa21?groupId=60395e47-4735-4876-b061-f9d2f7ae40de&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Безпека веб-додатків",
+        "lecturer": "КБ-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4a3b0452e29644258d52f26ee555e4a8%40thread.tacv2/KB44?groupId=188814ff-1724-4239-881c-023c0a79ad71&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Безпека веб-додатків",
+        "lecturer": "КБ-35, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4a3b0452e29644258d52f26ee555e4a8%40thread.tacv2/KB44?groupId=188814ff-1724-4239-881c-023c0a79ad71&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Безпека веб-додатків",
+        "lecturer": "КБ-36, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4a3b0452e29644258d52f26ee555e4a8%40thread.tacv2/KB44?groupId=188814ff-1724-4239-881c-023c0a79ad71&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Безпека веб-додатків",
+        "lecturer": "КБ-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4a3b0452e29644258d52f26ee555e4a8%40thread.tacv2/KB44?groupId=188814ff-1724-4239-881c-023c0a79ad71&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Системний аналіз інформаційної безпеки",
+        "lecturer": "КБ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системний аналіз інформаційної безпеки",
+        "lecturer": "КБ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2025123fd1854bdd8f8ea925b0d753ab%40thread.tacv2/%25D0%259A%25D0%2591-42?groupId=83dc0674-fb24-4f9e-a57f-e493d251f238&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3f4b26d951aa49788c17e25be1817613%40thread.tacv2/%25D0%259A%25D0%2591-3334?groupId=9f95f2bc-e4cb-4dfe-a408-cac240a949e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

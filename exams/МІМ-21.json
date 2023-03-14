@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-10-24T00:00:00.000Z",
+        "lecturer": "Максимець В.Є.,",
+        "subject": "Аналітична розвідка",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09"
+        ]
+    },
+    {
+        "date": "2022-10-26T00:00:00.000Z",
+        "lecturer": "Гулай В.В.,",
+        "subject": "Лобізм та GR",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72856537022?pwd=tjGCtT7a7d4NAmsqAwEKTLAybUIeAD.1"
+        ]
+    },
+    {
+        "date": "2022-10-28T00:00:00.000Z",
+        "lecturer": "Павлюх М.В.,",
+        "subject": "Прикладні соціально-комунікаційні технології",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79525653478?pwd=tMca4nThH7VrK544Y2ygkRSkL9thSk.1"
+        ]
+    }
+]

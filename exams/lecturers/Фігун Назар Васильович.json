@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ЕВ-21f,",
+        "subject": "Маркетинг",
+        "number": 5,
+        "urls": [
+            "https://us05web.zoom.us/j/84911201929?pwd=Y1lJVUlXbld6d0JGZUdXQkNoSVUrZz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "МЕ-21f,",
+        "subject": "Маркетинг",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/84911201929?pwd=Y1lJVUlXbld6d0JGZUdXQkNoSVUrZz09"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "МКІМ-11, МКМ-11,",
+        "subject": "Веб-аналітика",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTlhMmMyZGEtNmI3Zi00MThkLTlhNWQtYjVjMWJlYWI2YWNl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226068e7c9-7a2e-4a28-92c6-efe61342a4e8%22%7d"
+        ]
+    }
+]

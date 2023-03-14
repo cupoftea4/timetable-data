@@ -1,0 +1,207 @@
+[
+    {
+        "subject": "Експертиза пам`ятки архітектури, мистецтва та її деталей",
+        "lecturer": "РМ-41, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Експертиза пам`ятки архітектури, мистецтва та її деталей",
+        "lecturer": "РМ-41, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Операційні системи",
+        "lecturer": "КБ-18, КБ-19, КБ-110, 202 XIX н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Експертиза пам`ятки архітектури, мистецтва та її деталей",
+        "lecturer": "РМ-41, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні методи високорівневого проектування пристроїв захисту",
+        "lecturer": "КББІ-11, КББІ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahdPlz6oStDgBdDpVEGi9rz6muBJbs1Z2hBdD5TpaLZc1%40thread.tacv2/conversations?groupId=fce8863f-4748-4566-a28d-0e56eddee3bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Проект реставрації, частина 1",
+        "lecturer": "РМ-21, 009 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Проект реставрації, частина 1",
+        "lecturer": "РМ-21, 009 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проект реставрації, частина 1",
+        "lecturer": "РМ-21, 009 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні методи високорівневого проектування пристроїв захисту",
+        "lecturer": "КББІ-12, 221 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahdPlz6oStDgBdDpVEGi9rz6muBJbs1Z2hBdD5TpaLZc1%40thread.tacv2/conversations?groupId=fce8863f-4748-4566-a28d-0e56eddee3bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні методи високорівневого проектування пристроїв захисту",
+        "lecturer": "КББІ-12, 221 XIX н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahdPlz6oStDgBdDpVEGi9rz6muBJbs1Z2hBdD5TpaLZc1%40thread.tacv2/conversations?groupId=fce8863f-4748-4566-a28d-0e56eddee3bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні методи високорівневого проектування пристроїв захисту",
+        "lecturer": "КББІ-11, 221 XIX н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahdPlz6oStDgBdDpVEGi9rz6muBJbs1Z2hBdD5TpaLZc1%40thread.tacv2/conversations?groupId=fce8863f-4748-4566-a28d-0e56eddee3bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерні методи високорівневого проектування пристроїв захисту",
+        "lecturer": "КББІ-11, 221 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahdPlz6oStDgBdDpVEGi9rz6muBJbs1Z2hBdD5TpaLZc1%40thread.tacv2/conversations?groupId=fce8863f-4748-4566-a28d-0e56eddee3bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Проект реставрації, частина 5",
+        "lecturer": "РМ-41, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Проект реставрації, частина 5",
+        "lecturer": "РМ-41, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Проект реставрації, частина 5",
+        "lecturer": "РМ-41, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

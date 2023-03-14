@@ -1,0 +1,101 @@
+[
+    {
+        "subject": "Основи теорії мовної комунікації",
+        "lecturer": "ФЛ-31, ФЛ-32, ФЛ-33, 403 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/crz-xijt-nta?authuser=0&pli=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи теорії мовної комунікації",
+        "lecturer": "ФЛ-33, 131 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/mek-jbtv-bfv?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи теорії мовної комунікації",
+        "lecturer": "ФЛ-31, 406 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/rqf-xttj-njw?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи теорії мовної комунікації",
+        "lecturer": "ФЛ-32, 408 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/pzi-fyrw-sho?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Вступ до мовознавства",
+        "lecturer": "ФЛ-11, 403 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Вступ до мовознавства",
+        "lecturer": "ФЛ-16, 115 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Вступ до мовознавства",
+        "lecturer": "ФЛ-13, 129 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

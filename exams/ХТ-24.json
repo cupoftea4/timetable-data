@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Кіндзера Д.П.,",
+        "subject": "Процеси та апарати хімічних виробництв, частина 2",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Знак З.О.,",
+        "subject": "Загальна хімічна технологія",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Братичак М.М., Красінський В.В.,",
+        "subject": "Технологія виробництва та перероблення полімерів",
+        "number": 1,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/5761096488?pwd%3DaEpPSW9QNEN3WnZ6aktjZTdVSjczUT09&sa=D&source=calendar&usd=2&usg=AOvVaw3oHKOFnnGzCd8RVqTQ1IsX"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Дібрівний В.М.,",
+        "subject": "Фізична хімія, частина 2",
+        "number": 1,
+        "urls": []
+    }
+]

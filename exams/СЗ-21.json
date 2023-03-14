@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Гетьманчук М.П.,",
+        "subject": "Політологія",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Андрейчук С.К.,",
+        "subject": "Соціальна політика та політика соціального забезпечення",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Матвіїв-Лозинська Ю.О.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/75361432895?pwd=APbMk2x8IcElDouKnq1q5WaZUIbmyR.1"
+        ]
+    }
+]

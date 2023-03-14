@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ЕЕ-21, ЕЕ-22, ЕЕ-23, ЕЕ-24,",
+        "subject": "Промислова електроніка та мікросхемотехніка",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3A8c_pKVu1_wEgZrFqwYbr5JxGq0NEgZ8Jt0D4v6kuVAQ1%40thread.tacv2/1669386066765?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%2282ca239f-ef60-4f6d-b148-bec0fdcb5148%22%7D"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "ЕЕЕЕ-11, ЕЕЕЕ-12, ЕЕЕЕ-13, ЕЕМ-11,",
+        "subject": "Математичне моделювання електротехнічних систем та їх елементів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/5811838088?pwd=ZlJIRGxER0Jsa0w3bWZQZ0pva3U3dz09%20%20Meeting%20ID:%20581%20183%208088%20Passcode:%20Qzt8Ca"
+        ]
+    }
+]

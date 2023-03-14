@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Іващук О.С.,",
+        "subject": "Автоматизоване проектування хімічного обладнання, частина 1",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afVvhLuZJQOsvDJrhw2cte8A2pdDjwRsqdAh_CmYd6HM1%40thread.tacv2/1669724325173?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Гузьова І.О.,",
+        "subject": "Проектування хімічних виробництв",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Гуменецький Т.В., Семенюк Н.Б.,",
+        "subject": "Основи хімії і фізико-хімії полімерів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/74683945997?pwd=WhtyYVg1vLaf1rEbrk6HnfRRBEMhnI.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Кіндзера Д.П.,",
+        "subject": "Енерго- та ресурсозбереження у хімічній технології",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Скорохода В.Й.,",
+        "subject": "Полімерне матеріалознавство",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDYwOWFjMmQtMzk2Zi00Y2NkLWIyYmMtYWZmMzIxYzgxYzY2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2275ce473f-06e2-4e05-baab-fcab0ce91a79%22%7d"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Водозабірні споруди",
+        "lecturer": "ГБ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/7415991180?pwd=UHI1eks4bitXZzhHdUlOL0Y4L2h3QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Водозабірні споруди",
+        "lecturer": "ГБ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/7415991180?pwd=UHI1eks4bitXZzhHdUlOL0Y4L2h3QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

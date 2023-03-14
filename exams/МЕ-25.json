@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Сінельнікова М.В.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/84472119808?pwd=TW9sdUREODBkWTlKcjFKTk95bFRjQT09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Ситник Й.С.,",
+        "subject": "Економіка підприємства",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ayiX7LYSLmju5d8sTbQj6UIou0aK84c8rFtUAzaztYBo1%40thread.tacv2/1668503259623?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228027bf7f-b55c-40ea-8bd0-4d8ac645413a%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Гринкевич С.С.,",
+        "subject": "Маркетинг",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73662151273?pwd=ym0SiNfHuVtRrHiUchdskIdCbZdtw4.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Адамик В.В.,",
+        "subject": "Міжнародна економіка",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOxYpVkjNRRsoflXi4cb9JMu9oOa1gR2qPCyhhZvCPj41%40thread.tacv2/conversations?groupId=d0fbd27b-2df0-4cb2-9a99-b9646735dc94&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Мохняк В.С.,",
+        "subject": "Бухгалтерський облік",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/75758785804?pwd=TE3wxVj7UPYgXH38O18CqQtSv2t9YJ.1"
+        ]
+    }
+]

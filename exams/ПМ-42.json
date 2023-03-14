@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Гнатів Б.В.,",
+        "subject": "Чисельні методи, частина 2",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Антонова Т.М.,",
+        "subject": "Дослідження операцій",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/94264775326?pwd=aUFncjdNd00reFFGSk1veDh0Y0tMZz09"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Гайдучок О.В.,",
+        "subject": "Методи регресійного аналізу та їх застосування",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a11fzgovO5QaCG7jK3lDeF6B3riWpS0BnEWJj8frP32Y1%40thread.tacv2/1670589753837?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242ad2800-3477-433f-af7d-29c5257d459e%22%7d"
+        ]
+    }
+]

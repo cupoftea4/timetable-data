@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-25, 324а Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3auHbNUGgfnbfnW4mv-depQc5t99YbdvAS6xyOa4N8yNA1%40thread.tacv2/conversations?groupId=57a994be-1efb-49d5-b48e-035cf4572560&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-24, 324в Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3auHbNUGgfnbfnW4mv-depQc5t99YbdvAS6xyOa4N8yNA1%40thread.tacv2/conversations?groupId=57a994be-1efb-49d5-b48e-035cf4572560&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-21, АР-22, АР-29, 304 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aLrHlvktNa2q-oZyD2XNupjx8-8tUiePM9MFM_kpsqqk1%40thread.tacv2/conversations?groupId=8c0170f7-f4e3-4f35-83eb-79d8d79fbed7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-23, АР-24, АР-25, 319 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3auHbNUGgfnbfnW4mv-depQc5t99YbdvAS6xyOa4N8yNA1%40thread.tacv2/conversations?groupId=57a994be-1efb-49d5-b48e-035cf4572560&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-21, 324а Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aLrHlvktNa2q-oZyD2XNupjx8-8tUiePM9MFM_kpsqqk1%40thread.tacv2/conversations?groupId=8c0170f7-f4e3-4f35-83eb-79d8d79fbed7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-29, 324а Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aLrHlvktNa2q-oZyD2XNupjx8-8tUiePM9MFM_kpsqqk1%40thread.tacv2/conversations?groupId=8c0170f7-f4e3-4f35-83eb-79d8d79fbed7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-23, 324а Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3auHbNUGgfnbfnW4mv-depQc5t99YbdvAS6xyOa4N8yNA1%40thread.tacv2/conversations?groupId=57a994be-1efb-49d5-b48e-035cf4572560&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-22, 324а Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aLrHlvktNa2q-oZyD2XNupjx8-8tUiePM9MFM_kpsqqk1%40thread.tacv2/conversations?groupId=8c0170f7-f4e3-4f35-83eb-79d8d79fbed7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-18, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayR3G-VqGDid2uu87vGZoT-2l1rAZXpMX8XQqp2b74mY1%40thread.tacv2/conversations?groupId=9d7ddc41-bb3f-47cc-8b2d-dc281221f3b1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-18, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayR3G-VqGDid2uu87vGZoT-2l1rAZXpMX8XQqp2b74mY1%40thread.tacv2/conversations?groupId=9d7ddc41-bb3f-47cc-8b2d-dc281221f3b1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-19, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNtLPq8fSt-i_PYyhbkjaqWADmLhScUtZr-PoU-pfeBU1%40thread.tacv2/conversations?groupId=453b7cbb-2d41-48f2-820e-265ee158b2e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-19, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNtLPq8fSt-i_PYyhbkjaqWADmLhScUtZr-PoU-pfeBU1%40thread.tacv2/conversations?groupId=453b7cbb-2d41-48f2-820e-265ee158b2e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

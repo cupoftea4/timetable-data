@@ -1,0 +1,193 @@
+[
+    {
+        "subject": "Сучасні проблеми регіональних систем безпеки",
+        "lecturer": "МВМВ-11, МВМВ-12, 510 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Політологія",
+        "lecturer": "СК-23, 517 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні цивілізації і релігії світу",
+        "lecturer": "МВ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/iow-uzow-cpq?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Сучасні цивілізації і релігії світу",
+        "lecturer": "МВ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/uoe-ypfi-rgs?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Сучасні цивілізації і релігії світу",
+        "lecturer": "МВ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/iow-uzow-cpq?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні цивілізації і релігії світу",
+        "lecturer": "МВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/iph-jqnu-rft?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні цивілізації і релігії світу",
+        "lecturer": "МВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/iph-jqnu-rft?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Регіональна та транскордонна співпраця Західноукраїнського регіону",
+        "lecturer": "МВ-44, МВ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/yaq-thdz-ury?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Сучасні цивілізації і релігії світу",
+        "lecturer": "МВ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/zzp-evua-rbt?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні цивілізації і релігії світу",
+        "lecturer": "МВ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/zzp-evua-rbt?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Регіональна та транскордонна співпраця Західноукраїнського регіону",
+        "lecturer": "МВ-44, МВ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/yaq-thdz-ury?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Сучасні цивілізації і релігії світу",
+        "lecturer": "МВ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/uoe-ypfi-rgs?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Регіональна та транскордонна співпраця Західноукраїнського регіону",
+        "lecturer": "МВ-41, МВ-42, МВ-43, МВ-44, МВ-45, МВ-46, МВ-47, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/ybc-idtt-ynu?authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

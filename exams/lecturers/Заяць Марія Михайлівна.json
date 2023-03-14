@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ФЛ-41, ФЛ-42, ФЛ-43,",
+        "subject": "Формальні мови, граматики та автомати",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/74290959480?pwd=gfFl27qbUnFRezasFUijDeFJtIfUPu.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ФЛ-44, ФЛ-45,",
+        "subject": "Формальні мови, граматики та автомати",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/74290959480?pwd=gfFl27qbUnFRezasFUijDeFJtIfUPu.1"
+        ]
+    }
+]

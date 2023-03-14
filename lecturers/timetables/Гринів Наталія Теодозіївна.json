@@ -1,0 +1,116 @@
+[
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-209, 213 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-208, 213 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Складська логістика",
+        "lecturer": "МЕ-311, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFSQW9HX1G01GHeDn-lpRtDeJKCTxKtFxHWBMeEv6EvU1%40thread.tacv2/conversations?groupId=173a615b-6362-464d-a275-163f92f542fe&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Складська логістика",
+        "lecturer": "МЕ-311, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFSQW9HX1G01GHeDn-lpRtDeJKCTxKtFxHWBMeEv6EvU1%40thread.tacv2/conversations?groupId=173a615b-6362-464d-a275-163f92f542fe&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-207, ЛУЛ-МЛ-208, ЛУЛ-МЛ-209, ЛУЛ-МЛ-212, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Складська логістика",
+        "lecturer": "МЕ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFSQW9HX1G01GHeDn-lpRtDeJKCTxKtFxHWBMeEv6EvU1%40thread.tacv2/conversations?groupId=173a615b-6362-464d-a275-163f92f542fe&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Складська логістика",
+        "lecturer": "МЕ-311, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFSQW9HX1G01GHeDn-lpRtDeJKCTxKtFxHWBMeEv6EvU1%40thread.tacv2/conversations?groupId=173a615b-6362-464d-a275-163f92f542fe&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Складська логістика",
+        "lecturer": "МЕ-310, МЕ-311, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFSQW9HX1G01GHeDn-lpRtDeJKCTxKtFxHWBMeEv6EvU1%40thread.tacv2/conversations?groupId=173a615b-6362-464d-a275-163f92f542fe&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

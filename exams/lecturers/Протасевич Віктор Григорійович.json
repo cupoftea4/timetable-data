@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ТР-44,",
+        "subject": "Системи керування та робототехніка",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/ssm-ciwp-xmt"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ТР-42,",
+        "subject": "Радіоавтоматика",
+        "number": 2,
+        "urls": []
+    }
+]

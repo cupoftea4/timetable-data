@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПВ-41, ПВ-42, ПВ-43,",
+        "subject": "Господарське право, частина 1",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77060953733?pwd=av4jITJaZLi00fqfxGHMhrrvoUIPFa.1"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ПВПР-21,",
+        "subject": "Процесуальне представництво",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75703393669?pwd=BepkbsqsIJCdn92MJ4ZVeZLAgh1H0T.1"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ПВПР-14, ПВПР-15, ПВПР-16, ПВПР-17,",
+        "subject": "Актуальні проблеми трудового права України",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/72390125895?pwd=QrAV1DJTRTMM7iu260y4p4NkWGMbwQ.1"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "ПВПР-11, ПВПР-12, ПВПР-13,",
+        "subject": "Актуальні проблеми трудового права України",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76238630986?pwd=xUq3SJbZk8T3sWmfJNSqrrD2ybJB8p.1"
+        ]
+    },
+    {
+        "date": "2023-02-27T00:00:00.000Z",
+        "lecturer": "ПВПР-11f,",
+        "subject": "Актуальні проблеми трудового права України",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/76793452705?pwd=ePVurVyTbLIKysfU871Nn07FgZ2jS8.1"
+        ]
+    }
+]

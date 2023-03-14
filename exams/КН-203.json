@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Скорохода О.В.,",
+        "subject": "Прикладне програмування",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Зербіно Д.Д.,",
+        "subject": "Операційні системи",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Антонів В.Я., Дорошенко А.В.,",
+        "subject": "Організація баз даних та знань",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71055810272?pwd=qKem9BPS8lkDHWs7e1eaTOF0Eb1uUE.1"
+        ]
+    },
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "Сидор А.Р.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Пахолок Б.Б.,",
+        "subject": "Теорія ймовірності, ймовірнісні процеси та математична статистика",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a40d32462baba4f11b34fe6d69691bebd%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=85f083f3-876d-4fd5-902e-e9bc6e3b5d59&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

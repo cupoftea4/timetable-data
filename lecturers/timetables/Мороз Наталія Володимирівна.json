@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Дистрибуція фінансових продуктів та послуг",
+        "lecturer": "ФБ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af110cece134d433484edd23a8ebb189e%40thread.tacv2/1676462122705?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b13e593-014c-46d1-9831-88a0de1ce689%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Дистрибуція фінансових продуктів та послуг",
+        "lecturer": "ФБ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af110cece134d433484edd23a8ebb189e%40thread.tacv2/1676462188862?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b13e593-014c-46d1-9831-88a0de1ce689%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Дистрибуція фінансових продуктів та послуг",
+        "lecturer": "ФБ-43, ФБ-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af110cece134d433484edd23a8ebb189e%40thread.tacv2/1676462272428?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b13e593-014c-46d1-9831-88a0de1ce689%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Дистрибуція фінансових продуктів та послуг",
+        "lecturer": "ФБ-43, ФБ-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af110cece134d433484edd23a8ebb189e%40thread.tacv2/1676462332116?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b13e593-014c-46d1-9831-88a0de1ce689%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

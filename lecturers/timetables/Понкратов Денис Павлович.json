@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "РТЛ-ТТ-301, РТЛ-ТТ-302, РТЛ-ТТ-303, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avKqMBagyyWoLLpqT0OCc0hsJRlOXPQ-jQ4NWi95ReWM1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0baca039-ac9f-45a9-8990-f8b7ed5bed56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "ТТ-24, РТЛ-ТТ-201, 205 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akoT_hiG4B5MXlABgnFyTPKbSSwPRQM2Uo8ijlgtQLqg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=3456f0f2-52f3-4215-a731-caf58f3eb00a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "РТЛ-ТТ-201, 205 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akoT_hiG4B5MXlABgnFyTPKbSSwPRQM2Uo8ijlgtQLqg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=3456f0f2-52f3-4215-a731-caf58f3eb00a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "РТЛ-ТТ-201, 205 VI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akoT_hiG4B5MXlABgnFyTPKbSSwPRQM2Uo8ijlgtQLqg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=3456f0f2-52f3-4215-a731-caf58f3eb00a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "ТТ-24, РТЛ-ТТ-201, 205 VI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akoT_hiG4B5MXlABgnFyTPKbSSwPRQM2Uo8ijlgtQLqg1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=3456f0f2-52f3-4215-a731-caf58f3eb00a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "ТТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3argX-ZkLIwJfU2BVo-Zr8b-TF9FMJw-rJrq26ZvjGJwA1%40thread.tacv2/1676285428072?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22da45de82-5db8-4d9a-81c2-b6a4f11f36af%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "ТТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3argX-ZkLIwJfU2BVo-Zr8b-TF9FMJw-rJrq26ZvjGJwA1%40thread.tacv2/1676285428072?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22da45de82-5db8-4d9a-81c2-b6a4f11f36af%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "РТЛ-ТТ-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avKqMBagyyWoLLpqT0OCc0hsJRlOXPQ-jQ4NWi95ReWM1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0baca039-ac9f-45a9-8990-f8b7ed5bed56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "РТЛ-ТТ-302, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avKqMBagyyWoLLpqT0OCc0hsJRlOXPQ-jQ4NWi95ReWM1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0baca039-ac9f-45a9-8990-f8b7ed5bed56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Розумний транспорт та логістика",
+        "lecturer": "РТЛ-ТТ-303, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avKqMBagyyWoLLpqT0OCc0hsJRlOXPQ-jQ4NWi95ReWM1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0baca039-ac9f-45a9-8990-f8b7ed5bed56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

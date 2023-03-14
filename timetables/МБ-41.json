@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Попович В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84516276639?pwd=Nk5tcm1HcjJPU2ZQeStGR2RIbjJvdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Попович В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88107935217?pwd=M1hsejgvR0tQbUNBVVU3WmVRSGtEdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерний дизайн в автомобілебудуванні",
+        "lecturer": "Попович В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86204976246?pwd=K2NOTXNSWU1hRFM5ekplbkRIVFRTQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерний дизайн в автомобілебудуванні",
+        "lecturer": "Попович В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81354070973?pwd=NDhiWUhoRG1KRjFla2RSejNSR0JwUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерний дизайн в автомобілебудуванні",
+        "lecturer": "Попович В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85252024029?pwd=WGNuNzBrS2VIT1pXMlJoY0ROZUtkQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерний дизайн в автомобілебудуванні",
+        "lecturer": "Попович В.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82237793645?pwd=UTgvbEFjUlF5MXpWenBMcCtvZk9MUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Експлуатаційні матеріали",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/95873789961?pwd=QlVDU1RqYWIwSW1CVWY3SnEvVWlOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Експлуатаційні матеріали",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/95873789961?pwd=QlVDU1RqYWIwSW1CVWY3SnEvVWlOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Попович В.В., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85949905552?pwd=MGVySUFBSlIwS3M1c3c0NSt1dXR0QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Попович В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85795582553?pwd=NnJkaSsvWDB2citaZzY2MUg4a09qQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "Попович В.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86555620570?pwd=Z3pDemdsQlltR1VGNlMwK1ZQWm54UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Експлуатаційні матеріали",
+        "lecturer": "Червінський Т.І., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/95873789961?pwd=QlVDU1RqYWIwSW1CVWY3SnEvVWlOdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

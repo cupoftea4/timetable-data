@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "КН-403, КН-404,",
+        "subject": "Теорія прийняття рішень",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71126764628?pwd=NrhRTkAhqGTpHQai9pHT0Qby5VmM4D.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КН-401, КН-402,",
+        "subject": "Теорія прийняття рішень",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/71126764628?pwd=NrhRTkAhqGTpHQai9pHT0Qby5VmM4D.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "КН-316, КН-405,",
+        "subject": "Теорія прийняття рішень",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/71126764628?pwd=NrhRTkAhqGTpHQai9pHT0Qby5VmM4D.1"
+        ]
+    }
+]

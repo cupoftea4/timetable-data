@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "СА-21, СА-22,",
+        "subject": "Теорія ймовірностей і математична статистика",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_VL2PIkyRD0pRC-OdOke0Y6cAGp-2jm16p5lnUy2UX9Y1@thread.tacv2&messageId=1670486052920&language=en-US"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "СА-23, УП-21,",
+        "subject": "Теорія ймовірностей і математична статистика",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_VL2PIkyRD0pRC-OdOke0Y6cAGp-2jm16p5lnUy2UX9Y1@thread.tacv2&messageId=1670486768204&language=en-US"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ТУ-11, 111 I н.к.,",
+        "subject": "Вища та прикладна математика",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "ГО-11, 111 I н.к.,",
+        "subject": "Вища та прикладна математика",
+        "number": 1,
+        "urls": []
+    }
+]

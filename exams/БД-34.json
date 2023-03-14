@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Максимович С.Б.,",
+        "subject": "Будівельні конструкції",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/6345292497?pwd=NW9aSnRpZ3F6VXJkVnNVa2JYWU5kZz09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Сурмай М.І.,",
+        "subject": "Будівельні кострукції будівель і споруд міського господарства",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Кознарська Г.Є.,",
+        "subject": "Планування та благоустрій міст",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4tEN1St3tIvY3fryvVmgnEyJjWkVFA2Lje9Hori2yaQ1%40thread.tacv2/conversations?groupId=00fbf571-caf6-41e7-847d-a6d935807553&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Кропивницька Т.П., Саницький М.А.,",
+        "subject": "Сучасні будівельні матеріали і методи досліджень",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ab98c0f332e1544da942c54294b08bf8d%40thread.tacv2/conversations?groupId=4e9a1bb0-e6f4-4f66-8fd3-fa513e25ff7b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Собко Ю.М.,",
+        "subject": "Міський транспорт, міські вулиці та дороги",
+        "number": 2,
+        "urls": [
+            " "
+        ]
+    }
+]

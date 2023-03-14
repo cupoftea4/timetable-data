@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "МЕ-21f,",
+        "subject": "Економіка підприємства",
+        "number": 4,
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/9418964434?pwd%3DTTgvZzQ3RXZta3N2amdSUU52QWV5QT09&sa=D&source=calendar&ust=1661591328719290&usg=AOvVaw2doe6OE-3-j-VzoKPLIVcS"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "МЕ-39,",
+        "subject": "Започаткування малого бізнесу",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3add654d892ec24d44aab1ae4410588c8d%40thread.tacv2/1671006534897?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2235b39b72-71f2-40f5-ada0-72016b184c34%22%7d"
+        ]
+    }
+]

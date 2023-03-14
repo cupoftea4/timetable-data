@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2022-12-07T00:00:00.000Z",
+        "lecturer": "ТУ-31, ТУ-32,",
+        "subject": "Організація ресторанного господарства",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_N2RlZDk4NDgtMmI1NS00OGFjLThiODktYTAxNmMyMDc5N2Rk@thread.v2&messageId=0&language=uk-UA"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "ТУ-11, 111 I н.к.,",
+        "subject": "Організація туризму (Основи туризмознавства)",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "ГО-11, 111 I н.к.,",
+        "subject": "Основи туризмознавства",
+        "number": 2,
+        "urls": []
+    }
+]

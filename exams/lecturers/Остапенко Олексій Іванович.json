@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПВ-24, ПВ-25, ПВ-26, ПВ-27,",
+        "subject": "Адміністративне право",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78090611643?pwd=DbIm9g8vZiME92blD5lbVFaPqef0LX.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ПВ-410, ПВ-411, ПВ-46, ПВ-48,",
+        "subject": "Транспортне право",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75790563610?pwd=t3x9qkPNomc9YhxcB1bypoiiTEIBlh.1"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "КНУС-13, КНУС-14,",
+        "subject": "Мережі наступного покоління та захист даних",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72740808591?pwd=T0lPa0ljRmZIWGVpZW83ajlydWlxdz09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "КНУС-11, КНУС-12,",
+        "subject": "Мережі наступного покоління та захист даних",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79906761403?pwd=eHhKMkQrQnRreS9NeFZTUFQxTFVpdz09%20%20Meeting%20ID:%20799%200676%201403%20Passcode:%20tME8uw"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "КНМ-11,",
+        "subject": "Мережі наступного покоління",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72740808591?pwd=T0lPa0ljRmZIWGVpZW83ajlydWlxdz09"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Дружбяк С.В.,",
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 1",
+        "number": 3,
+        "urls": [
+            "https://softserveinc.zoom.us/j/91501720791?pwd=YlU3ckgyaStiUk1TZU9WQlQxbFRNdz09&from=addon"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Хомицька І.Ю.,",
+        "subject": "Теорія і практика перекладу (англійська мова), частина 3",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Марків О.О.,",
+        "subject": "Формальні мови, граматики та автомати",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Черниш Л.З.,",
+        "subject": "Сучасна німецька/японська мова, частина 7",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/72945357592?pwd=5WQcLmzzFyY0eEYJWnnBcPLV1uNo8i.1#success",
+            "https://us04web.zoom.us/j/73053068976?pwd=WpxMCCSOEekXyBFbOQ30Nf2Zr33NYR.1"
+        ]
+    }
+]

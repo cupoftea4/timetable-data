@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Електротехніка, електроніка, мікропроцесорна техніка",
+        "lecturer": "АТ-21, 111 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5811838088?pwd=ZlJIRGxER0Jsa0w3bWZQZ0pva3U3dz09%20%20Meeting%20ID:%20581%20183%208088%20Passcode:%20Qzt8Ca"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Електротехніка, електроніка, мікропроцесорна техніка",
+        "lecturer": "АТ-21, АТ-22, 114 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5811838088?pwd=ZlJIRGxER0Jsa0w3bWZQZ0pva3U3dz09%20%20Meeting%20ID:%20581%20183%208088%20Passcode:%20Qzt8Ca"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Електротехніка, електроніка, мікропроцесорна техніка",
+        "lecturer": "АТ-21, 111 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5811838088?pwd=ZlJIRGxER0Jsa0w3bWZQZ0pva3U3dz09%20%20Meeting%20ID:%20581%20183%208088%20Passcode:%20Qzt8Ca"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

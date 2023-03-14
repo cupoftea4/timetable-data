@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Стадницька Н.Є.,",
+        "subject": "Хімія природніх біологічно активних сполук",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Баранович Д.Б.,",
+        "subject": "Нормативне забезпечення біотехнологічних виробництв",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a789f44c64747437da8a57b298d812c71%40thread.tacv2/1670239381757?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Курка М.С.,",
+        "subject": "Загальна біотехнологія",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aISJBFolCz_vZWuBzZTYK-gwU88w0hX7xhlYVr8bmluc1%40thread.tacv2/1670484429199?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226962138f-0fa5-4d3f-83dd-6d60eef5478b%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Гнатів З.Я.,",
+        "subject": "Процеси та апарати біохімічної інженерії",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjU5YTYxYjktYTRiMi00YWQ0LTkwYjMtYTkwMDJiY2Y1ODhh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295095efb-0378-4292-b6f9-c47b9b9de67e%22%7d"
+        ]
+    }
+]

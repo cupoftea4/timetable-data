@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ФЛ-42,",
+        "subject": "Практика перекладу (німецька/японська мова), частина 1",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78929666302?pwd=xzK_sXSwZYFvFhridkTkW3kvT3iVIc.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ФЛ-46,",
+        "subject": "Сучасна німецька/японська мова, частина 7",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72945357592?pwd=5WQcLmzzFyY0eEYJWnnBcPLV1uNo8i.1#success"
+        ]
+    }
+]

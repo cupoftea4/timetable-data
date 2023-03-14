@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Дзелендзяк У.Ю.,",
+        "subject": "Чисельні методи",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Татарин В.Я.,",
+        "subject": "Мікроконтролери, частина 2",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDBlNDhiMmMtOGU2Yy00YTUwLWE5M2QtYzc4MWExODg4MjI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2249826ca3-7714-41f8-8dcc-61bd605bb161%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Шпак О.І.,",
+        "subject": "Системний аналіз",
+        "number": 4,
+        "urls": []
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "subject": "Спеціальні технології та інструменти управління проектами",
+        "lecturer": "МЕНД-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3477152257?pwd=UnczaDdMLzVwaDJjNmp6SG9LQzRUUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Бюджетування в публічній сфері",
+        "lecturer": "ПУ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3477152257?pwd=UnczaDdMLzVwaDJjNmp6SG9LQzRUUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Бюджетування в публічній сфері",
+        "lecturer": "ПУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3477152257?pwd=UnczaDdMLzVwaDJjNmp6SG9LQzRUUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Спеціальні технології та інструменти управління проектами",
+        "lecturer": "МЕНД-11, 315 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Бюджетування в публічній сфері",
+        "lecturer": "ПУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3477152257?pwd=UnczaDdMLzVwaDJjNmp6SG9LQzRUUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Паблік менеджмент: управління персоналом та лідерство",
+        "lecturer": "ПМУП-РМР-103, 237 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

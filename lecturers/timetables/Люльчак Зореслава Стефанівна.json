@@ -1,0 +1,73 @@
+[
+    {
+        "subject": "Фінанси підприємства",
+        "lecturer": "МЕ-310, МЕ-311, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84189167086?pwd=WFFSSXN0ekNDc1dSSVpkaGg4Y2Z1QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕЛГ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82607633016?pwd=SUdpRG16NnVRdkNtKzVkNFpyWXlKdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕЛГ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82607633016?pwd=SUdpRG16NnVRdkNtKzVkNFpyWXlKdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

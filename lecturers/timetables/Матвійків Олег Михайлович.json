@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Інженерне проектування складних об`єктів та систем",
+        "lecturer": "КН-309, КН-310, КН-311, 218 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/jss-ezrc-oii"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем ІІ",
+        "lecturer": "КН-306, КН-307, КН-308, 218 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/gcq-nvyn-tto"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Мультимасштабне проектування рідинних мікросистем",
+        "lecturer": "КНІТ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/isb-ctqo-jcv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

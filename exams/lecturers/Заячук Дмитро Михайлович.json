@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-10-24T00:00:00.000Z",
+        "lecturer": "ТРМ-23,",
+        "subject": "Спецкурс з наукових досліджень спеціальності",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "АН-41,",
+        "subject": "Авіаційні комп`ютерно- інтегровані комплекси",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aqtMFWfzzXC2dHCTKbxMOZbaTgaQp7FvfyI1jAkmBl1I1%40thread.tacv2/conversations?groupId=c50b31d8-d8c5-4277-9ce7-ba267518e13d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

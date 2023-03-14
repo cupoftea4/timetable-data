@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "МТ-31,",
+        "subject": "Комп`ютерне моделювання та проектування електронних схем",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/84752469840?pwd=VGwyOWtFaXYyVzY5WVZrdVhBWXR2QT09"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "МТМВ-11,",
+        "subject": "Комп`ютерні методи аналізу засобів вимірювання електричних величин",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/89325704449?pwd=VEppd2dhYnFkbkNFWkprOERpSzlWQT09"
+        ]
+    }
+]

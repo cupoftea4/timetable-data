@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "БД-21, БД-22,",
+        "subject": "Будівельна техніка",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "БД-23, БД-24,",
+        "subject": "Будівельна техніка",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "БД-25, БД-26,",
+        "subject": "Будівельна техніка",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "БД-27, БД-28,",
+        "subject": "Будівельна техніка",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ]
+    }
+]

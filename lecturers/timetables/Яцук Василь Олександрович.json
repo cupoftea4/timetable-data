@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Єдність вимірювань у кібер-фізичних системах",
+        "lecturer": "МТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5022807035?pwd=dDdScXIxSWdMckFLSEo0amtnV0tOQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Тенденції розвитку систем управління",
+        "lecturer": "МТа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5022807035?pwd=dDdScXIxSWdMckFLSEo0amtnV0tOQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Тенденції розвитку систем управління",
+        "lecturer": "МТа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5022807035?pwd=dDdScXIxSWdMckFLSEo0amtnV0tOQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

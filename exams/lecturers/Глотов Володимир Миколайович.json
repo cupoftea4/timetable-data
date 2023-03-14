@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "ГДа-21,",
+        "subject": "Дослідницькі методи у геодезії та землеустрої",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-21T00:00:00.000Z",
+        "lecturer": "ГДа-11,",
+        "subject": "Сучасні методи і технології геодезії та землеустрою",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "ГДФД-11,",
+        "subject": "Прикладна фотограмметрія",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ae5xk6LLHryZocjWvoi-tK02SyppTnMLW5VMCT2VtfBQ1%40thread.tacv2/conversations?groupId=0f1e9e44-dc96-468c-9dca-414727b200c5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

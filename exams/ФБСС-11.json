@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-02-25T00:00:00.000Z",
+        "lecturer": "Алєксєєв І.В.,",
+        "subject": "Методологія досліджень у фінансах",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Червінська О.С.,",
+        "subject": "Податковий менеджмент",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ce6b48df-85a5-4312-9327-c954e455705c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_4dcda402bc174153b45146720817c913@thread.tacv2&messageId=1674147962358&language=uk-UA"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Партин Г.О.,",
+        "subject": "Фінансовий менеджмент",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8629a16f2f794131a7e9502d22826694%40thread.tacv2/1673788968746?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22764d3a47-728c-471d-bc5f-008e03c73ec7%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Хома І.Б.,",
+        "subject": "Ринок фінансових послуг",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afcfbce2922954159b7f1e2e86bcf921a%40thread.tacv2/1674330075652?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2295bc2ca3-9350-4bb7-afb8-70f469e93e65%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Гориславець П.А.,",
+        "subject": "Страховий менеджмент",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa17c29a72fcb4bd4bcca9821c74b8660%40thread.tacv2/1674915316605?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d98cc3b9-de66-4c7c-9492-051a4bb3b8f2%22%7d"
+        ]
+    }
+]

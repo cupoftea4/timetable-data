@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "Лотоцька Н.Я.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/3607904973?pwd=R29FaEhMMmlkRHhjMXptaHBVUFlsdz09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Грицай О.Д.,",
+        "subject": "Операційні системи",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aObzE2QZlXKD4O9iQOIAQGsw5hji1qMLnAtc1sBoa21E1%40thread.tacv2/1669665333655?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220a0cc509-75e7-4c73-8449-d6ae42b4bfa7%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Філевич П.В.,",
+        "subject": "Теорія ймовірності та математична статистика",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aVuXVPL6EJyOjI-O4wFeoa70Gh8YiqCmzRFsFTXU-P601%40thread.tacv2/conversations?groupId=afa1bf65-07f2-4b85-878c-1b34217845b5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Коротєєва Т.О.,",
+        "subject": "Алгоритми і структури даних",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/3596422995?pwd=a3l3WnpuWkc4TUNXZEtGdkVHNGJMZz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Крук О.Г.,",
+        "subject": "Архітектура комп`ютера",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/gkf-jbnb-zow"
+        ]
+    }
+]

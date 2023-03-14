@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "АВ-23,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/89589104287?pwd=S3dEVnp3U0xRTjlLaWNvRjFMQ0Ywdz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ТР-24,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/89589104287?pwd=S3dEVnp3U0xRTjlLaWNvRjFMQ0Ywdz09",
+            "https://us05web.zoom.us/j/89589104287?pwd=S3dEVnp3U0xRTjlLaWNvRjFMQ0Ywdz09"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "СА-22,",
+        "subject": "Іноземна мова за професійним спрямуванням,частина 3",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/89589104287?pwd=S3dEVnp3U0xRTjlLaWNvRjFMQ0Ywdz09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ЕЕ-24,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/89589104287?pwd=S3dEVnp3U0xRTjlLaWNvRjFMQ0Ywdz09",
+            "https://us05web.zoom.us/j/89589104287?pwd=S3dEVnp3U0xRTjlLaWNvRjFMQ0Ywdz09"
+        ]
+    },
+    {
+        "date": "2022-12-23T00:00:00.000Z",
+        "lecturer": "ГД-21,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/89589104287?pwd=S3dEVnp3U0xRTjlLaWNvRjFMQ0Ywdz09",
+            "https://us05web.zoom.us/j/89589104287?pwd=S3dEVnp3U0xRTjlLaWNvRjFMQ0Ywdz09"
+        ]
+    }
+]

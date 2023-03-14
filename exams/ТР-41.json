@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Бурачок Р.А.,",
+        "subject": "Захист інформації в телекомунікаційних системах",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Чайковський І.Б.,",
+        "subject": "Термінальне обладнання ТКС",
+        "number": 1,
+        "urls": [
+            "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MHNhYXQ2aHMzOW00N3Y1MjluOWVuODAwczUgaWhvci5iLmNoYWlrb3Zza3lpQGxwbnUudWE&tmsrc=ihor.b.chaikovskyi%40lpnu.ua"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Кайдан М.В.,",
+        "subject": "Об`єктно-орієнтоване програмування",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av6EWA9Cv_ZViDCaVX0DEl_hZgVzvZSYdTkNRRgwsnVk1%40thread.tacv2/1670771680510?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2212d159f4-7998-4a99-acd7-f3e3016b57c6%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Климаш М.М.,",
+        "subject": "Системи мобільного зв`язку",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Демидов І.В.,",
+        "subject": "Програмні платформи інфокомунікацій",
+        "number": 2,
+        "urls": []
+    }
+]

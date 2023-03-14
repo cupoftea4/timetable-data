@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "МЕ-21f,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1e38aaa502d4430ebdcd4ee5d39c6b73%40thread.tacv2/conversations?groupId=078de251-baa1-4b9d-b9ab-12bcc38161ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-22T00:00:00.000Z",
+        "lecturer": "ПОа-11, ЕКа-11, ОПа-11, ФБа-11, УАа-11, МЕа-11, МКа-11,",
+        "subject": "Філософія і методологія науки",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSdcDg-0dwCyVVYRxwifMSXCp_ZrwN0Z_ArI0u8-FmEQ1%40thread.tacv2/conversations?groupId=569f1300-0faf-4504-8534-99aa85890b47&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-26T00:00:00.000Z",
+        "lecturer": "АРа-11, ДЗа-11, РМа-11, МВа-11, ЕВа-11, СРа-11, НОа-11, ІАа-11, ПЛа-11, ПСа-11, СОа-11, ПТа-11, БДа-11, ГДа-11, ПВа-11,",
+        "subject": "Філософія і методологія науки",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSdcDg-0dwCyVVYRxwifMSXCp_ZrwN0Z_ArI0u8-FmEQ1%40thread.tacv2/conversations?groupId=569f1300-0faf-4504-8534-99aa85890b47&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://us05web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ]
+    },
+    {
+        "date": "2022-12-27T00:00:00.000Z",
+        "lecturer": "ТТа-11f,",
+        "subject": "Філософія і методологія науки",
+        "number": 5,
+        "urls": [
+            "https://us05web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ]
+    }
+]

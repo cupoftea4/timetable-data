@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "ПК-41,",
+        "subject": "Теорія і методика профорієнтаційної роботи",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/83123846779?pwd=UnV0OHV0K1RjRWZGNFIzYmNnSXE2UT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ПЦ-21, ПЦ-22,",
+        "subject": "Нормативно-правове забезпечення діяльності закладу освіти",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/89037958743?pwd=ZHkzbUJEK2o1R3FGb0pLMHFjVmRvdz09"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "МК-21, МК-22, МК-23, МК-24, МК-25,",
+        "subject": "Міжнародна економіка",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "МЕУІ-11,",
+        "subject": "Економіка та оподаткування інноваційної діяльності",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avZGRRMphOS2vOcXBTiGClB2UJnGTbYt6kylAuRTieqU1%40thread.tacv2/conversations?groupId=4229dcfe-158e-4138-8426-9435537a17d7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-27T00:00:00.000Z",
+        "lecturer": "ЕВМЕ-11f,",
+        "subject": "Міжнародний стратегічний менеджмент",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/86537230426?pwd=S1hUUlY5V0NXaGN1RmtvL0dDL2tFdz09"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "КН-411,",
+        "subject": "Методи багатокритеріальної оптимізації",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/6304733771?pwd=SEpzVHRHM1QzT1FLQ05uek9sR1Npdz09"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "КНСП-11, КНСП-12,",
+        "subject": "Розпізнавання образів і комп`ютерний зір",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/6304733771?pwd=SEpzVHRHM1QzT1FLQ05uek9sR1Npdz09"
+        ]
+    }
+]

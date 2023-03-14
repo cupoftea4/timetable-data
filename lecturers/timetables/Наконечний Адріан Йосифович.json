@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Цифрові методи обробки сигналів та аналізу зображень",
+        "lecturer": "КНУО-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3563134043?pwd=U0NkTEdKZ3h0UzRKSm9LbEJUdEQwdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Цифрові методи обробки сигналів",
+        "lecturer": "АВКС-11, АВКС-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3563134043?pwd=U0NkTEdKZ3h0UzRKSm9LbEJUdEQwdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

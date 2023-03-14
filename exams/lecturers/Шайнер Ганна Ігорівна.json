@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "КІ-206,",
+        "subject": "Іноземна мова професійного спрямування, частина 3",
+        "number": 5,
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/88377743909?pwd%3DdmQveDI0enZTSVMwZHB3ekYycVhCZz09&sa=D&source=calendar&usd=2&usg=AOvVaw08oS8Ddhp_tRtprMo-w-Ir"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "КБ-208,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/81854748194?pwd%3DbUR4RGxLMUZxZklrWUt2cEpXZ0tMdz09&sa=D&source=calendar&usd=2&usg=AOvVaw16Xot7Mk2Ca6ZP7jVkKrJZ"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ЕЕ-22,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/89575913636?pwd%3DVU1ITCs1UStSVFhtaS9ldEU0eFg0Zz09&sa=D&source=calendar&usd=2&usg=AOvVaw02ay5dtryLgma4W1M9gdkU"
+        ]
+    }
+]

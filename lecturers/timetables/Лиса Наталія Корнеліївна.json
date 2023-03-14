@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-401, КН-402, КН-403, 807 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78847512627?pwd=BD1WncfwufXNW7tF6vvAZAL0zjIAIZ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-401, КН-402, КН-403, 807 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78847512627?pwd=BD1WncfwufXNW7tF6vvAZAL0zjIAIZ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-404, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-405, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-404, КН-405, 311 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78847512627?pwd=BD1WncfwufXNW7tF6vvAZAL0zjIAIZ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-404, КН-405, 311 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78847512627?pwd=BD1WncfwufXNW7tF6vvAZAL0zjIAIZ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-404, 804г V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-403, 802б V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-402, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-402, 804а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-403, 104 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-401, 107a V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-405, 104 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-401, 104 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-316, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75635100656?pwd=Yk09UeSs8qSp2r28leauzxBJW1CSIg.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-316, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78441921688?pwd=zQYNsMbsNOXjvqIeidlrpBNQ5azGqQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

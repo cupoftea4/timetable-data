@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Крайник Л.Б.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/83837358260?pwd=NUtXelgwaEs1MStxaFA2YUh5OXdtUT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Комаровська-Порохнявець О.З.,",
+        "subject": "Біологія і фізіологія з основами анатомії",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9a56865b10144481be25bf44ffb36ce3%40thread.tacv2/1669637464572?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Журахівська Л.Р.,",
+        "subject": "Методи органічного синтезу",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/_#/pre-join-calling/19:ckSNT5RSth0ksnQLb-PFcoIj9_mkklVDEbQBlEzVAWc1@thread.tacv2"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Червецова В.Г.,",
+        "subject": "Мікробіологія",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aDhw78iIx5POhrevddI9z8kuDwGssXjSV_t_BEN2ZtMc1%40thread.tacv2/1669820520426?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cda010d6-8df4-47fd-8b0f-5c6198f66bc8%22%7d"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Жаровська І.М.,",
+        "subject": "Діяльність органів місцевого самоврядування",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/syq-oiau-tyr"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Павлюк Н.М.,",
+        "subject": "Цивільне право , частина 2",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Бліхар М.М.,",
+        "subject": "Фінансове право",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/79426405016?pwd=1mewyFZegkd5uQxrsKRf6VkYlNtZIl.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Малець М.Р.,",
+        "subject": "Адміністративний процес",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/72307337635?pwd=83hORTHOcma6oXMhdU2bZnTkYB4rQ1.1"
+        ]
+    }
+]

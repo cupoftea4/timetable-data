@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "Берко А.Ю.,",
+        "subject": "Методи опрацювання великих даних",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Коць О.О.,",
+        "subject": "Управління ІТ-проектами",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Микіч Х.І.,",
+        "subject": "Сховища та простори даних",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Рибчак З.Л.,",
+        "subject": "Наука про дані",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Проданюк М.М.,",
+        "subject": "Машинне навчання",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3tkCf4P8VczFxAJwUESFZhZ5WlOYLDytxti0RC707541%40thread.tacv2/conversations?groupId=3b89b602-8038-476b-a707-e9a54e5c3884&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

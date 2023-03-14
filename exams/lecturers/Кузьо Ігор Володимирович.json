@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "МП-21, МП-22,",
+        "subject": "Теоретична механіка, частина 2",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjM3OTdjM2UtYzBmZS00ZjE5LWEzMWMtMWRhNjllMDBmNDg2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2251fbda10-4dc0-4274-8683-65203dda79f2%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "МБ-21, МБ-22,",
+        "subject": "Теоретична механіка, частина 2",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTRiMzE0MTYtNDMxYS00YjNiLWE0NTgtNDY2NGI5ZWRkZTc2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2251fbda10-4dc0-4274-8683-65203dda79f2%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "МБ-11сп, МП-11сп, 61 XIV н.к.,",
+        "subject": "Теоретична механіка",
+        "number": 1,
+        "urls": []
+    }
+]

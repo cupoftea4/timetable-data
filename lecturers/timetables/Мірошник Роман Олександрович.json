@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Прийняття управлінських рішень",
+        "lecturer": "МЕ-41, МЕ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84974937459?pwd=bU9BQ0xkaWpYTC9HVlZtUkhuc1NTdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Консалтинг",
+        "lecturer": "КОН-МО-101, 515 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83525455675?pwd=aTFRcE91cTVDcVR5dVd6dFFoRFVJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Прийняття управлінських рішень",
+        "lecturer": "МЕ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81386568148?pwd=ZWwrc1dxeXRMVnBaM0t6b0xsT0Rmdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Прийняття управлінських рішень",
+        "lecturer": "МЕ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84920422532?pwd=S1Q1blJ2LzYxdkhGTFVhUm5EZi90Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Прийняття управлінських рішень",
+        "lecturer": "МЕ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83075868126?pwd=SUJYWHo4ckZycXZkcm9JVzltcWpjdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Моделювання динаміки бізнес-процесів",
+        "lecturer": "МЕ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84517759174?pwd=U2k3L01EaE5LNUo4OVp3a2dwWFp1QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання динаміки бізнес-процесів",
+        "lecturer": "МЕ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84237855891?pwd=cDBueTkyQmE1SjVHMVNQYlMrZjcxdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Консалтинг",
+        "lecturer": "КОН-МО-102, 420 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86416578810?pwd=clp0U3V1c3BuazlWaSszalVPNXdsUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Прийняття управлінських рішень",
+        "lecturer": "МЕ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83233393700?pwd=VEw0aGhDY1NXTmNpdFBhREZuR1QyQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

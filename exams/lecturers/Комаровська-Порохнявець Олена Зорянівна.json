@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "БТ-21, БТ-22,",
+        "subject": "Біологія клітини",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ab0b66f53859f4639b110fe7a53e18b50%40thread.tacv2/1669637393837?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ФР-21,",
+        "subject": "Біологія і фізіологія з основами анатомії",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9a56865b10144481be25bf44ffb36ce3%40thread.tacv2/1669637464572?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "БТМ-21,",
+        "subject": "Спецкурс- Біологічна активність фізіологічно активних субстанцій",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3amNjl-CM3PiqFpQ3iXzGw_BMthsqEZSNzM8NJt7PQzx41%40thread.tacv2/1669637665977?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d"
+        ]
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Креативний менеджмент",
+        "lecturer": "КМЕ-ММП-104, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління транснаціональними корпораціями",
+        "lecturer": "МЕа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ajis5Qa_W61eoPjVhcGa1-WRkOGMTwSXvp4hQbYVO89s1%40thread.tacv2/1676271207866?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c975393-ecd3-4032-a78e-671b7c0d4edc%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Креативний менеджмент",
+        "lecturer": "КМЕ-ММП-101, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Креативний менеджмент",
+        "lecturer": "КМЕ-ММП-102, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Розвиток міжнародного науково-технічного співробітництва",
+        "lecturer": "ЕВа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:NAm9-EZcz03hL6AqSYYd28ggqQ7M8TD1uugcoANinGA1@thread.tacv2/1676272144696?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=c55c336e-3272-4cfc-b3cc-fb3c43640942&parentMessageId=1676272144696&teamName=%D0%A0%D0%BE%D0%B7%D0%B2%D0%B8%D1%82%D0%BE%D0%BA%20%D0%BC%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BD%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE-%D1%82%D0%B5%D1%85%D0%BD%D1%96%D1%87%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%BF%D1%96%D0%B2%D1%80%D0%BE%D0%B1%D1%96%D1%82%D0%BD%D0%B8%D1%86%D1%82%D0%B2%D0%B0&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1676272144696&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Креативний менеджмент",
+        "lecturer": "КМЕ-ММП-103, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Креативний менеджмент",
+        "lecturer": "КМЕ-ММП-105, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Державне управління митною діяльністю",
+        "lecturer": "ЕВМЕ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:G5toKNePSlVxhkr6qeXBBpAJHK0d6xFDRtjcbpLY2Js1@thread.tacv2/1676528398375?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=2a423fc9-34a1-4f29-9b92-92b7284e405d&parentMessageId=1676528398375&teamName=%D0%94%D0%B5%D1%80%D0%B6%D0%B0%D0%B2%D0%BD%D0%B5%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F%20%D0%BC%D0%B8%D1%82%D0%BD%D0%BE%D1%8E%20%D0%B4%D1%96%D1%8F%D0%BB%D1%8C%D0%BD%D1%96%D1%81%D1%82%D1%8E&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1676528398375&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Креативний менеджмент",
+        "lecturer": "КМЕ-ММП-104, КМЕ-ММП-105, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:r4plz2nHJsSz12LHFui4qhR8ohFm0anYlUXyn3sCzDo1@thread.tacv2/1677745251844?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=ccd703b3-2085-4fdc-84f3-117b90382fd3&parentMessageId=1677745251844&teamName=%D0%9A%D1%80%D0%B5%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677745251844&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Креативний менеджмент",
+        "lecturer": "КМЕ-ММП-101, КМЕ-ММП-102, КМЕ-ММП-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:r4plz2nHJsSz12LHFui4qhR8ohFm0anYlUXyn3sCzDo1@thread.tacv2/1676526897337?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=ccd703b3-2085-4fdc-84f3-117b90382fd3&parentMessageId=1676526897337&teamName=%D0%9A%D1%80%D0%B5%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%B9%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1676526897337&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

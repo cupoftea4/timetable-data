@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "КН-205,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQeXmG7gLxJB1E6fdHN7Ofv78ChQNzfiESUBVMO93vwI1%40thread.tacv2/1668956141585?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3akZ6AW2xGkrJAXcvf2j7ew6ox_D594qAcDxCf7RpHs6U1%40thread.tacv2/1669274994085?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "КН-206,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6_Bol2oFOtldt9vr6EjUc_2U0ci_AYIIiL4tKIeCaH41%40thread.tacv2/1668956502124?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "ТР-25,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_JWoZOWWpfd-xe3hevIjlfbfUUb47THeEHPr-_VtcXQ1%40thread.tacv2/1668960186988?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "МН-22,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCpBJ1OcRfluzPUSHCKrXnPnolr4WsRL3UeVJXqSFUPA1%40thread.tacv2/1668960320988?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d"
+        ]
+    }
+]

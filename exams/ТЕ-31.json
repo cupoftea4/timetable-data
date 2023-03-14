@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Шепітчак В.Б.,",
+        "subject": "Тепломасообмінні апарати промислових підприємств",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Кузнецова М.Я.,",
+        "subject": "Котельні установки об`єктів теплоенергетики, частина 1",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Юрасова О.Г.,",
+        "subject": "Помпи, вентилятори, компресори",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Кравець Т.Ю.,",
+        "subject": "Теплові двигуни промислових підприємств, частина 1",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a38cb96a16b9945fe9bfdb3714f397f77%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=730b3e00-fd16-4392-acb1-302d3dd7cafa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Лис С.С.,",
+        "subject": "Паливо та основи теорії горіння",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3anzKdMYm1W3zyLinq_2Td6_CluT0oXetwoeRSqqwhhQo1%40thread.tacv2/conversations?groupId=8a0e9d03-67ab-4180-b993-e312ebfa1204&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

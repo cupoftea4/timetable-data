@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "Таранський І.П.,",
+        "subject": "Менеджмент у виробництві",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/5281221496?pwd=alNTT3NCOWo2bldwbG5tUE9aN25jQT09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Моравський В.С.,",
+        "subject": "Технологічні процеси синтезу і модифікування полімерів",
+        "number": 4,
+        "urls": [
+            "https://www.google.com/url?q=https://us02web.zoom.us/j/89927867536?pwd%3DS3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09&sa=D&source=calendar&ust=1635158277529646&usg=AOvVaw2bvlkvu4NYB3YFJ57v2ERi"
+        ]
+    }
+]

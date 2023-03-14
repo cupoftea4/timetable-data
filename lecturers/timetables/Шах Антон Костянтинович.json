@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Хмарні технології",
+        "lecturer": "ІТ-21, ІТ-22, ІТ-11сп, 525 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/oso-huav-ccn"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Хмарні технології",
+        "lecturer": "ІТ-21, ІТ-22, ІТ-11сп, 525 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/nnv-nehs-cnu"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

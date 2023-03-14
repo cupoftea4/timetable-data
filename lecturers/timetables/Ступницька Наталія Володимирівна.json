@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Системний аналіз виробничого травматизму",
+        "lecturer": "ЦБПБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6GgWqURm1WwDtqOXAzgg_JfK3RnPtJJUvBLe-FF8Yzs1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=ab0991b2-2a39-4eaa-8a33-c97a76598039&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Системний аналіз виробничого травматизму",
+        "lecturer": "ЦБПБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6GgWqURm1WwDtqOXAzgg_JfK3RnPtJJUvBLe-FF8Yzs1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=ab0991b2-2a39-4eaa-8a33-c97a76598039&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Системний аналіз виробничого травматизму",
+        "lecturer": "ЦБПБ-11, 307 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFXQYJXoocOA8pBefoAM5y6_DE2WXnQSTqL7auby2CnI1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=f1cee9aa-af51-463c-a251-a95791492c73&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

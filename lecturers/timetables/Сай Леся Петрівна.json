@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Митне обслуговування міжнародної економічної діяльності",
+        "lecturer": "ЕВМЕ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77860735180"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Митне обслуговування міжнародної економічної діяльності",
+        "lecturer": "ЕВМЕ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77860735180"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні організації та транснаціональні корпорації",
+        "lecturer": "ЕВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73737134431"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародні організації та транснаціональні корпорації",
+        "lecturer": "ЕВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79657220584"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні організації та транснаціональні корпорації",
+        "lecturer": "ЕВ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77403940986"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Митне обслуговування міжнародної економічної діяльності",
+        "lecturer": "ЕВМЕ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72498739755"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

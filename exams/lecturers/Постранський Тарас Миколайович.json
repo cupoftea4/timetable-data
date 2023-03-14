@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "АТ-11, АТ-12, АТ-13, 218 I н.к.,",
+        "subject": "Загальний курс транспорту",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3azR43P_cekGjGupEDfNqFkscoSXRI6-wbrTbliWhTkm01%40thread.tacv2/conversations?groupId=dbd3c52d-2c7c-4746-b110-c5be1c37b278&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "ТТ-11сп, 206 VI н.к.,",
+        "subject": "Загальний курс транспорту",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a16PuVKTSLZTHpJmlUBYRTca05x_qFb-dL9Rf5W2t1hw1%40thread.tacv2/conversations?groupId=f4defded-41d8-494c-928f-31738fd0871a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "ТТ-11, ТТ-12, 210 VI н.к.,",
+        "subject": "Загальний курс транспорту",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aGeMx3nIGS2suVvh8qRi8s7BOVNB4QqG5NMFFpBKSNC81%40thread.tacv2/conversations?groupId=906b0d76-51a1-4d62-9e1f-ce02c36b7055&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/team/19%3aGeMx3nIGS2suVvh8qRi8s7BOVNB4QqG5NMFFpBKSNC81%40thread.tacv2/conversations?groupId=906b0d76-51a1-4d62-9e1f-ce02c36b7055&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-18T00:00:00.000Z",
+        "lecturer": "РТМ-11, РТМ-12,",
+        "subject": "Спецкурс з наукових досліджень спеціальності, частина 1",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aJVi6QoS52paGPMS-VIOpReI2BiPf9LmDkBhrkQTqx8A1%40thread.tacv2/conversations?groupId=76ad3227-a1f7-49ae-ad97-04d4fd40793b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

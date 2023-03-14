@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-10T00:00:00.000Z",
+        "lecturer": "ІК-11, ІК-12, 213 XI н.к.,",
+        "subject": "Алгоритмізація та програмування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73189683293?pwd=ZjrVt2Yh1xJgYzJFkKaCzAm44XBeNm.1"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "РІ-11, РІ-12, 525 IV н.к.,",
+        "subject": "Алгоритмізація та програмування",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73189683293?pwd=ZjrVt2Yh1xJgYzJFkKaCzAm44XBeNm.1"
+        ]
+    }
+]

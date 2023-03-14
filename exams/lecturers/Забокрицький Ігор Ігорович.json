@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "ПВПР-25,",
+        "subject": "Європейські традиції та стандарти самоврядування місцевих громад",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/73961264512?pwd=w9UqPGFZ3DaSeu99vpeVQZSQ3m1noH.1"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "ПВПР-11, ПВПР-12, ПВПР-13,",
+        "subject": "Актуальні проблеми конституційного та міжнародного права",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/78036636212?pwd=OI9pOIOChS3SvUDkjovRrWFaqxE4X2.1"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "ПВПР-14, ПВПР-15, ПВПР-16, ПВПР-17,",
+        "subject": "Актуальні проблеми конституційного та міжнародного права",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/pzy-iwpo-kjv"
+        ]
+    },
+    {
+        "date": "2023-03-03T00:00:00.000Z",
+        "lecturer": "ПВПР-11f,",
+        "subject": "Актуальні проблеми конституційного та міжнародного права",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/72204331748?pwd=0RmdKot4vTINbaa3cl47GzmnDuvdCC.1"
+        ]
+    }
+]

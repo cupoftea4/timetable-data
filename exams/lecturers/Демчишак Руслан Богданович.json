@@ -1,0 +1,21 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "МВ-41, МВ-42, МВ-43, МВ-44,",
+        "subject": "Зовнішня політика країн Азії та Африки, Північної та Латинської Америки",
+        "number": 5,
+        "urls": [
+            "https://zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09",
+            "https://zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "МВ-41, МВ-42, МВ-43, МВ-44,",
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "number": 4,
+        "urls": [
+            "https://zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ]
+    }
+]

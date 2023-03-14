@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Басистюк О.А.,",
+        "subject": "Обробка й аналіз цифрових сигналів",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/ujz-hkhv-fra"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Вовк О.Б.,",
+        "subject": "Методи ділових комунікацій",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Гасько Р.Т.,",
+        "subject": "Хмарні технології",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/jvj-obwr-krn"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Хавалко В.М.,",
+        "subject": "Комп`ютерна лінгвістика",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/83791903237?pwd=cVUxNnMxUjhZMVBnbFJvMCtkMDI3dz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Вовк О.Б.,",
+        "subject": "Управління ІТ-проектами",
+        "number": 3,
+        "urls": []
+    }
+]

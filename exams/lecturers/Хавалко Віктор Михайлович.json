@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "КН-317f,",
+        "subject": "Проектування інформаційних систем",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/85198377896?pwd=V0UrejVlQSs2c2xaQWw5a3FjQm1oUT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КН-417f,",
+        "subject": "Комп`ютерна лінгвістика",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/83791903237?pwd=cVUxNnMxUjhZMVBnbFJvMCtkMDI3dz09"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "КНСШ-11, КНСШ-12,",
+        "subject": "Методи аналізу великих даних",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/81945755290?pwd=S0JLRFJZMkhmWEVpdlRvUlEzSFpVUT09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "КНСШ-13, КНСШ-14,",
+        "subject": "Методи аналізу великих даних",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/84340430040?pwd=UENFWWRVRStHQXpmaVRrUWhwTHprQT09"
+        ]
+    }
+]

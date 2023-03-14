@@ -1,0 +1,224 @@
+[
+    {
+        "subject": "Управління проектами",
+        "lecturer": "СЕ-41, СЕ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNdfrnKJrBI45k89Ag_6v4nB-m1EK2aVS7gx7bzkTf7Q1%40thread.tacv2/conversations?groupId=c78e0145-55ce-4c46-a1bb-1b1690d95a5b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "СЕ-41, СЕ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNdfrnKJrBI45k89Ag_6v4nB-m1EK2aVS7gx7bzkTf7Q1%40thread.tacv2/conversations?groupId=c78e0145-55ce-4c46-a1bb-1b1690d95a5b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "ЕЕ-41, ЕЕ-42, ЕЕ-43, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7tOd2q_IAffqpeS4Zmi1ymkZS8acy8hEcUg7mzktq7Q1%40thread.tacv2/conversations?groupId=bab61c11-e180-4366-b6c0-b044edf61f29&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-203, 527 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-204, 527 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-205, ЕФЛ-ЗМД-206, ЕФЛ-ЗМД-207, ЕФЛ-ЗМД-208, ЕФЛ-ЗМД-207, 217 I н.к., 217 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-212, ЕФЛ-ЗМД-213, ЕФЛ-ЗМД-214, 217 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "АЕ-41, ТЕ-41, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFMXbAsR5cjK3BY3KqzngSUo6npE5-0OqznrAS63aVo41%40thread.tacv2/conversations?groupId=2809b2a5-eaba-4923-9cc4-8c248bf6761e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-209, ЕФЛ-ЗМД-210, ЕФЛ-ЗМД-211, 217 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-202, 407 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-215, ЕФЛ-ЗМД-216, ЕФЛ-ЗМД-217, 321 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-201, ЕФЛ-ЗМД-202, ЕФЛ-ЗМД-203, ЕФЛ-ЗМД-204, 217 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3YYqgL2SPMQSY19cU-MX_2NTJd-yH1EhNt2eIc1u7w1%40thread.tacv2/conversations?groupId=399e75ad-bbc6-4cfe-99e8-da3a28b2438a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-301, ЕФЛ-ЗМД-302, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aKnS8cd3cZIX6V4uyvzokIA8tDCLJAZ4-9et4w9oieDU1%40thread.tacv2/conversations?groupId=0179aed3-d0bb-4e54-b432-7ac0ef4f230b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-302, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aJo3wamQfrMI4vAjLIcs33JKw2pVUeLTupsKtU2YYHLc1%40thread.tacv2/conversations?groupId=e9aef8b4-53c2-41a8-8141-644af89dfe0a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-201, 109 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

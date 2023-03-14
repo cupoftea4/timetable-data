@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Бондарєв А.П.,",
+        "subject": "Програмування апаратних засобів",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/kyk-ofte-zam"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Кіселичник М.Д.,",
+        "subject": "Аналогова схемотехніка",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Балацька Л.П.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://join.skype.com/J0LOH0gLmz0J"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Дмитрук В.А.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://join.skype.com/CrEKzb0o8uWf"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Волочій Б.Ю.,",
+        "subject": "Сигнали в інформаційних системах",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/yrb-yxdp-hqy?authuser=0"
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Маргаль І.В.,",
+        "subject": "Будівельна техніка",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Паньків О.В.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73819129768?pwd=kCAbi9xahiUyzt1S133zrh2PwNKSU7.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Шаповал С.П.,",
+        "subject": "Теплогазопостачання та вентиляція",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aZmeppHcm-lK4Ggk8pt1QfptFNDYsTf8pOTjoAoKVr-k1%40thread.tacv2/1669111216741?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2261822e71-cb33-493f-b608-96546aa9a958%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Стасюк Б.М.,",
+        "subject": "Опір матеріалів",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Топилко Н.І.,",
+        "subject": "Інженерна геологія і основи механіки грунтів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6854610820?pwd=UXY5SVBvdWNldnRlKzhaSnhxL3A3QT09"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ТЛ-21,",
+        "subject": "Матеріалознавство та технологія конструкційних матеріалів",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTVjYWJiNjgtZTgzMy00YTI1LWE3ZDgtNGRmYzFhNjMxNjQy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ТЛ-21,",
+        "subject": "Теоретичні основи формоутворення",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmI3OTlkMjctNzM4NC00YzYzLTk5ODMtNGMxZGU4YWZhOGQz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "МЛ-31,",
+        "subject": "Технологія ливарної форми",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWEwN2Q4YTctY2M2MS00OGE3LWExODMtZDdjZGMwMjA1MDNm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ]
+    }
+]

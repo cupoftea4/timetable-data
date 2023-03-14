@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-24T00:00:00.000Z",
+        "lecturer": "ІТа-11,",
+        "subject": "Розподілені інформаційні системи та технології",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/86379549991?pwd=RWE1dXpkR29PNklUN3lodS82YUxxQT09"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "ІТІС-11, ІТІС-12, ІТМ-11,",
+        "subject": "Інженерія даних і знань",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/86243131916?pwd=b0NETUs3MjlMU3RZaEkrNStRc0FGdz09"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "ІТУП-11, ІТУП-12, ІТУП-13,",
+        "subject": "Інженерія даних і знань",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/86243131916?pwd=b0NETUs3MjlMU3RZaEkrNStRc0FGdz09"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Мартиняк-Андрушко М.А.,",
+        "subject": "Основи теплотехніки",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Івасик Г.В., +АЕ+ТЕ",
+        "subject": "Вища математика, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/77214759359?pwd=tu90Tyz1sWFu3Bw7TJSA8HDODb6NGq.1"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Горячко В.І., +ЕЕ-24",
+        "subject": "Теоретичні основи електротехніки, частина 2",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/88004947696?pwd=WHkxLzZRa1FtWm9CbkIxV1ZFaXQydz09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Вільховченко Н.П.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/97452082974?pwd=bHVsSmJKVTdHQzVGR29WK2pkdjFjdz09"
+        ]
+    }
+]

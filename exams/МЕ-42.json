@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Мірошник Р.О.,",
+        "subject": "Мотиваційний менеджмент",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/89427293738?pwd=a3ZpNmIwa3dhcVFBaE1TRHNiUHcvdz09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Карий О.І., Чухрай Н.І., анг. мовою",
+        "subject": "Стратегічне управління  підприємством",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79940375257?pwd=7bF9P9IXAl97W2A8vkz3P1ewZvbato.1%20https://us02web.zoom.us/j/88402608420?pwd=TVR4T0FVNnRGQlduY3BsZmdJTUl5UT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Просович О.П.,",
+        "subject": "Інвестиційний менеджмент",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/76303136976?pwd=uJVU_bUDDJiyvJoHpLlWS4LZOV1m-F.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Грибик І.І.,",
+        "subject": "Управління якістю",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73823509323?pwd=znzVUGABNa8NlTeu6oUErfV5dZTFBq.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Гавран В.Я.,",
+        "subject": "Системно-управлінська оцінка фінансово-господарської діяльності організації",
+        "number": 4,
+        "urls": [
+            "https://zoom.us/j/2053243306?pwd=NjVuUVpUNkJNWkY5WENKWGIvZmtnQT09"
+        ]
+    }
+]

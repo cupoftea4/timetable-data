@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Технологія високотемпературного синтезу матеріалів хімічних виробництв",
+        "lecturer": "ТВС-ХТС-101, ХТТС-11, 005 IX н.к., 012 IX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія високотемпературного синтезу матеріалів хімічних виробництв",
+        "lecturer": "ТВС-ХТС-101, ХТТС-11, 005 IX н.к., 012 IX н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технологія високотемпературного синтезу матеріалів хімічних виробництв",
+        "lecturer": "ТВС-ХТС-101, ХТТС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технологія і обладнання виробництва в`яжучих речовин, частина 2",
+        "lecturer": "ХТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин",
+        "lecturer": "ХТТС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Хімічна технологія повітряних,  автоклавних та гідравлічних в`яжучих речовин",
+        "lecturer": "ХТТС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/5552942771?pwd=Ukc0Y3JyUUN0MnVuOEZyN3BSbnZOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

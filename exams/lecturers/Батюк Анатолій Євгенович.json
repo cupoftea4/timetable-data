@@ -1,0 +1,74 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "КН-303, КН-304,",
+        "subject": "Основи штучного інтелекту",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQf0QKMTvn27j4yWDnS0BRTdN0jwvaGUhmN7ayrsPtBM1%40thread.tacv2/1669027849937?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2291176340-bd4e-4882-9639-9a0d9bcf5783%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "КН-401, КН-402,",
+        "subject": "Управління ІТ-проектами",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa48261fbb7884b4ca143dd05d8673698%40thread.tacv2/1669028180868?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2291176340-bd4e-4882-9639-9a0d9bcf5783%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "КН-218, КН-305,",
+        "subject": "Основи штучного інтелекту",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQf0QKMTvn27j4yWDnS0BRTdN0jwvaGUhmN7ayrsPtBM1%40thread.tacv2/1669028270933?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2291176340-bd4e-4882-9639-9a0d9bcf5783%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "КН-316, КН-405,",
+        "subject": "Управління ІТ-проектами",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa48261fbb7884b4ca143dd05d8673698%40thread.tacv2/1669028504143?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2291176340-bd4e-4882-9639-9a0d9bcf5783%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "КН-403, КН-404,",
+        "subject": "Управління ІТ-проектами",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa48261fbb7884b4ca143dd05d8673698%40thread.tacv2/1669028617954?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2291176340-bd4e-4882-9639-9a0d9bcf5783%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КН-301, КН-302,",
+        "subject": "Основи штучного інтелекту",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQf0QKMTvn27j4yWDnS0BRTdN0jwvaGUhmN7ayrsPtBM1%40thread.tacv2/1669028729412?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2291176340-bd4e-4882-9639-9a0d9bcf5783%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "КНУС-11, КНУС-12,",
+        "subject": "Інформаційний маркетинг та менеджмент",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a200bc059b51446608582a4271671f11b%40thread.tacv2/1674465205407?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2291176340-bd4e-4882-9639-9a0d9bcf5783%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "КНУС-13, КНУС-14,",
+        "subject": "Інформаційний маркетинг та менеджмент",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a200bc059b51446608582a4271671f11b%40thread.tacv2/1674465305223?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2291176340-bd4e-4882-9639-9a0d9bcf5783%22%7d"
+        ]
+    }
+]

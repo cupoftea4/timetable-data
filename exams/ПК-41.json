@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Ієвлєв О.М.,",
+        "subject": "Основи педагогічних досліджень",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/81389472613?pwd=VVRwTW94V0o0WERCZm0yS1g5WWd0UT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Чубінська Н.Б.,",
+        "subject": "Методика викладання інформатики",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Колодій І.С.,",
+        "subject": "Теорія і методика профорієнтаційної роботи",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/83123846779?pwd=UnV0OHV0K1RjRWZGNFIzYmNnSXE2UT09"
+        ]
+    }
+]

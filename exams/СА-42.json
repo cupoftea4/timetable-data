@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Пелещак Р.М.,",
+        "subject": "Технології машинного навчання",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Верес О.М.,",
+        "subject": "Теорія прийняття рішень",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/99725924137?pwd=UlBiM0pEZjRLV3JjNTZMZVlFeTVOdz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20997%202592%204137%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%2012345"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Василюк А.С.,",
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/93485449002?pwd=T2E2SHBtU1lsRmdJTTZSYnhLSEFtdz09"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Андруник В.А.,",
+        "subject": "Візуалізація даних",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/93768676139?pwd=bHlJUTdYSmhTYWdFOTlMZGFzaTVkZz09"
+        ]
+    }
+]

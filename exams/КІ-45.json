@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Бочкарьов О.Ю.,",
+        "subject": "Мережні операційні системи",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/75142901150?pwd=78ATS69YZrHX2ytLzzZQG7BfihhUkW.1"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Гребеняк А.В.,",
+        "subject": "Програмне забезпечення інтернету речей",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/95833105908?pwd=SjdudmxjL09HUEV4cEhHN1orSStGdz09"
+        ]
+    },
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "Пищак І.І.,",
+        "subject": "Програмні технології мобільних обчислень",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Лашко О.Л.,",
+        "subject": "Методи та засоби опрацювання сигналів і зображень",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79213342407?pwd=tmkBY9OgVaNXCgIl1Kupl8FyHaPnyt.1"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Морозов Ю.В.,",
+        "subject": "Захист інформації в комп`ютерних системах",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78636857808?pwd=DKd5gkitH6cQGgbVDayqAUyYl6zDk6.1"
+        ]
+    }
+]

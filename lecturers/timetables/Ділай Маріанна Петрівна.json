@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "ФЛ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/85106208791?pwd=Y2w2bmpRQVFBbU9ldTRNTE1EOGZndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "ФЛ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/85106208791?pwd=Y2w2bmpRQVFBbU9ldTRNTE1EOGZndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

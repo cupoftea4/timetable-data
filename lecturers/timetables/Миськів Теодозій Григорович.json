@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Охоронні системи та системи комфорту автомобілів",
+        "lecturer": "АТ-23, 115 VI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7324145432?pwd=RklFVE1HZG1Gc1hoMjZVZUpPbGRTUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Охоронні системи та системи комфорту автомобілів",
+        "lecturer": "АТ-31, АТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7324145432?pwd=RklFVE1HZG1Gc1hoMjZVZUpPbGRTUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    }
+]

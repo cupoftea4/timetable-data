@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Прохоренко С.В.,",
+        "subject": "Робототехніка, частина 3",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/fho-wrhn-ucc"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Петровська І.Р.,",
+        "subject": "Теорія керування в робототехніці, частина 1",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/6135821818?pwd=ZlRWUTdXTmdheE55b1o5Wk55RlFRUT09"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Микитин І.П.,",
+        "subject": "Комп`ютерні та інформаційні мережі",
+        "number": 4,
+        "urls": []
+    }
+]

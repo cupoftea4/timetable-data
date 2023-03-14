@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "БДПЦ-11, БДПЦ-12, БДПЦ-13,",
+        "subject": "Економіка і управління будівництвом",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/74192383087?pwd=b4zy6S99tY9Hfz3fE92TXIFvfgKFcp.1"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "БДМТ-11, БДМТ-12,",
+        "subject": "Економіка і управління будівництвом",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/74192383087?pwd=b4zy6S99tY9Hfz3fE92TXIFvfgKFcp.1"
+        ]
+    }
+]

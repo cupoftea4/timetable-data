@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Гладун В.Р.,",
+        "subject": "Дискретна математика, частина 2",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aabeIMpSZ5ZgtgVnK7QMijok6L4rKGd4dY6yNFko2klo1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=893f2d69-f7c4-46c2-9201-dcd122369a88&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Мединський І.П.,",
+        "subject": "Диференціальні рівняння",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Вислободська І.М., Крайник Л.Б.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/86261504838?pwd=cURrM0p6TzNweDJzemo5dUNOL3ZXdz09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Костробій П.П.,",
+        "subject": "Математичний аналіз, частина 3",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/soe-ixmy-hek"
+        ]
+    }
+]

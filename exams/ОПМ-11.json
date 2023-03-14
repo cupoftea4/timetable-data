@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2023-02-25T00:00:00.000Z",
+        "lecturer": "Тивончук О.І.,",
+        "subject": "Бухгалтерський облік в управлінні підприємством",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73926457477?pwd=sUmpaR5e7t9cc44hwzsq79hFXXMwTk.1"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Литвиненко Н.О.,",
+        "subject": "Облік і фінансова звітність за міжнародними стандартами",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Шепель Т.П.,",
+        "subject": "Організація бухгалтерського обліку",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/75552844544?pwd=ibXjlXV17aMXhe-QDqCif8Vrc8ra5h.1%20%20Meeting%20ID:%20755%205284%204544%20Passcode:%20AYt5YK"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Чубай В.М.,",
+        "subject": "Організація і методика аудиту",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/hnz-mxdn-sma"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Нашкерська М.М.,",
+        "subject": "Фінансовий менеджмент",
+        "number": 3,
+        "urls": []
+    }
+]

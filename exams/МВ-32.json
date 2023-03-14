@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Лемко Ю.Р.,",
+        "subject": "Регіональна та транскордонна співпраця",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/6100425148?pwd=NklSYVdnS2RFdUtPS0pIUUN5RVpwZz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Климчук І.І., Сухорольська І.Ю.,",
+        "subject": "Громадська дипломатія",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/75520788483?pwd=cenJfHHkNnbHHE3VAfwGDobW0Q1mnS.1%20https://us04web.zoom.us/j/4223656094?pwd=YWQ1dVo3ZjE1bE1QZkptVW1sMkxMZz09"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Бучин М.А.,",
+        "subject": "Політичні системи зарубіжних країн в умовах глобалізації",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aoPD1tHmuWkrdkwyxmo0w33IPJ_ebWVLtWqJSv7dsDZs1%40thread.tacv2/1669971684541?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2237584722-dc4c-40c8-8c68-d13f94d041c3%22%7d"
+        ]
+    }
+]

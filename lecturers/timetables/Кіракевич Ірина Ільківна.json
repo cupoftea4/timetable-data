@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Бетони і будівельні розчини, заповнювачі для бетонів, частина 2",
+        "lecturer": "БД-35, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3406477454?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-11сп, 319 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3406477454?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-27, 416 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3406477454?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-11сп, 319 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3406477454?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-11сп, 319 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3406477454?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

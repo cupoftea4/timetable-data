@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-11-30T00:00:00.000Z",
+        "lecturer": "ЕО-21,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3379235042?pwd=VXUwQXFub3pQd2F3alBLZ1VrcHZzdz09"
+        ]
+    },
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "ПВ-27,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/3379235042?pwd=VXUwQXFub3pQd2F3alBLZ1VrcHZzdz09"
+        ]
+    },
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "СК-22,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/3379235042?pwd=VXUwQXFub3pQd2F3alBLZ1VrcHZzdz09"
+        ]
+    }
+]

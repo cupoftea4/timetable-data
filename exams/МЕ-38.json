@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Просович О.П.,",
+        "subject": "Операційний менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76303136976?pwd=uJVU_bUDDJiyvJoHpLlWS4LZOV1m-F.1"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Григор'єв О.Ю.,",
+        "subject": "Технологія зовнішньоекономічних операцій",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3anrQckrJ9tLbvlDJkD1BZm_veJUtqqDIXd5Bh0rZ-xyY1%40thread.tacv2/conversations?groupId=9c0c45d5-2221-447c-b971-90b8e213f399&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Кулиняк І.Я.,",
+        "subject": "Управління інноваційною діяльністю",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/73070828780?pwd=k7515NAmfag2uADIqCrS6B1vZmMPCR.1"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Адамів М.Є.,",
+        "subject": "Економічна діагностика діяльності підприємства",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3arVHym57xaOCizz6Xpz9xogGQCIYF00bmKMO1grUFpu01%40thread.tacv2/1670862086189?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224a347e82-4e03-45d7-89cb-89707d823bb5%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Бортнікова М.Г.,",
+        "subject": "Основи управління митною діяльністю",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_mcfqranqQMdjL0ufDF9YND0R5PQmtNKXeOJ-luqNRo1%40thread.tacv2/1669453891639?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22329fb8d1-7f39-4528-b34e-4e0c1f7c905d%22%7d"
+        ]
+    }
+]

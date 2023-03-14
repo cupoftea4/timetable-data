@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "КН-302, 409 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83079922959?pwd=MkMrZXVoS005cTA2T2hZTHM0bDFEZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "КН-304, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85440815833?pwd=cjBnWEJ5RlJvNTZNZG9ITUc0Um5aZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "КН-302, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84866921244?pwd=U3hERW5JNDRVbVNGZkc4M3NMOVdVQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "КН-305, 107a V н.к., 802б V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83733965748?pwd=b3ZFdzRJekMrYkJMU3h1Y3RtNXBmUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "КН-304, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89143069802?pwd=eFlIZU5xRXVQTUZrblZUVGdSN1BFQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "КН-305, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89173591150?pwd=WFlRaWlXRlo4MnZGWEZWeHgxUGlnZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Аудіовізуальна реклама",
+        "lecturer": "ВПКТ-11, 912 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84407900171?pwd=UlhkMUg2V05LK1Z4d013ejBodjBtQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Аудіовізуальна реклама",
+        "lecturer": "ВПКТ-11, 908 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88531802599?pwd=SUtIMUg1ZnNyOWRWZnZnNStEcGhUdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Аудіовізуальна реклама",
+        "lecturer": "ВПКТ-12, 908 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88531802599?pwd=SUtIMUg1ZnNyOWRWZnZnNStEcGhUdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Аудіовізуальна реклама",
+        "lecturer": "ВПКТ-12, 908 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81602222685?pwd=SCtCQlFKWlNrZHY2aXdmRHBkWXBUUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Аудіовізуальна реклама",
+        "lecturer": "ВПКТ-11, 908 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81602222685?pwd=SCtCQlFKWlNrZHY2aXdmRHBkWXBUUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "КН-218, 804а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89433922607?pwd=Q3ZJSXZtZnBoQmpOUE1jNHpYRnErZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "КН-218, 804а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/89738247701?pwd=dW9pTFhZeHpDejhwM3RreUl5ZU1mQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

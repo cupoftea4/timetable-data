@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "ДКІБ-11, ДКІБ-12,",
+        "subject": "Технології управлінського документообігу",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2e33fb33b3384b61ab27ca7dd1bf13db%40thread.tacv2/1675758385162?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224895e068-983c-4130-9bd1-29e08d895f9f%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-28T00:00:00.000Z",
+        "lecturer": "ДКІБ-11f,",
+        "subject": "Технології управлінського документообігу",
+        "number": 5,
+        "urls": [
+            "https://us05web.zoom.us/j/82959065986?pwd=WS9VYi9ib01QUTdXaS8wRWw1SStDZz09"
+        ]
+    }
+]

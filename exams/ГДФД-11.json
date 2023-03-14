@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Бурштинська Х.В.,",
+        "subject": "Геоматика та дистанційні методи в дослідженні територій",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aecea6d13f6ba4e2cbbe5ac2750a4ce87%40thread.tacv2/conversations?groupId=a97d0824-33c0-4405-b97d-51b994aa86db&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Курильців Р.М.,",
+        "subject": "Землевпорядне проектування",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/8795688005?pwd=aFUzMDhIUnVFSnExMmx4UFN3S3p1UT09"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Глотов В.М.,",
+        "subject": "Прикладна фотограмметрія",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ae5xk6LLHryZocjWvoi-tK02SyppTnMLW5VMCT2VtfBQ1%40thread.tacv2/conversations?groupId=0f1e9e44-dc96-468c-9dca-414727b200c5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

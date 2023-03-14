@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Марусаж Х.І.,",
+        "subject": "Картографія",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6_2PIyj9zlSTk2GPjoyRzwXmYYY-aSaKC8x8ALxrxaA1%40thread.tacv2/conversations?groupId=2679ea5f-796c-40aa-ace5-91369d8a0154&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Музика Н.М.,",
+        "subject": "Основи інвентаризації нерухомості",
+        "number": 2,
+        "urls": []
+    }
+]

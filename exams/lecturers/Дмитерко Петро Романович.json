@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "МПРС-11,",
+        "subject": "Програмування процесів роботизованого виробництва",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSc4MzBFwaja6H2rX_fvpog4gwAYE2k5d6qObR1RLB-A1%40thread.tacv2/conversations?groupId=d14d8224-d314-42e0-be53-ffc79b494495&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-27T00:00:00.000Z",
+        "lecturer": "МПТП-11,",
+        "subject": "Комп`ютерні технології в формоутворенні і композиції обладнання",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aqt7KXL8jBh3kPuVzdYeuT8p_td9uyADI7SlpYt0ks-I1%40thread.tacv2/conversations?groupId=b07c5ca4-d9d3-489d-bfe2-2510e7c143ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

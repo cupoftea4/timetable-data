@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "МЕ-43,",
+        "subject": "Економіка та організування туристичної діяльності",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/8289610449?pwd=RkkzdzB5OVFOVG10N28vdEZLQWhIQT09%20%20Meeting%20ID:%20828%20961%200449%20Passcode:%2011"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "МЕ-43,",
+        "subject": "Івент менеджмент",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/8289610449?pwd=RkkzdzB5OVFOVG10N28vdEZLQWhIQT09%20%20Meeting%20ID:%20828%20961%200449%20Passcode:%2011"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "МЕ-34,",
+        "subject": "Планування бізнес-процесів туристичних і рекреаційних організацій",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/8289610449?pwd=RkkzdzB5OVFOVG10N28vdEZLQWhIQT09%20%20Meeting%20ID:%20828%20961%200449%20Passcode:%2011"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "СМУС-11, СМУС-12,",
+        "subject": "Проектний менеджмент і креативне підприємництво",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/8289610449?pwd=RkkzdzB5OVFOVG10N28vdEZLQWhIQT09%20%20Meeting%20ID:%20828%20961%200449%20Passcode:%2011"
+        ]
+    }
+]

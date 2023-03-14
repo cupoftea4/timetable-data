@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Сучасні механізми захисту прав людини",
+        "lecturer": "ПВа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/kov-mzmy-vny"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні механізми захисту прав людини",
+        "lecturer": "ПВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/kov-mzmy-vny"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні механізми захисту прав людини",
+        "lecturer": "ПВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/dpn-wasn-dko"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

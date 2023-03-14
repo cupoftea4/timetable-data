@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-27T00:00:00.000Z",
+        "lecturer": "Онищук О.В.,",
+        "subject": "Філософія і методологія науки",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/74006924558?pwd=whgibZkNNEPQqhB6kFOljqgpRJP7ak.1"
+        ]
+    },
+    {
+        "date": "2022-12-22T00:00:00.000Z",
+        "lecturer": "Ковалишин В.В.,",
+        "subject": "Системний аналіз на транспорті",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5z5ipSY0Xae_Bpl_GrM_UasMpsoDTUA1mhHGTx_R9Ko1%40thread.tacv2/conversations?groupId=f6f89a48-c1e1-4259-a815-0a1d8e64a52a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

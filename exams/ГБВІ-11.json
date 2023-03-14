@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Мацієвська О.О.,",
+        "subject": "Водовідвідні очисні споруди",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Попадюк І.Ю.,",
+        "subject": "Прикладна гідромеханіка",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Вербовський О.В.,",
+        "subject": "Споруди водопідготовки",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/3297823306?pwd=TlR5bi82VDJLTllpTW44Q3ZrTnkxUT09"
+        ]
+    }
+]

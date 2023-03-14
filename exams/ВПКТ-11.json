@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Кинаш Ю.Є.,",
+        "subject": "Автоматизація обробки текстової та графічної інформації",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/heb-ykwm-efy"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Гринів Т.Т.,",
+        "subject": "Економіка і управління підприємством",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2473r8TrxhVnMYGk22zHn9nP09Hc_QUHpygNFFo-mQQ1%40thread.tacv2/conversations?groupId=e51c73bf-f65a-4799-b339-4ecd142c656b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Кинаш Ю.Є.,",
+        "subject": "Інструментальні засоби побудови систем додрукарської підготовки",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/heb-ykwm-efy"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Ковівчак Я.В.,",
+        "subject": "Проектування систем видавничо-поліграфічних виробництв",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2RkMzZiZTMtMTUxYy00N2E0LWIxZTMtZGU3Y2VmZjM4YTBh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d"
+        ]
+    }
+]

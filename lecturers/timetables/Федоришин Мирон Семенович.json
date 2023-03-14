@@ -1,0 +1,101 @@
+[
+    {
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "lecturer": "ФЛ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a--2PMWjZAKuoaDUS-piqXBJ7EqMItKI47O_-EBJqRmI1%40thread.tacv2/1676993036025?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2251af4650-f73b-483b-9f2e-e0dfd7697d17%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "lecturer": "ФЛ-48, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBVaTNMH5rxmWzHJcqX7Y4aWZvrtTmmrK2hhzf1oYYLs1%40thread.tacv2/1676992626411?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2251af4650-f73b-483b-9f2e-e0dfd7697d17%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "lecturer": "ФЛ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVFomWD4hgPc2nk-3lk3JcAxaoWFl-LN55mSehUGZd901%40thread.tacv2/1676993245043?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2251af4650-f73b-483b-9f2e-e0dfd7697d17%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "ФЛ-26, 34 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "ФЛ-26, 34 VII н.к., ",
+        "location": ", практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "lecturer": "ФЛ-48, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aH-pqcYmcTGVQzgu0pcZIDCVe3nFKaJca8F_Gc9s6CcQ1%40thread.tacv2/1676994103537?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2251af4650-f73b-483b-9f2e-e0dfd7697d17%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Японська мова",
+        "lecturer": "ЯМО-ІМ-207, 34 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

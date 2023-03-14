@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Гошовська О.В.,",
+        "subject": "Теорія конкуренції",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3an19BgVX7lIMMoEbfv04SCtnwzeec6vzOTA-z4i3C5ss1%40thread.tacv2/conversations?groupId=98fb75de-c60f-4751-bbf5-2a19ac4b9c39&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Михальчишин Н.Л.,",
+        "subject": "Теорія галузевих ринків",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9b051798d592423da0570205534c7884%40thread.tacv2/conversations?groupId=f618379b-114e-49fc-88a6-ffcb4b398977&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Іваськевич Х.І.,",
+        "subject": "Державні закупівлі",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Пушак Г.І.,",
+        "subject": "Ціни та ціноутворення",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/83232569458?pwd=djh2WkJTTGtmNkx5MzhqeWQ4QVArUT09"
+        ]
+    }
+]

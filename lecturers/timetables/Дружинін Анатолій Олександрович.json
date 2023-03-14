@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Твердотільна електроніка, частина 2",
+        "lecturer": "МН-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/9068448895?pwd=YzhUeFd3QWx2RHpvT1l3OVdPd3RCQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Твердотільна електроніка, частина 2",
+        "lecturer": "МН-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/9068448895?pwd=YzhUeFd3QWx2RHpvT1l3OVdPd3RCQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

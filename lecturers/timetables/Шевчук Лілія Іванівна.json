@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Харчові технології, частина 1",
+        "lecturer": "ХР-21, 117 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8721419227?pwd=Z1ppR3lsYUFqMHRlZzNtcllJdXcrdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Харчові технології, частина 1",
+        "lecturer": "ХР-21, 117 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8721419227?pwd=Z1ppR3lsYUFqMHRlZzNtcllJdXcrdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Промислова екологія в технології органічного синтезу",
+        "lecturer": "ХТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8721419227?pwd=Z1ppR3lsYUFqMHRlZzNtcllJdXcrdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Промислова екологія в технології органічного синтезу",
+        "lecturer": "ХТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8721419227?pwd=Z1ppR3lsYUFqMHRlZzNtcllJdXcrdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

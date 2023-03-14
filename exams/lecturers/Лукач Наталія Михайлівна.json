@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "ЕЕЕБ-11,",
+        "subject": "Енергетична дипломатія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/83262620078?pwd=V1NMZlpCSGdhbkduMC80SFA1Z3RUZz09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "МВМВ-11, МВМВ-12,",
+        "subject": "Актуальні проблеми зовнішньої політики України та міжнародних відносин",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/86281064911?pwd=bXE5YzZ3UUpQZUVkUDEreCtiOXByZz09"
+        ]
+    }
+]

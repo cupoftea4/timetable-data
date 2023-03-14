@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Інформаційне право",
+        "lecturer": "ПВ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75564073070?pwd=bgUsGKeBfuJ2XANA28vZSj0tgblPKk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційне право",
+        "lecturer": "ПВ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75564073070?pwd=bgUsGKeBfuJ2XANA28vZSj0tgblPKk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційне право",
+        "lecturer": "ПВ-49, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75564073070?pwd=bgUsGKeBfuJ2XANA28vZSj0tgblPKk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційне право",
+        "lecturer": "ПВ-45, ПВ-47, ПВ-49, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75564073070?pwd=bgUsGKeBfuJ2XANA28vZSj0tgblPKk.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

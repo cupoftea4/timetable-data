@@ -1,0 +1,88 @@
+[
+    {
+        "subject": "Національна система оподаткування",
+        "lecturer": "УАі-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79295224010?pwd=eVDDOIazB5D9IbEzeYsucgpYK9KLZe.1%20%20Meeting%20ID:%20792%209522%204010%20Passcode:%20k28aKY"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "ТРС-АФМ-214, 405 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73798416536?pwd=EdSOxZBC8NG04Og8pKzblnmpRMGbTy.1%20%20Meeting%20ID:%20737%209841%206536%20Passcode:%20Ktqzq0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Національна система оподаткування",
+        "lecturer": "УАі-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78286792452?pwd=4hm03zf0aHh7EvCrOtSXGbr3yugobT.1%20%20Meeting%20ID:%20782%208679%202452%20Passcode:%20EAsAj0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "ТРС-АФМ-213, ТРС-АФМ-214, ТРС-АФМ-215, ТРС-АФМ-216, 217 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "ТРС-АФМ-213, 107 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "ТРС-АФМ-220, ТРС-АФМ-221, ТРС-АФМ-222, 321 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74109948172?pwd=SkrHjUTOCEUtFNT3XiovRBSojtgtQ6.1%20%20Meeting%20ID:%20741%200994%208172%20Passcode:%20Upt27k"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

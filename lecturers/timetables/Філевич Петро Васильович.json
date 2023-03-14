@@ -1,0 +1,133 @@
+[
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "КБ-17, КБ-18, КБ-19, КБ-110, 322 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRmT710kKa-gzXmGo5Kq37WkRoeomdQ4lKjleWtTcUbo1%40thread.tacv2/conversations?groupId=d94105da-c69a-4899-ab08-12d26bf5dd38&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Математичний аналіз",
+        "lecturer": "ОІ-11, ОІ-12, ОІ-13, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMAGqN2In9fgI2BY_eFAtpyJXyyBlonPMWNJLUV0PEHU1%40thread.tacv2/conversations?groupId=7c28c518-fcdd-46d2-a6d9-1342ff0f1ff0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Математичний аналіз",
+        "lecturer": "ОІ-11, ОІ-12, ОІ-13, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMAGqN2In9fgI2BY_eFAtpyJXyyBlonPMWNJLUV0PEHU1%40thread.tacv2/conversations?groupId=7c28c518-fcdd-46d2-a6d9-1342ff0f1ff0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теорія ймовірностей, ймовірнісні процеси та математична статистика",
+        "lecturer": "ІР-21, ІР-22, ІР-23, ІР-24, 322 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aM_Ci2Bax6mJm3da871UCQdjILuHIacbCC865Lo9kIj01%40thread.tacv2/conversations?groupId=b4b84906-da9b-4c4d-a515-13183403af17&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "КБ-17, КБ-18, КБ-19, КБ-110, 322 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRmT710kKa-gzXmGo5Kq37WkRoeomdQ4lKjleWtTcUbo1%40thread.tacv2/conversations?groupId=d94105da-c69a-4899-ab08-12d26bf5dd38&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Математичний аналіз",
+        "lecturer": "ОІ-11, 109 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Математичний аналіз",
+        "lecturer": "ОІ-13, 406 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMAGqN2In9fgI2BY_eFAtpyJXyyBlonPMWNJLUV0PEHU1%40thread.tacv2/conversations?groupId=7c28c518-fcdd-46d2-a6d9-1342ff0f1ff0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичний аналіз",
+        "lecturer": "ОІ-13, 109 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMAGqN2In9fgI2BY_eFAtpyJXyyBlonPMWNJLUV0PEHU1%40thread.tacv2/conversations?groupId=7c28c518-fcdd-46d2-a6d9-1342ff0f1ff0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Математика в публічному адмініструванні, частина 2",
+        "lecturer": "УАі-11, 507 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

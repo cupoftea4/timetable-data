@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "КБ-37, КБ-38, КБ-39,",
+        "subject": "Методи та засоби технічного захисту інформації, частина 1",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "КБ-34, КБ-35, КБ-36,",
+        "subject": "Методи та засоби технічного захисту інформації, частина 1",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КБ-31, КБ-32, КБ-33,",
+        "subject": "Методи та засоби технічного захисту інформації, частина 1",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ]
+    }
+]

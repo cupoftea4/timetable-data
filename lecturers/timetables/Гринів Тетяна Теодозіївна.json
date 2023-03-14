@@ -1,0 +1,110 @@
+[
+    {
+        "subject": "Антикризове управління підприємством",
+        "lecturer": "АУП-ОА-301, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8n7AAlCyW6VcK5OlQebs7cC0Jii0QwQiVd9OvMGAmZM1%40thread.tacv2/conversations?groupId=aaec4e2d-3e0c-47c8-9a21-451610894111&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Антикризове управління підприємством",
+        "lecturer": "АУП-ОА-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8n7AAlCyW6VcK5OlQebs7cC0Jii0QwQiVd9OvMGAmZM1%40thread.tacv2/conversations?groupId=aaec4e2d-3e0c-47c8-9a21-451610894111&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "БІА-ОА-203, 109 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "БІА-ОА-206, 405 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "БІА-ОА-204, БІА-ОА-205, БІА-ОА-206, БІА-ОА-207, 212 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "БІА-ОА-205, 202 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "БІА-ОА-204, 202 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-аналіз",
+        "lecturer": "БІА-ОА-207, 202 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Ройко Ю.Я.,",
+        "subject": "Організація дорожнього руху, частина 2",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aIcuIGzpcfX0e-DSkqB2vHqw1phiLpdD8HTqq27aoP741%40thread.tacv2/conversations?groupId=46422230-c707-4c58-a9f0-26d760f46121&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Гурей Т.А.,",
+        "subject": "Екологічні характеристики схем організації дорожнього руху",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag0OdfJUmLk_MwKKdw9RtZcE9SXdEkEBfQT4kEPb_EZw1%40thread.tacv2/1669760738632?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Гурей Т.А.,",
+        "subject": "Інформаційні технології",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag0OdfJUmLk_MwKKdw9RtZcE9SXdEkEBfQT4kEPb_EZw1%40thread.tacv2/1669760822395?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Прасоленко О.В.,",
+        "subject": "Транспортне планування міст",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Ковалишин В.В.,",
+        "subject": "Технічні засоби організації дорожнього руху",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3agF92VgzH5X3L8uV-5u96Z9CndFGCImLq5vCr0zTP5_E1%40thread.tacv2/conversations?groupId=5a7dd02e-0542-4154-9783-3fb38543a80c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

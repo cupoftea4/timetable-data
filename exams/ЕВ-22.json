@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Босак А.О.,",
+        "subject": "Міжнародна економіка",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Вербова Р.М.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6949009441?pwd=TE5ZSkhpNUVzZEYxWXBKZ0dMQ0JPZz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Лихолат С.М.,",
+        "subject": "Маркетинг",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71079994637?pwd=lLc5FccY8MCuad6Dv4HkZoh8KtbO5I.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Воскресенська Т.І.,",
+        "subject": "Бухгалтерський облік",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/89154839026?pwd=K00rWTZPRlRRRzRzeEl3Ynl0T3g5dz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Загорецька О.Я.,",
+        "subject": "Економіка підприємства",
+        "number": 2,
+        "urls": []
+    }
+]

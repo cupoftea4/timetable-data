@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-26T00:00:00.000Z",
+        "lecturer": "Карівець І.В.,",
+        "subject": "Філософія і методологія науки",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSdcDg-0dwCyVVYRxwifMSXCp_ZrwN0Z_ArI0u8-FmEQ1%40thread.tacv2/conversations?groupId=569f1300-0faf-4504-8534-99aa85890b47&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-22T00:00:00.000Z",
+        "lecturer": "Князь С.В.,",
+        "subject": "Евристика та синектика",
+        "number": 3,
+        "urls": []
+    }
+]

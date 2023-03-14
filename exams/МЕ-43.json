@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Бондаренко Ю.Г.,",
+        "subject": "Економіка та організування туристичної діяльності",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/8289610449?pwd=RkkzdzB5OVFOVG10N28vdEZLQWhIQT09%20%20Meeting%20ID:%20828%20961%200449%20Passcode:%2011"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Новаківський І.І.,",
+        "subject": "Управління комунікаціями туристичних організацій",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Лісовська Л.С.,",
+        "subject": "Економічне оцінювання інноваційних процесів в індустрії туризму і рекреації",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76509696007?pwd=aERZEiRJn7mO3DLhIuLjPMt3U9vkNM.1"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Бондаренко Ю.Г.,",
+        "subject": "Івент менеджмент",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/8289610449?pwd=RkkzdzB5OVFOVG10N28vdEZLQWhIQT09%20%20Meeting%20ID:%20828%20961%200449%20Passcode:%2011"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Просович О.П.,",
+        "subject": "Стратегічне управління інноваційним розвитком організації",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76303136976?pwd=uJVU_bUDDJiyvJoHpLlWS4LZOV1m-F.1"
+        ]
+    }
+]

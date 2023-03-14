@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Кузьо І.В.,",
+        "subject": "Теоретична механіка, частина 2",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjM3OTdjM2UtYzBmZS00ZjE5LWEzMWMtMWRhNjllMDBmNDg2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2251fbda10-4dc0-4274-8683-65203dda79f2%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Стебельська О.І.,",
+        "subject": "Філософія",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78263688369?pwd=FDRpkvT6aMFEpsrdOfarQCIE8bHdaQ.1"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Дурягіна З.А., Лемішка І.А.,",
+        "subject": "Матеріалознавство та технологія конструкційних матеріалів",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Харченко Є.В.,",
+        "subject": "Опір матеріалів",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Зелінський І.Д.,",
+        "subject": "Електроніка та мікропроцесорна техніка",
+        "number": 1,
+        "urls": []
+    }
+]

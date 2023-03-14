@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "МЕ-41, МЕ-42,",
+        "subject": "Стратегічне управління  підприємством",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/88402608420?pwd=TVR4T0FVNnRGQlduY3BsZmdJTUl5UT09"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "МЕІД-11,",
+        "subject": "Управління інноваційним розвитком організації",
+        "number": 5,
+        "urls": [
+            "https://us02web.zoom.us/j/88481187203?pwd=Zm5hRTR1VC8yNlpxTys1TlIxOFpwQT09"
+        ]
+    }
+]

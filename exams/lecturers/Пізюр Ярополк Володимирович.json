@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПМ-31, ПМ-32,",
+        "subject": "Комп`ютерний інструментарій математичного моделювання",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a59da9b125f544086a8eb1aac97e01a0b%40thread.tacv2/conversations?groupId=cec6e5fe-4ded-414b-a444-61df2933b266&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "КНІК-11,",
+        "subject": "Теорія масового обслуговування",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Корозія та захист від корозії",
+        "lecturer": "МЗ-22, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjVjNjlmZGQtOTE2OS00NjA4LTgzOTAtZTc4MTE5NWFiYmRi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d7d73b5c-dd17-4d88-ae3b-fce35ba16d5c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Корозія та захист від корозії",
+        "lecturer": "МЗ-22, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjVjNjlmZGQtOTE2OS00NjA4LTgzOTAtZTc4MTE5NWFiYmRi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d7d73b5c-dd17-4d88-ae3b-fce35ba16d5c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Корозія та захист від корозії",
+        "lecturer": "МЗ-22, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmQ3ODZhZDYtOTFjMi00M2IwLTk2YmUtY2FjYTBlYmUwODc1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d7d73b5c-dd17-4d88-ae3b-fce35ba16d5c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

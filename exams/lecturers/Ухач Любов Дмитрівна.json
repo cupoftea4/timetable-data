@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "ПВ-22,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78476887467?pwd=eCEUa3hqvj81dAbAeenaBoHZSFyREg.1%20%20Meeting%20ID:%20784%207688%207467%20Passcode:%201u8nhS",
+            "https://us04web.zoom.us/j/74102742436?pwd=2ljJ8w31TNddhYItfPpVeUuEaUBWU9.1%20%20Meeting%20ID:%20741%200274%202436%20Passcode:%20TqvX2U"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "СЗ-22,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/75634103478?pwd=hIP6E5XPw9FOLOor42iUUToAycIYJL.1%20%20Meeting%20ID:%20756%203410%203478%20Passcode:%204PgL90"
+        ]
+    },
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "СК-23,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/71066593210?pwd=1jwoXtun7b3gxKWWZLJdyJZOoszfZw.1%20%20Meeting%20ID:%20710%206659%203210%20Passcode:%20H00yk2"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ЖР-23,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/74378612243?pwd=04o6kF2bNSVbba9PPmEXEDhiSesCZ2.1%20%20Meeting%20ID:%20743%207861%202243%20Passcode:%20t1y5sX"
+        ]
+    }
+]

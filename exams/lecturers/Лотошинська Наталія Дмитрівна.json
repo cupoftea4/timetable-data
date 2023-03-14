@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "ВП-31, ВП-32,",
+        "subject": "Макетування і дизайн",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71959399249?pwd=hNdhEYdjCICc1qMPJNLveyUERFe84k.1"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "ВП-21, ВП-22,",
+        "subject": "Основи видавничої та друкарської справи",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79134399871?pwd=Ko3OQmnptuJB6xRKBWPeeXePiE4ogv.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ВП-41, ВП-42,",
+        "subject": "Сучасні поліграфічні матеріали",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/74401087650?pwd=myYgskiHE6frwKbJQjYvnPAuslHNa6.1"
+        ]
+    }
+]

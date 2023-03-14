@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Максимович С.Б.,",
+        "subject": "Будівельні конструкції",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/6345292497?pwd=NW9aSnRpZ3F6VXJkVnNVa2JYWU5kZz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Марків Т.Є.,",
+        "subject": "Бетони і будівельні розчини, заповнювачі для бетонів, частина 1",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/8390308317?pwd=VVEvTmNFbUQzTjdKaUdtdlBaTlh3QT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Марущак У.Д.,",
+        "subject": "Процеси і апарати у виробництві будівельних конструкцій, виробів і матеріалів",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aEkoROIRoCgC1sNp2qlyox1bZu6WsKmVnsb1Nyem_ePo1%40thread.tacv2/1670747913613?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd19b86d-0109-4b21-958e-2003f29574dc%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Кропивницька Т.П., Саницький М.А.,",
+        "subject": "В`яжучі речовини",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ad23f489386184f338ff2d4396e248151%40thread.tacv2/conversations?groupId=1592aca4-189f-4046-9f22-3d0d2f9b8637&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

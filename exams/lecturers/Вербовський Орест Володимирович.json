@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ГБ-41,",
+        "subject": "Раціональне використання та охорона водних ресурсів",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "БД-310,",
+        "subject": "Гідравлічні та аеродинамічні машини",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ГБ-31,",
+        "subject": "Гідравлічні машини",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "БДВВ-11, БДВВ-12,",
+        "subject": "Очищення природних вод",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/3297823306?pwd=TlR5bi82VDJLTllpTW44Q3ZrTnkxUT09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "ГБВІ-11,",
+        "subject": "Споруди водопідготовки",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/3297823306?pwd=TlR5bi82VDJLTllpTW44Q3ZrTnkxUT09"
+        ]
+    }
+]

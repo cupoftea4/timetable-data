@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Маслак О.О.,",
+        "subject": "Міжнародний фондовий ринок",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Передало Х.С.,",
+        "subject": "Управління міжнародними проектами та програмами",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Чиркова Ю.Л.,",
+        "subject": "Бюджетування зовнішньоекономічної діяльності",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aAqCeh1W0BQftFvNYe-jH-n66gsP4Q8MrNLBoybIrRzo1%40thread.tacv2/1670235456725?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f89679dc-9cfe-43a9-82c0-cc8803370204%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Моторнюк У.І.,",
+        "subject": "Міжнародні кредитно-розрахункові та валютні операції",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aN7iHJVooMeMlf7Hs3ymu_gw5mug5u3fWIIChVaqXORk1%40thread.tacv2/conversations?groupId=ff63dd34-7520-4822-988d-f9a970232bae&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Бортнікова М.Г.,",
+        "subject": "Управління контрактною діяльністю",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aw13FWBn15TiTNPH3_lrrrXYG2jVFGRHdnHyLThTmQbc1%40thread.tacv2/1669453817552?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22329fb8d1-7f39-4528-b34e-4e0c1f7c905d%22%7d"
+        ]
+    }
+]

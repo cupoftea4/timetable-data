@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Державний фінансовий контроль",
+        "lecturer": "ОПАГ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4FnIr0guT8IR7LxkWy-LEna4d-KHx4I_AOqkgd2pGtg1%40thread.tacv2/1677495875449?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e3befa71-ae78-48ca-8a9d-1342f3c88ad6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Податкове планування",
+        "lecturer": "ОПАГ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ailfWDG7jONX3iYpoSvc89IqsYKm-oE-UvWKVjG3bAH81%40thread.tacv2/1677495115283?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e3befa71-ae78-48ca-8a9d-1342f3c88ad6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Концептуальні засади, методи та інструментарій податкового планування",
+        "lecturer": "ОПа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3acxDki4n4pXgsO5M3bWVqywBK6tZGgPWcHuZAa_3P40Y1%40thread.tacv2/1676377575134?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e3befa71-ae78-48ca-8a9d-1342f3c88ad6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Концептуальні засади, методи та інструментарій податкового планування",
+        "lecturer": "ОПа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4FnIr0guT8IR7LxkWy-LEna4d-KHx4I_AOqkgd2pGtg1%40thread.tacv2/1676482341475?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e3befa71-ae78-48ca-8a9d-1342f3c88ad6%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

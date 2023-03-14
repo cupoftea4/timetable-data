@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Маркетинг бібліотечних та архівних послуг",
+        "lecturer": "Вовк Н.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82959065986?pwd=WS9VYi9ib01QUTdXaS8wRWw1SStDZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Електронна демократія",
+        "lecturer": "Федушко С.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71104458597?pwd=ejLfFGNESW0QhAO5TbYKvKw8JaU4bx.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Організація роботи з архівними та бібліотечними фондами",
+        "lecturer": "Петрушка А.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74216915880?pwd=r9RjMawEIfnUA0lUxWESsNgRGaYJm2.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електронна демократія",
+        "lecturer": "Федушко С.С., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71104458597?pwd=ejLfFGNESW0QhAO5TbYKvKw8JaU4bx.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління якістю бібліотечної та архівної справи",
+        "lecturer": "Мина Ж.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:1ef9c01cc5ab4f71acf45797f97be91a@thread.tacv2/1677251654457?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=88962d8d-aa10-4b5a-bb0c-520bc68c42bd&parentMessageId=1677251654457&teamName=%D0%94%D0%9A%D0%86%D0%91-1x%20%D0%BC%D0%B0%D0%B3%D1%96%D1%81%D1%82%D1%80%D0%B8&channelName=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F%20%D1%8F%D0%BA%D1%96%D1%81%D1%82%D1%8E%20%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D1%87%D0%BD%D0%BE%D1%97%20%D1%82%D0%B0%20%D0%B0%D1%80%D1%85%D1%96%D0%B2%D0%BD%D0%BE%D1%97%20%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8&createdTime=1677251654457&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні технології організації бізнесу",
+        "lecturer": "Думанський Н.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4441149040?pwd=TC9xczkvQVgzbjdNUEZRTWlSNEFhQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Електронні послуги",
+        "lecturer": "Думанський Н.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4441149040?pwd=TC9xczkvQVgzbjdNUEZRTWlSNEFhQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Електронні послуги",
+        "lecturer": "Думанський Н.О., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4441149040?pwd=TC9xczkvQVgzbjdNUEZRTWlSNEFhQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні технології організації бізнесу",
+        "lecturer": "Марковець О.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82832353053?pwd=TzRjSVdhaDdncTNhckdkUzFSZ3VnUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Маркетинг бібліотечних та архівних послуг",
+        "lecturer": "Вовк Н.С., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82959065986?pwd=WS9VYi9ib01QUTdXaS8wRWw1SStDZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація роботи з архівними та бібліотечними фондами",
+        "lecturer": "Петрушка А.І., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77363491681?pwd=idvula1vAZYS7friz4t2vbw45NGW8s.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління якістю бібліотечної та архівної справи",
+        "lecturer": "Мина Ж.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:1ef9c01cc5ab4f71acf45797f97be91a@thread.tacv2/1677252423952?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=88962d8d-aa10-4b5a-bb0c-520bc68c42bd&parentMessageId=1677252423952&teamName=%D0%94%D0%9A%D0%86%D0%91-1x%20%D0%BC%D0%B0%D0%B3%D1%96%D1%81%D1%82%D1%80%D0%B8&channelName=%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F%20%D1%8F%D0%BA%D1%96%D1%81%D1%82%D1%8E%20%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D1%87%D0%BD%D0%BE%D1%97%20%D1%82%D0%B0%20%D0%B0%D1%80%D1%85%D1%96%D0%B2%D0%BD%D0%BE%D1%97%20%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%B8&createdTime=1677252423952&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

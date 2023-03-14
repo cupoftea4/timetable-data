@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Дорошенко А.В., 807 V н.к.,",
+        "subject": "Організація баз даних та знань",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Філевич П.В., 109 I н.к.,",
+        "subject": "Теорія ймовірності, ймовірнісні процеси та математична статистика",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBLuLSmx-EJZC1mMduxzt5M2BtoNINwOa12gS5HajKNQ1%40thread.tacv2/conversations?groupId=c6298830-1d85-4825-a939-88e796e38f61&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Зербіно Д.Д., 807 V н.к.,",
+        "subject": "Операційні системи",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Скорохода О.В., 807 V н.к.,",
+        "subject": "Прикладне програмування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79262851746?pwd=q9bq2c61JzEu2JoLwz4Q299O18nHYJ.1"
+        ]
+    }
+]

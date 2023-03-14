@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Аерокосмічні знімальні системи",
+        "lecturer": "ГДГТ-11, ГДФД-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ay1kxHEd2xOuXY9akot9rxtIEw6oYsnf9wqg-wcb4iEg1%40thread.tacv2/conversations?groupId=e274211d-b495-4212-9965-4b404a786e76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Аерокосмічні знімальні системи і ДЗЗ",
+        "lecturer": "НЗКМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ay1kxHEd2xOuXY9akot9rxtIEw6oYsnf9wqg-wcb4iEg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e274211d-b495-4212-9965-4b404a786e76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Аерокосмічні знімальні системи",
+        "lecturer": "ГДФД-11, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ay1kxHEd2xOuXY9akot9rxtIEw6oYsnf9wqg-wcb4iEg1%40thread.tacv2/conversations?groupId=e274211d-b495-4212-9965-4b404a786e76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Аерокосмічні знімальні системи і ДЗЗ",
+        "lecturer": "НЗКМ-11, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ay1kxHEd2xOuXY9akot9rxtIEw6oYsnf9wqg-wcb4iEg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e274211d-b495-4212-9965-4b404a786e76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

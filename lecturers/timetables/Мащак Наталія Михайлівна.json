@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Інтернет-маркетинг",
+        "lecturer": "ІНМ-МЛ-305, ІНМ-МЛ-306, ІНМ-МЛ-307, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOLDwQjORB_Jmq_paefe9pmY74qOJ2VFP4h6kgQpzquU1%40thread.tacv2/conversations?groupId=929c9a11-7e87-4763-b2f7-6eb89028a813&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інтернет-маркетинг",
+        "lecturer": "ІНМ-МЛ-305, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOLDwQjORB_Jmq_paefe9pmY74qOJ2VFP4h6kgQpzquU1%40thread.tacv2/conversations?groupId=929c9a11-7e87-4763-b2f7-6eb89028a813&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інтернет-маркетинг",
+        "lecturer": "ІНМ-МЛ-306, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOLDwQjORB_Jmq_paefe9pmY74qOJ2VFP4h6kgQpzquU1%40thread.tacv2/conversations?groupId=929c9a11-7e87-4763-b2f7-6eb89028a813&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інтернет-маркетинг",
+        "lecturer": "ІНМ-МЛ-307, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOLDwQjORB_Jmq_paefe9pmY74qOJ2VFP4h6kgQpzquU1%40thread.tacv2/conversations?groupId=929c9a11-7e87-4763-b2f7-6eb89028a813&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Логістика",
+        "lecturer": "МЕ-21f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77007616793?pwd=qtpLY6fAKXJ07vfycMn7Bi8RQISSJv.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Логістика",
+        "lecturer": "МЕ-21f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74885014205?pwd=XdYKWqLdkQ4OGZsbH6aIFeBAxvSsGE.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Медіа-планування",
+        "lecturer": "МКМА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aqG3ZY-d3XlRu-sbnxw5PGExbu5GwvWmiE8AwqbIaLIc1%40thread.tacv2/conversations?groupId=1acd695f-c7d1-4030-bf9b-a9580d15458c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

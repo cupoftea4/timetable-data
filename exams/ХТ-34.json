@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Моравський В.С.,",
+        "subject": "Методи аналізу полімерної сировини",
+        "number": 1,
+        "urls": [
+            "https://www.google.com/url?q=https://us02web.zoom.us/j/89927867536?pwd%3DS3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09&sa=D&source=calendar&ust=1635158277529646&usg=AOvVaw2bvlkvu4NYB3YFJ57v2ERi"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Братичак М.М.,",
+        "subject": "Структура і властивості високомолекулярних сполук",
+        "number": 3,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77263437224?pwd%3DtO3B2nRGfmpp9vRFVZw6BDsDbbL9JW.1&sa=D&source=calendar&usd=2&usg=AOvVaw15mWLt6gb9UXljWNCZywQc"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Семенюк Н.Б.,",
+        "subject": "Теоретичні основи технології виробництва високомолекулярних сполук",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76414040439?pwd=KlG2uuPr148brdkpzxbqyag1Ik4Li4.1"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Масюк А.С.,",
+        "subject": "Хімічна технологія синтезу високомолекулярних сполук",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/86730790836?pwd=TCt1SVVUNkkwbFA1SURHLzhlYWsvUT09"
+        ]
+    }
+]

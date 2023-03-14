@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "НЗ-41,",
+        "subject": "Топографічне картографування",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/drh-uixh-ptj"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "НЗ-31,",
+        "subject": "Топографічне картографування",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/drh-uixh-ptj"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "НЗ-41,",
+        "subject": "Основи комп`ютерних технологій в картографії",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/drh-uixh-ptj"
+        ]
+    }
+]

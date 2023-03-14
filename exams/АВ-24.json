@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Заяць М.Ф.,",
+        "subject": "Технологічні об`єкти та процеси виробництв",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ]
+    },
+    {
+        "date": "2022-12-07T00:00:00.000Z",
+        "lecturer": "Крих Г.Б.,",
+        "subject": "Теорія автоматичного керування",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/74337042867?pwd=cUtwNmw0TXcxZjZFWGVnYjllL2htZz09"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "МВ-31, МВ-32, МВ-33, МВ-34, МВ-35, МВ-36,",
+        "subject": "Політичні системи зарубіжних країн в умовах глобалізації",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aoPD1tHmuWkrdkwyxmo0w33IPJ_ebWVLtWqJSv7dsDZs1%40thread.tacv2/1669971684541?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2237584722-dc4c-40c8-8c68-d13f94d041c3%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-22T00:00:00.000Z",
+        "lecturer": "ПЛа-11,",
+        "subject": "Прикладна політологія",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzRlODU1NzEtNjU4Yi00Mzc5LTlmZTItYTdhNjFhZjQ2OTdk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2237584722-dc4c-40c8-8c68-d13f94d041c3%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "МВ-11, МВ-12, 313 IV н.к.,",
+        "subject": "Політологія",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "МВ-13, МВ-14, 313 IV н.к.,",
+        "subject": "Політологія",
+        "number": 2,
+        "urls": []
+    }
+]

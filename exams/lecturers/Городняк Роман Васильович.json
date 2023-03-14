@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "МБ-41,",
+        "subject": "Спеціалізовані автотранспортні засоби",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/86119392488?pwd=Q2ZwZ0RDTUdZWWwzYng3d3Y0Y05CZz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "МБ-33,",
+        "subject": "Спеціалізовані автотранспортні засоби",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/85633420807?pwd=NUJ6QmJ0cWs3UmRac0x1cTBkd1FtZz09"
+        ]
+    }
+]

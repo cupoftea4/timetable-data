@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "МТа-21,",
+        "subject": "Наукові основи та практика вдосконалення засобів метрологічного забезпечення",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/5022807035?pwd=dDdScXIxSWdMckFLSEo0amtnV0tOQT09"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "МТЯС-11,",
+        "subject": "Метрологія та інженерія якості продукції",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "МТМВ-11,",
+        "subject": "Тестування інформаційно-вимірювальних систем",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/5022807035?pwd=dDdScXIxSWdMckFLSEo0amtnV0tOQT09"
+        ]
+    }
+]

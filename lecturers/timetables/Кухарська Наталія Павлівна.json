@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-47, КБ-48, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9ohomAw-2nK9YVh0SLNvgeiDwQmyIQ2DcAz2pC6KFJ41%40thread.tacv2/conversations?groupId=09783381-68f9-4ffe-a8d0-1ada7f925fa2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-47, КБ-48, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9ohomAw-2nK9YVh0SLNvgeiDwQmyIQ2DcAz2pC6KFJ41%40thread.tacv2/conversations?groupId=09783381-68f9-4ffe-a8d0-1ada7f925fa2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Системи банківської безпеки",
+        "lecturer": "КБ-37, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4V5evKwLqAsCtQ2DFFSJ7uzrjAV09zSt9jEDZLUAcuk1%40thread.tacv2/conversations?groupId=b743d16b-5798-48f3-aca2-0fa741aaed16&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Системи банківської безпеки",
+        "lecturer": "КБ-37, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4V5evKwLqAsCtQ2DFFSJ7uzrjAV09zSt9jEDZLUAcuk1%40thread.tacv2/conversations?groupId=b743d16b-5798-48f3-aca2-0fa741aaed16&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Системи банківської безпеки",
+        "lecturer": "КБ-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXr5LgchsNC2HIQ_iv_EieVnW2fH8u_Qu0ZBx4QsjDpY1%40thread.tacv2/conversations?groupId=a3114fcf-302d-4ffd-a975-47cf915ad9d0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Системи банківської безпеки",
+        "lecturer": "КБ-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXr5LgchsNC2HIQ_iv_EieVnW2fH8u_Qu0ZBx4QsjDpY1%40thread.tacv2/conversations?groupId=a3114fcf-302d-4ffd-a975-47cf915ad9d0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apzCWJpXU7eCY8SoFQBxpl7FbJQLcgVn8BzoxRI3d1UQ1%40thread.tacv2/conversations?groupId=d573db5c-0016-4ab0-bd73-e951ce96aaf2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-48, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBN2PUhQkNCWXvFvpkLE8DPNA_HQMj6eICe5DazWD3HQ1%40thread.tacv2/conversations?groupId=12bb5d91-0de3-452d-8f0c-c66609537112&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apzCWJpXU7eCY8SoFQBxpl7FbJQLcgVn8BzoxRI3d1UQ1%40thread.tacv2/conversations?groupId=d573db5c-0016-4ab0-bd73-e951ce96aaf2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-48, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBN2PUhQkNCWXvFvpkLE8DPNA_HQMj6eICe5DazWD3HQ1%40thread.tacv2/conversations?groupId=12bb5d91-0de3-452d-8f0c-c66609537112&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-48, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBN2PUhQkNCWXvFvpkLE8DPNA_HQMj6eICe5DazWD3HQ1%40thread.tacv2/conversations?groupId=12bb5d91-0de3-452d-8f0c-c66609537112&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-48, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBN2PUhQkNCWXvFvpkLE8DPNA_HQMj6eICe5DazWD3HQ1%40thread.tacv2/conversations?groupId=12bb5d91-0de3-452d-8f0c-c66609537112&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apzCWJpXU7eCY8SoFQBxpl7FbJQLcgVn8BzoxRI3d1UQ1%40thread.tacv2/conversations?groupId=d573db5c-0016-4ab0-bd73-e951ce96aaf2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apzCWJpXU7eCY8SoFQBxpl7FbJQLcgVn8BzoxRI3d1UQ1%40thread.tacv2/conversations?groupId=d573db5c-0016-4ab0-bd73-e951ce96aaf2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

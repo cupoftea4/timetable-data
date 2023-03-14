@@ -1,0 +1,66 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "МЕ-31, МЕ-32, МЕ-33, МЕ-34,",
+        "subject": "Технологія зовнішньоекономічних операцій",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1WKfcxyrBV1Md-OVG8DGfui4zLydUx6hKIjy7MTP1tY1%40thread.tacv2/conversations?groupId=76485c70-8dd8-4404-95d0-cd789afce564&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "МЕ-35, МЕ-36, МЕ-37, МЕ-38,",
+        "subject": "Технологія зовнішньоекономічних операцій",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3anrQckrJ9tLbvlDJkD1BZm_veJUtqqDIXd5Bh0rZ-xyY1%40thread.tacv2/conversations?groupId=9c0c45d5-2221-447c-b971-90b8e213f399&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "МЕ-310, МЕ-311, МЕ-39,",
+        "subject": "Технологія зовнішньоекономічних операцій",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3axk-s2KD6nd5kR2hMP1cLGQWDk5PSgP1qUZZFdi-254M1%40thread.tacv2/conversations?groupId=d6ac2382-b0ab-4091-a55b-ef8d5d68e258&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ЕКЕБ-12, ЕКЕБ-13, ЕКЕБ-14,",
+        "subject": "Діяльність суб`єктів економіки на зовнішніх ринках",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ag4yPExatrTsk0Ehf9bs-d_vhdV90MAyFFYwVXExlXho1%40thread.tacv2/conversations?groupId=58410e3e-e56b-4652-8f29-089d5ea3d185&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "ЕКУП-11, ЕКУБ-11,",
+        "subject": "Діяльність суб`єктів економіки на зовнішніх ринках",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ag4yPExatrTsk0Ehf9bs-d_vhdV90MAyFFYwVXExlXho1%40thread.tacv2/conversations?groupId=58410e3e-e56b-4652-8f29-089d5ea3d185&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/team/19%3ag4yPExatrTsk0Ehf9bs-d_vhdV90MAyFFYwVXExlXho1%40thread.tacv2/conversations?groupId=58410e3e-e56b-4652-8f29-089d5ea3d185&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "ЕКСЕі-11,",
+        "subject": "Діяльність суб`єктів економіки на зовнішніх ринках",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBBSd6Au5MKVoca4_2w6qJwGLY7v3BaJaHli-HJ8msWA1%40thread.tacv2/conversations?groupId=33bb4df9-a941-4af2-84a0-0318f6c9fe99&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "МЕМД-11,",
+        "subject": "Управління митною діяльністю в умовах євроінтеграції",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQ_6hs3DG7lLTYENJ3i-vX_Umw3B8pyolJCZSkp92Ono1%40thread.tacv2/conversations?groupId=a88f2534-1e59-4c23-bbbc-cba7bda5e0a2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

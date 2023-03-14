@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Програмування мікроконтролерів",
+        "lecturer": "ПЗ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ham-uqev-ivm"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Програмування мікроконтролерів",
+        "lecturer": "ПЗ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ham-uqev-ivm"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Програмування мікроконтролерів",
+        "lecturer": "ПЗ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ham-uqev-ivm"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

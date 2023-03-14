@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ГБ-41,",
+        "subject": "Технологія та організація будівельних робіт",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/86187060927?pwd=dnEzQ1Bqd1pqWXF0U1FHOE14NFRWdz09"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "БДМБ-11, БДМБ-12,",
+        "subject": "Організація ремонтно-реконструктивних робіт",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/89491871443?pwd=am93WmNKbml2RXhOejBIanc1QjZOUT09"
+        ]
+    }
+]

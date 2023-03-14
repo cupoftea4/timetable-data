@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "Інструменти програмного опису апаратних засобів кібербезпеки",
+        "lecturer": "КБУІ-11, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 6,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні методи розроблення пристроїв кібербезпеки",
+        "lecturer": "КБАС-11, 212 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 6,
+        "number": 2
+    },
+    {
+        "subject": "Інструменти програмного опису апаратних засобів кібербезпеки",
+        "lecturer": "КБУІ-11, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні методи розроблення пристроїв кібербезпеки",
+        "lecturer": "КБАС-11, 212 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 4
+    }
+]

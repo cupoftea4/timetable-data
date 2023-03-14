@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "ТУ-31,",
+        "subject": "Друга іноземна мова, частина 2",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/5224247475?pwd=TFJyUmI0bHEwRXdvQjNjanBaVkNjQT09%20%20Meeting%20ID:%20522%20424%207475%20Passcode:%20960833",
+            "https://us02web.zoom.us/j/5224247475?pwd=TFJyUmI0bHEwRXdvQjNjanBaVkNjQT09%20%20Meeting%20ID:%20522%20424%207475%20Passcode:%20960833"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ЖР-32, ЖР-33,",
+        "subject": "Іноземна мова (західноєвропейська)",
+        "number": 4,
+        "urls": [
+            "https://us02web.zoom.us/j/5224247475?pwd=TFJyUmI0bHEwRXdvQjNjanBaVkNjQT09%20%20Meeting%20ID:%20522%20424%207475%20Passcode:%20960833"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "МІ-41,",
+        "subject": "Іноземна мова ІІ (німецька), частина 3",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/5224247475?pwd=TFJyUmI0bHEwRXdvQjNjanBaVkNjQT09%20%20Meeting%20ID:%20522%20424%207475%20Passcode:%20960833"
+        ]
+    }
+]

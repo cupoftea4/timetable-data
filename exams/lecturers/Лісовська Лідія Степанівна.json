@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "МЕ-31, МЕ-32, МЕ-33, МЕ-34,",
+        "subject": "Управління інноваційною діяльністю",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73880991423?pwd=BO65TnPQyNpRyYGkumvZ33kJv5CIxJ.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "МЕ-43,",
+        "subject": "Економічне оцінювання інноваційних процесів в індустрії туризму і рекреації",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76509696007?pwd=aERZEiRJn7mO3DLhIuLjPMt3U9vkNM.1"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "МЕІД-11,",
+        "subject": "Економіка інноваційної діяльності",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75762261477?pwd=Gp2HB5Rhm6AS7aTGCbaRvOeqRTrLYW.1"
+        ]
+    }
+]

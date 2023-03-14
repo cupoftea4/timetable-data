@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Механічне обладнання підприємств будівельної індустрії",
+        "lecturer": "БД-35, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/2968629648?pwd=aVgrRytWZmxRbDUwZG5ZWm1QUUVodz09%20%20Meeting%20ID:%20296%20862%209648%20Passcode:%2035PQJ7"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Механічне обладнання підприємств будівельної індустрії",
+        "lecturer": "БД-35, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/2968629648?pwd=aVgrRytWZmxRbDUwZG5ZWm1QUUVodz09%20%20Meeting%20ID:%20296%20862%209648%20Passcode:%2035PQJ7"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

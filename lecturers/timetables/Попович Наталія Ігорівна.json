@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Біржові операції",
+        "lecturer": "ПТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81077115588?pwd=c1hVMDFqVCt6UW5QUEdPUWtXOE1CZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародні організації з акредитації харчових лабораторій",
+        "lecturer": "ПТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81077115588?pwd=c1hVMDFqVCt6UW5QUEdPUWtXOE1CZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Товарознавство та митна експертиза товарів (промислові товари), частина 2",
+        "lecturer": "ПТ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81077115588?pwd=c1hVMDFqVCt6UW5QUEdPUWtXOE1CZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Товарознавство та митна експертиза товарів (промислові товари), частина 2",
+        "lecturer": "ПТ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81077115588?pwd=c1hVMDFqVCt6UW5QUEdPUWtXOE1CZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Біржові операції",
+        "lecturer": "ПТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81077115588?pwd=c1hVMDFqVCt6UW5QUEdPUWtXOE1CZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні організації з акредитації харчових лабораторій",
+        "lecturer": "ПТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81077115588?pwd=c1hVMDFqVCt6UW5QUEdPUWtXOE1CZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Логойда М.М.,",
+        "subject": "Технології поліграфічних виробництв",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/qdi-vuua-jfm"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Лотошинська Н.Д.,",
+        "subject": "Сучасні поліграфічні матеріали",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/74401087650?pwd=myYgskiHE6frwKbJQjYvnPAuslHNa6.1"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Ткаченко Р.О.,",
+        "subject": "Системи штучного інтелекту",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/mdt-iuqf-tjc"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Сучасні підходи до психологічної допомоги",
+        "lecturer": "ПСа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72649721172?pwd=OoLQJ2HfFy1XZtp8shVq8l8MttazVE.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сімейне консультування",
+        "lecturer": "ПС-31, ПС-32, ПС-33, ПС-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71613684687?pwd=7Q65uCxpztbsCBP6MtbBvXqWN0bEa3.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні підходи до психологічної допомоги",
+        "lecturer": "ПСа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77188016033?pwd=WXtXViQL2NJRsaJL13LHmNzL54YnTk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

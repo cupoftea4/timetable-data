@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Климанська Л.Д.,",
+        "subject": "Методи збору соціологічної інформації, частина 2",
+        "number": 4,
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Яцишин І.І.,",
+        "subject": "Соціальна структура та стратифікація",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Уманець Н.А.,",
+        "subject": "Соціологія малих груп і комунікація",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Герус О.І.,",
+        "subject": "Соціологія реклами",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a88d5-B3l6aSFth1isQS3XrqbUN0_Zf3C-fg_ZFj89Aw1%40thread.tacv2/1668584450821?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d63c1a94-2487-4cf4-8766-3d7936f6f887%22%7d"
+        ]
+    }
+]

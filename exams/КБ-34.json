@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Лах Ю.В.,",
+        "subject": "Прогноз та моделювання в соціальній сфері та забезпечення неперервності ІБ бізнесу",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Хома В.В.,",
+        "subject": "Основи інформаційно-телекомунікаційних технологій",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/9202369100?pwd=SnJ3aHhOay9IUUhJenBkMFNGTC84QT09%20%20Meeting%20ID:%20920%20236%209100%20Passcode:%20143097"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Мельник В.А.,",
+        "subject": "Архітектура комп`ютерних систем",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aEaLvHaZHaxNAnbgpB4glPuR1i7bkW5GqaVYY1UpDvxc1%40thread.tacv2/1670451478041?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a92e6381-cd76-4920-b416-f5ff879fc1e6%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Пархуць Л.Т.,",
+        "subject": "Методи та засоби технічного захисту інформації, частина 1",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Ромака В.А.,",
+        "subject": "Технології розслідування інцидентів інформаційної безпеки",
+        "number": 2,
+        "urls": []
+    }
+]

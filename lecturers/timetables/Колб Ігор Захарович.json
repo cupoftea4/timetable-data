@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Геоінформаційний аналіз",
+        "lecturer": "ГДГТ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8e2e5ab53ec241228c2cecd2f9b3b671%40thread.tacv2/conversations?groupId=05f1d00a-33fc-4560-9c33-7f3031a99a63&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Геоінформаційний аналіз",
+        "lecturer": "ГДГТ-11, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8e2e5ab53ec241228c2cecd2f9b3b671%40thread.tacv2/conversations?groupId=05f1d00a-33fc-4560-9c33-7f3031a99a63&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

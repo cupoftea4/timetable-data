@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Лютий П.Я.,",
+        "subject": "Металографія",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Кулик В.В.,",
+        "subject": "Ливарне виробництво",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3axUuXM85ZmMz-koaa1rbtQQzsyD-h-yv7cR8sURd_Fxk1%40thread.tacv2/1669879387234?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Ковбасюк Т.М.,",
+        "subject": "Експертизні дослідження виробів",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0wm5JubOCDqdvn2RyhiNPrEVI21LDZIZpEAsCCQIU301%40thread.tacv2/1670438540164?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Лютий П.Я.,",
+        "subject": "ФІзичні властивості й методи дослідження матеріалів",
+        "number": 1,
+        "urls": []
+    }
+]

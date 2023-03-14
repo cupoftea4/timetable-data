@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Винничук Р.О.,",
+        "subject": "Мотивування персоналу",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Панас Я.В.,",
+        "subject": "Контролінг",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:22ce88d4b63546f7b710bb5cbfd8ca12@thread.tacv2/1670151512102?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=20663ae1-e7d1-4776-8543-452814e28007&parentMessageId=1670151512102&teamName=%D0%9C%D0%9F%D0%90%20%D0%9C%D0%95-47%20(22%2F23%20%D0%BD.%D1%80.)&channelName=%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%96%D0%BD%D0%B3&createdTime=1670151512102&allowXTenantAccess=false"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Бойківська Г.М.,",
+        "subject": "Управління інтелектуальним потенціалом організації",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:14fxF8bMCKOmy5ttGvXvtjp6etVhRzybRGuXi7_HKCI1@thread.tacv2/1668627321439?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=b0b9e201-af12-4cad-80f3-8282a5ae8f6e&parentMessageId=1668627321439&teamName=%D0%9C%D0%95-47%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%96%D0%BD%D0%BD%D1%8F%20%D1%96%D0%BD%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BC%20%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D1%96%D0%B0%D0%BB%D0%BE%D0%BC%20%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%96%D0%B7%D0%B0%D1%86%D1%96%D1%97&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1668627321439&allowXTenantAccess=false"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Захарчин Г.М.,",
+        "subject": "Корпоративна культура",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:ff0436714ad64ac7ac6e27aa63b7e5d1@thread.tacv2/1669742761495?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=20663ae1-e7d1-4776-8543-452814e28007&parentMessageId=1669742761495&teamName=%D0%9C%D0%9F%D0%90%20%D0%9C%D0%95-47%20(22%2F23%20%D0%BD.%D1%80.)&channelName=%D0%9A%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B0%20%D0%BA%D1%83%D0%BB%D1%8C%D1%82%D1%83%D1%80%D0%B0&createdTime=1669742761495&allowXTenantAccess=false"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Винничук Р.О.,",
+        "subject": "Управління розвитком персоналу організації",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09"
+        ]
+    }
+]

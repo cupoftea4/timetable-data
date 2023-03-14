@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КІ-205, КІ-206, КІ-207, КІ-208,",
+        "subject": "Теорія електричних та магнітних кіл",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/3300369877?pwd=Y1VBeDg2aUZyeHpLdTFpck8xRmxOdz09"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "ЕЕ-11сп,",
+        "subject": "Метрологія і електричні вимірювання",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/3300369877?pwd=Y1VBeDg2aUZyeHpLdTFpck8xRmxOdz09"
+        ]
+    }
+]

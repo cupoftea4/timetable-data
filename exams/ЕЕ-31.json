@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Федів Є.І.,",
+        "subject": "Електротехнічні системи електроспоживання",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Равлик Н.О.,",
+        "subject": "Мікропроцесорна техніка",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Паранчук Я.С.,",
+        "subject": "Теорія електропривода",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Яцейко А.Я.,",
+        "subject": "Електрична частина станцій та підстанцій",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aY5wu2uo0dZHPxsg5Z0qX5TX3UmSlUSU2bMnLDlUcmpU1%40thread.tacv2/conversations?groupId=2b7544e7-db0b-40e1-846b-52b4d1ad9cfa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

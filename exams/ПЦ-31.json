@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Шевчук Г.Й.,",
+        "subject": "Професійна педагогіка",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/73683476477?pwd=ufDkUS0mzICDDkEWDGFyd5WN7CK0CT.1"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Гузій І.С.,",
+        "subject": "Інформаційно-комунікаційні технології та дидактичні засоби навчання",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/5722522468?pwd=S1RpSGp4eDRUVDNRa0cwaEhIcVAzQT09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Худий А.М.,",
+        "subject": "Системи управління базами даних",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/3445880959?pwd=S3hFTVVtNFRBSWlmYW9FNzh0U3NLQT09"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "ІК-21, ІК-22,",
+        "subject": "Теорія ймовірностей та математична статистика",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQ8CY_gmxydxyEed0cjfXyX9fzDLEJ-OgkOCoNBLmmkA1%40thread.tacv2/conversations?groupId=e6bdaded-4d24-4287-9c84-0b041511f101&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ПЗ-21, ПЗ-22, ПЗ-23,",
+        "subject": "Теорія ймовірності та математична статистика",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aVuXVPL6EJyOjI-O4wFeoa70Gh8YiqCmzRFsFTXU-P601%40thread.tacv2/conversations?groupId=afa1bf65-07f2-4b85-878c-1b34217845b5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "КН-11сп, 109 I н.к.,",
+        "subject": "Теорія ймовірності, ймовірнісні процеси та математична статистика",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBLuLSmx-EJZC1mMduxzt5M2BtoNINwOa12gS5HajKNQ1%40thread.tacv2/conversations?groupId=c6298830-1d85-4825-a939-88e796e38f61&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "ПЗ-11, ПЗ-12, 321 I н.к.,",
+        "subject": "Математичний аналіз",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aGY57q46Cn4J7g3iQWfB32ZU_Jpz8MjuD3rUp11v_weE1%40thread.tacv2/conversations?groupId=5f035e85-f919-4778-acc0-5d28788e6bdd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "ПЗ-13, ПЗ-14, 321 I н.к.,",
+        "subject": "Математичний аналіз",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aGY57q46Cn4J7g3iQWfB32ZU_Jpz8MjuD3rUp11v_weE1%40thread.tacv2/conversations?groupId=5f035e85-f919-4778-acc0-5d28788e6bdd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

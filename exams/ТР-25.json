@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Волочій Б.Ю.,",
+        "subject": "Сигнали в інформаційних системах",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/kya-xeei-dxg?authuser=0"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Рак Н.В.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_JWoZOWWpfd-xe3hevIjlfbfUUb47THeEHPr-_VtcXQ1%40thread.tacv2/1668960186988?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Бондарєв А.П.,",
+        "subject": "Програмування апаратних засобів",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/kyk-ofte-zam"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Кіселичник М.Д.,",
+        "subject": "Аналогова схемотехніка",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Бойко Т.Г.,",
+        "subject": "Мехатронні модулі та системи",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Івахів О.В.,",
+        "subject": "Верифікація засобів вимірювальної техніки",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBRY879PZ2pDqL8FA0niLrXH-vURPA3FaWtJZ5oCvPZI1%40thread.tacv2/1676286052231?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ce2bcca-591f-4105-921e-49bad0d54778%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Микийчук М.М.,",
+        "subject": "Метрологічне забезпечення виробництва",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayf0yPCAdf_7UxnPn4E9ZBwhI0xH0qUIsgSVIskQJuv01%40thread.tacv2/conversations?groupId=ad6262f1-8a85-42ea-b1f2-577dc3a5841d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

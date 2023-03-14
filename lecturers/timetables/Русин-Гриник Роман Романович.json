@@ -1,0 +1,168 @@
+[
+    {
+        "subject": "Інформаційні системи торговельного підприємства",
+        "lecturer": "ПТ-21, 231 III н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні системи торговельного підприємства",
+        "lecturer": "ПТ-21, 231 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні системи торговельного підприємства",
+        "lecturer": "ПТ-21, 132 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні системи торговельного підприємства",
+        "lecturer": "ПТ-21, 315 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Бізнес-моделі підприємств інтернет-торгівлі",
+        "lecturer": "ПТПБ-11, 132 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні технології електронного бізнесу",
+        "lecturer": "ПТПБ-11, 132 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Бізнес-моделі підприємств інтернет-торгівлі",
+        "lecturer": "ПТПБ-11, 132 III н.к., ",
+        "location": ", практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Бізнес-моделі підприємств інтернет-торгівлі",
+        "lecturer": "ПТПБ-11, ",
+        "location": ", лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71312143651?pwd=qbe57Gpz6aXjVQGFqUnsN5n2dPw0ua.1%20%20Meeting%20ID:%20713%201214%203651%20Passcode:%20k3uuA3"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні технології електронного бізнесу",
+        "lecturer": "ПТПБ-11, ",
+        "location": ", лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76403914803?pwd=1f5gUa6axUYqWTmGCvP7Cclac7ZHm9.1%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20764%200391%204803%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%208qBbeQ"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні фінанси",
+        "lecturer": "ПТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73563096858?pwd=7vajUBDSrfWN8tMa8uE458iXj9RZ3y.1%20%20Meeting%20ID:%20735%206309%206858%20Passcode:%206iKLX3"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні фінанси",
+        "lecturer": "ПТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72829164824?pwd=Zu7TjS0o9ryWX84RVxl66Lbhgshc1G.1%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20728%202916%204824%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20qJ5G4F"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародні фінанси",
+        "lecturer": "ПТ-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71467711251?pwd=mzb95CEIY7Wy6beOnJjDb4JHyl5mvj.1%20%20Meeting%20ID:%20714%206771%201251%20Passcode:%20GXx45i"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

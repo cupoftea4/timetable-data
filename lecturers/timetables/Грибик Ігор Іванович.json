@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "УКЗ-МО-101, 420 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72047156631?pwd=Xs5vabZD1M67Fn7CDyOYepOmMUhesS.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "УКЗ-МО-102, 420 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72047156631?pwd=Xs5vabZD1M67Fn7CDyOYepOmMUhesS.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "УКЗ-МО-101, УКЗ-МО-102, УКЗ-МО-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72047156631?pwd=Xs5vabZD1M67Fn7CDyOYepOmMUhesS.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "УКЗ-МО-103, 420 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72047156631?pwd=Xs5vabZD1M67Fn7CDyOYepOmMUhesS.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Управління якістю інноваційних туристичних і рекреаційних продуктів",
+        "lecturer": "МЕ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73375750011?pwd=3gqUOqjzbqtMnE26kNAbaPC8PQ4q2F.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

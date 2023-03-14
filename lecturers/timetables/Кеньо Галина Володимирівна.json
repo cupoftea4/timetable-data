@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Схемотехніка пристроїв технічного захисту інформації",
+        "lecturer": "КБ-201, 210 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09%20%20Meeting%20ID:%20722%20642%201593%20Passcode:%20avwX2Q"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Схемотехніка пристроїв технічного захисту інформації",
+        "lecturer": "КБ-201, 210 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09%20%20Meeting%20ID:%20722%20642%201593%20Passcode:%20avwX2Q"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Схемотехніка пристроїв технічного захисту інформації",
+        "lecturer": "КБ-202, 210 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09%20%20Meeting%20ID:%20722%20642%201593%20Passcode:%20avwX2Q"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Схемотехніка пристроїв технічного захисту інформації",
+        "lecturer": "КБ-202, 210 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09%20%20Meeting%20ID:%20722%20642%201593%20Passcode:%20avwX2Q"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Схемотехніка пристроїв технічного захисту інформації",
+        "lecturer": "КБ-201, КБ-202, 208 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09%20%20Meeting%20ID:%20722%20642%201593%20Passcode:%20avwX2Q"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Схемотехніка пристроїв технічного захисту інформації",
+        "lecturer": "КБ-201, КБ-202, 208 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09%20%20Meeting%20ID:%20722%20642%201593%20Passcode:%20avwX2Q"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Схемотехніка пристроїв технічного захисту інформації",
+        "lecturer": "КБ-201, 208 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09%20%20Meeting%20ID:%20722%20642%201593%20Passcode:%20avwX2Q"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Схемотехніка пристроїв технічного захисту інформації",
+        "lecturer": "КБ-202, 211 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7226421593?pwd=ZjlEUzV2Q2s4N1VqcnExbUxkMldoUT09%20%20Meeting%20ID:%20722%20642%201593%20Passcode:%20avwX2Q"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

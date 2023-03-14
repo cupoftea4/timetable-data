@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "БД-43,",
+        "subject": "Утримання міської забудови",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aC0-0hf8GS14RgF8g2KQT_2nmRuoZBEvN2CQeyVFqk2g1%40thread.tacv2/conversations?groupId=b9c4494a-80c7-4d16-bc93-b0bf1532d7b0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "БДМБ-11, БДМБ-12,",
+        "subject": "Утримання та використання міської забудови",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6MDBQD9CQHtk4ggp7hx_1Oj34G7MLeFW6Iiuc_PEa8k1%40thread.tacv2/conversations?groupId=2628292a-8b6c-47b0-b69a-b63d6bc967b3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

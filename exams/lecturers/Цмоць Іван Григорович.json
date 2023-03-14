@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-23T00:00:00.000Z",
+        "lecturer": "КНа-11, КНа-12,",
+        "subject": "Інформаційні технології управління смарт-системами",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "КНУС-13, КНУС-14,",
+        "subject": "Проблемно-орієнтовані та вбудовані комп`ютерні системи",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "КНУС-11, КНУС-12,",
+        "subject": "Проблемно-орієнтовані та вбудовані комп`ютерні системи",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ]
+    }
+]

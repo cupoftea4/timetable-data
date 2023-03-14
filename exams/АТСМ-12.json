@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Нємий С.В.,",
+        "subject": "Організація та безпека руху автотранспортних засобів",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "Кіндрацький Б.І.,",
+        "subject": "Управління підприємствами автомобільного транспорту",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/7142409738?pwd=eXNQSWNKMU9leXJ4dFhrUDVCMjJXUT09"
+        ]
+    },
+    {
+        "date": "2023-02-18T00:00:00.000Z",
+        "lecturer": "Качмар Р.Я.,",
+        "subject": "Екологічна безпека автомобільного транспорту",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/8940852137?pwd=d1Uxb3lOWUh5MGR1aElWdDBFcURkQT09%20%20Meeting%20ID:%20894%20085%202137%20Passcode:%202020"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Бритковський В.М.,",
+        "subject": "Алгоритми і методи комп`ютерного діагностування автомобілів",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/83318814464?pwd=cFNlaytYdk5NRkJlR2RUSC8rb2dZdz09"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Кіндрацький Б.І.,",
+        "subject": "Силові агрегати автомобілів",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/7142409738?pwd=eXNQSWNKMU9leXJ4dFhrUDVCMjJXUT09"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Підприємництво та менеджмент",
+        "lecturer": "Копець Г.Р., 110 XI н.к., ",
+        "location": " Лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Підприємництво та менеджмент",
+        "lecturer": "Копець Г.Р., ІТРЕ+АЕАЕ(8 студ)110 XI н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

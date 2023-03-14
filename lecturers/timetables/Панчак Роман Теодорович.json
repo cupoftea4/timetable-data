@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Комп`ютерна схемотехніка та архітектура комп`ютерних систем",
+        "lecturer": "ПП-15, ПП-16, ПП-17, 325 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89793342242?pwd=ck1TeWplT3pDR2RzK1c0VmY1T01IQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна схемотехніка та архітектура комп`ютерних систем",
+        "lecturer": "ПП-11, ПП-12, ПП-13, ПП-14, 217 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86775665371?pwd=Q0ZRUzUyL01Cb3JnQjdqQm0vby9odz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

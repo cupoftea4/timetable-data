@@ -1,0 +1,21 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "МВ-31, МВ-32, МВ-33,",
+        "subject": "Регіональна та транскордонна співпраця",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/6100425148?pwd=NklSYVdnS2RFdUtPS0pIUUN5RVpwZz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "МІ-31,",
+        "subject": "Регіональна та транскордонна співпраця",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/6100425148?pwd=NklSYVdnS2RFdUtPS0pIUUN5RVpwZz09",
+            "https://us04web.zoom.us/j/6100425148?pwd=NklSYVdnS2RFdUtPS0pIUUN5RVpwZz09"
+        ]
+    }
+]

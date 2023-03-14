@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Новітні інформаційні технології в соціології",
+        "lecturer": "СО-31, 205б XXIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Новітні інформаційні технології в соціології",
+        "lecturer": "СО-31, 205б XXIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Новітні інформаційні технології в соціології",
+        "lecturer": "СО-31, 205б XXIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Новітні інформаційні технології в соціології",
+        "lecturer": "СО-31, 205б XXIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Аналіз та інтерпритація даних у соціальних дослідженнях",
+        "lecturer": "СР-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89313021419?pwd=T3NyV052U3BVNWphN3crT2ovaWRhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Аналіз та інтерпритація даних у соціальних дослідженнях",
+        "lecturer": "СР-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89313021419?pwd=T3NyV052U3BVNWphN3crT2ovaWRhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Новітні інформаційні технології в соціології",
+        "lecturer": "СО-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Аналіз та інтерпритація даних у соціальних дослідженнях",
+        "lecturer": "СР-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89313021419?pwd=T3NyV052U3BVNWphN3crT2ovaWRhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Аналіз та інтерпритація даних у соціальних дослідженнях",
+        "lecturer": "СР-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89313021419?pwd=T3NyV052U3BVNWphN3crT2ovaWRhZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

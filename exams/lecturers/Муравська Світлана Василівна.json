@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "СТ-11, 204 IV н.к.,",
+        "subject": "Історія та основи музейної справи",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "СМУС-11, СМУС-12,",
+        "subject": "Управління культурною спадщиною",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3137011977?pwd=UXhWVFFBcy9hMnpvN1loY2ptRFpTZz09"
+        ]
+    }
+]

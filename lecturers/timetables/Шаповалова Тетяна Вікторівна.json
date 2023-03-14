@@ -1,0 +1,195 @@
+[
+    {
+        "subject": "Адміністрування організаційної діяльності установи соціальної сфери",
+        "lecturer": "СЗУУ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aM2uDju3tKmso5z_49kUceLUQnkJgDbvnpljeRaC6ILA1%40thread.tacv2/1676472528971?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Механізми програмування в установах соціальної сфери",
+        "lecturer": "СЗУУ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aM2uDju3tKmso5z_49kUceLUQnkJgDbvnpljeRaC6ILA1%40thread.tacv2/1676472638248?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Система соціального захисту та соціального забезпечення",
+        "lecturer": "СРа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_5fUwxKk8leKCPcyyL0mHDiSmmDQSNvGdxbP3pj9E3w1%40thread.tacv2/1677664420631?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Практика соціального адміністрування",
+        "lecturer": "СЗУУ-11, ПРСА-СР-101, 205а XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aM2uDju3tKmso5z_49kUceLUQnkJgDbvnpljeRaC6ILA1%40thread.tacv2/1676472746008?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Механізми програмування в установах соціальної сфери",
+        "lecturer": "СЗУУ-11, 205а XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aM2uDju3tKmso5z_49kUceLUQnkJgDbvnpljeRaC6ILA1%40thread.tacv2/1676472892811?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Система соціального захисту та соціального забезпечення",
+        "lecturer": "СРа-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Практикум з соціального забезпечення, частина 1",
+        "lecturer": "СЗ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQKy6LLrqzvLv5zvLGPNPIKoi6k5h0K7apwlgVwh0r681%40thread.tacv2/1677663694571?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Практикум з соціального забезпечення, частина 1",
+        "lecturer": "СЗ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQKy6LLrqzvLv5zvLGPNPIKoi6k5h0K7apwlgVwh0r681%40thread.tacv2/1677663694571?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з соціального забезпечення, частина 1",
+        "lecturer": "СЗ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQKy6LLrqzvLv5zvLGPNPIKoi6k5h0K7apwlgVwh0r681%40thread.tacv2/1677663694571?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Практикум з соціального забезпечення, частина 1",
+        "lecturer": "СЗ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQKy6LLrqzvLv5zvLGPNPIKoi6k5h0K7apwlgVwh0r681%40thread.tacv2/1677663959083?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Практикум з соціального забезпечення, частина 1",
+        "lecturer": "СЗ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQKy6LLrqzvLv5zvLGPNPIKoi6k5h0K7apwlgVwh0r681%40thread.tacv2/1677663959083?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з соціального забезпечення, частина 1",
+        "lecturer": "СЗ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQKy6LLrqzvLv5zvLGPNPIKoi6k5h0K7apwlgVwh0r681%40thread.tacv2/1677663959083?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Стратегії менеджменту в установах соціальної сфери",
+        "lecturer": "СЗУУ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aM2uDju3tKmso5z_49kUceLUQnkJgDbvnpljeRaC6ILA1%40thread.tacv2/1676473045641?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    }
+]

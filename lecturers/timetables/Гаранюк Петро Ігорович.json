@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Аудит, ліцензування та акредитація інформаційної безпеки",
+        "lecturer": "КБ-33, КБ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6787196382?pwd=ZnhNckFmQjZoOVBvaG4xRDJhb2N6UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Аудит, ліцензування та акредитація інформаційної безпеки",
+        "lecturer": "КБ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6787196382?pwd=ZnhNckFmQjZoOVBvaG4xRDJhb2N6UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Аудит, ліцензування та акредитація інформаційної безпеки",
+        "lecturer": "КБ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6787196382?pwd=ZnhNckFmQjZoOVBvaG4xRDJhb2N6UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Аудит, ліцензування та акредитація інформаційної безпеки",
+        "lecturer": "КБ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6787196382?pwd=ZnhNckFmQjZoOVBvaG4xRDJhb2N6UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Аудит, ліцензування та акредитація інформаційної безпеки",
+        "lecturer": "КБ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6787196382?pwd=ZnhNckFmQjZoOVBvaG4xRDJhb2N6UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

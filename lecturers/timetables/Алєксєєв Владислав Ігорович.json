@@ -1,0 +1,120 @@
+[
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "ПМ-21, ПМ-22, ПМ-23, 214 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/ccv-atig-bnf"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Обробка зображень засобами штучного інтелекту",
+        "lecturer": "ПМ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/udp-ofoi-pms"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Обробка зображень засобами штучного інтелекту",
+        "lecturer": "ПМ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/udp-ofoi-pms"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Математичні основи штучного інтелекту",
+        "lecturer": "ПМ-31, ПМ-32, ПМ-33, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "ПМ-22, 225а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/gyw-cxis-nnh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Обробка зображень засобами штучного інтелекту",
+        "lecturer": "ПМ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/rkd-aiow-kdk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Обробка зображень засобами штучного інтелекту",
+        "lecturer": "ПМ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/rkd-aiow-kdk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "ПМ-21, ПМ-22, ПМ-23, 214 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/yan-qpoi-too"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

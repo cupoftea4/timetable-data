@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Технічна експлуатація автомобілів",
+        "lecturer": "МБ-41f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88001083460?pwd=bW5xeTNRa2lHcExWdlBjTUpVbXNhUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів",
+        "lecturer": "МБ-41f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82025417592?pwd=TjhSM2oybHdpREttNjdXY09ORkd2UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

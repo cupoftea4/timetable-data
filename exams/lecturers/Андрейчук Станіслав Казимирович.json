@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "СО-31,",
+        "subject": "Соціологія економіки та управління",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "СР-21, СР-22,",
+        "subject": "Соціальна політика та політика соціального забезпечення",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "СЗ-31, СЗ-32,",
+        "subject": "Державне регулювання соціальної вфери",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "СЗ-21, СЗ-22,",
+        "subject": "Соціальна політика та політика соціального забезпечення",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ]
+    }
+]

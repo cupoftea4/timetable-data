@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Барабаш В.М.,",
+        "subject": "Конструкції будівель та споруд, частина 1",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/75396702845?"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Білінський Б.О.,",
+        "subject": "Організація аварійно-рятувальних робіт",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Олійник Л.П.,",
+        "subject": "Теорія розвитку та припинення горіння",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3axLbBoAGr2W73hDHSwKKMUqkJknBp64Nk6tC40bafehE1%40thread.tacv2/conversations?groupId=77ee4c4b-bd4a-4cc0-9d72-20c483754374&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Гаврилко О.А.,",
+        "subject": "Пожежна та аварійно-рятувальна техніка",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "ІТ-23, ІТ-31, ІТ-32, 406 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/pip-xhha-fbp"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління IT-проектами",
+        "lecturer": "ІК-31, ІК-32, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "ІТ-23, ІТ-31, ІТ-32, 406 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/pip-xhha-fbp"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління IT-проектами",
+        "lecturer": "ІК-31, ІК-32, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "ІТ-31, 126б IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/brf-rxij-vwe"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "ІТ-23, 123 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://vns.lpnu.ua/mod/url/view.php?id=733460"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "ІТ-23, 123 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://vns.lpnu.ua/mod/url/view.php?id=733460"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління IT-проектами",
+        "lecturer": "ІК-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/pvy-uffq-yoj"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління IT-проектами",
+        "lecturer": "ІК-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/pvy-uffq-yoj"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "ІТ-32, 123а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/kfu-dsqh-onr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "ІТ-32, 123а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/vqu-bhfi-jrm"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "ІТ-31, 126а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/jay-tkvs-trn"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

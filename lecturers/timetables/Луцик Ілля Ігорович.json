@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "ПЗ-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aezH8I7HOvcRCa9y3V4hdmd4pep9qFl9p4vMi9KZNk5Q1%40thread.tacv2/conversations?groupId=d0f5f869-a71d-4234-b99e-093e479b4912&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "ПЗ-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aezH8I7HOvcRCa9y3V4hdmd4pep9qFl9p4vMi9KZNk5Q1%40thread.tacv2/conversations?groupId=d0f5f869-a71d-4234-b99e-093e479b4912&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "ПЗ-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aezH8I7HOvcRCa9y3V4hdmd4pep9qFl9p4vMi9KZNk5Q1%40thread.tacv2/conversations?groupId=d0f5f869-a71d-4234-b99e-093e479b4912&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "ПЗ-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aezH8I7HOvcRCa9y3V4hdmd4pep9qFl9p4vMi9KZNk5Q1%40thread.tacv2/conversations?groupId=d0f5f869-a71d-4234-b99e-093e479b4912&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    }
+]

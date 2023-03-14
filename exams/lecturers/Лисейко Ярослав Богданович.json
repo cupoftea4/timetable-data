@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "СМ-41,",
+        "subject": "Спеціальні історичні дисципліни",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "СТ-31,",
+        "subject": "Спеціальні історичні дисципліни",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "СТ-21,",
+        "subject": "Основи наукової роботи",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ЖР-11, ЖР-12, 301 XIX н.к.,",
+        "subject": "Історія державності та культури України",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "СТ-11, 204 IV н.к.,",
+        "subject": "Спадщина античності: історичний та культурний вимір",
+        "number": 2,
+        "urls": []
+    }
+]

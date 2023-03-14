@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ХТ-24,",
+        "subject": "Загальна хімічна технологія",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "ХТНР-11, ХТНР-12, ХТМ-11,",
+        "subject": "Сучасні процеси у технології неорганічних речовин та водоочищення",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aCBDj4FEE0qcL_entTrhvG8JmUmv560Sry5dyN3NpUCU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=05dc7a94-3add-4893-90b6-5091de115fe0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

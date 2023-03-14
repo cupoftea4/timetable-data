@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Сірик З.О.,",
+        "subject": "Адміністрування публічними проектами",
+        "number": 1,
+        "urls": [
+            "https://us06web.zoom.us/j/78786001920?pwd=Gsc0kStWybFPvpGq6IDSOpF569DjEQ.1"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Дзюрах Ю.М.,",
+        "subject": "Аналіз ринку і кризовий менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/94925228348?pwd=ekNoV2JkMnlOSGhtTTlDNERGM1ZOUT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Пушак Я.Я.,",
+        "subject": "Стратегії розвитку держави та суспільства",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/99496353933?pwd=OTNhVUsvbTZqZTNQTTB3RHMxb1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Вішка І.С., Красівський О.Я.,",
+        "subject": "Європейська інтеграція",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/97020700708?pwd=VDlNVkp3VURhc2xxdWd4R1NaWkRGZz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Сокіл О.Г.,",
+        "subject": "Міжнародні фінанси",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/73379736795?pwd=tPSHrWveE2y5pasbP0stV0qLXEdarp.1"
+        ]
+    }
+]

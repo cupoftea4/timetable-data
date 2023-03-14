@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Гавран М.І.,",
+        "subject": "Ділова іноземна мова",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/86069964676?pwd=UUs5aC81YS9Nb2ZvTTc2Z0s4SDdGUT09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Карий О.І.,",
+        "subject": "Стратегічне управління  підприємством",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71765385322?pwd=p7ixgiZklrx8VMZ656WjfIjFwm4ida.1"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Гавран В.Я.,",
+        "subject": "Системно-управлінська оцінка фінансово-господарської діяльності організації",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/2053243306?pwd=NjVuUVpUNkJNWkY5WENKWGIvZmtnQT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Матвій І.Є.,",
+        "subject": "Моделювання динаміки бізнес-процесів",
+        "number": 4,
+        "urls": [
+            "https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Смолінська Н.В.,",
+        "subject": "Управління якістю",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/79849668107?pwd=9bxaVlcdf8Atg4Ff3lP0aavNbR1uIO.1"
+        ]
+    }
+]

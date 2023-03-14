@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ПБ-31,",
+        "subject": "Теорія розвитку та припинення горіння",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3axLbBoAGr2W73hDHSwKKMUqkJknBp64Nk6tC40bafehE1%40thread.tacv2/conversations?groupId=77ee4c4b-bd4a-4cc0-9d72-20c483754374&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "ПІ-11, 214 IX н.к.,",
+        "subject": "Хімія з основами біогеохімії",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUdoVEGFsrQbYKbcq3kUiVCa5mz46JazSxZ15b9mMXTc1%40thread.tacv2/conversations?groupId=704509f3-089e-4048-bcc0-ba344cb53848&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

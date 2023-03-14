@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Правове забезпечення інформаційної безпеки",
+        "lecturer": "ПВ-410, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3563966541?pwd=bDVtVGZHaGR6Ym4zWFhxU01tTDUyQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Правове забезпечення інформаційної безпеки",
+        "lecturer": "ПВ-48, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3563966541?pwd=bDVtVGZHaGR6Ym4zWFhxU01tTDUyQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "МЕ-35, МЕ-36, МЕ-37, МЕ-38,",
+        "subject": "Операційний менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76303136976?pwd=uJVU_bUDDJiyvJoHpLlWS4LZOV1m-F.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "МЕ-41, МЕ-42,",
+        "subject": "Інвестиційний менеджмент",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/76303136976?pwd=uJVU_bUDDJiyvJoHpLlWS4LZOV1m-F.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "МЕ-31f,",
+        "subject": "Операційний менеджмент",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/76303136976?pwd=uJVU_bUDDJiyvJoHpLlWS4LZOV1m-F.1"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "МЕ-43,",
+        "subject": "Стратегічне управління інноваційним розвитком організації",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76303136976?pwd=uJVU_bUDDJiyvJoHpLlWS4LZOV1m-F.1"
+        ]
+    }
+]

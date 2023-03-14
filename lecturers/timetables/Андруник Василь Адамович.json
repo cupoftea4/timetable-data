@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Технології віртуальної реальності",
+        "lecturer": "ТВР-ІСМ-301, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології віртуальної реальності",
+        "lecturer": "ТВР-ІСМ-302, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології віртуальної реальності",
+        "lecturer": "ТВР-ІСМ-302, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технології віртуальної реальності",
+        "lecturer": "ТВР-ІСМ-301, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "ІТ-23, ІТ-31, ІТ-32, ІК-31, ІК-32, 406 II н.к., 410 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технології віртуальної реальності",
+        "lecturer": "ТВР-ІСМ-301, ТВР-ІСМ-302, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "ІТ-31, 123 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "ІТ-31, 123 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "ІТ-23, 126 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "ІТ-23, 126 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "ІК-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "ІТ-32, 122в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "ІТ-32, 122в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

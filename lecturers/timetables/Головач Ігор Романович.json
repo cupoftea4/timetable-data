@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Основи електричної тяги і тяговий електропривод",
+        "lecturer": "ЕЕ-34, 121 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3atOO4pEyfl4R9SZOTmj69YMUdIncfjV0tVjWSf0UMLek1%40thread.tacv2/1677059083690?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2252502943-c93c-41bd-a328-abef27f82295%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

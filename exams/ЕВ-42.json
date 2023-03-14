@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Литвин І.В.,",
+        "subject": "Основи міжнародного венчурного бізнесу",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/76194083729?pwd=aUGpOgHfCPliYKwaIgBE2Z892RuT6F.1%20%20Meeting%20ID:%20761%209408%203729%20Passcode:%204QGc5T"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Дуляба Н.І.,",
+        "subject": "Бюджетування та управління витратами підприємства у сфері інвестиційно-інноваційної діяльності",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJ7FXVSzl6ju7s-tudBgqubvnChkYD5uITdwCQyirlxc1%40thread.tacv2/1669876425022?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2220002aa2-e55b-46ef-b23b-c44ad73d4d60%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Станасюк Н.С.,",
+        "subject": "Корпоративна соціальна відповідальність у сфері інвестиційно-інноваційної діяльності",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aqV0V5HCIC4ONuwareqi_fCKWuLDlAIG-sD6BaCqfwzQ1%40thread.tacv2/conversations?groupId=95248681-be14-4af6-b6ce-c2e366f2aeea&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "Гаврилюк М.В.,",
+        "subject": "Ділова іноземна мова, частина 4",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aGRqnBmlygDCgkehV2pbYiCe6m7oZwy80yHzS_Xu309c1%40thread.tacv2/conversations?groupId=90a236bb-7a6c-42fe-b882-02fb7376899f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

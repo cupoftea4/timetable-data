@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Дзюбик Л.В.,",
+        "subject": "Теоретична механіка",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Вербова Р.М.,",
+        "subject": "Філософія",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/6949009441?pwd=TE5ZSkhpNUVzZEYxWXBKZ0dMQ0JPZz09"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Віра В.В.,",
+        "subject": "Опір матеріалів",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Жук В.М.,",
+        "subject": "Технічна механіка рідин і газів",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/86335861041?pwd=MFVkZUM5T3FQdFZJT01OdUpyVkhlZz09"
+        ]
+    }
+]

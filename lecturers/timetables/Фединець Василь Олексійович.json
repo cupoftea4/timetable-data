@@ -1,0 +1,185 @@
+[
+    {
+        "subject": "Теорія інформації",
+        "lecturer": "АВ-21, 72 XIV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Теорія інформації",
+        "lecturer": "АВ-11сп, 57 X н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація виробничих процесів",
+        "lecturer": "ХР-41, ХР-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83191549071?pwd=NTdGNHlFQStYQnE2S2FZdXJlQ3lvZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація виробничих процесів",
+        "lecturer": "ХР-41, ХР-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83191549071?pwd=NTdGNHlFQStYQnE2S2FZdXJlQ3lvZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Теорія інформації",
+        "lecturer": "АВ-21, АВ-22, АВ-23, 51 X н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теорія інформації",
+        "lecturer": "АВ-11сп, 82 X н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація та оптимізація процесів хімічної та харчової промисловості",
+        "lecturer": "АВКВ-11, АВМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82593368965?pwd=VUhGRlg2QTRaM1RmTVdYY1M1TlBwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація виробничих процесів",
+        "lecturer": "ХР-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/87590135194?pwd=SWRIM0Z4K0hJeFVRaEZLbWxOVkViZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизація виробничих процесів",
+        "lecturer": "ХР-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89463357366?pwd=UE9CL2lpVkZJRTNoN0JLYWhvVEV4QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація та оптимізація процесів хімічної та харчової промисловості",
+        "lecturer": "АВКВ-11, АВМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88283512064?pwd=VUZIcGRja2MyMmZNNzdJRUduUzFWQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Теорія інформації",
+        "lecturer": "АВ-22, 51 X н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Теорія інформації",
+        "lecturer": "АВ-23, 309 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація та управління біотехнологічним виробництвом",
+        "lecturer": "БТ-41, БТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86314042061?pwd=S2FFVXNQMmN2ekZ5VlR6cy9WcjFhZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

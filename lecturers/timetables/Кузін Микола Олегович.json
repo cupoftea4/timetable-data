@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Низькотемпературні технології в галузі",
+        "lecturer": "МБ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Матеріали харчового виробництва",
+        "lecturer": "МБ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Матеріали харчового виробництва",
+        "lecturer": "МБ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Низькотемпературні технології в галузі",
+        "lecturer": "МБ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Матеріали харчового виробництва",
+        "lecturer": "МБ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологічний транспорт в галузі",
+        "lecturer": "МБ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технологічний транспорт в галузі",
+        "lecturer": "МБ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технологічний транспорт в галузі",
+        "lecturer": "МБ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технологічний транспорт в галузі",
+        "lecturer": "МБ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Матеріали харчового виробництва",
+        "lecturer": "МБ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/mvv-onax-hju"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

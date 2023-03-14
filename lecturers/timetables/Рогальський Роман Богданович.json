@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Комплексні транспортні системи міст",
+        "lecturer": "ТТ-41, ТТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQtc8aRx7IUI0oL_LrmRFbl_vXDz_siCk7H0jqX18tP01%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a6094f9b-d03d-47d4-b69e-075f6d14e285&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комплексні транспортні системи міст",
+        "lecturer": "ТТ-41, ТТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQtc8aRx7IUI0oL_LrmRFbl_vXDz_siCk7H0jqX18tP01%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a6094f9b-d03d-47d4-b69e-075f6d14e285&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Комплексні транспортні системи міст",
+        "lecturer": "ТТ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQtc8aRx7IUI0oL_LrmRFbl_vXDz_siCk7H0jqX18tP01%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a6094f9b-d03d-47d4-b69e-075f6d14e285&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Комплексні транспортні системи міст",
+        "lecturer": "ТТ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQtc8aRx7IUI0oL_LrmRFbl_vXDz_siCk7H0jqX18tP01%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a6094f9b-d03d-47d4-b69e-075f6d14e285&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Жбадинський І.Я.,",
+        "subject": "Основи теорії пружності, пластичності та повзучості",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNOIDRjExeVhTCl-eBlWRlTAUrNg6VZVUVHhJk3Ip3fY1%40thread.tacv2/conversations?groupId=57f28feb-0d1e-4280-a93f-e47045af7dd4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Титаренко Р.Ю.,",
+        "subject": "Будівельні конструкції",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/87115116024?pwd=RmkyTUtoV0NMb3lJdnV4RmdkVFhoUT09"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Бутринський І.З.,",
+        "subject": "Будівельна механіка (спецкурс)",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Котів Р.М.,",
+        "subject": "Архітектура виробничих будівель і споруд",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=11599"
+        ]
+    }
+]

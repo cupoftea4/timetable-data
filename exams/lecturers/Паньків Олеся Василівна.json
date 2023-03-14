@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "БД-21, БД-22,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73819129768?pwd=kCAbi9xahiUyzt1S133zrh2PwNKSU7.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "БД-23, БД-24,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73819129768?pwd=kCAbi9xahiUyzt1S133zrh2PwNKSU7.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "БД-25, БД-26,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76187265077?pwd=JuNdfMODpdbNGPq02Xrm35LL5LHe1Q.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "БД-27, БД-28,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71268794440?pwd=cVhwT2xwVTY4cHdWL1o0MFJ"
+        ]
+    }
+]

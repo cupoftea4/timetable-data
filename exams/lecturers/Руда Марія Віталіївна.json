@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "ТЗПЕ-11, ТЗМ-11,",
+        "subject": "Технології адаптацій до змін клімату",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78043695511?pwd=6bINCEAvelh4kpNQMvRSdIi5UC7wdC.1"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "ПТПБ-11,",
+        "subject": "Методи і моделі прийняття управлінських рішень",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/72707930903?pwd=jGfHTqyb5NEvSKkY6yUJYxZzlDWC5J.1"
+        ]
+    }
+]

@@ -1,0 +1,66 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "КН-215, КН-216,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "ІР-21, ІР-22,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09"
+        ]
+    },
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "ІР-23, ІР-24,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПМ-22,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09",
+            "https://us04web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09"
+        ]
+    },
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "КН-203, КН-212,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КБ-204,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ЕЕ-23,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09"
+        ]
+    }
+]

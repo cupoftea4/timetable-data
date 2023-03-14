@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "РТМ-21,",
+        "subject": "Міський пасажирський транспорт",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aoqi_zXeNnQAZqopkcPItlyAYueJoj8h-AYlOMuS36rU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=54354f85-4aa0-471f-937a-c4762ad43e92&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-21T00:00:00.000Z",
+        "lecturer": "ТТа-11f,",
+        "subject": "Системний аналіз на транспорті",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQUsAP8VWcm_yN1-RWsEZvdagPSxhTeXGO_VjxaWtF2k1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=16505fdb-a6e2-4e78-bea6-808568ce9d6f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "РТМ-11, РТМ-12,",
+        "subject": "Інтелектуальний транспорт і міська логістика",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aSZsqq1SXB-TEWoN75G8jEGPx6eec86FkFhhpIAKEOLo1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=db99bdfe-1e7d-4593-b9e5-3931eec2e4eb&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

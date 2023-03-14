@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "МІ-41,",
+        "subject": "Мережеві технології у суспільних комунікаціях",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ad9fdc2d3c28f49a2a95a3f692cfdab1f%40thread.tacv2/1669282755836?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f6812e93-273b-4f1e-b57c-e17c9b661ff9%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "МІ-41,",
+        "subject": "Основи експертних та інтелектуальних систем у міжнародних відносинах",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ad9fdc2d3c28f49a2a95a3f692cfdab1f%40thread.tacv2/1669282872369?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f6812e93-273b-4f1e-b57c-e17c9b661ff9%22%7d"
+        ]
+    }
+]

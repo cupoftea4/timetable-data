@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Павич Н.Я.,",
+        "subject": "Бази даних",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTUwMTE0NjMtOTkyOC00OTViLTkwMTYtNjI2NmVkNTAyNjVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229a605ba6-6917-411b-918f-084f4839c77f%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Грицюк Ю.І.,",
+        "subject": "Аналіз вимог до програмного забезпечення",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Левус Є.В.,",
+        "subject": "Комп`ютерна графіка",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/3081432086?pwd=WEgxa3RsM21lQzZxRXgyWDdhS2JHZz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Дяконюк Л.М.,",
+        "subject": "Кросплатформне програмування",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Сердюк П.В.,",
+        "subject": "Конструювання програмного забезпечення",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Геоінформаційне картографування",
+        "lecturer": "НЗКА-11, 611 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/5105514305?pwd=N2VlREQ2cXRNejFBL2F5WStsZWlmUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Геоінформаційне картографування",
+        "lecturer": "НЗКА-11, 612 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5105514305?pwd=N2VlREQ2cXRNejFBL2F5WStsZWlmUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

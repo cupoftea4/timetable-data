@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Матвій І.Є., +МЕМ-11",
+        "subject": "Проектний менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/83249692657?pwd=TVpncUtCam4vbGEydnlXUkV1OTc5QT09"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Петришин Н.Я., +МЕМ-11",
+        "subject": "Стратегічний менеджмент",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a67E4ZxGqT5VK3wxPp4gOrzIVVJNPMxQ9_KNTDGUTPAU1%40thread.tacv2/1676031941309?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22012cb6b0-7e6d-470f-a35d-d112205b4001%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Харчук В.Ю., +МЕМ-11",
+        "subject": "Фінансовий менеджмент",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0zKVM8zA8NAbmmoqLM4bt4UXSiYBiZMM2otd9E_3f0o1%40thread.tacv2/General?groupId=d113d2e0-6d7f-44b1-87ac-bcc0e4946d9b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Горбаль Н.І., +МЕМ-11",
+        "subject": "Конкурентоспроможність ЄС: діагностика та стратегія",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aK7sObSNBp_uOnmW2LR0ObFKVMA4hVQ2qUOrt3_JA1S41%40thread.tacv2/conversations?groupId=22b6cb02-7275-4c96-8168-b20c49084cbb&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Руда М.В., +МЕМ-11",
+        "subject": "Менеджмент зовнішньоекономічної діяльності",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDY5ZDU4ZjUtNWE5Zi00ZTM4LTlmNzMtMzc1MGUzZTAzMTg5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ]
+    }
+]

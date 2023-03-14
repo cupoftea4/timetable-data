@@ -1,0 +1,116 @@
+[
+    {
+        "subject": "Основи релейного захисту та автоматики електроенергетичних систем",
+        "lecturer": "ЕЕ-31, 303 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Цифрові пристрої релейного захисту й автоматики",
+        "lecturer": "ЕЕЕЕ-16, 312в V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи релейного захисту та автоматики електроенергетичних систем",
+        "lecturer": "ЕЕ-32, 303 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a9b33089d95a3495ab22d4207aa545a4e%40thread.tacv2/%25D0%2595%25D0%2595-31%252C32%252C33%252C34%2520(%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596)?groupId=febd865e-8cd9-4494-bdcc-000831714c54&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Цифрові пристрої релейного захисту й автоматики",
+        "lecturer": "ЕЕЕЕ-16, 304 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи релейного захисту та автоматики електроенергетичних систем",
+        "lecturer": "ЕЕ-33, 303 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a9b33089d95a3495ab22d4207aa545a4e%40thread.tacv2/%25D0%2595%25D0%2595-31%252C32%252C33%252C34%2520(%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596)?groupId=febd865e-8cd9-4494-bdcc-000831714c54&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи релейного захисту та автоматики електроенергетичних систем",
+        "lecturer": "ЕЕ-34, 303 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a9b33089d95a3495ab22d4207aa545a4e%40thread.tacv2/%25D0%2595%25D0%2595-31%252C32%252C33%252C34%2520(%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596)?groupId=febd865e-8cd9-4494-bdcc-000831714c54&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи релейного захисту та автоматики електроенергетичних систем",
+        "lecturer": "ЕЕ-25, 303 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ada8ac4d1736b44ff89d8aa0884d12a3f%40thread.tacv2/%25D0%2595%25D0%2595-25%2520(%25D0%25BB%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596)?groupId=febd865e-8cd9-4494-bdcc-000831714c54&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Цифрові пристрої релейного захисту й автоматики",
+        "lecturer": "ЕЕЕЕ-16, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8aa93aef5b4548d18d104f0ad498393e%40thread.tacv2/%25D0%2595%25D0%2595%25D0%2595%25D0%2595-16%2520(%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597)?groupId=b478e46d-e472-4f26-b703-8329c8f09a7a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Клос Л.Є.,",
+        "subject": "Медико-соціальні основи здоров`я",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIxNjRiNmUtYjY0Ny00MDA5LThmMTAtMGU4NjEwNzBhYjI0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Обіход М.М.,",
+        "subject": "Методологія експертної діяльності в соціальній роботі",
+        "number": 6,
+        "urls": [
+            "https://us05web.zoom.us/j/81082292810?pwd=MmdwdkZTaFJ4dFhVSFBPb2hOS001UT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Обіход М.М.,",
+        "subject": "Особливості розробки та реалізації соціальних проектів",
+        "number": 6,
+        "urls": [
+            "https://us05web.zoom.us/j/89324798797?pwd=RHF4WXFMbDZQUjVHSmszNGQwRHE3dz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Козак М.Я.,",
+        "subject": "Управлінські аспекти соціальної роботи",
+        "number": 5,
+        "urls": []
+    }
+]

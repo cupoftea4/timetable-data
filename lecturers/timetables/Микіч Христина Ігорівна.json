@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Технології сховищ та просторів даних",
+        "lecturer": "ІТ-23, ІТ-31, ІТ-32, 406 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3192493055?pwd=WGR3ZWpBRlRYUU1JelhlY3B2UGF1UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

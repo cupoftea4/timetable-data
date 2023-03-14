@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "МТ-41,",
+        "subject": "Робототехніка, частина 3",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/fho-wrhn-ucc"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "МТТВ-11,",
+        "subject": "Органи чуття та сенсори в робототехніці",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/rei-rhxj-vnp"
+        ]
+    },
+    {
+        "date": "2023-02-25T00:00:00.000Z",
+        "lecturer": "МТТВ-11,",
+        "subject": "Тестування програмно-апаратних засобів",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/pbn-fxqt-cxn"
+        ]
+    }
+]

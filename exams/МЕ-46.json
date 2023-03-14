@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Бортнікова М.Г.,",
+        "subject": "Менеджмент контрактної діяльності",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOioFVB_NSEVEZHMc4uJHQHvAd2yurCaZFv7FsA9X1ic1%40thread.tacv2/1669453682671?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22329fb8d1-7f39-4528-b34e-4e0c1f7c905d%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Дорош О.І.,",
+        "subject": "Митне обслуговування міжнародних транспортних перевезень",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Адамів М.Є.,",
+        "subject": "Бюджетування зовнішньоекономічної діяльності підприємства",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asnPVufBAmBjQ7YUnaZ6pO-Ey27MpbYwn7_SZT8YnKYE1%40thread.tacv2/1670519848162?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224a347e82-4e03-45d7-89cb-89707d823bb5%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Руда М.В.,",
+        "subject": "Офшорні операції",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDRjYWEwODAtZTFiMC00NmNlLWEzZjEtYzllMTYwYWU5YzU4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Микитин О.З.,",
+        "subject": "Митний аудит",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a53NMEGdwbYVHFEdC4npArZQ2YWqo2gubWTRLm4BWeb81%40thread.tacv2/conversations?groupId=ba0c76d3-1b09-4347-92b6-7ed5189cd443&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

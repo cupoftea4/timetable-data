@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "БД-27, БД-28,",
+        "subject": "Інженерна геологія і основи механіки грунтів",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/83401413561?pwd=bVpHcDhZcGlueDQwUzZJMy96Wkt2QT09"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "БД-45,",
+        "subject": "Технологія будівництва та реконструкція автомобільних доріг",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/87880282768?pwd=NUlUVUZRMmpZK3FYY2QyVUttSmxBdz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "БД-25, БД-26,",
+        "subject": "Інженерна геологія і основи механіки грунтів",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/82915855351?pwd=VHYwakw1OVZQbTdsNEt5RTRJa3NGUT09"
+        ]
+    }
+]

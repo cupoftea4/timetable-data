@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ТР-21, ТР-22, ТР-23,",
+        "subject": "Програмування апаратних засобів",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/kyk-ofte-zam"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ТР-44,",
+        "subject": "Моделювання радіоелектронних засобів",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/xyz-ryac-oru"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ТР-24, ТР-25,",
+        "subject": "Програмування апаратних засобів",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/kyk-ofte-zam"
+        ]
+    },
+    {
+        "date": "2023-02-18T00:00:00.000Z",
+        "lecturer": "ТРПА-11,",
+        "subject": "Цифрові системи та засоби організації інформаційних мереж",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/oif-gsxp-owk?authuser=0"
+        ]
+    }
+]

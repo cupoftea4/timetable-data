@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "БД-45,",
+        "subject": "Штучні споруди на дорогах та експлуатація штучних споруд",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/5724048998?pwd=ZTJNQURqQ0wwTXJYZklRa3R1KzAwUT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "БД-46,",
+        "subject": "Залізобетонні мости",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/5724048998?pwd=ZTJNQURqQ0wwTXJYZklRa3R1KzAwUT09"
+        ]
+    }
+]

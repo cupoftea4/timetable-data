@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Проектування виробництв неорганічних речовин",
+        "lecturer": "ХТНР-11, 205 IX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування виробництв неорганічних речовин",
+        "lecturer": "ХТМ-11, 205 IX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування виробництв неорганічних речовин",
+        "lecturer": "ХТНР-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIMo2Zo9gRpKyPY9Sa9QQUIreZ-XYDL_mDIflm4enqio1%40thread.tacv2/1678036053259?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d157b3bf-c706-4fc1-b813-2fc832254c84%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Проектування виробництв неорганічних речовин",
+        "lecturer": "ХТНР-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aIMo2Zo9gRpKyPY9Sa9QQUIreZ-XYDL_mDIflm4enqio1%40thread.tacv2/1678036053259?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d157b3bf-c706-4fc1-b813-2fc832254c84%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "УАі-31f,",
+        "subject": "Національна безпека",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "УАі-21,",
+        "subject": "Світовий та національний ринки",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/umr-nuau-vxt"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "МЕФБі-11,",
+        "subject": "Кадрова безпека",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/ebr-gvrf-cuu"
+        ]
+    }
+]

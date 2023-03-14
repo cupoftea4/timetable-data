@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "УАі-41,",
+        "subject": "Аналіз ринку і кризовий менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/94925228348?pwd=ekNoV2JkMnlOSGhtTTlDNERGM1ZOUT09"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "МЕУПі-11, МЕУПі-12, МЕФБі-11,",
+        "subject": "Стратегічний менеджмент",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/74298669146?pwd=EL831E14TAUOBw4eGb7bXfqjrvMZDJ.1"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ПБПБ-11,",
+        "subject": "Пожежна безпека об`єктів підвищеної небезпеки",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/94354924056?pwd=N2tDcVRKV3VqVGNKaWdZQXFYQVg1dz09"
+        ]
+    },
+    {
+        "date": "2023-03-02T00:00:00.000Z",
+        "lecturer": "БДПЦ-11f,",
+        "subject": "Проектування конструкцій з дерева та пластмас",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/95974545449?pwd=dVIyWk1PN1pFSDRoOXQydTl5UHB2Zz09"
+        ]
+    }
+]

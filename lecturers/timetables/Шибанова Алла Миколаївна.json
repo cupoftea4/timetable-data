@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Опрацювання та аналіз екологічної інформації",
+        "lecturer": "ТЗПЕ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78668526591?pwd=ziRTt3q7L9qxBfk3PBlQsVFbV3Ck9f.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технології перероблення та утилізації відходів",
+        "lecturer": "ТЗПЕ-11, ТЗМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72021714828?pwd=B2abijawOawuFBqb6SYkWUiYmbaWip.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Нормування антропогенного навантаження на навколишнє середовище",
+        "lecturer": "ТЗ-21, 230 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79990881978?pwd=bIbLfPpL09wVRjyE0AwwYFkqJa98bc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Методологія та організація наукових досліджень в екології",
+        "lecturer": "ТЗМ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78629724620?pwd=ay3z2IzM4IaBuxrnzeTIgua113DaPt.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методологія та організація наукових досліджень в екології",
+        "lecturer": "ТЗМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71175254900?pwd=1xoNsvwnvMfT2Wn7xvP4zZp7dtMVw1.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Нормування антропогенного навантаження на навколишнє середовище",
+        "lecturer": "ТЗ-21, 230 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73684247717?pwd=eiTaEBIq1hFt0WfmiB3QcIUQPjKb2X.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технології перероблення та утилізації відходів",
+        "lecturer": "ТЗПЕ-11, 231 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71738707019?pwd=WCu7Z2DGueHZUAzS7BYsPalTVME58P.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технології перероблення та утилізації відходів",
+        "lecturer": "ТЗМ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74466639270?pwd=KjcBoYhYzbXDUZqsdxC8efSRc2QEWB.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Опрацювання та аналіз екологічної інформації",
+        "lecturer": "ТЗПЕ-11, 230 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75305541663?pwd=kZPMUJueZbhSVhxad7hFA2cE2tRwG1.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Опрацювання та аналіз екологічної інформації",
+        "lecturer": "ТЗПЕ-11, 230 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72439949835?pwd=FSVbdPzgvRpCq6mAxtGrKYNE9R4skC.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Нормування антропогенного навантаження на навколишнє середовище",
+        "lecturer": "ТЗ-21, 230 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75186283360?pwd=h4IybVZs0SmIn8IlaKwcxRGh7Ab0QT.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Сучасні методи досліджень довкілля",
+        "lecturer": "ТЗПЕ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75812519770?pwd=FkUt0Xj32xKa8ujfEkoe81SYa30GRa.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні методи досліджень довкілля",
+        "lecturer": "ТЗПЕ-11, 307 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79490254795?pwd=ZmhJGnlWBlwGcOZ4EXc73ySZ5SlBIZ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

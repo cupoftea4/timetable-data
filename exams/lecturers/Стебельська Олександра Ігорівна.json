@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "МЗ-21, МП-21, МП-22,",
+        "subject": "Філософія",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78263688369?pwd=FDRpkvT6aMFEpsrdOfarQCIE8bHdaQ.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ТЛ-21, МБ-21, МБ-22,",
+        "subject": "Філософія",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/73348068095?pwd=5vmxw9l6CAg7erbb7KmpKgaISayHE4.1"
+        ]
+    }
+]

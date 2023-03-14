@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "lecturer": "ІК-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3986905627?pwd=qiSffuBjta2ntju8CAH4Ly2TSmszJA.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Адміністрування інформаційних систем",
+        "lecturer": "ІТ-32, 123а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3986905627?pwd=qiSffuBjta2ntju8CAH4Ly2TSmszJA.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Адміністрування інформаційних систем",
+        "lecturer": "ІТ-32, 124 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3986905627?pwd=qiSffuBjta2ntju8CAH4Ly2TSmszJA.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

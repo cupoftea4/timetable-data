@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Мельник М.Р.,",
+        "subject": "Розпізнавання образів і комп`ютерний зір",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/6304733771?pwd=SEpzVHRHM1QzT1FLQ05uek9sR1Npdz09"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Фармага І.В.,",
+        "subject": "Інформаційний маркетинг та менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ]
+    },
+    {
+        "date": "2023-02-18T00:00:00.000Z",
+        "lecturer": "Андрущак Н.А.,",
+        "subject": "Методи та засоби комп`ютерного навчання",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Стех Ю.В.,",
+        "subject": "Інноваційні інформаційні технології",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Корпильов Д.В.,",
+        "subject": "Семантичні Веб- та Грід-мережі",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/qaz-ifth-tzr?authuser=0"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "КН-301, КН-302,",
+        "subject": "Технології захисту інформації",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/erv-pqjw-apg"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КН-218, КН-305,",
+        "subject": "Технології захисту інформації",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/erv-pqjw-apg"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "КН-303, КН-304,",
+        "subject": "Технології захисту інформації",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/erv-pqjw-apg"
+        ]
+    }
+]

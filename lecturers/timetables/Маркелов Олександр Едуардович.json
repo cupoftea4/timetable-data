@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Основи програмування, частина 1",
+        "lecturer": "ФЛ-11, ФЛ-12, ФЛ-13, 321 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи програмування, частина 1",
+        "lecturer": "ФЛ-14, ФЛ-15, ФЛ-16, 321 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методи побудови інтелектуального інтерфейсу користувача в автоматизованому проектуванні",
+        "lecturer": "КНСП-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/xqg-daqf-quc"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "КН-306, КН-307, КН-308, 321 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/rfa-rxif-ivc"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Комп`ютерні технології в промисловій біотехнології",
+        "lecturer": "БТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azettGmd3Xertg9eVBlMLhdLn_ovcElejf39Ou8uQWQ81%40thread.tacv2/1677231955080?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221f0c9503-a15f-4e00-9708-28938622a20a%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Контроль якості лікарських засобів",
+        "lecturer": "ФРМ-11, ФРФП-11, 236 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCuJ6aAsTcI2HXPqYVD9D5S8nZhNjwqTmEu5AgnrWMxM1%40thread.tacv2/1676889152393?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226786fb86-668e-4eb7-a1fa-8932cafc593e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

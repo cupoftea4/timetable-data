@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Технології сховищ та просторів даних",
+        "lecturer": "ІТ-23, 123а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/7106885313?pwd=eUJhbU96a3orbmNxVlo1VzJOak5Zdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технології сховищ та просторів даних",
+        "lecturer": "ІТ-23, 123а IV н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://zoom.us/j/7106885313?pwd=eUJhbU96a3orbmNxVlo1VzJOak5Zdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології сховищ та просторів даних",
+        "lecturer": "ІТ-23, 123а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/7106885313?pwd=eUJhbU96a3orbmNxVlo1VzJOak5Zdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології сховищ та просторів даних",
+        "lecturer": "ІТ-23, 123а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/7106885313?pwd=eUJhbU96a3orbmNxVlo1VzJOak5Zdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Левченко О.П.,",
+        "subject": "Контрастивна лінгвістика, частина 1",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/bcq-eudk-hqa"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Бондарчук Н.І.,",
+        "subject": "Основи лінгвокульторології",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/91574284715?pwd=SW84cnZTLzg3TUcvZWJUZDFZVEhpQT09%20%20Meeting%20ID:%20915%207428%204715%20Passcode:%20F1AUPD"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Романишин Н.І.,",
+        "subject": "Теорія і практика перекладу (англійська мова), частина 1",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/76597757196?pwd=zxUATlxLnpwb9aG2Hny5nH0DzKK24x.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Андруник В.А.,",
+        "subject": "Інтелектуальний аналіз даних",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/98213400258?pwd=WmJZeGFGazFuTSt0QmFWYXdIUjRrUT09"
+        ]
+    }
+]

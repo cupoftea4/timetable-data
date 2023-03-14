@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "ФЛ-26, 34 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "ФЛ-26, 34 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "ФЛ-26, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/ японська/ чеська/ польська мова), частина 1",
+        "lecturer": "ФЛ-26, 34 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

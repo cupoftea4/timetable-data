@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "НГ-41,",
+        "subject": "Комп`ютерні технології нафтогазового комплексу",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3505437138?pwd=aDhYN05tYUlyMzAxWDhVYzhkMWtCdz09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "НГ-32,",
+        "subject": "Механіка руйнування об`єктів нафтогазового комплексу",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/3505437138?pwd=aDhYN05tYUlyMzAxWDhVYzhkMWtCdz09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "НГ-31,",
+        "subject": "Математичне моделювання напружено - деформованого стану нафтогазосховищ та трубопроводів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3505437138?pwd=aDhYN05tYUlyMzAxWDhVYzhkMWtCdz09"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "НГ-41,",
+        "subject": "Математичне моделювання процесів нафтогазопостачання",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3505437138?pwd=aDhYN05tYUlyMzAxWDhVYzhkMWtCdz09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "НГ-41,",
+        "subject": "Механіка руйнування об`єктів нафтогазового комплексу",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3505437138?pwd=aDhYN05tYUlyMzAxWDhVYzhkMWtCdz09"
+        ]
+    }
+]

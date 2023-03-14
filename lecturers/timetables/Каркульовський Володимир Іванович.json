@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Дискретні моделі в САПР",
+        "lecturer": "КН-409, КН-410, 327 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82915729371?pwd=aGZZZDJWZThFSmVQWlhMT2xrd2x6dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Дискретні моделі в САПР",
+        "lecturer": "КН-406, КН-407, КН-408, 325 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82915729371?pwd=aGZZZDJWZThFSmVQWlhMT2xrd2x6dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Дискретні моделі в системному проектуванні",
+        "lecturer": "КН-411, 327 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82915729371?pwd=aGZZZDJWZThFSmVQWlhMT2xrd2x6dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Мікропроцесори в радіоелектронних пристроях та системах",
+        "lecturer": "ТРРП-11, 114 XI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/raq-tcjc-buw"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи моделювання та проектування програмно-апаратних радіоелектронних засобів",
+        "lecturer": "ТР-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/enh-cjvu-scm"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Мікропроцесори в радіоелектронних пристроях та системах",
+        "lecturer": "ТРРП-11, 214 XI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/raq-tcjc-buw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Мікропроцесори в радіоелектронних пристроях та системах",
+        "lecturer": "ТРРП-11, 214 XI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/raq-tcjc-buw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "ТРМ-21, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/fdr-nhbw-krh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Методи оптимізації телекомунікаційних та радіоелектронних пристроїв та систем",
+        "lecturer": "ТРа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/kgk-rvry-ohj"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

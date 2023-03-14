@@ -1,0 +1,277 @@
+[
+    {
+        "subject": "Зовнішньоекономічна діяльність підприємства",
+        "lecturer": "МЕ-21f, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNJLnewbaSWPVobM3KDaJciu4hd9CX6N-t-BrUqhF1jI1%40thread.tacv2/conversations?groupId=76eaa5f1-f842-4af4-aee3-2dc0f575b555&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Транснаціональні корпорації",
+        "lecturer": "ТКР-ЗМД-101, ТКР-ЗМД-102, ТКР-ЗМД-103, ТКР-ЗМД-104, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8ESPoob11NISNLUdauWdW01OXyXdgrwun0zR3BL_HPA1%40thread.tacv2/conversations?groupId=a9c30d59-82bb-4d6c-bfc6-956635fc3942&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-206, 401 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-205, 401 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "СЕ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aHVsnAbWsMh_3MtpUpWVSU-MWgPXi_ZD0ielh5lhrvzM1%40thread.tacv2/conversations?groupId=f5a0a132-ffad-4fb1-b946-65dafc98c66d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "ЕЕ-41, ЕЕ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aA-xF16PxpGmGvmeQ1gg581SVgZEBGAEI3I6Q75Y9Rwk1%40thread.tacv2/conversations?groupId=363fcc1d-60df-49dc-9926-a3ce6d69f778&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-207, 224 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Транснаціональні корпорації",
+        "lecturer": "ТКР-ЗМД-101, 417 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aivo14i6DN08nIVcIx4Djryz22LAVTsLjXo6c8oc-klI1%40thread.tacv2/conversations?groupId=f3ad4f09-9315-4861-bdc3-bf4851cb1750&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Транснаціональні корпорації",
+        "lecturer": "ТКР-ЗМД-102, 417 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aHtJmfwYKzczwxY3x055E536vq8m5GVGs7yrrA6SuFsY1%40thread.tacv2/conversations?groupId=b82257c2-8f50-470d-86f2-be7a32c9edde&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-208, 511 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-31, МЕ-32, МЕ-33, МЕ-34, МЕ-35, МЕ-36, МЕ-37, МЕ-38, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aks_A0-f7SbXvTDBn5VL1yit9ndj9iN-EZCx7w2cUKTg1%40thread.tacv2/conversations?groupId=7ed69d5d-526e-4891-8aa8-5c041f6ac3a3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-31, МЕ-32, МЕ-33, МЕ-34, МЕ-35, МЕ-36, МЕ-37, МЕ-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aks_A0-f7SbXvTDBn5VL1yit9ndj9iN-EZCx7w2cUKTg1%40thread.tacv2/conversations?groupId=7ed69d5d-526e-4891-8aa8-5c041f6ac3a3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "Транснаціональні корпорації",
+        "lecturer": "ТКР-ЗМД-103, 527 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afaO4Cl-IX2uprjTBaw7BApcc5i2c3FRxOMCbiQfNCw81%40thread.tacv2/conversations?groupId=25c8c3d5-f6e4-4490-9502-9370765021f2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "АЕ-41, 211 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aqqM_ERINRWsAkQUaREzETMzrA_5ock6PoGAG19Lydcw1%40thread.tacv2/conversations?groupId=4cba132f-0f16-4c0c-ac4b-0a7b397c1233&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "ЕЕ-42, 307 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a53_NET32JPru-zxjmBZA-hrHtOIBSFLD_qenricH8Xo1%40thread.tacv2/conversations?groupId=d4f7d086-46fc-4e41-aaed-5c224bec776c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "СЕ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aD1rAYcJjI6Dj9j7BipeQmDZikNJftfxrg8ln_uYXyyA1%40thread.tacv2/conversations?groupId=23df5e95-d32b-47bf-9740-d5abc7f95ca5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "ТЕ-41, 209 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFhNLLUMX7K4UvXrZjVmxWb3wlI-SRVfNtqhnHd1HOV01%40thread.tacv2/conversations?groupId=51ad0684-5b9c-45aa-b380-ce0ca4b61585&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Транснаціональні корпорації",
+        "lecturer": "ТКР-ЗМД-104, 528 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aivo14i6DN08nIVcIx4Djryz22LAVTsLjXo6c8oc-klI1%40thread.tacv2/conversations?groupId=f3ad4f09-9315-4861-bdc3-bf4851cb1750&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Зовнішньоекономічна діяльність підприємства",
+        "lecturer": "МЕ-21, МЕ-22, МЕ-23, МЕ-24, МЕ-25, МЕ-26, МЕ-27, 308 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 3
+    }
+]

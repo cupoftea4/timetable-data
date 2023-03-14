@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Педагогіка відкритих освітніх систем",
+        "lecturer": "ПК-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Педагогіка відкритих освітніх систем",
+        "lecturer": "ПК-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Методика навчання інформатики: дидактичне проектування та інноваційні технології",
+        "lecturer": "НОПН-11, НОПН-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74254239291?pwd=NkVhZlljTmJ5K2NFNWxTNUNmNHQ1Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи педагогіки відкритих освітніх систем",
+        "lecturer": "ПЦ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74516750730?pwd=uTT7jA4BFWRdLNo8fAgz8TnFouCSdn.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Педагогіка відкритих освітніх систем",
+        "lecturer": "ПК-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Педагогіка відкритих освітніх систем",
+        "lecturer": "ПК-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72799131785?pwd=3Ptf9bfqDbKHvnCCzut5gt7P8ORp0H.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

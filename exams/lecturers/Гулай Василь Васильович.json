@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-10-26T00:00:00.000Z",
+        "lecturer": "МІМ-21,",
+        "subject": "Лобізм та GR",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72856537022?pwd=tjGCtT7a7d4NAmsqAwEKTLAybUIeAD.1"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "МІ-31,",
+        "subject": "Інформаційна політика України та держав світу",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76387772436?pwd=lK5FoxmO9TtatkwBHMMAx9LOiBPdaV.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "МІ-41,",
+        "subject": "Зовнішньополітичні комунікативні технології",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76493513188?pwd=ijajRbK2wyXV1sPXRO9WFAdlKMG6ff.1"
+        ]
+    }
+]

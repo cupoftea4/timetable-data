@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-10-26T00:00:00.000Z",
+        "lecturer": "БДМ-21,",
+        "subject": "Спецкурс з наукових досліджень спеціальності",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "БД-29,",
+        "subject": "Будівельні конструкції",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "БДПЦ-11, БДПЦ-12, БДПЦ-13,",
+        "subject": "Проектування металевих конструкцій",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ]
+    }
+]

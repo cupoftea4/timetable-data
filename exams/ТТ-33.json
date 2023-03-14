@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Барвінська Х.А.,",
+        "subject": "Основи теорії транспортних процесів і систем",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Бойків М.В.,",
+        "subject": "Аналіз транспортних проектів",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3axBYZYmZvUsEOOkB4nNzve1Lu_gfw43B1ISnnFZSjuK01%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ceed50fd-2421-4f3e-ab81-51079b77b0ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Вельган І.В.,",
+        "subject": "Експлуатаційні властивості шляхів сполучення",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNdMlLB-b78AKFD95YaACf6A1nMOQQ4T-hsXxyLjUK-o1%40thread.tacv2/conversations?groupId=17831998-242b-4350-a40c-84f0e04df0bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Бойків М.В.,",
+        "subject": "Основи моделювання транспортних потоків",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFF07LEYtnPOPnU8o7saJo05LFmOM9z9JrKjiYh66V_41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=33e1fdbc-e1a0-4bc1-826b-04af71b5b269&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Ковальчук В.В.,",
+        "subject": "Інженерні споруди транспорту",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ]
+    }
+]

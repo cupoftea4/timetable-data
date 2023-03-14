@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Інтелектуальні системи підтримки прийняття рішень",
+        "lecturer": "ПЗа-21, САа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8787416687?pwd=cmN3UFZLMkQvM051aEFNbjlCZEFqQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальні системи підтримки прийняття рішень",
+        "lecturer": "ПЗа-21, САа-21, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8787416687?pwd=cmN3UFZLMkQvM051aEFNbjlCZEFqQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

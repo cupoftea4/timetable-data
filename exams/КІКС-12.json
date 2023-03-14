@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Морозов Ю.В.,",
+        "subject": "Проектування засобів захисту інформації в комп`ютерних системах та мережах",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/72243932160?pwd=YxhWlMPthR53NLGKZJaODanlWlidjW.1"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Бочкарьов О.Ю.,",
+        "subject": "Теорія інтелектуальних систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77864436479?pwd=DgaEhQJw3FrYG7VjK4Q0aLbNiTESKF.1"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Наконечний Р.А.,",
+        "subject": "Мережні інформаційні технології",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Глухов В.С.,",
+        "subject": "Дослідження і проектування комп`ютерних систем та мереж",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/82144123772?pwd=d0I4L0dEVHI2RHhLdlMwd04vL1VlQT09"
+        ]
+    }
+]

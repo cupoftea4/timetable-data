@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Мисак С.Й.,",
+        "subject": "Атомні електричні станції, частина 2",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Матіко Г.Ф.,",
+        "subject": "Захист від іонізуючого випромінювання",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a45b711290eb845febe0cba674ce12452%40thread.tacv2/1669021151057?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9efd28-d50a-4a79-99de-632d64510f7d%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Лис С.С.,",
+        "subject": "Матеріали ядерної техніки",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a310fc32f1b744af2ac5209fceba8666b%40thread.tacv2/conversations?groupId=ab092d39-94e6-4d69-a11c-df57f8fe7526&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Покровський К.Б.,",
+        "subject": "Електрообладнання атомних електростанцій",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a9a55a9457a8a46e38fd668f986742688%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=9c048465-ffb2-433e-8241-c918230cc291&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Матіко Г.Ф.,",
+        "subject": "Режими роботи атомних електростанцій",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a45b711290eb845febe0cba674ce12452%40thread.tacv2/1669021398541?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce9efd28-d50a-4a79-99de-632d64510f7d%22%7d"
+        ]
+    }
+]

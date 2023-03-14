@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "lecturer": "ПЗ-31, ПЗ-32, ПЗ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78146958069?pwd=ABeujxwU6q1nIFi7IQpHsJpVkSmiGc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "lecturer": "ПЗ-31, ПЗ-32, ПЗ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78146958069?pwd=ABeujxwU6q1nIFi7IQpHsJpVkSmiGc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "lecturer": "ПЗ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78146958069?pwd=ABeujxwU6q1nIFi7IQpHsJpVkSmiGc.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "lecturer": "ПЗ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "http://meet.google.com/tbr-fjwx-rrw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "lecturer": "ПЗ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78146958069?pwd=ABeujxwU6q1nIFi7IQpHsJpVkSmiGc.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "lecturer": "ПЗ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78146958069?pwd=ABeujxwU6q1nIFi7IQpHsJpVkSmiGc.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

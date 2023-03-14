@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Архітектурне проектування громадських будівель та споруд",
+        "lecturer": "АР-27, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурне проектування громадських будівель та споруд",
+        "lecturer": "АР-27, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурне проектування громадських будівель та споруд",
+        "lecturer": "АР-28, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурне проектування громадських будівель та споруд",
+        "lecturer": "АР-28, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування споруди",
+        "lecturer": "АР-48, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ajxqs3FZOTYHum5i7PbkCOSdwZiE5wVZJvyTCeVmavoA1%40thread.tacv2/conversations?groupId=eec7371d-b513-4087-bf4c-66a92d03e928&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Архітектурне проектування споруди",
+        "lecturer": "АР-48, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ajxqs3FZOTYHum5i7PbkCOSdwZiE5wVZJvyTCeVmavoA1%40thread.tacv2/conversations?groupId=eec7371d-b513-4087-bf4c-66a92d03e928&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Проектування генплану території",
+        "lecturer": "АР-48, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3agHYLd9shtt0RfrtQB-2NpMVVk42SC58a7F0PK5MkRF81%40thread.tacv2/conversations?groupId=00348557-8952-407d-9a6e-4dc088aba389&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Проектування генплану території",
+        "lecturer": "АР-48, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3agHYLd9shtt0RfrtQB-2NpMVVk42SC58a7F0PK5MkRF81%40thread.tacv2/conversations?groupId=00348557-8952-407d-9a6e-4dc088aba389&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

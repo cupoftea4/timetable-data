@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Тенденції формування мультиформатних житлових об`єктів",
+        "lecturer": "АРБС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:7GEjMQGXGIMCBe5Roedrrud_UF9l1aBY6rNikPYbxOc1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "АР-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/_#/teamDashboard/%D0%90%D0%A0-33_%D0%9A%D0%9F_%D0%95%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D1%96%D1%8F%20%D0%B6%D0%B8%D1%82%D0%BB%D0%B0_%D0%90%D0%9F%20%D0%B6%D0%B8%D1%82%D0%BB%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE%20%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BA%D1%83%20%D1%81%D0%B5%D1%80%D0%B5%D0%B4%D0%BD%D1%8C%D0%BE%D1%97%20%D0%BF%D0%BE%D0%B2%D0%B5%D1%80%D1%85%D0%BE%D0%B2%D0%BE%D1%81%D1%82%D1%96_2023/19:UHV0BJJFLF9ldQWmCZR3MKrtww9zw60xHGFPcdI5-bQ1@thread.tacv2/td.members"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "АРМ-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_#/school/gradebook/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:xQuQxJFx0NNg7T_jb2d9YS8AKjVzyN0UhhzZKDfqM2w1@thread.tacv2&ctx=channel&isTeamLevelApp=true"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

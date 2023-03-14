@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ЖР-41, ЖР-42, ЖР-43,",
+        "subject": "Соціальні мережі і журналістика",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ЖРЗВ-11,",
+        "subject": "Економічні і соціальні проблеми в ЗМІ",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ]
+    }
+]

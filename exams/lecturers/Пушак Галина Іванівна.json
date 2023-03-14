@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "УАі-42,",
+        "subject": "Антикризове управління",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/83232569458?pwd=djh2WkJTTGtmNkx5MzhqeWQ4QVArUT09"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "УАі-32,",
+        "subject": "Ціни та ціноутворення",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/83232569458?pwd=djh2WkJTTGtmNkx5MzhqeWQ4QVArUT09"
+        ]
+    }
+]

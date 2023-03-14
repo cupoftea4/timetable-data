@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ТР-24, ТР-25,",
+        "subject": "Сигнали в інформаційних системах",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/kya-xeei-dxg?authuser=0"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ТР-21, ТР-22, ТР-23,",
+        "subject": "Сигнали в інформаційних системах",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/yrb-yxdp-hqy?authuser=0"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ТР-44,",
+        "subject": "Технологія моделювання алгоритмів поведінки програмно-апаратних систем",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/fbw-sfsh-bnr?authuser=0"
+        ]
+    }
+]

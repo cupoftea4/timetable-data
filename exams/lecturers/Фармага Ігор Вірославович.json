@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "КНСП-11, КНСП-12,",
+        "subject": "Інформаційний маркетинг та менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "КНІТ-11, КНІТ-12,",
+        "subject": "Інформаційний маркетинг та менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "КНМ-11,",
+        "subject": "Інформаційний маркетинг та менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ]
+    }
+]

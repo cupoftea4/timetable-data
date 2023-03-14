@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "АВКВ-11, АВМ-11,",
+        "subject": "Моделювання та оптимізація систем керування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76144894053?pwd=WmAnEA0aY1hL1UvQAZGCFVBj5hSzRa.1"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "АВКС-11, АВКС-12,",
+        "subject": "Моделювання та оптимізація систем керування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71865670316?pwd=lGG6gOaf2ao7EhWjwihbtJ5wVzWPub.1"
+        ]
+    }
+]

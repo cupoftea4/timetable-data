@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Петрушка Т.О.,",
+        "subject": "Економіка і управління будівництвом",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/74192383087?pwd=b4zy6S99tY9Hfz3fE92TXIFvfgKFcp.1"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Пелех А.Б.,",
+        "subject": "Проектування основ і фундаментів",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Шналь Т.М.,",
+        "subject": "Проектування конструкцій з дерева та пластмас",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Кущенко В.М.,",
+        "subject": "Проектування металевих конструкцій",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "ПВ-310, ПВ-37, ПВ-38, ПВ-39,",
+        "subject": "Адміністративний процес",
+        "number": 1,
+        "urls": [
+            "https://meet.google. com/snu-hzpi-rxx?authuser=0"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ПВ-34, ПВ-35, ПВ-36,",
+        "subject": "Адміністративний процес",
+        "number": 2,
+        "urls": [
+            "https://meet.google. com/snu-hzpi-rxx?authuser=0"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ПВПР-23,",
+        "subject": "Проблеми правового регулювання інформаційно-комунікаційної сфери",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/whc-wzsd%20-%20ket?authuser=0"
+        ]
+    }
+]

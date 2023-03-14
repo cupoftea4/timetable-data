@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "МБ-41f,",
+        "subject": "Спеціалізовані автотранспортні засоби",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-18T00:00:00.000Z",
+        "lecturer": "МБКГ-11,",
+        "subject": "Прикладна теорія автомобіля",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/86171961774?pwd=U1N2MmJSMXdnVVYrUU5tRkgxNjZiQT09"
+        ]
+    }
+]

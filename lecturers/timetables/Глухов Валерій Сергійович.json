@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Тестування і діагностика програмно-апаратних засобів",
+        "lecturer": "КІ-31, КІ-32, КІ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82143611590?pwd=RkEvMkFEUkNSY1dHN0JqUjIyNzVRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Кіберфізичні системи",
+        "lecturer": "КІа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84907772077?pwd=eDRsSmU1Q0x5Y0Q2b1B3WW5keGphdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Тестування і діагностика кіберфізичних систем",
+        "lecturer": "КІ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84000203173?pwd=VmJ0MGVndFI1UHJnc29vVXVadUYwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

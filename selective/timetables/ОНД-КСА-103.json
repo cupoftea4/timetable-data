@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "Мичуда З.Р., 608 V н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0cdea978493d4945ac69ce1bc16ba68b%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F%2520%25D0%25B3%25D1%2580%25D1%2583%25D0%25BF%25D0%25B8%2520%25D0%259E%25D0%259D%25D0%2594-%25D0%259A%25D0%25A1%25D0%2590-101-104?groupId=10b77467-088d-4234-a7f6-09bafece4a99&tenantId=53c28cdc-39c8-43ec-9855-a6d73a84aa18"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "Мичуда З.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQY5v-eLBS622GDT13oEN3uMi5hptybPWzgOw-V4kdwM1%40thread.tacv2/conversations?groupId=10b77467-088d-4234-a7f6-09bafece4a99&tenantId=53c28cdc-39c8-43ec-9855-a6d73a84aa18"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

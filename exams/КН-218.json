@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Дорошенко А.В.,",
+        "subject": "Проектування інформаційних систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75540498942?pwd=sFfHR7azJw9pjuZoTNU5TpUEPWIojP.1"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Батюк А.Є.,",
+        "subject": "Основи штучного інтелекту",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQf0QKMTvn27j4yWDnS0BRTdN0jwvaGUhmN7ayrsPtBM1%40thread.tacv2/1669028270933?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2291176340-bd4e-4882-9639-9a0d9bcf5783%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Кузьмін О.В.,",
+        "subject": "Моделювання систем",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Марцишин Р.С.,",
+        "subject": "Технології захисту інформації",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/erv-pqjw-apg"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Дубук В.І.,",
+        "subject": "Теоретичні основи управління",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOZhi4MY3dwZamCqJjSVeekyyQrf9v61pOlVH7B5iM1g1%40thread.tacv2/1669563896507?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223321c9c7-b782-4247-841d-f3199974ce07%22%7d"
+        ]
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Вус Б.С.,",
+        "subject": "Обчислювальні та мікропоцесорні засоби біомедичної апаратури",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3anHUU_1ACwInIGx9dLaK8YFN3JaD-l-vpEVyjIiqUwTc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f2bb0b28-afda-496f-beb7-3742db4310da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Гоблик В.В.,",
+        "subject": "Технічні засоби захисту біомедичної інформації",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Лозинський В.І.,",
+        "subject": "Медичні прилади та системи",
+        "number": 2,
+        "urls": []
+    }
+]

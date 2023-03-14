@@ -1,0 +1,46 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Морська Н.О.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://join.skype.com/JEQ879lckz4D",
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ae0e4f51-cd68-4b4b-bf85-6f8ae89ed1ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_H3INyTBTflbXruXgbsaX4d0YGebt3o048ooEVWeT4gs1@thread.tacv2&messageId=1669914354484&language=en-US"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Шевчук Р.В.,",
+        "subject": "Вища математика, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/98305431811?pwd=YTFLODRyYkFpT2x5NWhrSnVmdk1NZz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Маляр В.С.,",
+        "subject": "Електротехніка та електромеханіка",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Кріль Б.А.,",
+        "subject": "Електроніка та схемотехніка",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Вербова Р.М.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6949009441?pwd=TE5ZSkhpNUVzZEYxWXBKZ0dMQ0JPZz09"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Висоцька Р.Р.,",
+        "subject": "Іноземна мова за професійним спрямуванням,частина 3",
+        "number": 4,
+        "urls": [
+            "https://us06web.zoom.us/j/6174554655?pwd=dExjdFhUNEJ4cVRYUkJwSjdjUzIydz09%20%20Meeting%20ID:%20617%20455%204655%20Passcode:%20504422"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Буров Є.В.,",
+        "subject": "Комп`ютерні мережі",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/81656983856?pwd=OHVCWEFHdEpWdXN6OVU5clBNTmpDQT09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Сало Т.М.,",
+        "subject": "Математичний аналіз (ТФКЗ), частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9588911040?pwd=aDI4WVkvQi9NT0xjak1jOE53anFmdz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Кравець П.О.,",
+        "subject": "Об`єктно-орієнтоване програмування",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/6176843192?pwd=OWJ3SEppZUFlWjNoUjR6SkVLbzdWQT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Бугрій Н.В.,",
+        "subject": "Теорія ймовірностей і математична статистика",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_VL2PIkyRD0pRC-OdOke0Y6cAGp-2jm16p5lnUy2UX9Y1@thread.tacv2&messageId=1670486768204&language=en-US"
+        ]
+    }
+]

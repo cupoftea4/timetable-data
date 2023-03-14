@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Електронні послуги",
+        "lecturer": "Думанський Н.О., інозем",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4441149040?pwd=TC9xczkvQVgzbjdNUEZRTWlSNEFhQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Електронні послуги",
+        "lecturer": "Думанський Н.О., інозем",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4441149040?pwd=TC9xczkvQVgzbjdNUEZRTWlSNEFhQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

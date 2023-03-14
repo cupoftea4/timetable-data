@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Музика Н.М.,",
+        "subject": "Державний земельний кадастр та оцінка нерухомості",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-17T00:00:00.000Z",
+        "lecturer": "Марусаж Х.І.,",
+        "subject": "Картографія",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aONA5Gi0UaCz-HSFz952EFvMXNdvOGZR-LUIJaF0KiWs1%40thread.tacv2/conversations?groupId=fbceebb6-dc83-4bf4-a632-d444161dbfa7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Заяць О.С.,",
+        "subject": "Основні геодезичні роботи",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-20T00:00:00.000Z",
+        "lecturer": "Бурштинська Х.В.,",
+        "subject": "Фотограмметрія та дистанційне зондування",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-23T00:00:00.000Z",
+        "lecturer": "Савчук С.Г.,",
+        "subject": "Вища геодезія",
+        "number": 2,
+        "urls": []
+    }
+]

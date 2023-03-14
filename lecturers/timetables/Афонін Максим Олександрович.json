@@ -1,0 +1,195 @@
+[
+    {
+        "subject": "Прогнозування транспортних потоків",
+        "lecturer": "ТТОП-12, 204 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatAns7Er3jnRaYEeHv7gNHuGY30o7AEAnJAvL4S1NdE1%40thread.tacv2/conversations?groupId=694ab875-ade7-45bc-ba47-1dc9f47d7d82&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Прогнозування транспортних потоків",
+        "lecturer": "ТТОП-12, 204 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatAns7Er3jnRaYEeHv7gNHuGY30o7AEAnJAvL4S1NdE1%40thread.tacv2/conversations?groupId=694ab875-ade7-45bc-ba47-1dc9f47d7d82&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "ТТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a760a6fe3cdd94110a4ace7ea00a5aab7%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "ТТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a760a6fe3cdd94110a4ace7ea00a5aab7%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Прогнозування транспортних потоків",
+        "lecturer": "ТТОП-13, 206 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatAns7Er3jnRaYEeHv7gNHuGY30o7AEAnJAvL4S1NdE1%40thread.tacv2/conversations?groupId=694ab875-ade7-45bc-ba47-1dc9f47d7d82&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Прогнозування транспортних потоків",
+        "lecturer": "ТТОП-13, 215 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatAns7Er3jnRaYEeHv7gNHuGY30o7AEAnJAvL4S1NdE1%40thread.tacv2/conversations?groupId=694ab875-ade7-45bc-ba47-1dc9f47d7d82&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Прогнозування транспортних потоків",
+        "lecturer": "ТТОП-11, ТТОП-12, ТТОП-13, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatAns7Er3jnRaYEeHv7gNHuGY30o7AEAnJAvL4S1NdE1%40thread.tacv2/conversations?groupId=694ab875-ade7-45bc-ba47-1dc9f47d7d82&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "ТТ-41, ТТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6cccbe78c4594a55a8896e87abd19f2d%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "ТТ-41, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "ТТ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a760a6fe3cdd94110a4ace7ea00a5aab7%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "ТТ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a760a6fe3cdd94110a4ace7ea00a5aab7%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Прогнозування транспортних потоків",
+        "lecturer": "ТТОП-11, 218 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatAns7Er3jnRaYEeHv7gNHuGY30o7AEAnJAvL4S1NdE1%40thread.tacv2/conversations?groupId=694ab875-ade7-45bc-ba47-1dc9f47d7d82&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Прогнозування транспортних потоків",
+        "lecturer": "ТТОП-11, 218 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatAns7Er3jnRaYEeHv7gNHuGY30o7AEAnJAvL4S1NdE1%40thread.tacv2/conversations?groupId=694ab875-ade7-45bc-ba47-1dc9f47d7d82&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Лотошинська Н.Д.,",
+        "subject": "Макетування і дизайн",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71959399249?pwd=hNdhEYdjCICc1qMPJNLveyUERFe84k.1"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Ковальчук А.М.,",
+        "subject": "Системи криптографічного захисту",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Гавриш Б.М.,",
+        "subject": "Технології друкарства",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/86275449898?pwd=UVJ3ZXV2UGRDRFczRjRwejdHQ0dFQT09"
+        ]
+    },
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "Різник О.Я.,",
+        "subject": "Комп`ютерна графіка та відеографіка",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Шуневич О.Б.,",
+        "subject": "Управління дизайн-проектами",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/yvz-wgkd-ixz?authuser=0"
+        ]
+    }
+]

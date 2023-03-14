@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-20T00:00:00.000Z",
+        "lecturer": "ГДа-11,",
+        "subject": "Сучасні методи і технології геодезії та землеустрою",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "ГДОЗ-11,",
+        "subject": "Оцінка об`єктів у матеріальній формі",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ]
+    }
+]

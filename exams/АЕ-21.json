@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Лис С.С.,",
+        "subject": "Ядерна та нейтронна фізика",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac531a6321c314894bbcbeea8b83b5b0d%40thread.tacv2/conversations?groupId=415da38c-41fa-479c-8c26-309b8c02956e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Кичма А.О.,",
+        "subject": "Теоретична механіка та основи конструювання",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "+СЕ+ТЕ",
+        "subject": "Вища математика, частина 3",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Богун Л.І.,",
+        "subject": "Матеріалознавство",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Вільховченко Н.П.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/91476030182?pwd=OUtTS0RCTGJ1TjlVd2krOUJPdDMvdz09"
+        ]
+    }
+]

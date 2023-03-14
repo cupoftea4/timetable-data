@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "Гурей Т.А.,",
+        "subject": "Інформаційні системи",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5Sael5S2zBUe8MrNlfvxlHrDD5XoGU_PQEjlG0TfuPM1%40thread.tacv2/1669760467775?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Вікович І.А.,",
+        "subject": "Проектування транспортно-складських комплексів",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Бура Р.Р.,",
+        "subject": "Експедиційна та брокерська діяльність",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aJgIhO5Hs9YY_QduGj4GyzhIyUkOTXZBlaFniHkCCQ4w1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=848fad24-7afa-459f-a4e7-5043a2e17b72&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Вікович І.А.,",
+        "subject": "Проектування транспортно-технологічних систем вантажних перевезень",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Рогальський Р.Б.,",
+        "subject": "Організація пасажирських автомобільних перевезень",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aRh-B1UVidRo_sk222vCDyQ93_9JeTUkYYyJXfLG4Kq41%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=f2900cd6-9db8-4559-a190-fd6c4eaea6c6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

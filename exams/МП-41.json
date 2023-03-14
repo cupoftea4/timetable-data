@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Гурей І.В.,",
+        "subject": "Проектування та технологія виготовлення металорізальних інструментів, частина 2",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aKitaWALXATWa56nI5FdZrzqNoJfgPdSmN_QSjhEaZw81%40thread.tacv2/1669760911358?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Грицай І.Є.,",
+        "subject": "Технологія машинобудування, частина 2",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Литвиняк Я.М.,",
+        "subject": "Технологічне оснащення",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aKfQgGRQW__91hSIhPYEswmKg1wpnxfYIhRw6XXOoIXs1%40thread.tacv2/1668615700618?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e06fc88-5fc4-4029-bc51-1f25c1ff9034%22%7d"
+        ]
+    }
+]

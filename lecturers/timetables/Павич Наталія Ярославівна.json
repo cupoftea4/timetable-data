@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Сховища даних",
+        "lecturer": "ПЗ-34, ПЗ-35, ПЗ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjc1ZjVhMzEtYTQwNi00MmU0LWExOTYtYTFkODljYzE0NGQ3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229a605ba6-6917-411b-918f-084f4839c77f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    }
+]

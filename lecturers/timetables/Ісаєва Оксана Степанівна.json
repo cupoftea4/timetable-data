@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Дослідницький семінар «Освітні, педагогічні науки»",
+        "lecturer": "НОа-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    }
+]

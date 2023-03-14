@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Обернені задачі термомеханіки та методи їх дослідження",
+        "lecturer": "ПМПМ-11, 215 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Обернені задачі термомеханіки та методи їх дослідження",
+        "lecturer": "ПМПМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Обернені задачі термомеханіки та методи їх дослідження",
+        "lecturer": "ПМПМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aV7QzmfT9rd4z6haZrUCxfNgj10DyM_OOgshDgiwXSa01%40thread.tacv2/conversations?groupId=3e27a6c0-4b19-4944-a126-aa83f3d9804e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

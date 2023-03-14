@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "ПВ-310, ПВ-38, ПВ-39,",
+        "subject": "Конституційний процес",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75430757918?pwd=08WwkpSvdKDjkXsMjYQtZbvarU2YwW.1"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПВ-35, ПВ-36, ПВ-37,",
+        "subject": "Конституційний процес",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/77396457488?pwd=i3e8iRLeslrsx0kh5GCdEaBf7Tncsi.1"
+        ]
+    }
+]

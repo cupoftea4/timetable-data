@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Зінько Р.В.,",
+        "subject": "Системи колісних та гусеничних машин",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "Дмитрів В.Т.,",
+        "subject": "Проектування кузовів та їх систем",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3dBqzIQtckESMzJdNPO0eMuyjUmbmDctqZh8l5BYwz41%40thread.tacv2/conversations?groupId=7c8edc3f-17c0-4632-a09c-3610d7e018df&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-18T00:00:00.000Z",
+        "lecturer": "Бур'ян М.В.,",
+        "subject": "Прикладна теорія автомобіля",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/86171961774?pwd=U1N2MmJSMXdnVVYrUU5tRkgxNjZiQT09"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Калиновська Н.Л.,",
+        "subject": "Економіка і управління підприємством",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Костів І.С.,",
+        "subject": "Методи математичної обробки експериментальних досліджень",
+        "number": 2,
+        "urls": []
+    }
+]

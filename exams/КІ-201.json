@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Чабан В.Й.,",
+        "subject": "Теорія електричних та магнітних кіл",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Клушин Ю.С.,",
+        "subject": "Комп`ютерна електроніка",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Глухов В.С.,",
+        "subject": "Комп`ютерна логіка",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/83288789859?pwd=SEtaUVVUV2wrM1NXQ2trWkNiajNsdz09"
+        ]
+    },
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Пастирська І.Я.,",
+        "subject": "Іноземна мова професійного спрямування, частина 3",
+        "number": 1,
+        "urls": [
+            "https://join.skype.com/Bpr4VDdGQcDS"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Рибицька О.М.,",
+        "subject": "Теорія ймовірностей та математична статистика",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72464984963?pwd=31fnYBxqikErXtc3xrUQajWJHCW8hp.1"
+        ]
+    }
+]

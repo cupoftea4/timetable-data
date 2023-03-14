@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "КН-303, КН-304,",
+        "subject": "Теоретичні основи управління",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ab44dc016974d452f9bed2f5b0b0c564a%40thread.tacv2/1669562518238?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223321c9c7-b782-4247-841d-f3199974ce07%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "КН-301, КН-302,",
+        "subject": "Теоретичні основи управління",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a674fb17534ed471dbb5608b63af7d8d6%40thread.tacv2/1669563204326?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223321c9c7-b782-4247-841d-f3199974ce07%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "КН-218, КН-305,",
+        "subject": "Теоретичні основи управління",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOZhi4MY3dwZamCqJjSVeekyyQrf9v61pOlVH7B5iM1g1%40thread.tacv2/1669563896507?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223321c9c7-b782-4247-841d-f3199974ce07%22%7d"
+        ]
+    }
+]

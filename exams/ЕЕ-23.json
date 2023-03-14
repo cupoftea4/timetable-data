@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Волошин М.М.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/72883484532?pwd=Vo1QFbHlq6JiWV7id1S5QMaI4S0MH4.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Стахів П.Г.,",
+        "subject": "Теоретичні основи електротехніки, частина 2",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3405937645?pwd=N2pTOS9GMkxzc0c0SUE5QXJsN01Pdz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Дільний В.М.,",
+        "subject": "Вища математика, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/92199911777?pwd=bVAvd2tQUERFRGtYRkhLazc0Q2JCdz09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Гамола О.Є., Семенюк М.Б.,",
+        "subject": "Промислова електроніка та мікросхемотехніка",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3A8c_pKVu1_wEgZrFqwYbr5JxGq0NEgZ8Jt0D4v6kuVAQ1%40thread.tacv2/1669386066765?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%2282ca239f-ef60-4f6d-b148-bec0fdcb5148%22%7D%20https://teams.microsoft.com/l/meetup-join/19%3a8c_pKVu1_wEgZrFqwYbr5JxGq0NEgZ8Jt0D4v6kuVAQ1%40thread.tacv2/1669386066765?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282ca239f-ef60-4f6d-b148-bec0fdcb5148%22%7d"
+        ]
+    }
+]

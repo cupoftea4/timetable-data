@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-02-25T00:00:00.000Z",
+        "lecturer": "Висоцька Р.Р.,",
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Яцук В.О.,",
+        "subject": "Тестування інформаційно-вимірювальних систем",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/5022807035?pwd=dDdScXIxSWdMckFLSEo0amtnV0tOQT09"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Микийчук М.М.,",
+        "subject": "Метрологічне забезпечення виробництва",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayf0yPCAdf_7UxnPn4E9ZBwhI0xH0qUIsgSVIskQJuv01%40thread.tacv2/conversations?groupId=ad6262f1-8a85-42ea-b1f2-577dc3a5841d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Ліхновський І.С.,",
+        "subject": "Комп`ютерні методи аналізу засобів вимірювання електричних величин",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/89325704449?pwd=VEppd2dhYnFkbkNFWkprOERpSzlWQT09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Гамула П.Р.,",
+        "subject": "Верифікація засобів вимірювальної техніки",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aTBiJrxXhQO5yzHJQv_koh_-ScZ3sn5-7zmoFuXp3QiM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=c9527033-fcc4-4748-83df-e0c04ba46e38&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

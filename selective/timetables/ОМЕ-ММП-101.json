@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Оподаткування міжнародної економічної діяльності",
+        "lecturer": "Дорошкевич К.О., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6298fb351b2a4ddb8178280790c2843c%40thread.tacv2/General?groupId=5d7df0dd-5da4-4d22-9323-4ac3ecd16ae9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Оподаткування міжнародної економічної діяльності",
+        "lecturer": "Вороновська М.М., МЕБА-11",
+        "location": " Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Оподаткування міжнародної економічної діяльності",
+        "lecturer": "Вороновська М.М., МЕБА-12",
+        "location": ", Лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

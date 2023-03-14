@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "ФБ-21, ФБ-22,",
+        "subject": "Маркетинг",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77343054350?pwd=Dc11c6NIr3RyMyqQaeSwwTbDBzifPF.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ЕВ-21, ЕВ-22,",
+        "subject": "Маркетинг",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71079994637?pwd=lLc5FccY8MCuad6Dv4HkZoh8KtbO5I.1"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Клапчук М.І.,",
+        "subject": "Теорія ймовірностей і математична статистика",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/2591708413?pwd=U3k0bC81RzF3MFEzYkhVMm9NVE9Hdz09"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Маркелов О.Е.,",
+        "subject": "Основи програмування, частина 2",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/vrc-kvft-ohs"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Левицька О.С.,",
+        "subject": "Історія украінської та зарубіжної літератури",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73838775913?pwd=RDRhYTIrL29WRXd6TG5uOGFnUHVYZz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Стасів М.В.,",
+        "subject": "Сучасна німецька/японська/чеська/польська мова, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9460882946?pwd=ZGx3TXFtRFQ2TVV4UHVQaXdITm5adz09"
+        ]
+    }
+]

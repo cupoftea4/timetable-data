@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Методи обробки біомедичної інформації, частина 2",
+        "lecturer": "БІ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/tvj-qfyg-gpc"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методи обробки біомедичної інформації, частина 2",
+        "lecturer": "БІ-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/tvj-qfyg-gpc"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Телемедичні системи",
+        "lecturer": "БІ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ghh-wqux-axv"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Телемедичні системи",
+        "lecturer": "БІ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/bpc-xfne-jxk"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Телемедичні системи",
+        "lecturer": "БІ-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/ghh-wqux-axv"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Телемедичні системи",
+        "lecturer": "БІ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/xik-vgcr-cvz"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи обробки біомедичної інформації, частина 2",
+        "lecturer": "БІ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/vvc-hszx-wgv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

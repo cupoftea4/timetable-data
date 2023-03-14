@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33,",
+        "subject": "Адміністративний процес",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/72307337635?pwd=83hORTHOcma6oXMhdU2bZnTkYB4rQ1.1"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ПВПР-24,",
+        "subject": "Підсудність справ адміністративним судам України",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/79745277797?pwd=basuTjVxmGLbLOlYJXe6nMIJhZoGBI.1"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ФЛ-23,",
+        "subject": "Сучасна німецька/японська/чеська/польська мова, частина 3",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/wky-msgk-orr?hs=122&authuser=0"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ФЛ-43,",
+        "subject": "Сучасна німецька/японська мова, частина 7",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/89746569124?pwd=ZGFVYU9DV3JVN3RLRnlFcDhwdm1xUT09"
+        ]
+    }
+]

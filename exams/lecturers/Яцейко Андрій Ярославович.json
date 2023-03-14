@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ЕЕ-25,",
+        "subject": "Електрична частина станцій та підстанцій",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a_TGp3yutQMHDWXxWi4MW2gxqUwiMCEEkK5Cj7lR_Tjk1%40thread.tacv2/conversations?groupId=0cd41346-4493-4174-911a-c1342ac0cc7b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ЕЕ-31, ЕЕ-32, ЕЕ-33, ЕЕ-34,",
+        "subject": "Електрична частина станцій та підстанцій",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aY5wu2uo0dZHPxsg5Z0qX5TX3UmSlUSU2bMnLDlUcmpU1%40thread.tacv2/conversations?groupId=2b7544e7-db0b-40e1-846b-52b4d1ad9cfa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

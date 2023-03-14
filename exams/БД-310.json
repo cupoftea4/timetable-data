@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Бобало Т.В.,",
+        "subject": "Будівельні конструкції",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Вербовський О.В.,",
+        "subject": "Гідравлічні та аеродинамічні машини",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Вовк Л.І.,",
+        "subject": "Інженерна гідрологія",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/6387061538?pwd=MDM4REVpLzBZb2VJYU9GOEdkWGZ3Zz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Орел В.І.,",
+        "subject": "Санітарно-технічне обладнання будівель",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ]
+    }
+]

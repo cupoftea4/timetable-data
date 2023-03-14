@@ -1,0 +1,76 @@
+[
+    {
+        "date": "2023-02-11T00:00:00.000Z",
+        "lecturer": "Барановська Н.М.,",
+        "subject": "Історія державності та культури України",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-10T00:00:00.000Z",
+        "lecturer": "Барановська Н.М.,",
+        "subject": "Історія державності та культури України",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Нитребич З.М.,",
+        "subject": "Алгебра і геометрія",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOhZ7TDP0TdXcNtrB9hYZpIRS65R24edhZewCu780jlM1%40thread.tacv2/conversations?groupId=cd11cf0a-2132-409f-a52d-ae9bc73455c0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Нитребич З.М.,",
+        "subject": "Алгебра і геометрія",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOhZ7TDP0TdXcNtrB9hYZpIRS65R24edhZewCu780jlM1%40thread.tacv2/conversations?groupId=cd11cf0a-2132-409f-a52d-ae9bc73455c0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Рибак О.В.,",
+        "subject": "Фізика",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Рибак О.В.,",
+        "subject": "Фізика",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Міончинський Є.А., Верес З.Є.,",
+        "subject": "Командна робота в ІТ та презентаційні навички",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Верес З.Є., Міончинський Є.А.,",
+        "subject": "Командна робота в ІТ та презентаційні навички",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Марчук С.В.,",
+        "subject": "Алгоритмізація та програмування, частина 1",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Марчук С.В.,",
+        "subject": "Алгоритмізація та програмування, частина 1",
+        "number": 3,
+        "urls": []
+    }
+]

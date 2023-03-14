@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Системний аналіз об`єктів кваліметрії",
+        "lecturer": "МТЯС-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzExYzM0OWUtZGZhNy00MmQ4LTliZjctMWEyOWUxMjg3NjRi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

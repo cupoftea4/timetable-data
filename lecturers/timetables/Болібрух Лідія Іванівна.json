@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-210, 72 XIV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://tel.meet/pte-sbfw-srb?pin=3675833558020"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Інтернет-маркетинг",
+        "lecturer": "ІНМ-МЛ-304, ",
+        "location": " практична",
+        "urls": [
+            "https://tel.meet/hjg-xbbt-yhg?pin=3169284899640"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

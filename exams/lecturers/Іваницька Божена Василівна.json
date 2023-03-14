@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ЖР-41,",
+        "subject": "Дизайн, моделювання і випуск газети і журналу",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73913613269?pwd=W5704qaKPr7TJlwNCxEAhjRoshpLsC.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ЖР-42, ЖР-43,",
+        "subject": "Концепція, проект, бізнес-моделювання радіо- , телепередачі",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73913613269?pwd=W5704qaKPr7TJlwNCxEAhjRoshpLsC.1"
+        ]
+    }
+]

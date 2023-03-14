@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Фінансова діяльність суб`єктів підприємництва",
+        "lecturer": "ЕК-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86543145966?pwd=VVJzY3hQMk5nSHYyWmpuWElieFlwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Фінансова діяльність суб`єктів підприємництва",
+        "lecturer": "ЕК-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86543145966?pwd=VVJzY3hQMk5nSHYyWmpuWElieFlwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Застосування SMART-систем в економіці",
+        "lecturer": "ЕКа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86543145966?pwd=VVJzY3hQMk5nSHYyWmpuWElieFlwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Економіка інтегрованих бізнес-структур",
+        "lecturer": "ЕКЕБ-12, ЕКЕБ-13, ЕКЕБ-14, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86543145966?pwd=VVJzY3hQMk5nSHYyWmpuWElieFlwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Економіка інтегрованих бізнес-структур",
+        "lecturer": "ЕКЕБ-13, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86543145966?pwd=VVJzY3hQMk5nSHYyWmpuWElieFlwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Економіка інтегрованих бізнес-структур",
+        "lecturer": "ЕКЕБ-12, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86543145966?pwd=VVJzY3hQMk5nSHYyWmpuWElieFlwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Застосування SMART-систем в економіці",
+        "lecturer": "ЕКа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86543145966?pwd=VVJzY3hQMk5nSHYyWmpuWElieFlwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

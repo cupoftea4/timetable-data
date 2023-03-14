@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Ремонт і експлуатація автомобільних доріг",
+        "lecturer": "БД-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82769561009?pwd=Z0lscjh3OHk0dDZRSHBhb2hXRnJBQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Ремонт і експлуатація автомобільних доріг",
+        "lecturer": "БД-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81170715648?pwd=T0VGQm0yYmZKRld2QTlnSE01K2lRUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Ремонт і експлуатація автомобільних доріг",
+        "lecturer": "БД-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83522365604?pwd=MzVJVzV2Vnp6NG9YWjJ1dnhUWjJwUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Ремонт і експлуатація автомобільних доріг",
+        "lecturer": "БД-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84261775594?pwd=YzU2ZDVKMWduREpienpaL2k2RWhoUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

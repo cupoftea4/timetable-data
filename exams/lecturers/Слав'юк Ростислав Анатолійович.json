@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ПТ-42,",
+        "subject": "Фінансовий аналіз комерційної діяльності підприємства",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71923261742?pwd=jDafJOurMi3tuaOWvc1Vw7dmUdOyPu.1"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "ПТПБ-11,",
+        "subject": "Економічне прогнозування ефективності діяльності в сфері підприємництва і торгівлі",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/74259202825?pwd=ZTHHwxkOGaV9xnDuMRXvBWeCxIK7E3.1"
+        ]
+    }
+]

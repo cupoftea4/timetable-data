@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Різник В.В., Лиса Н.К.,",
+        "subject": "Методи ділових комунікацій",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/76989787750?pwd=Twa51J0KoZW6E8AhaGw4doewiHpg5L.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Сікора Л.С.,",
+        "subject": "Основи цифрової обробки сигналів",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78157645894?pwd=ZOFp86OGLr4ar35GHnuHdpdvVa5DpT.1"
+        ]
+    },
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "Процько І.О.,",
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем I",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71815940423?pwd=tWLArlTsuUjaiXuv2v3YgYix2nIhOi.1"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Рудавський Д.В.,",
+        "subject": "Теорія прийняття рішень",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71126764628?pwd=NrhRTkAhqGTpHQai9pHT0Qby5VmM4D.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Батюк А.Є.,",
+        "subject": "Управління ІТ-проектами",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa48261fbb7884b4ca143dd05d8673698%40thread.tacv2/1669028617954?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2291176340-bd4e-4882-9639-9a0d9bcf5783%22%7d"
+        ]
+    }
+]

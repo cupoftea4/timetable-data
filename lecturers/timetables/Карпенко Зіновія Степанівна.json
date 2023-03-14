@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Дослідницький семінар у галузі соціальних та поведінкових наук",
+        "lecturer": "ПСа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/xea-vggs-tdu"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

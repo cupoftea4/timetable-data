@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "СМ-41,",
+        "subject": "Музеї та залучення громади",
+        "number": 5,
+        "urls": [
+            "https://us02web.zoom.us/j/3449405168?pwd=MnVEMmJqSmlXQ0lrMHNvaUxiZDdzUT09%20Meeting%20ID:%20203449405168%20Passcode:%2020362018"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ХТ-11, ХТ-12, 111 I н.к.,",
+        "subject": "Історія державності та культури України",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/3449405168?pwd=MnVEMmJqSmlXQ0lrMHNvaUxiZDdzUT09%20ID:%203449405168%20Passcode:%20362018"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "БТ-11, БТ-12, 111 I н.к.,",
+        "subject": "Історія державності та культури  України",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/3449405168?pwd=MnVEMmJqSmlXQ0lrMHNvaUxiZDdzUT09%20ID:%203449405168%20Passcode:%20362018"
+        ]
+    }
+]

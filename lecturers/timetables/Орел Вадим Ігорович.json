@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Теоретична механіка та технічна механіка рідин і газів",
+        "lecturer": "БД-17, БД-18, БД-19, 214 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Гідрогазодинаміка",
+        "lecturer": "АЕ-21, 105 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Гідрогазодинаміка",
+        "lecturer": "АЕ-21, 106 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Теоретична механіка та технічна механіка рідин і газів",
+        "lecturer": "БД-11, БД-12, БД-13, 217 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Гідрогазодинаміка",
+        "lecturer": "АЕ-21, 211 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Гідрогазодинаміка",
+        "lecturer": "ТЕ-21, 213 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теоретична механіка та технічна механіка рідин і газів",
+        "lecturer": "БД-14, БД-15, БД-16, 212 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Гідрогазодинаміка",
+        "lecturer": "ТЕ-21, 106 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Гідрогазодинаміка",
+        "lecturer": "ТЕ-21, 105 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

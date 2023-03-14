@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "УАі-31, УАі-32,",
+        "subject": "Теорія конкуренції",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3an19BgVX7lIMMoEbfv04SCtnwzeec6vzOTA-z4i3C5ss1%40thread.tacv2/conversations?groupId=98fb75de-c60f-4751-bbf5-2a19ac4b9c39&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "УАі-21,",
+        "subject": "Мікроекономіка",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahBUEt7b0TMgkzXghePEId4FyrK5lYd6EINwnw1Wu4JE1%40thread.tacv2/conversations?groupId=42f992a0-9b2b-44b6-858f-6b9f43b179b6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "УАРАі-11,",
+        "subject": "Методологія аналізу ринків",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aO8LBvbhNkh6BPtk9Yy2MUVe0tt7vMIyjlgqZDIQIylk1%40thread.tacv2/conversations?groupId=f7094b2c-2122-4df6-a833-7a47c3b62987&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

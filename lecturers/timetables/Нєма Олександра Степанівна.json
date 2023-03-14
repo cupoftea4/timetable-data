@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Закупівлі та контракти в проектах",
+        "lecturer": "МЕНД-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4057230612?pwd=ZzVqS1NmdGRxdUwzZ1VZQkczb25sUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Закупівлі та контракти в проектах",
+        "lecturer": "МЕНД-11, 315 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ГБВІ-11,",
+        "subject": "Водовідвідні очисні споруди",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "БДВВ-11, БДВВ-12,",
+        "subject": "Очищення стічних вод",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ]
+    }
+]

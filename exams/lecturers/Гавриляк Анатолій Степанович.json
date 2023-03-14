@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ЕК-31, ЕК-32, ЕК-33,",
+        "subject": "Організація виробництва",
+        "number": 1,
+        "urls": [
+            "https://zoom.us/j/9614862408?pwd=RTJYUFJIc0JNRlJSd1l4bU9TcG9Zdz09"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "БДТГ-11, БДТГ-12,",
+        "subject": "Економіка і управління будівництвом",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/9614862408?pwd=RTJYUFJIc0JNRlJSd1l4bU9TcG9Zdz09"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "БДАД-11, БДАД-12,",
+        "subject": "Економіка і управління будівництвом",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/9614862408?pwd=RTJYUFJIc0JNRlJSd1l4bU9TcG9Zdz09"
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Петрусь Р.Ю.,",
+        "subject": "Фізика",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Горохівська Т.М.,",
+        "subject": "Історія педагогіки та загальна педагогіка",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78181918149?pwd=UyJiuaFhErGqoAzI1uCcaxzvGdz0Kv.1%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20781%208191%208149%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20KzL6n5"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Іващук А.С.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us06web.zoom.us/j/86315443520?pwd=RXpZZ1VSdzVlMldhQU1lVmVSOU5odz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Демчук А.Б.,",
+        "subject": "Сучасні інформаційні та цифрові технології",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4864940347?pwd=U2txU1RUSTkwbXBvMStxZ2l0RDdXdz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Колодій І.С.,",
+        "subject": "Нормативно-правове забезпечення діяльності закладу освіти",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/89037958743?pwd=ZHkzbUJEK2o1R3FGb0pLMHFjVmRvdz09"
+        ]
+    }
+]

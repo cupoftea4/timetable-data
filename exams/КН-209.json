@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Фучила О.М.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ae0e4f51-cd68-4b4b-bf85-6f8ae89ed1ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_ZSp9XoInmNJd0NgTN_JtTR3pY8kPjAVLl2FqZ9bsNTE1@thread.tacv2&messageId=1669912963047&language=en-US"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Белей О.І., Нестор Н.І., Плесканка Н.М.,",
+        "subject": "Операційні системи",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75812452253?pwd=Zp0eCfaUEzIIpYNv92ZoTgoQaJKNi8.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Станкевич О.М.,",
+        "subject": "Організація баз даних та знань",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3504071411?pwd=bDBVRGN1Tkc0K2RkWTF6emR6cEQ0UT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Обшта А.Ф.,",
+        "subject": "Теорія ймовірності, ймовірнісні процеси та математична статистика",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Оборська О.В.,",
+        "subject": "Прикладне програмування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78340347026?pwd=luRkMw7jAhqr75esd9eCtbe32xnZ6D.1"
+        ]
+    }
+]

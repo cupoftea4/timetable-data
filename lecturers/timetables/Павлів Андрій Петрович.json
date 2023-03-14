@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "ДС-23, ДС-24, ДС-21, ДС-22, 304 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahaII1SQFSGpE3PGyTFLRlmhIwuYuUy7w4bSxK3Pq72s1%40thread.tacv2/conversations?groupId=e4cf12a9-0aa6-42e5-88de-16cb9725ae70&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "ДС-23, ДС-24, ДС-21, ДС-22, 304 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahaII1SQFSGpE3PGyTFLRlmhIwuYuUy7w4bSxK3Pq72s1%40thread.tacv2/conversations?groupId=e4cf12a9-0aa6-42e5-88de-16cb9725ae70&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Передпроектний аналіз у дизайні візуальних комунікацій",
+        "lecturer": "ДС-41, ДС-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOg94nCKtiIvzh1DmlIH7EVpI5eWzJ6DDKOAvWaV3iV01%40thread.tacv2/conversations?groupId=4741d3eb-71bb-4d8d-993d-8f5ffe1a15ae&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "ДС-21, 108 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aoLK3cdCfiZHkPvtgRM4ixO_coToCY_zWamHFcaQ9kyY1%40thread.tacv2/conversations?groupId=a5f8a699-e1af-4866-84f8-4956a12b8b65&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "ДС-21, 108 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aoLK3cdCfiZHkPvtgRM4ixO_coToCY_zWamHFcaQ9kyY1%40thread.tacv2/conversations?groupId=a5f8a699-e1af-4866-84f8-4956a12b8b65&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "ДС-22, 319 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9RZFnQaeuOfcFMmaHfnpkhdfQitW8ge20w5uJMCxRiE1%40thread.tacv2/conversations?groupId=93862cc3-45b5-4c4c-abbb-fc6371f2321a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "ДС-22, 319 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9RZFnQaeuOfcFMmaHfnpkhdfQitW8ge20w5uJMCxRiE1%40thread.tacv2/conversations?groupId=93862cc3-45b5-4c4c-abbb-fc6371f2321a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

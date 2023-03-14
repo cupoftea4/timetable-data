@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Новітні технології в проектуванні, виготовленні, будівництві і експлуатації",
+        "lecturer": "БД-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0047ba53eeea484189b334ccbe03ebe4%40thread.tacv2/conversations?groupId=7a6eb9c2-7419-4aa3-ba7f-e3e3c711a74c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Новітні технології в проектуванні, виготовленні, будівництві і експлуатації",
+        "lecturer": "БД-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0047ba53eeea484189b334ccbe03ebe4%40thread.tacv2/conversations?groupId=7a6eb9c2-7419-4aa3-ba7f-e3e3c711a74c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Новітні технології в проектуванні, виготовленні, будівництві і експлуатації",
+        "lecturer": "БД-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0047ba53eeea484189b334ccbe03ebe4%40thread.tacv2/conversations?groupId=7a6eb9c2-7419-4aa3-ba7f-e3e3c711a74c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

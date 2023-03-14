@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Варецький Ю.О.,",
+        "subject": "Електромагнітна сумісність",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahYjQE0Or6GZNvvBohIH1iYKqNvpLZy6Im5Qejhv2qW01%40thread.tacv2/conversations?groupId=c749c4c9-e976-4103-a02c-e09616e52ab8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "Лукач Н.М.,",
+        "subject": "Енергетична дипломатія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/83262620078?pwd=V1NMZlpCSGdhbkduMC80SFA1Z3RUZz09"
+        ]
+    },
+    {
+        "date": "2023-02-18T00:00:00.000Z",
+        "lecturer": "Сухорольський П.М.,",
+        "subject": "Міжнародна та національна енергетична політика",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/4845566141?pwd=L1I4UGs0Y1UwUDdRYVdGdUU2bDJaQT09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Зазуляк З.М.,",
+        "subject": "Стратегія сталого розвитку та енергетична безпека",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/89207282334?pwd=dkI2Q25XRGprd0g3WDVVelRHNjl6QT09"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Сівакова О.М.,",
+        "subject": "Енергетична інфраструктура України та ЄС",
+        "number": 2,
+        "urls": []
+    }
+]

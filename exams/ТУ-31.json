@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Задорожний В.В., Випасняк Г.О.,",
+        "subject": "Друга іноземна мова, частина 2",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/5224247475?pwd=TFJyUmI0bHEwRXdvQjNjanBaVkNjQT09%20%20Meeting%20ID:%20522%20424%207475%20Passcode:%20960833%20https://join.skype.com/IJEiaPIgEuvr"
+        ]
+    },
+    {
+        "date": "2022-12-07T00:00:00.000Z",
+        "lecturer": "Теодорович Л.В.,",
+        "subject": "Організація ресторанного господарства",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_N2RlZDk4NDgtMmI1NS00OGFjLThiODktYTAxNmMyMDc5N2Rk@thread.v2&messageId=0&language=uk-UA"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Роїк О.Р.,",
+        "subject": "Маркетинг та рекламно-інформаційна діяльність в туризмі",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79431919336?pwd=pFbv5Hkf3AJ1izBpVL7Jo5NLTFt37b.1"
+        ]
+    }
+]

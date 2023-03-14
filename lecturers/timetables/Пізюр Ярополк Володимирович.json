@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "ПМ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8d4ec3220c2b4a7a805ab83e63f63090%40thread.tacv2/conversations?groupId=d681d293-2fdb-4e9b-a4f3-e16027db611b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "ПМ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ad3243bab47fe4e7f9e2e7381720c9440%40thread.tacv2/conversations?groupId=d0e4f333-88e2-45b1-8091-0b24f406d2b8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "ПМ-31, ПМ-32, ПМ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a59da9b125f544086a8eb1aac97e01a0b%40thread.tacv2/conversations?groupId=cec6e5fe-4ded-414b-a444-61df2933b266&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "ПМ-31, ПМ-32, ПМ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a59da9b125f544086a8eb1aac97e01a0b%40thread.tacv2/conversations?groupId=cec6e5fe-4ded-414b-a444-61df2933b266&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "ПМ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a8a6460d99ee5431e93cc56d913f7ee65%40thread.tacv2/conversations?groupId=ab88819a-d090-4802-8057-c4f102d9cc23&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "ПМ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a81f8c41cbe5d40edaeb99a042712b422%40thread.tacv2/conversations?groupId=eb97966b-744c-4d1e-9abb-7099cf437158&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

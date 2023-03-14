@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Войтишин В.В.,",
+        "subject": "Чисельні методи",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aG5hn2eSK1ge8SwyPcmu60sv8fftw5-M12BTv36dE1qE1%40thread.tacv2/1660480374001?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cc94c96b-79f7-414a-9e6b-ef36b4008105%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Виклюк Я.І.,",
+        "subject": "Прикладне програмування",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Мельникова Н.І.,",
+        "subject": "Організація баз даних та знань",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Зербіно Д.Д.,",
+        "subject": "Операційні системи",
+        "number": 2,
+        "urls": []
+    }
+]

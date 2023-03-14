@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Інтегровані ієрархічні системи управління",
+        "lecturer": "КНУС-11, КНУС-12, 311 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75579286563?pwd=jVmkOGfz8hN9KD9yP4uOROi49JOh2g.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Інтегровані ієрархічні системи управління",
+        "lecturer": "КНУС-11, 802а V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75579286563?pwd=jVmkOGfz8hN9KD9yP4uOROi49JOh2g.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Інтегровані ієрархічні системи управління",
+        "lecturer": "КНУС-12, 802а V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75579286563?pwd=jVmkOGfz8hN9KD9yP4uOROi49JOh2g.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

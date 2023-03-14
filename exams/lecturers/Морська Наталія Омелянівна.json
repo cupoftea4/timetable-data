@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "УАі-21,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://join.skype.com/Jb8R2A2IuzTE"
+        ]
+    },
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "АВ-21,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://join.skype.com/JEQ879lckz4D"
+        ]
+    },
+    {
+        "date": "2022-12-17T00:00:00.000Z",
+        "lecturer": "ЕЕ-21,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://join.skype.com/IDTcah3AwcbD"
+        ]
+    },
+    {
+        "date": "2023-02-10T00:00:00.000Z",
+        "lecturer": "ІТ-11сп, 109 I н.к.,",
+        "subject": "Іноземна мова за професійним спрямуванням,частина 3",
+        "number": 2,
+        "urls": [
+            "https://join.skype.com/FHxRfdal9cXh"
+        ]
+    }
+]

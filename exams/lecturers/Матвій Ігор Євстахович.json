@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "МЕ-312,",
+        "subject": "Моделювання динаміки бізнес-процесів",
+        "number": 4,
+        "urls": [
+            "https://us02web.zoom.us/j/88643956370?pwd=djdCbGQyZ0syd1VuYXJweFVNdzl4Zz09"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "МЕЗД-11, МЕЗД-12, МЕОА-11, МЕЛГ-11, МЕМ-11,",
+        "subject": "Проектний менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/83249692657?pwd=TVpncUtCam4vbGEydnlXUkV1OTc5QT09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "МЕМД-11, МЕУІ-11, МЕБА-11, МЕБА-12, МЕІД-11,",
+        "subject": "Проектний менеджмент",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/83249692657?pwd=TVpncUtCam4vbGEydnlXUkV1OTc5QT09"
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-27T00:00:00.000Z",
+        "lecturer": "Онищук О.В.,",
+        "subject": "Філософія і методологія науки",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/74006924558?pwd=whgibZkNNEPQqhB6kFOljqgpRJP7ak.1"
+        ]
+    },
+    {
+        "date": "2022-12-22T00:00:00.000Z",
+        "lecturer": "Білущак Г.І.,",
+        "subject": "Аналітичні та чисельні методи досліджень",
+        "number": 3,
+        "urls": []
+    }
+]

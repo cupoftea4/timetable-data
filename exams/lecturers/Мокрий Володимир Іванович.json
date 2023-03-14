@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "ТЗ-31,",
+        "subject": "Моніторинг довкілля, частина 1",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78873373829?pwd=LhSfSiBEbDMP1R0WvHL-I6dfcUb7Q3.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ТЗ-21,",
+        "subject": "Технології захисту заповідних територій",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/74359662239?pwd=Q3hwKzF6MTlCUjI4cklwdXFRMnA1dz09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "ТЗПЕ-11, ТЗМ-11,",
+        "subject": "Геоекоінформаційні системи",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/79109530475?pwd=l6aeyfKUdV1ADN2YCPXebu5oQRupak.1"
+        ]
+    }
+]

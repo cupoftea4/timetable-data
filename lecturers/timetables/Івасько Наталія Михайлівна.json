@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Дослідження операцій",
+        "lecturer": "ПЗ-23, 808 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження операцій",
+        "lecturer": "ПЗ-23, 810г V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження операцій",
+        "lecturer": "ПЗ-24, 303 XXIX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження операцій",
+        "lecturer": "ПЗ-24, 303 XXIX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "ПЗ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "ПЗ-33, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "ПЗ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "ПЗ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

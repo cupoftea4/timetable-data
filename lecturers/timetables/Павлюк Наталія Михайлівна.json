@@ -1,0 +1,181 @@
+[
+    {
+        "subject": "Організація адвокатської справи",
+        "lecturer": "ПВПР-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Організація адвокатської справи",
+        "lecturer": "ПВПР-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Актуальні проблеми господарського права та процесу (судова практика)",
+        "lecturer": "АПГП-ЦПП-101, АПГП-ЦПП-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Актуальні проблеми цивільного права",
+        "lecturer": "АПЦ-ЦПП-101, АПЦ-ЦПП-102, АПЦ-ЦПП-103, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Організація адвокатської справи",
+        "lecturer": "ПВПР-11, 308 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація адвокатської справи",
+        "lecturer": "ПВПР-11, 308 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Актуальні проблеми цивільного права",
+        "lecturer": "АПЦ-ЦПП-101, 329 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Актуальні проблеми цивільного права",
+        "lecturer": "АПЦ-ЦПП-102, 329 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Актуальні проблеми цивільного права",
+        "lecturer": "АПЦ-ЦПП-103, 329 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Актуальні проблеми господарського права та процесу (судова практика)",
+        "lecturer": "АПГП-ЦПП-101, 301 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Актуальні проблеми господарського права та процесу (судова практика)",
+        "lecturer": "АПГП-ЦПП-101, 301 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Актуальні проблеми господарського права та процесу (судова практика)",
+        "lecturer": "АПГП-ЦПП-102, 301 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Актуальні проблеми господарського права та процесу (судова практика)",
+        "lecturer": "АПГП-ЦПП-102, 301 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

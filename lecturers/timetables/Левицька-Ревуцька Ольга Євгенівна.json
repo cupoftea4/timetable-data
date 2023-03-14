@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Практика перекладу (німецька/японська/чеська/польська мова), частина 2",
+        "lecturer": "ФЛПЛ-11, ФЛПЛ-12, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Практика перекладу (німецька/японська/чеська/польська мова), частина 2",
+        "lecturer": "ФЛПЛ-12, 006 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

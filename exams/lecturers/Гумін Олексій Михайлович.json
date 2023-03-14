@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПВ-410, ПВ-411, ПВ-46, ПВ-48,",
+        "subject": "Кримінально-виконавче право",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73532625530?pwd=kRVU1gKZe9LyGFNGvjyapglHIlma8l.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ПВ-41, ПВ-42, ПВ-43,",
+        "subject": "Кримінологія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/74969603434?pwd=KcfDcaBD68o1RlzmJ23jSqCUKJNYer.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ПВ-44, ПВ-45, ПВ-47, ПВ-49,",
+        "subject": "Кримінологія",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/75197158630?pwd=zBAkSIuKeYIfMzGbtBsZ2mWIQdEa4V.1"
+        ]
+    }
+]

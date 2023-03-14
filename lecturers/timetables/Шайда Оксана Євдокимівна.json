@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Етика бізнесу і правила ведення переговорів",
+        "lecturer": "ПТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09%20%20Meeting%20ID:%20820%20528%201409%20Passcode:%206fZ1fb#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Етика бізнесу і правила ведення переговорів",
+        "lecturer": "ПТ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Експертиза в міжнародній торгівлі",
+        "lecturer": "ПТ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09%20%20Meeting%20ID:%20820%20528%201409%20Passcode:%206fZ1fb#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Етика бізнесу і правила ведення переговорів",
+        "lecturer": "ПТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Документальний супровід комерційної діяльності",
+        "lecturer": "ПТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09%20%20Meeting%20ID:%20820%20528%201409%20Passcode:%206fZ1fb#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Експертиза в міжнародній торгівлі",
+        "lecturer": "ПТ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна торгівля",
+        "lecturer": "ПТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09%20%20Meeting%20ID:%20820%20528%201409%20Passcode:%206fZ1fb#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Експертиза в міжнародній торгівлі",
+        "lecturer": "ПТ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародна торгівля",
+        "lecturer": "ПТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09%20%20Meeting%20ID:%20820%20528%201409%20Passcode:%206fZ1fb#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Етика бізнесу і правила ведення переговорів",
+        "lecturer": "ПТ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Документальний супровід комерційної діяльності",
+        "lecturer": "ПТ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09%20%20Meeting%20ID:%20820%20528%201409%20Passcode:%206fZ1fb#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "date": "2023-02-10T00:00:00.000Z",
+        "lecturer": "КІ-19, 405 I н.к.,",
+        "subject": "Українська мова за професійним спрямуванням",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/8141741376?pwd=P5byFbOoihk1aATLOuIF7BGEBCDKt9.1"
+        ]
+    },
+    {
+        "date": "2023-02-11T00:00:00.000Z",
+        "lecturer": "КІ-110, 404 I н.к.,",
+        "subject": "Українська мова за професійним спрямуванням",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/8141741376?pwd=P5byFbOoihk1aATLOuIF7BGEBCDKt9.1"
+        ]
+    },
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "ПВ-11, 301 XIX н.к.,",
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/8141741376?pwd=P5byFbOoihk1aATLOuIF7BGEBCDKt9.1",
+            "https://us04web.zoom.us/j/8141741376?pwd=P5byFbOoihk1aATLOuIF7BGEBCDKt9.1"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "ПВ-12, 301 XIX н.к.,",
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/8141741376?pwd=P5byFbOoihk1aATLOuIF7BGEBCDKt9.1",
+            "https://us04web.zoom.us/j/8141741376?pwd=P5byFbOoihk1aATLOuIF7BGEBCDKt9.1"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "ПВ-18, 307 XIX н.к.,",
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/8141741376?pwd=P5byFbOoihk1aATLOuIF7BGEBCDKt9.1",
+            "https://us04web.zoom.us/j/8141741376?pwd=P5byFbOoihk1aATLOuIF7BGEBCDKt9.1"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "МЕ-12, 116 I н.к.,",
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/8141741376?pwd=P5byFbOoihk1aATLOuIF7BGEBCDKt9.1"
+        ]
+    }
+]

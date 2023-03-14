@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Аудит",
+        "lecturer": "ОП-31, ОП-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/hik-oeij-qsk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Аудит",
+        "lecturer": "ОП-22, 326б IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/kfx-uhvt-cek"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Методологічні засади аналізу і контролю розвитку підприємства",
+        "lecturer": "ОПа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/mhn-reen-zfh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Аудит",
+        "lecturer": "ОП-31, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/hik-oeij-qsk"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Аудит",
+        "lecturer": "ОП-22, 326б IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/kfx-uhvt-cek"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Аудит",
+        "lecturer": "ОП-31, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/hik-oeij-qsk"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методологічні засади аналізу і контролю розвитку підприємства",
+        "lecturer": "ОПа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/mhn-reen-zfh"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

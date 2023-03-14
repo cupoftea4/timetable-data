@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "ЖР-41, ЖР-42, ЖР-43,",
+        "subject": "Реклама в ЗМІ",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/76567969806?pwd=Gvu8uMnSngQXRa4u9pGH0qG5Xc6W9I.1"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "ЖР-32, ЖР-33,",
+        "subject": "Інтернет-радіо-, тележурналістика",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/76567969806?pwd=Gvu8uMnSngQXRa4u9pGH0qG5Xc6W9I.1"
+        ]
+    },
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "ЖРЗВ-11,",
+        "subject": "Інформаційна безпека та інформаційна війна в ЗМІ",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/76567969806?pwd=Gvu8uMnSngQXRa4u9pGH0qG5Xc6W9I.1"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "ЖРЗВ-11,",
+        "subject": "Міжнародні і політичні проблеми в ЗМІ",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/76567969806?pwd=Gvu8uMnSngQXRa4u9pGH0qG5Xc6W9I.1"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "БД-33, БД-34,",
+        "subject": "Сучасні будівельні матеріали і методи досліджень",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ab98c0f332e1544da942c54294b08bf8d%40thread.tacv2/conversations?groupId=4e9a1bb0-e6f4-4f66-8fd3-fa513e25ff7b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "БД-35,",
+        "subject": "В`яжучі речовини",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ad23f489386184f338ff2d4396e248151%40thread.tacv2/conversations?groupId=1592aca4-189f-4046-9f22-3d0d2f9b8637&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

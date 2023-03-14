@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-22T00:00:00.000Z",
+        "lecturer": "МБа-11,",
+        "subject": "Аналітичні та чисельні методи досліджень в механічній інженерії",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "МБКІ-11, МБКІ-12,",
+        "subject": "Методи моделювання і математичне забезпечення наукових досліджень в галузі",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWEwZTlkYTctNjM1NC00NTVjLWI0MGYtNTc4YjlmNTgxNDRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d"
+        ]
+    }
+]

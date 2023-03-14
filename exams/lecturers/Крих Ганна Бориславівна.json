@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-07T00:00:00.000Z",
+        "lecturer": "АВ-24,",
+        "subject": "Теорія автоматичного керування",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/74337042867?pwd=cUtwNmw0TXcxZjZFWGVnYjllL2htZz09"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "АВ-31, АВ-32, АВ-33,",
+        "subject": "Теорія автоматичного керування",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/74337042867?pwd=cUtwNmw0TXcxZjZFWGVnYjllL2htZz09"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "АВКВ-11, АВМ-11,",
+        "subject": "Методи сучасної теорії керування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72289293697?pwd=WEQyQUZrVkNkRXd3bmVOejRST1Awdz09"
+        ]
+    }
+]

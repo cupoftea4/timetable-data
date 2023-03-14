@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Технологія вина",
+        "lecturer": "ХРБВ-11, ХРБВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8481447582?pwd=OU11TkdMWnFrTVVBVW9FS0pQTEd0QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

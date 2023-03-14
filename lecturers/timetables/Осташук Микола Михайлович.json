@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Пасажирські перевезення",
+        "lecturer": "ТТ-24, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:Emah0OR4_YwIGH-Ebi10ZqQz4EMTA7EHXfIGIHtbZ5M1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Пасажирські перевезення",
+        "lecturer": "ТТ-31, ТТ-32, ТТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:uxFwDnCeG1FniOBFxCtYcpp5_yzDYhJmzHpfIohRlwA1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Пасажирські перевезення",
+        "lecturer": "ТТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:TxI0A7fHKeBhjb_cuweC3E_fi3waLgOHKOP6BCdsqVs1@thread.tacv2&ctx=channel"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Пасажирські перевезення",
+        "lecturer": "ТТ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:ycg8baZ-ysWxTK2sdln-yOEBSgZ5O5JG02Hr-VI_2Fs1@thread.tacv2&ctx=channel"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Пасажирські перевезення",
+        "lecturer": "ТТ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:XtB7rR1puhLxKRbEUTxT8kc73aB6V_jA2zBRomPv7gI1@thread.tacv2&ctx=channel"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Пасажирські перевезення",
+        "lecturer": "ТТ-24, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a#/school/conversations/%D0%9E%D0%B1%D1%89%D0%B8%D0%B9?threadId=19:HekwAFvx5hTGId-4nrzBfVz-__AlAnMg4-QY4BOHGP01@thread.tacv2&ctx=channel"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-10-26T00:00:00.000Z",
+        "lecturer": "ХТМ-23,",
+        "subject": "Спецкурс з наукових досліджень спеціальності",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "ХТ-31,",
+        "subject": "Фізична хімія тугоплавких неметалевих і силікатних матеріалів",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ХТ-31,",
+        "subject": "Технологія і обладнання виробництва в`яжучих речовин, частина 1",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ХТ-43,",
+        "subject": "Основи кристалографії та мінералогії",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/8802368254?pwd=bk1rcXVtRk9iQTJlWDJKVjJFNGhTUT09"
+        ]
+    }
+]

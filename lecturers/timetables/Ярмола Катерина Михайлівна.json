@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Управління комунікаціями туристичних організацій",
+        "lecturer": "МЕ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTU3NDlkZTktOGMyMi00YTJmLTlkOWYtM2Y4ZmQ4Yjk5OTky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226d417e1f-2014-4d67-9ccb-fd382338f387%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

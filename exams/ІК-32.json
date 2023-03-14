@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Бак Р.І.,",
+        "subject": "Системи управління базами даних",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/fae-cfnn-pjo"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Пиріг Ю.В.,",
+        "subject": "Архітектура інформаційно-комунікаційних систем",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/gby-enuk-kbg"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Коваль Б.В.,",
+        "subject": "Основи тестування програмного забезпечення інформаційних систем",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3abS6_akMU_wiAcbDBw-mpdLlQjMubAqyY74FK18uwpU81%40thread.tacv2/General?groupId=dd93f744-9fb5-4618-b8d8-8184e290176e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Максимюк Т.А.,",
+        "subject": "Технології машинного навчання та штучного інтелекту",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Думич С.С.,",
+        "subject": "Вбудовані системи",
+        "number": 1,
+        "urls": []
+    }
+]

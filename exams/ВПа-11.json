@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-26T00:00:00.000Z",
+        "lecturer": "Кадикало А.М.,",
+        "subject": "Філософія і методологія науки",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3arm9U1p5nhlN_H-iD84cXoC1eslWwr58XNRoBldbP6Vc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=82d6bca4-0d7d-47d5-9428-63a2eabbaf19&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-23T00:00:00.000Z",
+        "lecturer": "Різник О.Я.,",
+        "subject": "Інформаційні технології цифрового опрацювання сигналів та зображень",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ]
+    },
+    {
+        "date": "2022-12-20T00:00:00.000Z",
+        "lecturer": "Різник О.Я.,",
+        "subject": "Методи аналізу і оптимізації складних систем",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ]
+    }
+]

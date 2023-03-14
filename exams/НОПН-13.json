@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Носкова М.В.,",
+        "subject": "Педагогіка відкритих освітніх систем",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/kcs-aczj-irs"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Ієвлєв О.М.,",
+        "subject": "Теорія та методика педагогічного дослідження",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/77822004896?pwd=26XxJoCBCeKB96KKTW9FwbrHamkUVG.1"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Дольнікова Л.В.,",
+        "subject": "Загальна педагогіка",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Гаранюк П.І.,",
+        "subject": "Аудит інформаційної безпеки",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6787196382?pwd=ZnhNckFmQjZoOVBvaG4xRDJhb2N6UT09"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Пакош В.С.,",
+        "subject": "Технології розслідування інцидентів інформаційної безпеки",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/modern-calling/"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Юзевич В.М.,",
+        "subject": "Аварійне планування та відновлення інформаційних систем",
+        "number": 4,
+        "urls": [
+            "https://zoom.us/j/6346016514?"
+        ]
+    },
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Отенко В.І.,",
+        "subject": "Безпека програмного забезпечення",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79740595199?pwd=b8fK8JCaAjbnLlwwJwqbh1Ue61EfbU.1"
+        ]
+    }
+]

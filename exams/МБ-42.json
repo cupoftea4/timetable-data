@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Майструк В.В.,",
+        "subject": "Процеси та апарати переробних і харчових виробництв, частина 2",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmY2OWQzN2MtNGEzNS00MGI5LWI4NzktOGExMjNmMDcwMzU3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Дмитрів В.Т.,",
+        "subject": "Розрахунок і проектування машин, частина 2",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayWm2lsvK5p2rINwRPod9S-wbkBZW0DwauHiomHQfVlE1%40thread.tacv2/conversations?groupId=702dbafe-15e8-4805-bf13-1396318ddf7c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Шеремета Р.М.,",
+        "subject": "Автоматизація технологічних процесів переробної і харчової промисловості",
+        "number": 2,
+        "urls": []
+    }
+]

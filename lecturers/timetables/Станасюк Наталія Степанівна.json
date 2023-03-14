@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Процесно-структурований менеджмент",
+        "lecturer": "МЕа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4rER8Ic0PdEcBFxLf4BVvBmAAUVkagF83kaIS-Um-zk1%40thread.tacv2/conversations?groupId=ce12ff38-5173-4e10-9af3-d598f4d4d7aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Соціальна відповідальність",
+        "lecturer": "ЕВМЕ-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71947578616?pwd=ObmYhpAlgbPuGrosd9FyxKXQeAOUgn.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Процесно-структурований менеджмент",
+        "lecturer": "МЕа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4rER8Ic0PdEcBFxLf4BVvBmAAUVkagF83kaIS-Um-zk1%40thread.tacv2/conversations?groupId=ce12ff38-5173-4e10-9af3-d598f4d4d7aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Соціальна відповідальність",
+        "lecturer": "ЕВМЕ-11f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

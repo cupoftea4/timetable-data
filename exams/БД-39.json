@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Возняк О.Т.,",
+        "subject": "Аеродинаміка вентиляції",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Бобало Т.В.,",
+        "subject": "Будівельні конструкції",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/4936158884?pwd=TDVxOFRDTml0TnRQeWEvd3EzVlJkUT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Миронюк Х.В.,",
+        "subject": "Опалення",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auuA4t42W_TLpB-9rU8_iSmO8A1_zCp5C1xyaHUkZqO41%40thread.tacv2/1660503453714?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ce05fd56-ac7f-4f24-81d3-b5f96e33294b%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Лабай В.Й.,",
+        "subject": "Тепломасообмінні процеси в системах ТГВ",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-qC8e-h2xnCP-OPBKpxri0C5LncGq2MaOxqQiADxVqk1%40thread.tacv2/1669269006926?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cd6ac46f-3345-4b9e-9d64-85e44686afce%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Сухолова І.Є.,",
+        "subject": "Моніторинг внутрішнього стану приміщень",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5a5eaa0bce1445bfb52f519bd4b72d5e%40thread.tacv2/1670160484814?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%223090d8e2-d9a9-4046-b836-a599a4ecd8e7%22%7d"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Дмитрук В.А.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://join.skype.com/JZ7b5M0dh7OR"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Оробчук О.М.,",
+        "subject": "Біохімія",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Паляниця Л.Я.,",
+        "subject": "Технічна мікробіологія",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09"
+        ]
+    }
+]

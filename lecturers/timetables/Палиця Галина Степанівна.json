@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Контрастивна лінгвістика, частина 2",
+        "lecturer": "ФЛ-34, 403 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6584408977?pwd=RTJ1Tk1NNEZ5V1hJY1kydHpBVTU5Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Контрастивна лінгвістика, частина 2",
+        "lecturer": "ФЛ-32, 408 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6584408977?pwd=RTJ1Tk1NNEZ5V1hJY1kydHpBVTU5Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Контрастивна лінгвістика, частина 2",
+        "lecturer": "ФЛ-31, 208 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6584408977?pwd=RTJ1Tk1NNEZ5V1hJY1kydHpBVTU5Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Контрастивна лінгвістика, частина 2",
+        "lecturer": "ФЛ-33, 117 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6584408977?pwd=RTJ1Tk1NNEZ5V1hJY1kydHpBVTU5Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Контрастивна лінгвістика, частина 2",
+        "lecturer": "ФЛ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6584408977?pwd=RTJ1Tk1NNEZ5V1hJY1kydHpBVTU5Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Контрастивна лінгвістика, частина 2",
+        "lecturer": "ФЛ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6584408977?pwd=RTJ1Tk1NNEZ5V1hJY1kydHpBVTU5Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

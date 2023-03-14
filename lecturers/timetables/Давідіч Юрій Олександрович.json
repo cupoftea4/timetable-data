@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "ТТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "ТТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "ТТ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/conversations?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "ТТ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/conversations?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "ТТ-41, ТТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/conversations?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "ТТ-41, ТТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/conversations?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "ТТ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/conversations?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Ергономіка транспорту",
+        "lecturer": "ТТ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFIYD9SuxztPCrTcZy9ZdMxx7gtrayT0pN65WkDb0Wyw1%40thread.tacv2/conversations?groupId=0738963e-5d78-4676-a39c-80c44c555894&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

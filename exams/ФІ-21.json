@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Мединський І.П.,",
+        "subject": "Диференціальні рівняння",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Костробій П.П.,",
+        "subject": "Математичний аналіз, частина 3",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/jwf-nkgx-bxi"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Дмитрук В.А.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://join.skype.com/zm3aFPOhlCLF"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Шкварчук Л.О.,",
+        "subject": "Макро- та мікроекономіка",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzg5ZGI5NWYtZDI2Mi00MzYwLTk2MWYtOGQwZWI2ZjAxMzY1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fdd2ab97-94ea-4df0-a6d1-5af54dae8341%22%7d"
+        ]
+    }
+]

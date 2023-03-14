@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Гошовська О.В.,",
+        "subject": "Теорія конкуренції",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3an19BgVX7lIMMoEbfv04SCtnwzeec6vzOTA-z4i3C5ss1%40thread.tacv2/conversations?groupId=98fb75de-c60f-4751-bbf5-2a19ac4b9c39&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Дорош І.М.,",
+        "subject": "Фінансовий менеджмент і аналіз неприбуткових організацій",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/5014200537?pwd=R095dzRtNXBOUXoyTjViWXd6TVpQZz09"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Сокіл О.Г.,",
+        "subject": "Контролінг",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/75306421020?pwd=ou1NjYpPNSnYdMEOfaJdBh4bG5pzhT.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Дзяний Р.Б.,",
+        "subject": "Національна безпека",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79740607138?pwd=aXjBUa2Crqja3spG9zEH5RLikbs77F.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Химич О.В.,",
+        "subject": "Прогнозування і макроекономічне планування",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/4929862551?pwd=U0EzU1ZhWm5INURVVVlEUTNVQVQwQT09"
+        ]
+    }
+]

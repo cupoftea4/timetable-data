@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Оцінювання відповідності продукції, послуг та персоналу",
+        "lecturer": "МТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/zxj-bpsg-kcw"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Типові технологічні об`єкти і процеси",
+        "lecturer": "МТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/duu-hwds-xcy"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Типові технологічні об`єкти і процеси",
+        "lecturer": "МТ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/xrf-rbmm-cbt"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Оцінювання відповідності продукції, послуг та персоналу",
+        "lecturer": "МТ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/kqx-cnwc-opv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

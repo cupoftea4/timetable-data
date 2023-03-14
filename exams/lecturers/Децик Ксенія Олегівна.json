@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ТР-31, ТР-32,",
+        "subject": "Комутація та розподіл інформації",
+        "number": 2,
+        "urls": [
+            "http://meet.google.com/bej-ekkf-ybg"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ТР-33, ТР-34,",
+        "subject": "Комутація та розподіл інформації",
+        "number": 2,
+        "urls": [
+            "http://meet.google.com/ujv-oork-soh"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "СЕ-21, ТЕ-21,",
+        "subject": "Вища математика, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/77214759359?pwd=tu90Tyz1sWFu3Bw7TJSA8HDODb6NGq.1"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "БІ-11, 213 XI н.к.,",
+        "subject": "Вища математика, частина 1",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/71487149328?pwd=b00B4PgC2h5ebCkImruTdoWmEeJ5ul.1"
+        ]
+    }
+]

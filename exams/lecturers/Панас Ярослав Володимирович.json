@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "МЕ-47,",
+        "subject": "Контролінг",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:22ce88d4b63546f7b710bb5cbfd8ca12@thread.tacv2/1670151512102?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=20663ae1-e7d1-4776-8543-452814e28007&parentMessageId=1670151512102&teamName=%D0%9C%D0%9F%D0%90%20%D0%9C%D0%95-47%20(22%2F23%20%D0%BD.%D1%80.)&channelName=%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%96%D0%BD%D0%B3&createdTime=1670151512102&allowXTenantAccess=false"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "МЕ-39,",
+        "subject": "Контроллінг",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:8df6f2c69e3b4195bb8d0c8ad16fc222@thread.tacv2/1670151866881?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=d1731de7-0c6b-436d-b863-e0b3b7dd83a1&parentMessageId=1670151866881&teamName=%D0%9C%D0%9F%D0%90%20%D0%9C%D0%95-39%20(22%2F23%20%D0%BD.%D1%80.)&channelName=%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%96%D0%BD%D0%B3&createdTime=1670151866881&allowXTenantAccess=false"
+        ]
+    }
+]

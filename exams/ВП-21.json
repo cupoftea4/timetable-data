@@ -1,0 +1,35 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "Фучила О.М.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ae0e4f51-cd68-4b4b-bf85-6f8ae89ed1ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_UgjpsXzuDrvp3JQor4D3ER_7oBgFBfNAJz27l20vruw1@thread.tacv2&messageId=1669666306665&language=en-US",
+            "https://us04web.zoom.us/j/92052177239?pwd=YnBYRVdRUkFsa205V0lGM0lUMXRnUT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Лотошинська Н.Д.,",
+        "subject": "Основи видавничої та друкарської справи",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79134399871?pwd=Ko3OQmnptuJB6xRKBWPeeXePiE4ogv.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Чернуха О.Ю.,",
+        "subject": "Теорія ймовірностей і математична статистика",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Ковальчук А.М.,",
+        "subject": "Дискретна математика",
+        "number": 2,
+        "urls": []
+    }
+]

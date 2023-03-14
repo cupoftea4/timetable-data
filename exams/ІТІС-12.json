@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Досин Д.Г.,",
+        "subject": "Інженерія даних і знань",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/86243131916?pwd=b0NETUs3MjlMU3RZaEkrNStRc0FGdz09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Берко А.Ю.,",
+        "subject": "Методи опрацювання великих даних",
+        "number": 1,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Берко А.Ю.,",
+        "subject": "Інноваційні інформаційні технології",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Демків Л.І.,",
+        "subject": "Технології проектування інформаційних систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79385872462?pwd=QCX6Wy2y2xxoCZb3PYhhbv5PAj9AcM.1"
+        ]
+    }
+]

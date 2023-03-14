@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Станкевич О.М.,",
+        "subject": "Організація баз даних та знань",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3504071411?pwd=bDBVRGN1Tkc0K2RkWTF6emR6cEQ0UT09"
+        ]
+    },
+    {
+        "date": "2022-12-07T00:00:00.000Z",
+        "lecturer": "Пукач П.Я.,",
+        "subject": "Теорія ймовірності, ймовірнісні процеси та математична статистика",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aDxufrl2OT8CtAVjKiwpNiPYVt_jBdWBHdnZglNlh5Us1%40thread.tacv2/1669916454213?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2279c626ea-b22e-4e61-acd3-7c2c28f49c37%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "Сидор А.Р.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/81876486225?pwd=bjFrV0hwcDJkMEpsQkIrOTVzdzM0QT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Оборська О.В.,",
+        "subject": "Прикладне програмування",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78340347026?pwd=luRkMw7jAhqr75esd9eCtbe32xnZ6D.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Белей О.І., Нестор Н.І., Плесканка Н.М.,",
+        "subject": "Операційні системи",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/75812452253?pwd=Zp0eCfaUEzIIpYNv92ZoTgoQaJKNi8.1"
+        ]
+    }
+]

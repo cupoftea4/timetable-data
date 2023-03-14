@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "ТР-41,",
+        "subject": "Термінальне обладнання ТКС",
+        "number": 1,
+        "urls": [
+            "https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MHNhYXQ2aHMzOW00N3Y1MjluOWVuODAwczUgaWhvci5iLmNoYWlrb3Zza3lpQGxwbnUudWE&tmsrc=ihor.b.chaikovskyi%40lpnu.ua"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ТР-14, ТР-15, 218 XI н.к.,",
+        "subject": "Програмування, частина  1",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "ТР-11, ТР-12, ТР-13, 218 XI н.к.,",
+        "subject": "Програмування, частина  1",
+        "number": 1,
+        "urls": []
+    }
+]

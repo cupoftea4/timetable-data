@@ -1,0 +1,170 @@
+[
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a11FA4P-pM6zP5BshYY_HusN6XNKzenvHrxIgzyRbCKA1%40thread.tacv2/conversations?groupId=1d5e39e1-2fdd-4063-8e46-c23aa726cf6b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aWMUjtjTTD9u_E2_79fvIpcXmBoHey-VbEd2StqF0G5c1%40thread.tacv2/conversations?groupId=b77c8a1f-4cf8-4a63-9f9e-8d3e032f5389&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a11FA4P-pM6zP5BshYY_HusN6XNKzenvHrxIgzyRbCKA1%40thread.tacv2/conversations?groupId=1d5e39e1-2fdd-4063-8e46-c23aa726cf6b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aWMUjtjTTD9u_E2_79fvIpcXmBoHey-VbEd2StqF0G5c1%40thread.tacv2/conversations?groupId=b77c8a1f-4cf8-4a63-9f9e-8d3e032f5389&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1YUw1-rX5GToK2QeCnh3m7eUtWwkbkojP28Cg_nUhpU1%40thread.tacv2/conversations?groupId=3a7133e0-221d-43b7-9806-5d0867bc96d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Історія міжнародних відносин",
+        "lecturer": "МВ-13, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Історія ідей, концепцій і теорій міжнародних відносин",
+        "lecturer": "МВ-11, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Історія ідей, концепцій і теорій міжнародних відносин",
+        "lecturer": "МВ-12, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Історія ідей, концепцій і теорій міжнародних відносин",
+        "lecturer": "МВ-13, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Історія ідей, концепцій і теорій міжнародних відносин",
+        "lecturer": "МВ-14, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Історія міжнародних відносин",
+        "lecturer": "МВ-13, 313 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1YUw1-rX5GToK2QeCnh3m7eUtWwkbkojP28Cg_nUhpU1%40thread.tacv2/conversations?groupId=3a7133e0-221d-43b7-9806-5d0867bc96d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

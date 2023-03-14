@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Структурний аналіз матеріалів",
+        "lecturer": "МЗ-22, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76739236078?pwd=tK15AJffLYtj2jyEpSqRt8Iw9eE48Q.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Структурний аналіз матеріалів",
+        "lecturer": "МЗ-22, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76739236078?pwd=tK15AJffLYtj2jyEpSqRt8Iw9eE48Q.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Структурний аналіз матеріалів",
+        "lecturer": "МЗ-22, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76427080521?pwd=ymU1m31cYD57pwsw8trPSGpiltc8TM.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Діагностика та дефектоскопія виробів",
+        "lecturer": "МЗ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73743607742?pwd=dGRF23sLClL6DOT1eelHhpXw1ySSDP.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Діагностика та дефектоскопія виробів",
+        "lecturer": "МЗ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72684415884?pwd=QYOgbgsbiSu21bAipLpG9WK1kZ5Yr1.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

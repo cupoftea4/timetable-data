@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Коваль М.П.,",
+        "subject": "Штучні споруди на дорогах та експлуатація штучних споруд",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/5724048998?pwd=ZTJNQURqQ0wwTXJYZklRa3R1KzAwUT09"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Турба Ю.В.,",
+        "subject": "Технологія будівництва та реконструкція автомобільних доріг",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/87880282768?pwd=NUlUVUZRMmpZK3FYY2QyVUttSmxBdz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Стечишин С.М.,",
+        "subject": "Інженерне облаштування доріг і будівництво та експлуатація інженерних мереж, частина 2",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aP_O7wOZ9JJnNCqcFp3qT5ag0Gv4_1P6mrpQLBN4x_TM1%40thread.tacv2/1660130744359?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22113d65c6-524b-4f83-b70f-fab6000a58f2%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Сідун Ю.В.,",
+        "subject": "Вишукування та проектування автомобільних доріг і проектування міських вулиць, частина 2",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWI3M2YwNjktZDhiNC00NGY1LTk4ODMtYmM3NzFjMmM3Njk3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224c304e3e-59c3-46a6-8180-93a9037528d4%22%7d"
+        ]
+    }
+]

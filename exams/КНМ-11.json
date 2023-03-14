@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Гадьо І.В.,",
+        "subject": "Інноваційні інформаційні технології",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/fvw-uvej-hzv"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Кособуцький П.С.,",
+        "subject": "Проблемно-орієнтовані та вбудовані комп`ютерні системи",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/top-hatj-ocs"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Обельовська К.М.,",
+        "subject": "Мережі наступного покоління",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72740808591?pwd=T0lPa0ljRmZIWGVpZW83ajlydWlxdz09"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Фармага І.В.,",
+        "subject": "Інформаційний маркетинг та менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ]
+    }
+]

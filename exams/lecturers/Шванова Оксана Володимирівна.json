@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "ПЗ-26,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/7289254119?pwd=UFNQSnV0eHRTemlOakNVeURpTnkyUT09%20%20Meeting%20ID:%20728%20925%204119%20Passcode:%20jD7Va3"
+        ]
+    },
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "ПЗ-24, ПЗ-25,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/7289254119?pwd=UFNQSnV0eHRTemlOakNVeURpTnkyUT09%20%20Meeting%20ID:%20728%20925%204119%20Passcode:%20jD7Va3"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "ФЛ-14, 311 V н.к.,",
+        "subject": "Англійська мова за професійним спрямуванням",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ІК-41,",
+        "subject": "Адміністрування інформаційних систем",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/utp-yvsy-gqe"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ІК-31,",
+        "subject": "Захист даних в інформаційно-комунікаційних системах",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/whz-dioi-jgv"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "ТРСА-11,",
+        "subject": "Системне адміністрування телекомунікаційних мереж",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/rto-igih-ret"
+        ]
+    }
+]

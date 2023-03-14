@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Мокрий В.І.,",
+        "subject": "Моніторинг довкілля, частина 1",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78873373829?pwd=LhSfSiBEbDMP1R0WvHL-I6dfcUb7Q3.1"
+        ]
+    },
+    {
+        "date": "2022-12-07T00:00:00.000Z",
+        "lecturer": "Шибанова А.М.,",
+        "subject": "Оперативний екологічний моніторинг",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Петрушка І.М.,",
+        "subject": "Інженерні методи захисту довкілля, частина 1",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/71678096313?pwd=H6fKFjbPCUoO0xRciaSDQDeHDhBNbj.1"
+        ]
+    }
+]

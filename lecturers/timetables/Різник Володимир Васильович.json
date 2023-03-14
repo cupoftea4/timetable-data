@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Математичні моделі синтезу та оптимізації систем",
+        "lecturer": "КНУС-11, КНУС-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/tvj-jjfj-wzv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі синтезу та оптимізації систем",
+        "lecturer": "КНУС-11, 802а V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/tvj-jjfj-wzv"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Математичні моделі синтезу та оптимізації систем",
+        "lecturer": "КНУС-12, 802б V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/tvj-jjfj-wzv"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-316, 802б V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/tvj-jjfj-wzv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "lecturer": "КН-316, 802б V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/tvj-jjfj-wzv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

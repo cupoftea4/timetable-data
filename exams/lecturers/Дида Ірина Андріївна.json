@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "АР-26, АР-27, АР-28,",
+        "subject": "Історія архітектури, частина 3",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOC2a9MI7lm2V7jH0AoMziIpqX317f92uWxFZW7VdDDM1%40thread.tacv2/conversations?groupId=4ad03509-4578-47f6-9962-a1b916dfe5c2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "АР-23, АР-24, АР-25,",
+        "subject": "Історія архітектури, частина 3",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aE7TYvLMk_HUpfQyN4dAXKKRsGra6l_njZb5n7YuDNqI1%40thread.tacv2/conversations?groupId=19b7bc89-39f5-4b0f-9d4f-4f6a30cd5a69&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "АР-21, АР-22, АР-29,",
+        "subject": "Історія архітектури, частина 3",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3alD0NBToLmbghwN7oZWvlS7C5b8cS1u_8_P-SXC9Otg01%40thread.tacv2/conversations?groupId=098b0813-ad47-4e6f-9951-46ac1a45f021&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

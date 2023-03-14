@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПЗ-41, ПЗ-42, ПЗ-43,",
+        "subject": "Безпека програм та даних",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75419787835?pwd=o1H8KoaJS5r6HmKaCn2cu207HFkFE8.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ПЗ-44, ПЗ-45, ПЗ-46,",
+        "subject": "Безпека програм та даних",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75419787835?pwd=o1H8KoaJS5r6HmKaCn2cu207HFkFE8.1"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "ПЗМ-11,",
+        "subject": "Методології розробки програмного забезпечення",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77327834445?pwd=CoW8NCepgOOytMRnKQsDLDA5Sa0Xdh.1"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "ПЗІП-11, ПЗІП-12, ПЗМ-11,",
+        "subject": "Теорія надійності програмних систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79644262351?pwd=9mz9DPVxEulYNB9Ev94SUoVxJMuDKU.1"
+        ]
+    }
+]

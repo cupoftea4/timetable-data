@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Франків Р.Б.,",
+        "subject": "Історія сучасної архітектури",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Дідик В.В., Тупісь С.П.,",
+        "subject": "Містобудівне проектування",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aEorxG6UFEsIV04QQ2CDrO79vVU42cu30TgRPoaedbCg1%40thread.tacv2/conversations?groupId=6fdc43f5-8eaf-4c1f-9e1b-b08fb1c1d217&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Котів Р.М.,",
+        "subject": "Архітектурна фотограмметрія і моделювання об`єктів",
+        "number": 1,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7431"
+        ]
+    }
+]

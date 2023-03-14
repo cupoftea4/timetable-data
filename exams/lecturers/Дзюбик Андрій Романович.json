@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "НГ-32,",
+        "subject": "Надземні ділянки трубопровідних систем",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/76091111556?pwd=aX2CKLIbmaNwCCH7mriFyeTI4iwIyb.1"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "МП-31, МП-32,",
+        "subject": "Технології зварювання",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/79721739969?pwd=tDo36ZlO77x9gcZbER4lsTMDDdJJZt.1"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "МБ-31, МБ-32,",
+        "subject": "Технології зварювання",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/79721739969?pwd=tDo36ZlO77x9gcZbER4lsTMDDdJJZt.1"
+        ]
+    }
+]

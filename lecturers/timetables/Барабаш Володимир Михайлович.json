@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "БД-41, БД-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75396702845?"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "БД-338, 209 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75396702845?"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Випробування будівель і споруд",
+        "lecturer": "БД-41, БД-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75396702845?"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

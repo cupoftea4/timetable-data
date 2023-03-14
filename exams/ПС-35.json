@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Католик Г.В.,",
+        "subject": "Психокорекція та психореабілітація",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Сняданко І.І.,",
+        "subject": "Психологія сім`ї",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Свідерська О.І.,",
+        "subject": "Психологія брендингу",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3akIEBRHpqWi0HfPshzJkrse2ijVVF1I-bZ3pIxo_X3is1%40thread.tacv2/conversations?groupId=49f539a0-56e1-47fc-8038-d63dee60d6e1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Ткалич М.Г.,",
+        "subject": "Організаційна психологія",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/8247689219?pwd=ZHE2L1lVMldHN1J0bmhkaXZocE5Hdz09"
+        ]
+    }
+]

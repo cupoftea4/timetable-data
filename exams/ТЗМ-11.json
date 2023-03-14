@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Шибанова А.М.,",
+        "subject": "Технології захисту гідросфери та атмосфери",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/71831212413?pwd=zVx6h8GsJqCyjMpKBNk9uDtdKAMiai.1"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Мокрий В.І.,",
+        "subject": "Геоекоінформаційні системи",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/79109530475?pwd=l6aeyfKUdV1ADN2YCPXebu5oQRupak.1"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Руда М.В.,",
+        "subject": "Технології адаптацій до змін клімату",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78043695511?pwd=6bINCEAvelh4kpNQMvRSdIi5UC7wdC.1"
+        ]
+    }
+]

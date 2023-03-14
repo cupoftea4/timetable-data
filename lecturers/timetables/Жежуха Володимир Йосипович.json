@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Зовнішньоекономічна діяльність підприємства",
+        "lecturer": "МЕ-21, МЕ-22, МЕ-23, МЕ-24, 116 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Зовнішньоекономічна діяльність підприємства",
+        "lecturer": "МЕ-25, МЕ-26, МЕ-27, 319 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління витратами підприємства",
+        "lecturer": "УВП-ЗМД-101, УВП-ЗМД-102, УВП-ЗМД-103, УВП-ЗМД-104, УВП-ЗМД-105, УВП-ЗМД-106, УВП-ЗМД-107, УВП-ЗМД-108, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aER2wKVifMhUQzA8OE9Ggp4f0QmCZrhet7qYuRcWGKRw1%40thread.tacv2/conversations?groupId=cd7af48e-d0da-497b-b55e-7ba9ac3ecdbc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Управління витратами підприємства",
+        "lecturer": "УВП-ЗМД-109, УВП-ЗМД-110, УВП-ЗМД-111, УВП-ЗМД-112, УВП-ЗМД-113, УВП-ЗМД-114, УВП-ЗМД-115, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6HduKbG003jaaAiMNvirkXIEHMKhmZ8xrHi1Yw7FjT01%40thread.tacv2/conversations?groupId=3d517c0e-4e48-4911-b616-4c1c9ed732d1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

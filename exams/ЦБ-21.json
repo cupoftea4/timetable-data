@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Ільчишин Н.М.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/84216550899?pwd=NGlNbW9kbGlwbHdMdWZIMFlBaDVpZz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20842%201655%200899%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20R1TSuP"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Панько О.І.,",
+        "subject": "Філософія",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/2535698571?pwd=SmZqNVdDOXBKTmd0dlN3STZVY0Jpdz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Кіт Ю.В.,",
+        "subject": "Ергономіка, фізіологія праці та психологія безпеки праці",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/5360975860?pwd=Nk14aE1sODdkaHRiN05OU1pnMGh1Zz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20536%20097%205860%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%200SRUf5"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Качан С.І.,",
+        "subject": "Електробезпека та основи електротехніки",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Литвиняк О.Я.,",
+        "subject": "Система управління охороною праці, техногенною та промисловою безпекою",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aslseWJD0O87Sz_zqn6BRpaf-qdmafENvlVcu0jD4pPo1%40thread.tacv2/1668607962186?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2283a03d8a-77d2-4e8e-8f8e-7f9f46100b1c%22%7d"
+        ]
+    }
+]

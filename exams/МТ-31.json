@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Дорожовець М.М.,",
+        "subject": "Опрацювання результатів вимірювань",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Ліхновський І.С.,",
+        "subject": "Комп`ютерне моделювання та проектування електронних схем",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/84752469840?pwd=VGwyOWtFaXYyVzY5WVZrdVhBWXR2QT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Питель І.Д.,",
+        "subject": "Проектування роботизованих систем",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Хома Ю.В.,",
+        "subject": "Машинний інтелект в робототехніці, частина 1",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Скоропад П.І.,",
+        "subject": "Робототехніка, частина 1",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDVhZjdlOTYtNWY5NC00ZjczLWJjYWMtNWRjMDc3MjExODIz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a13a13f1-db4e-429d-9cff-c51f2b753f07%22%7d"
+        ]
+    }
+]

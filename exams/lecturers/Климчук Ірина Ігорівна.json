@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "МВ-31, МВ-32, МВ-33, МВ-34, МВ-35, МВ-36,",
+        "subject": "Громадська дипломатія",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/75520788483?pwd=cenJfHHkNnbHHE3VAfwGDobW0Q1mnS.1"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "МВ-31, МВ-32, МВ-33, МВ-34, МВ-35, МВ-36,",
+        "subject": "Державне регулювання міжнародної співпраці",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/78074770570?pwd=DeWqiL65WffTn4Qes42IDbrDtaWINx.1"
+        ]
+    }
+]

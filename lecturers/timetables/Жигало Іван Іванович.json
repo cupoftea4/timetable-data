@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "lecturer": "МЕ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78713131887?pwd=HZxFZgKr7AzObrXSyyaa8YIMdTYAKj.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

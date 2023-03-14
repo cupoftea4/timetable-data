@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "ПС-42,",
+        "subject": "Психологія  реклами",
+        "number": 1,
+        "urls": [
+            "http://zoom.us/j/7178940677?pwd=Vk5lcFBRNGIUek4yeGJZaXFIT2h3UT09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "БІ-21,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "http://zoom.us/j/7178940677?pwd=Vk5lcFBRNGIUek4yeGJZaXFIT2h3UT09"
+        ]
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Теоретичні основи системного проектування",
+        "lecturer": "КН-311, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/udy-fqzq-zdt"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Теоретичні основи системного проектування",
+        "lecturer": "КН-311, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/udy-fqzq-zdt"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Теоретичні основи системного проектування",
+        "lecturer": "КН-309, 323 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/udy-fqzq-zdt"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теоретичні основи системного проектування",
+        "lecturer": "КН-309, 323 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/udy-fqzq-zdt"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теоретичні основи системного проектування",
+        "lecturer": "КН-310, 323 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/udy-fqzq-zdt"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Теоретичні основи системного проектування",
+        "lecturer": "КН-310, 323 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/udy-fqzq-zdt"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизовані системи інженерного моделювання та розрахунку",
+        "lecturer": "КНІТ-11, 501 IV н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/fvo-rjbt-css"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизовані системи інженерного моделювання та розрахунку",
+        "lecturer": "КНІТ-11, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/fvo-rjbt-css"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизовані системи інженерного моделювання та розрахунку",
+        "lecturer": "КНІТ-11, 327 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/fvo-rjbt-css"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Теоретичні основи системного проектування",
+        "lecturer": "КН-309, КН-310, КН-311, 325 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/udy-fqzq-zdt"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

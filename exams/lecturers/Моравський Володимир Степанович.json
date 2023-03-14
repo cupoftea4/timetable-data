@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "ХТ-34,",
+        "subject": "Методи аналізу полімерної сировини",
+        "number": 1,
+        "urls": [
+            "https://www.google.com/url?q=https://us02web.zoom.us/j/89927867536?pwd%3DS3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09&sa=D&source=calendar&ust=1635158277529646&usg=AOvVaw2bvlkvu4NYB3YFJ57v2ERi"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "ХТВС-11, ХТМ-11,",
+        "subject": "Технологічні процеси синтезу і модифікування полімерів",
+        "number": 4,
+        "urls": [
+            "https://www.google.com/url?q=https://us02web.zoom.us/j/89927867536?pwd%3DS3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09&sa=D&source=calendar&ust=1635158277529646&usg=AOvVaw2bvlkvu4NYB3YFJ57v2ERi"
+        ]
+    }
+]

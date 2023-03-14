@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Мікроекономіка",
+        "lecturer": "МЕ-17, МЕ-18, МЕ-19, 205 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Мікроекономіка",
+        "lecturer": "МЕ-17, МЕ-18, МЕ-19, 205 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інноваційний процес в публічних інституціях",
+        "lecturer": "УАа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2vkpXwd6hD4WQzxyGN1riC1YfBzmsDWSVaSlc4aGvKU1%40thread.tacv2/conversations?groupId=9dcb46ba-2516-498a-8d4b-6fbffbaa5293&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Основи управлінського консультування",
+        "lecturer": "УАРАі-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aWERrxRbjLsDJL_eoKSUyXoU8JslqPp9K12jhgesmwDY1%40thread.tacv2/conversations?groupId=7f7872b6-3b54-453c-8bd7-89acc4e2abfc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи управлінського консультування",
+        "lecturer": "УАРАі-11, 504 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aWERrxRbjLsDJL_eoKSUyXoU8JslqPp9K12jhgesmwDY1%40thread.tacv2/conversations?groupId=7f7872b6-3b54-453c-8bd7-89acc4e2abfc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Мікроекономіка",
+        "lecturer": "МК-11, МК-12, МК-13, МК-14, МК-15, 210 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Мікроекономіка",
+        "lecturer": "МК-11, МК-12, МК-13, МК-14, МК-15, 210 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інноваційний процес в публічних інституціях",
+        "lecturer": "УАа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2vkpXwd6hD4WQzxyGN1riC1YfBzmsDWSVaSlc4aGvKU1%40thread.tacv2/conversations?groupId=9dcb46ba-2516-498a-8d4b-6fbffbaa5293&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

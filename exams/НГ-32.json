@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Максимович О.В.,",
+        "subject": "Механіка руйнування об`єктів нафтогазового комплексу",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/3505437138?pwd=aDhYN05tYUlyMzAxWDhVYzhkMWtCdz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Войтович А.А.,",
+        "subject": "Комп`ютерні технології нафтогазового комплексу",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Дзюбик А.Р.,",
+        "subject": "Надземні ділянки трубопровідних систем",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/76091111556?pwd=aX2CKLIbmaNwCCH7mriFyeTI4iwIyb.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Судаков А.К.,",
+        "subject": "Буріння свердловин при інженерно-геологічних дослідженнях",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9704799394?pwd=cjNnVzIzRWU1NlgrRjJ6YlpGSE5UUT09"
+        ]
+    }
+]

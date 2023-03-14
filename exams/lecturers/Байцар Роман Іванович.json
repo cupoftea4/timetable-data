@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "МТа-21,",
+        "subject": "Семінар в галузі метрології",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/eyi-uuvi-tyd"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "МТ-32,",
+        "subject": "Стандартизація продукції та послуг",
+        "number": 5,
+        "urls": [
+            "https://meet.google.com/qeo-side-wtr"
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74137517753?pwd=sfzmZymuoAP6j7RaBye6r1Tpa2ibSO.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76360146531?pwd=Z5wNbvinbATNLS2LAiR1LneQ9kvDZI.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-35, ПВ-36, ПВ-37, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75301033349?pwd=3yUu2ogNMHgfeUriKpeHfLL6bVaFsD.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71563134858?pwd=byRNqQCyi6jXfdsh5avvZInAijrm9Z.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73611246204?pwd=Vbb84CzKc4dQJDcf6vD97fcQ0gyjJK.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

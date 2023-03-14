@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Архітектурне формування міських структур та громадських об`єктів",
+        "lecturer": "АРБС-12, АРБС-13, 333 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурне формування міських структур та громадських об`єктів",
+        "lecturer": "АРБС-12, АРБС-13, 333 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Діловий протокол і корпоративний етикет",
+        "lecturer": "Климчук І.І., МВМВ-11313 IV н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Діловий протокол і корпоративний етикет",
+        "lecturer": "Климчук І.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76717616696?pwd=RgVxFvbIaj3jhW6o9Gt21BwrfmpjFf.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

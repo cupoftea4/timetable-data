@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "БД-46, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9981777404?pwd=WkFaanJRS1UvbG1Kd29PRFpiOE1vZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "БД-46, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9981777404?pwd=WkFaanJRS1UvbG1Kd29PRFpiOE1vZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

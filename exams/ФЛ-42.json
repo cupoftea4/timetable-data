@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Романишин Н.І.,",
+        "subject": "Теорія і практика перекладу (англійська мова), частина 3",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/76597757196?pwd=zxUATlxLnpwb9aG2Hny5nH0DzKK24x.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Заяць М.М.,",
+        "subject": "Формальні мови, граматики та автомати",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/74290959480?pwd=gfFl27qbUnFRezasFUijDeFJtIfUPu.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Черниш Л.З.,",
+        "subject": "Практика перекладу (німецька/японська мова), частина 1",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78929666302?pwd=xzK_sXSwZYFvFhridkTkW3kvT3iVIc.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Коцан О.Я.,",
+        "subject": "Сучасна німецька/японська мова, частина 7",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/87028647983?pwd=M09PckdJUllqUFpIWGpkZEhVVnpEUT09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Стасів М.В.,",
+        "subject": "Сучасна німецька/японська мова, частина 7",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/9460882946?pwd=ZGx3TXFtRFQ2TVV4UHVQaXdITm5adz09"
+        ]
+    }
+]

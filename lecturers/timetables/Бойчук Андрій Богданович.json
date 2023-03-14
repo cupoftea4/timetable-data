@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Антикризове управління підприємством",
+        "lecturer": "АУП-ОА-301, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4783946740?pwd=ZHFXVE9tVVBESDVMTkVHWER2NHlBZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

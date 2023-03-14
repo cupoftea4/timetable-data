@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "lecturer": "МЕ-31, МЕ-32, МЕ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79754372484?pwd=q7YzhYQYx4UaXDnrPNO0vADn0Ovz8Q.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Консалтинг",
+        "lecturer": "МЕОА-11f, КОН-МО-101f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74923958943?pwd=tb3GMFEOR3BpOJMicaXzTbi8EH2grj.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Консалтинг",
+        "lecturer": "КОН-МО-101, КОН-МО-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74638488936?pwd=8jVre8UaEx9gVLt4bzE7HJ0aBio3kJ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "lecturer": "МЕ-31, МЕ-32, МЕ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79537864651?pwd=DxebTcQWNS3JyaNKt1RlBMaNFaO5Fb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "lecturer": "МЕ-31f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79987366897?pwd=yXbj7mPVpKLDLDQT57ndIIsVN7pMyo.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

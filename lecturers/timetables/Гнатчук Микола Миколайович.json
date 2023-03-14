@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Методи приймання та обробки сигналів",
+        "lecturer": "ТР-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://staff.lpnu.ua/node/1243#:~:text=Teams%2C%"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методи приймання та обробки сигналів",
+        "lecturer": "ТР-33, ",
+        "location": " практична",
+        "urls": [
+            "https://staff.lpnu.ua/lecturer_schedule_personified"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методи приймання та обробки сигналів",
+        "lecturer": "ТР-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://staff.lpnu.ua/lecturer_schedule_personified"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методи приймання та обробки сигналів",
+        "lecturer": "ТР-33, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://staff.lpnu.ua/lecturer_schedule_personified"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

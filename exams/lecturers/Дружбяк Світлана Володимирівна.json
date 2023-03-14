@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "ФЛ-46,",
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 1",
+        "number": 3,
+        "urls": [
+            "https://softserveinc.zoom.us/j/91501720791?pwd=YlU3ckgyaStiUk1TZU9WQlQxbFRNdz09&from=addon"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ФЛ-43,",
+        "subject": "Практика перекладу (німецька/японська мова), частина 1",
+        "number": 3,
+        "urls": [
+            "https://softserveinc.zoom.us/j/91917245389?pwd=ZHdKN1FWdzkxV1VITnFsSXk3VHZjZz09&from=addon"
+        ]
+    }
+]

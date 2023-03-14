@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Інтерактивний дизайн, частина 1",
+        "lecturer": "ДС-24, 224 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1aM1YYzSq3PvOQYThS3ddBmRLuQg_0vstCI8ASOjLtA1%40thread.tacv2/conversations?groupId=358873b3-ca47-4302-b63d-fa927714cc79&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інтерактивний дизайн, частина 1",
+        "lecturer": "ДС-24, 224 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1aM1YYzSq3PvOQYThS3ddBmRLuQg_0vstCI8ASOjLtA1%40thread.tacv2/conversations?groupId=358873b3-ca47-4302-b63d-fa927714cc79&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "3D моделювання",
+        "lecturer": "ДС-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aMqH6P9LqwqBtEeN63nnKrqGs4TEO-4S7YZbnUdChtFc1%40thread.tacv2/1677524573779?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2252690ad1-f614-48f3-af62-ef4c2104a647%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "3D моделювання",
+        "lecturer": "ДС-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_qi-8kVQD6nZVLppmblfg93sIoEa-ocoh6FIrjXCG7c1%40thread.tacv2/1677747946516?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2252690ad1-f614-48f3-af62-ef4c2104a647%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інтерактивний дизайн, частина 1",
+        "lecturer": "ДС-24, 108 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1aM1YYzSq3PvOQYThS3ddBmRLuQg_0vstCI8ASOjLtA1%40thread.tacv2/conversations?groupId=358873b3-ca47-4302-b63d-fa927714cc79&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтерактивний дизайн, частина 1",
+        "lecturer": "ДС-24, 108 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1aM1YYzSq3PvOQYThS3ddBmRLuQg_0vstCI8ASOjLtA1%40thread.tacv2/conversations?groupId=358873b3-ca47-4302-b63d-fa927714cc79&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "3D моделювання",
+        "lecturer": "ДС-31, ДС-32, ДС-33, ДС-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aPE_wkaOOmyK_U36hZN9rPiIyIsQ1J23PIDAkzMvQSEE1%40thread.tacv2/1677747837021?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2252690ad1-f614-48f3-af62-ef4c2104a647%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

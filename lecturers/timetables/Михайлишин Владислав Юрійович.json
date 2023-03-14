@@ -1,0 +1,90 @@
+[
+    {
+        "subject": "Об`єктно-орієнтоване проектування та програмування",
+        "lecturer": "ШІ-11, 106 XX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Об`єктно-орієнтоване проектування та програмування",
+        "lecturer": "ШІ-12, 106 XX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTIwMmM4NDUtNjZmZi00ZDFjLTk4OWEtZDY5MzY1OTg3ZjY2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226bab42d4-409c-4ea0-ae07-e371d3d5e3fa%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Об`єктно-орієнтоване проектування та програмування",
+        "lecturer": "ШІ-11, ШІ-12, ШІ-13, ШІ-14, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjAzNjEzYjItM2YyMi00MjllLWI1MDAtMmRkODc5NWQxYTk1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226bab42d4-409c-4ea0-ae07-e371d3d5e3fa%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Об`єктно-орієнтоване проектування та програмування",
+        "lecturer": "ШІ-12, 106 XX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODU3ZDNiNDYtZmU0OS00OWI0LWJlMWYtOWIyZWYwMzIzZGU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226bab42d4-409c-4ea0-ae07-e371d3d5e3fa%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Об`єктно-орієнтоване проектування та програмування",
+        "lecturer": "ШІ-14, 106 XX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmQwZWU5OTYtNGNjYi00ZGUwLTg3MGMtMGQ0YzU5ZGYyZjQw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226bab42d4-409c-4ea0-ae07-e371d3d5e3fa%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Об`єктно-орієнтоване проектування та програмування",
+        "lecturer": "ШІ-14, 106 XX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmQwZWU5OTYtNGNjYi00ZGUwLTg3MGMtMGQ0YzU5ZGYyZjQw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226bab42d4-409c-4ea0-ae07-e371d3d5e3fa%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Методи наукових досліджень",
+        "lecturer": "ГДКГ-11, ГДКГ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/wnu-nbbc-jyg"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "ГД-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ean-snkv-uiy?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "ГД-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ean-snkv-uiy?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "ГД-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/rcm-cmhu-pef"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "ГД-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/rcm-cmhu-pef"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методи наукових досліджень",
+        "lecturer": "ГДКГ-11, 346 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/xqy-sbke-zyh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "ГД-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/fzo-fnon-njw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "ГД-33, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/fzo-fnon-njw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "ГД-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/fzo-fnon-njw"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "ГД-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/fzo-fnon-njw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Методи наукових досліджень",
+        "lecturer": "ГДКГ-12, 346 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/jgp-ntpx-weh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

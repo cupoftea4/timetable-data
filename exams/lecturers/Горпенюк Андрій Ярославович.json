@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "КБАС-11, КБУІ-11,",
+        "subject": "Комп`ютерні методи аналізу та проектування електронних засобів",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3auZwiQXo6pwPatoPGHiL8oDKWbGiOoyjKHIHz57VHqJQ1%40thread.tacv2/conversations?groupId=d87cbd78-a9ab-4012-93dc-636cc42e93a0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-25T00:00:00.000Z",
+        "lecturer": "КБСТ-11, КБСТ-12,",
+        "subject": "Комп`ютерні методи аналізу та проектування електронних засобів",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3auZwiQXo6pwPatoPGHiL8oDKWbGiOoyjKHIHz57VHqJQ1%40thread.tacv2/conversations?groupId=d87cbd78-a9ab-4012-93dc-636cc42e93a0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

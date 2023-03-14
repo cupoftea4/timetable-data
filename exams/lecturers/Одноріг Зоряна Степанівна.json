@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "ЕО-31, ЕО-32,",
+        "subject": "Екологічна оцінка",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "ЕОЕК-11, ЕОМ-11,",
+        "subject": "Оцінка впливу на навколишнє середовище",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "ТУ-31,",
+        "subject": "Друга іноземна мова, частина 2",
+        "number": 2,
+        "urls": [
+            "https://join.skype.com/IJEiaPIgEuvr"
+        ]
+    },
+    {
+        "date": "2022-12-17T00:00:00.000Z",
+        "lecturer": "МВ-41, МВ-42, МВ-43, МВ-44, МВ-45, МВ-46, МВ-47,",
+        "subject": "Іноземна мова ІІ (польська), частина 3",
+        "number": 3,
+        "urls": [
+            "https://join.skype.com/OO4fOE0W43Dw"
+        ]
+    }
+]

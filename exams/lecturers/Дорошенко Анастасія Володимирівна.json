@@ -1,0 +1,63 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "КН-218, КН-305,",
+        "subject": "Проектування інформаційних систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75540498942?pwd=sFfHR7azJw9pjuZoTNU5TpUEPWIojP.1"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "КН-301, КН-302,",
+        "subject": "Проектування інформаційних систем",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72373661629?pwd=hTDGGk7SmxzmHPuF1bUU6iYWLbxlC4.1"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "КН-204, КН-205,",
+        "subject": "Організація баз даних та знань",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77906173027?pwd=FXhLnTSfhbTXS5eCxAa7TWHodVdVMk.1"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "КН-201, КН-202, КН-203,",
+        "subject": "Організація баз даних та знань",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71055810272?pwd=qKem9BPS8lkDHWs7e1eaTOF0Eb1uUE.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "КН-303, КН-304,",
+        "subject": "Проектування інформаційних систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72402701803?pwd=n4FjQ90Hep1bequzrOJRSQCJaqpMkN.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КН-206, КН-207,",
+        "subject": "Організація баз даних та знань",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72036017219?pwd=Hg9TwIaeUQLleZ4zbjQ0Focc2xi9dn.1"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "КН-11сп, 807 V н.к.,",
+        "subject": "Організація баз даних та знань",
+        "number": 3,
+        "urls": []
+    }
+]

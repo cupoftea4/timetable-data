@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "БТ-21, БТ-22,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПТ-21, ТЗ-21, ТУ-21, ТУ-22,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "УАі-21,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "РМ-21,",
+        "subject": "Філософія",
+        "number": 3,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    }
+]

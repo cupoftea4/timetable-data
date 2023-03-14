@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Фабрі Л.П.,",
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем I",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Батюк А.Є.,",
+        "subject": "Управління ІТ-проектами",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa48261fbb7884b4ca143dd05d8673698%40thread.tacv2/1669028504143?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2291176340-bd4e-4882-9639-9a0d9bcf5783%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Сікора Л.С.,",
+        "subject": "Основи цифрової обробки сигналів",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/74375992391?pwd=xCIEVKCm5bSEiLyxoVV8DmyQuPuNgv.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Рудавський Д.В.,",
+        "subject": "Теорія прийняття рішень",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/71126764628?pwd=NrhRTkAhqGTpHQai9pHT0Qby5VmM4D.1"
+        ]
+    }
+]

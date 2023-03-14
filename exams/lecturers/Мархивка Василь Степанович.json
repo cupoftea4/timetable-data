@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "КІ-31, КІ-32, КІ-33,",
+        "subject": "Системне програмування, частина 2",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/xgy-skon-zsv"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "КІ-34, КІ-35, КІ-36,",
+        "subject": "Системне програмування, частина 2",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/ncp-tpai-zzh"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КІ-37, КІ-38, КІ-39,",
+        "subject": "Системне програмування, частина 2",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/rha-ttdy-pkm"
+        ]
+    }
+]

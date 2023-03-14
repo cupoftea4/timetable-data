@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "КБ-206,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/6590821564?pwd=NFcvbXFJS1VSRWpJV25BVzVwanhFZz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "КІ-208,",
+        "subject": "Іноземна мова професійного спрямування, частина 3",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/6590821564?pwd=NFcvbXFJS1VSRWpJV25BVzVwanhFZz09"
+        ]
+    }
+]

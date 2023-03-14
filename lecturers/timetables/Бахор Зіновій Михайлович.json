@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "ЕЕ-41, 210 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNH4oq7L1BX2qfbN2exC2SHyhp_zGuR_-ix3mtX3KACA1%40thread.tacv2/conversations?groupId=dd8720b7-c3c4-4dad-9060-962855065633&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "ЕЕ-41, 210 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNH4oq7L1BX2qfbN2exC2SHyhp_zGuR_-ix3mtX3KACA1%40thread.tacv2/conversations?groupId=dd8720b7-c3c4-4dad-9060-962855065633&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "ЕЕ-41, 210 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNH4oq7L1BX2qfbN2exC2SHyhp_zGuR_-ix3mtX3KACA1%40thread.tacv2/conversations?groupId=dd8720b7-c3c4-4dad-9060-962855065633&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "ЕЕ-41, 210 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNH4oq7L1BX2qfbN2exC2SHyhp_zGuR_-ix3mtX3KACA1%40thread.tacv2/conversations?groupId=dd8720b7-c3c4-4dad-9060-962855065633&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

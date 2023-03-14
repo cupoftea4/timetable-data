@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "КІ-45, КІ-46, КІ-47, КІ-48,",
+        "subject": "Захист інформації в комп`ютерних системах",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78636857808?pwd=DKd5gkitH6cQGgbVDayqAUyYl6zDk6.1",
+            "https://us04web.zoom.us/j/78541668044?pwd=cLr0FE35PWVZKueYag3lEGh-s2UMbP.1"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "КІКС-11, КІКС-12,",
+        "subject": "Проектування засобів захисту інформації в комп`ютерних системах та мережах",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/72243932160?pwd=YxhWlMPthR53NLGKZJaODanlWlidjW.1"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "КІСП-11, КІСП-12,",
+        "subject": "Проектування засобів захисту інформації в комп`ютерних системах та мережах",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72243932160?pwd=YxhWlMPthR53NLGKZJaODanlWlidjW.1"
+        ]
+    }
+]

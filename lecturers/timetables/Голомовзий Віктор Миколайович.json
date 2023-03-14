@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Міжнародне підприємництво",
+        "lecturer": "МІП-ММП-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aumAb-JJH8CAgecRffaTZfYOG3o-Ngu5StmFgokS-qbY1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=41081bcb-5564-4ed5-9f04-4141a26c6f1b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    }
+]

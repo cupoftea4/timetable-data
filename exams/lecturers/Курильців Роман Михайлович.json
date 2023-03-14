@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ГД-23,",
+        "subject": "Державний земельний кадастр та оцінка нерухомості",
+        "number": 4,
+        "urls": [
+            "https://us02web.zoom.us/j/8795688005?pwd=aFUzMDhIUnVFSnExMmx4UFN3S3p1UT09"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "ГДКГ-11, ГДКГ-12, ГДФД-11,",
+        "subject": "Землевпорядне проектування",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/8795688005?pwd=aFUzMDhIUnVFSnExMmx4UFN3S3p1UT09"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "КН-409, КН-410, КН-411,",
+        "subject": "Управління ІТ-проектами",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/syg-hqac-srv?hs=122&authuser=2"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "КН-309, КН-310, КН-311,",
+        "subject": "Проектування інформаційних систем",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/oum-jjjg-pjn?hs=122&authuser=2"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КН-406, КН-407, КН-408,",
+        "subject": "Управління ІТ-проектами",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/aia-fauh-wys?hs=122&authuser=2"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "КН-306, КН-307, КН-308,",
+        "subject": "Проектування інформаційних систем",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/bxx-cwwn-evw?hs=122&authuser=2"
+        ]
+    }
+]

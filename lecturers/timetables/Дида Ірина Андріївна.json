@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Історія державності та архітектурні і культурні традиції України",
+        "lecturer": "АР-17, АР-18, АР-19, 319 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aCcbWmHqaWJvZVU20Fq4-NwrtjenqqQ4VCUhCW-E4NkE1%40thread.tacv2/conversations?groupId=e2e1b7cf-2619-4026-b74c-7ec2bb7ebdb2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Історія державності та архітектурні і культурні традиції України",
+        "lecturer": "АР-11, АР-12, АР-13, 319 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ajvl7lIJHEFIt2WHIZ_GChv5hM00OyXqK4FF4gJdPYy01%40thread.tacv2/conversations?groupId=2ba3289d-8eeb-456a-8b8d-a68fa5be439d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "ДЗЗВ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "ДЗЗВ-11, 304 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFxfkmcEvOwjsW6AduKQXBKSyCcgm0EzoGGJo8yAuVw1%40thread.tacv2/conversations?groupId=b485761b-ca7e-4c5e-b124-186a3bfbbff4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "ДЗЗВ-11, 304 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFxfkmcEvOwjsW6AduKQXBKSyCcgm0EzoGGJo8yAuVw1%40thread.tacv2/conversations?groupId=b485761b-ca7e-4c5e-b124-186a3bfbbff4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "ДЗЗВ-11, 304 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFxfkmcEvOwjsW6AduKQXBKSyCcgm0EzoGGJo8yAuVw1%40thread.tacv2/conversations?groupId=b485761b-ca7e-4c5e-b124-186a3bfbbff4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Історія державності та архітектурні і культурні традиції України",
+        "lecturer": "АР-14, АР-15, АР-16, 304 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aO8A6svgXyHaYKoyHmMbwSltIRZajHTJaPs5TmnSar441%40thread.tacv2/conversations?groupId=4060696b-4f1a-4fbd-83d2-c85776e154ce&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Візуальна культура сучасного дизайну",
+        "lecturer": "ДЗа-21, АРа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQTcmqRgLfrrQXbod60qxvWhcz4JY7wSK1G-_PqKu9HY1%40thread.tacv2/conversations?groupId=26a10ca3-bf83-4e0b-b900-4621b73c9004&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Візуальна культура сучасного дизайну",
+        "lecturer": "АРа-21, ДЗа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQTcmqRgLfrrQXbod60qxvWhcz4JY7wSK1G-_PqKu9HY1%40thread.tacv2/conversations?groupId=26a10ca3-bf83-4e0b-b900-4621b73c9004&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

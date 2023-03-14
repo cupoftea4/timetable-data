@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Баїк О.І.,",
+        "subject": "Господарське право, частина 1",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77060953733?pwd=av4jITJaZLi00fqfxGHMhrrvoUIPFa.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Бараняк В.М.,",
+        "subject": "Криміналістика",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/4886457805?pwd=MlJRdWxvTjVCOVZsZ0I0N0FYbGtsUT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Гумін О.М.,",
+        "subject": "Кримінологія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/74969603434?pwd=KcfDcaBD68o1RlzmJ23jSqCUKJNYer.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Шульган І.І.,",
+        "subject": "Транспортне право",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/83880897059?pwd=Um0ydXRIYVJLcldEZ050UmNqM0F0dz09"
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Каркульовський В.І.,",
+        "subject": "Методи проектування",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Ребот Д.П.,",
+        "subject": "Методи ділових комунікацій",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aHROkOSh2Tm47R11BOqmEMIL3NMwbVyIoe-zZSr-_rmk1%40thread.tacv2/1669929666840?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226cc94c4b-05f9-448b-aa64-87a562891115%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Панчак Р.Т.,",
+        "subject": "Адміністрування САПР",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/81484623172?pwd=Y3ZlSHpCZDFrK3RjR21PcTFRQ2F3Zz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Файтас О.І.,",
+        "subject": "Управління ІТ-проектами",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/aia-fauh-wys?hs=122&authuser=2"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Кривий Р.З.,",
+        "subject": "Теорія прийняття рішень",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/guv-sgxs-rkq"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Українська мова та діловодство",
+        "lecturer": "ПУ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7665065080?pwd=OHc5VHpWRDh6TzJnZG52MGZTQ2NWQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова та діловодство",
+        "lecturer": "ПУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7665065080?pwd=OHc5VHpWRDh6TzJnZG52MGZTQ2NWQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова та діловодство",
+        "lecturer": "ПУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7665065080?pwd=OHc5VHpWRDh6TzJnZG52MGZTQ2NWQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

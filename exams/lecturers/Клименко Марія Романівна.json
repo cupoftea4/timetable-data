@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ПС-14, ПС-15, ПС-16, 332 XIX н.к.,",
+        "subject": "Історія психології",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/njo-fncg-jxm"
+        ]
+    },
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "ПСПС-11, ПСПС-12,",
+        "subject": "Глибинна психологія",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "ПС-11, ПС-12, ПС-13, 322 XIX н.к.,",
+        "subject": "Історія психології",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/84538922012?pwd=dE80UkdFbGxXNDJPWFdZRjBMWXNlUT09"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "ПС-17, ПС-18, ПС-19, 332 XIX н.к.,",
+        "subject": "Історія психології",
+        "number": 3,
+        "urls": []
+    }
+]

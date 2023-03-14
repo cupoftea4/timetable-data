@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "МТ-42,",
+        "subject": "Мікросистемна техніка в мехатроніці",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "МТІТ-11,",
+        "subject": "Верифікація засобів вимірювальної техніки",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBRY879PZ2pDqL8FA0niLrXH-vURPA3FaWtJZ5oCvPZI1%40thread.tacv2/1676286052231?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ce2bcca-591f-4105-921e-49bad0d54778%22%7d"
+        ]
+    }
+]

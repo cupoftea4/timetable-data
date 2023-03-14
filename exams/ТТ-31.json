@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Барвінська Х.А.,",
+        "subject": "Основи теорії транспортних процесів і систем",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Бойків М.В.,",
+        "subject": "Аналіз транспортних проектів",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3axBYZYmZvUsEOOkB4nNzve1Lu_gfw43B1ISnnFZSjuK01%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ceed50fd-2421-4f3e-ab81-51079b77b0ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Могила І.А.,",
+        "subject": "Основи транспортних систем",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Афонін М.О.,",
+        "subject": "Митні операції",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Вельган І.В.,",
+        "subject": "Взаємодія видів транспорту",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3akejquRZguIrgOwLFYUhxXbQ0q7ildiYu44UY0gVwUfM1%40thread.tacv2/conversations?groupId=fc9e9d84-5525-4ead-ba81-d6da95139cac&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

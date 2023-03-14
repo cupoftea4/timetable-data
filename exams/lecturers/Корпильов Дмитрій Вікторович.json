@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "ФЛПЛ-11, ФЛПЛ-12,",
+        "subject": "Комп`ютерна лінгвістика",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/bjq-igkq-fwv?authuser=0"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "КНСП-11, КНСП-12,",
+        "subject": "Семантичні Веб- та Грід-мережі",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/qaz-ifth-tzr?authuser=0"
+        ]
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Управління строком служби та зняття з експлуатації атомних електричних станцій",
+        "lecturer": "АЕАЕ-11, 115 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4d89792d192040d29955cbc529177d30%40thread.tacv2/conversations?groupId=eb12bcbb-deff-4d11-a8a6-40e3dca29007&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління строком служби та зняття з експлуатації атомних електричних станцій",
+        "lecturer": "АЕАЕ-11, 213 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4d89792d192040d29955cbc529177d30%40thread.tacv2/conversations?groupId=eb12bcbb-deff-4d11-a8a6-40e3dca29007&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Експлуатація атомних електричних станцій",
+        "lecturer": "АЕАЕ-11, 213 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a05ac2e4a404643669a90cf51ca7310b0%40thread.tacv2/conversations?groupId=095a705b-86c2-4b2c-b09b-269dbcbb064d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "ТЕ-11, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a278451e033784d7bbcd8b40b890c5bfe%40thread.tacv2/conversations?groupId=f6a9f681-2f53-40ef-afd3-84ad97c22dd6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "АЕ-11, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a278451e033784d7bbcd8b40b890c5bfe%40thread.tacv2/conversations?groupId=f6a9f681-2f53-40ef-afd3-84ad97c22dd6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "ТЕ-11, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a278451e033784d7bbcd8b40b890c5bfe%40thread.tacv2/conversations?groupId=f6a9f681-2f53-40ef-afd3-84ad97c22dd6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "АЕ-11, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a278451e033784d7bbcd8b40b890c5bfe%40thread.tacv2/conversations?groupId=f6a9f681-2f53-40ef-afd3-84ad97c22dd6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

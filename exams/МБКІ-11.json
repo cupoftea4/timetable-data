@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Струтинська Л.Р.,",
+        "subject": "Економіка і управління підприємством",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3VAnMNMyqGtkLTfrkJAufkIHwhiUPi8GfehF12_DYjU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=f6fa3d64-b216-4ccf-8a2c-e7d6455d6d35&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Велика О.Т.,",
+        "subject": "Методи моделювання і математичне забезпечення наукових досліджень в галузі",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWEwZTlkYTctNjM1NC00NTVjLWI0MGYtNTc4YjlmNTgxNDRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229d717cc4-6bba-4bd4-817d-ca4e9a007a9f%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Дмитрів В.Т.,",
+        "subject": "Комп`ютерно-інтегрований інжиніринг в експериментальній в механіці",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYpYjNt_poNEgNptKHWYkOeqbujCxD6wgJ3EafYK8Cus1%40thread.tacv2/conversations?groupId=bcde2247-8e16-42ab-9bfd-e6dbf3e34bde&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Топільницький В.Г.,",
+        "subject": "Комп`ютерне проектування технологічного обладнання",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Стоцько З.А.,",
+        "subject": "Розрахунок і конструювання обладнання",
+        "number": 2,
+        "urls": []
+    }
+]

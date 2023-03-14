@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Вибранець Ю.Ю.,",
+        "subject": "Основи реконструкції будівель та споруд міського господарства",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Шийко О.Я.,",
+        "subject": "Організація будівельного виробництва",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Парнета Б.З.,",
+        "subject": "Утримання міської забудови",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aC0-0hf8GS14RgF8g2KQT_2nmRuoZBEvN2CQeyVFqk2g1%40thread.tacv2/conversations?groupId=b9c4494a-80c7-4d16-bc93-b0bf1532d7b0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Петренко О.В.,",
+        "subject": "Основи технічної експлуатації будівель та інженерних систем",
+        "number": 4,
+        "urls": []
+    }
+]

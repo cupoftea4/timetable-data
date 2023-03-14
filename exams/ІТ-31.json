@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Лозицький О.А.,",
+        "subject": "Спеціалізовані мови програмування",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/8947178091?pwd=Q0k2VkJ2MlhwNUU5Ym1SS3BIc3hxdz09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Басюк Т.М.,",
+        "subject": "Методології проектування інформаційних систем",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/85664509397?pwd=cHVoWTdpTmk5bENDK1E5OEx4NDhoUT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Басюк Т.М.,",
+        "subject": "Технології захисту інформації",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9187670772?pwd=bjBlNHFuQThNd29MNlUxZ04vU2t4QT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Думич С.С.,",
+        "subject": "Вбудовані системи",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Кісь Я.П.,",
+        "subject": "Системний аналіз",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/7359554324?pwd=eVc3aUo4UTdTQXo3aFJFZzIyQUg1UT09"
+        ]
+    }
+]

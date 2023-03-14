@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Струтинська Л.Р.,",
+        "subject": "Економіка праці і соціально-трудові відносини",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3am5n1p4A19tmRUJxC8rf8BfOgU4CWfcMNF_GZGQLEidk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=be844b20-fc60-43f5-a52a-6dd72ab6b8ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Гавриляк А.С.,",
+        "subject": "Організація виробництва",
+        "number": 1,
+        "urls": [
+            "https://zoom.us/j/9614862408?pwd=RTJYUFJIc0JNRlJSd1l4bU9TcG9Zdz09"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Загорецька О.Я.,",
+        "subject": "Економічний аналіз",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Кривцун І.М.,",
+        "subject": "Інвестування",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDcwYmM3OGUtMmIzMC00NTEzLTgwOGItODI4NmNkNTFiYmRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220f7ce80b-4ffc-46bd-90ec-8bb8f0b196a6%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Винничук Р.О.,",
+        "subject": "Управління персоналом",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09"
+        ]
+    }
+]

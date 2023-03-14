@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "МП-33,",
+        "subject": "Проектування робототехнічних систем, частина 1",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQkSke3bZkw3tP-MRJpghturyBCBaSrhoklRdAwnrlXs1%40thread.tacv2/1670486769525?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "МП-33,",
+        "subject": "Промислова робототехніка",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a01c98b03b02a43a0b0723a52d12fe6f4%40thread.tacv2/1670836970616?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "МП-33,",
+        "subject": "Системи автоматизованого розрахунку та проектування",
+        "number": 1,
+        "urls": []
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Релігійний фактор у міжнародних відносинах",
+        "lecturer": "МВМВ-11, МВМВ-12, 313 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9709252327?pwd=VmFHaVBSZGpNbWlqUGxaY3pJVThTQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Релігійний фактор у міжнародних відносинах",
+        "lecturer": "МВМВ-11, МВМВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9709252327?pwd=VmFHaVBSZGpNbWlqUGxaY3pJVThTQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    }
+]

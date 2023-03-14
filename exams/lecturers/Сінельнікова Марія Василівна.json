@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "МЕ-21, МЕ-22, МЕ-23, МЕ-24,",
+        "subject": "Філософія",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/88923979936?pwd=c1d1WGtja2p6RFNrTUhmRTJ6KzNPZz09"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "МЕ-25, МЕ-26, МЕ-27,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/84472119808?pwd=TW9sdUREODBkWTlKcjFKTk95bFRjQT09"
+        ]
+    },
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "МК-21, МК-22, МК-23, МК-24, МК-25,",
+        "subject": "Філософія",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/85085740493?pwd=VEhWSmNzVktoOUJJd280bGYrakRzUT09"
+        ]
+    }
+]

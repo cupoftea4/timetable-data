@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Максимович С.Б.,",
+        "subject": "Будівельні конструкції",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/6345292497?pwd=NW9aSnRpZ3F6VXJkVnNVa2JYWU5kZz09"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Собко Ю.М.,",
+        "subject": "Комп`ютерні технології в будівництві та експлуатації автомобільних доріг",
+        "number": 1,
+        "urls": [
+            " "
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Топилко Н.І.,",
+        "subject": "Грунтознавство та механіка грунтів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6854610820?pwd=UXY5SVBvdWNldnRlKzhaSnhxL3A3QT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Соболь Х.С.,",
+        "subject": "Дорожньо-будівельні матеріали",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzZkNjcyM2UtNzE0Yy00ZGFmLWFmMjUtMWUzZDQxNWIyNDk4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Бутринський І.З.,",
+        "subject": "Будівельна механіка (спецкурс)",
+        "number": 1,
+        "urls": []
+    }
+]

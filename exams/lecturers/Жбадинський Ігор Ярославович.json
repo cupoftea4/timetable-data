@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "БД-31f,",
+        "subject": "Основи теорії пружності, пластичності та повзучості",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNOIDRjExeVhTCl-eBlWRlTAUrNg6VZVUVHhJk3Ip3fY1%40thread.tacv2/conversations?groupId=57f28feb-0d1e-4280-a93f-e47045af7dd4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "БД-31, БД-32,",
+        "subject": "Основи теорії пружності, пластичності та повзучості",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMcsQFV4Gy6fIr78jGIt5PK-8GrpPUpwUcxtbq6j7wYA1%40thread.tacv2/conversations?groupId=a9a75cb1-8059-4baa-afbd-eb502c979db2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "БД-29,",
+        "subject": "Основи теорії пружності, пластичності та повзучості",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3amzthT_g9oc52aGXmeY-JO2OepqJNP1347wnXEH7a_i41%40thread.tacv2/conversations?groupId=18581f70-4d09-49b6-8465-fb83c6a31fb7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "БД-37,",
+        "subject": "Основи теорії пружності, пластичності та повзучості",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3axH6qZAQjuM6Fpn-3Rw1Io_KRvo1YnkipVOE-mG4awGw1%40thread.tacv2/conversations?groupId=d66b4f2e-f2a1-4127-a1f9-99cd81af7cf9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

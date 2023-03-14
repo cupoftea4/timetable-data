@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "БД-23, БД-24,",
+        "subject": "Інженерна геологія і основи механіки грунтів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6854610820?pwd=UXY5SVBvdWNldnRlKzhaSnhxL3A3QT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "БД-36,",
+        "subject": "Грунтознавство та механіка грунтів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6854610820?pwd=UXY5SVBvdWNldnRlKzhaSnhxL3A3QT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "БД-21, БД-22,",
+        "subject": "Інженерна геологія і основи механіки грунтів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6854610820?pwd=UXY5SVBvdWNldnRlKzhaSnhxL3A3QT09"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "БД-11сп, 213 II н.к.,",
+        "subject": "Інженерна геологія і основи механіки грунтів",
+        "number": 2,
+        "urls": []
+    }
+]

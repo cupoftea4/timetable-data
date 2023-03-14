@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Автоматизація проектування мікросистем",
+        "lecturer": "КН-309, 318 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/6304733771?pwd=SEpzVHRHM1QzT1FLQ05uek9sR1Npdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація проектування мікросистем",
+        "lecturer": "КН-309, 318 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/6304733771?pwd=SEpzVHRHM1QzT1FLQ05uek9sR1Npdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація проектування мікросистем",
+        "lecturer": "КН-311, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/6304733771?pwd=SEpzVHRHM1QzT1FLQ05uek9sR1Npdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація проектування мікросистем",
+        "lecturer": "КН-311, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/6304733771?pwd=SEpzVHRHM1QzT1FLQ05uek9sR1Npdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

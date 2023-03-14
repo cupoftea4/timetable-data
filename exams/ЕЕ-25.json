@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Яцейко А.Я.,",
+        "subject": "Електрична частина станцій та підстанцій",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a_TGp3yutQMHDWXxWi4MW2gxqUwiMCEEkK5Cj7lR_Tjk1%40thread.tacv2/conversations?groupId=0cd41346-4493-4174-911a-c1342ac0cc7b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Федів Є.І.,",
+        "subject": "Електротехнічні системи електроспоживання",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Цяпа В.Б.,",
+        "subject": "Теорія автоматичного керування",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Головач І.Р.,",
+        "subject": "Теорія електропривода",
+        "number": 2,
+        "urls": []
+    }
+]

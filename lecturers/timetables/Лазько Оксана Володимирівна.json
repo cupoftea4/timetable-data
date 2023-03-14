@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Метрологія та стандартизація",
+        "lecturer": "АН-21, 109 XI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/pzr-xyrd-zzv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

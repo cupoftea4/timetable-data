@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Стрихалюк Б.М.,",
+        "subject": "Системи попередження зіткнень та метеоспостережень, частина 2",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3amY98_9iaN93yuOp1Oq5nvDyjpLF6YNfDyUk3zEhwSeY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6547dd09-8a47-4646-b415-37f2308f3acf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Заячук Д.М.,",
+        "subject": "Авіаційні комп`ютерно- інтегровані комплекси",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aqtMFWfzzXC2dHCTKbxMOZbaTgaQp7FvfyI1jAkmBl1I1%40thread.tacv2/conversations?groupId=c50b31d8-d8c5-4277-9ce7-ba267518e13d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Павлиш В.А.,",
+        "subject": "Основи інформаційних технологій і систем, частина 1",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a56M_lTOfSqxFZ7zywZsb2lPOPFj6Lg7sV7gzlMbJg4w1%40thread.tacv2/conversations?groupId=28adf41c-83dd-4d2b-b030-a83077354faa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

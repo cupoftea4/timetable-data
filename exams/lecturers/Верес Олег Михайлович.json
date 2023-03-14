@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "СА-41, СА-42,",
+        "subject": "Теорія прийняття рішень",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/99725924137?pwd=UlBiM0pEZjRLV3JjNTZMZVlFeTVOdz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20997%202592%204137%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%2012345"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "СААД-11, САМ-11,",
+        "subject": "Технології підтримки процесів прийняття рішень",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/95663784778?pwd=VGJTWG9GQUR2YWEzaVR4UXl0NmFQZz09%20%20Meeting%20ID:%20956%206378%204778%20%20Passcode:%2012345"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "САСМ-11, САСМ-12,",
+        "subject": "Технології підтримки процесів прийняття рішень",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/95663784778?pwd=VGJTWG9GQUR2YWEzaVR4UXl0NmFQZz09%20%20Meeting%20ID:%20956%206378%204778%20%20Passcode:%2012345"
+        ]
+    }
+]

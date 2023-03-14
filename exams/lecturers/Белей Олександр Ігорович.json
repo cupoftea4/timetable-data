@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "КН-208, КН-209, КН-210,",
+        "subject": "Операційні системи",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75812452253?pwd=Zp0eCfaUEzIIpYNv92ZoTgoQaJKNi8.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "КН-211, КН-212, КН-213,",
+        "subject": "Операційні системи",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/75812452253?pwd=Zp0eCfaUEzIIpYNv92ZoTgoQaJKNi8.1"
+        ]
+    }
+]

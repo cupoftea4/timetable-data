@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Комп`ютерні технології лінгвістичних досліджень",
+        "lecturer": "ТЛД-ПЛ-402, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/djh-ffdc-eto"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні технології лінгвістичних досліджень",
+        "lecturer": "ТЛД-ПЛ-401, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/uiv-swoi-cfv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерні технології лінгвістичних досліджень",
+        "lecturer": "ТЛД-ПЛ-401, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/uiv-swoi-cfv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Формальні моделі опису лексики та граматики",
+        "lecturer": "ФЛПЛ-12, 132 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/iho-urfb-xgu"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Формальні моделі опису лексики та граматики",
+        "lecturer": "ФЛПЛ-12, 132 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/iho-urfb-xgu"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні технології лінгвістичних досліджень",
+        "lecturer": "ТЛД-ПЛ-403, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/cyb-gddc-ffq"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерні технології лінгвістичних досліджень",
+        "lecturer": "ТЛД-ПЛ-402, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/djh-ffdc-eto"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

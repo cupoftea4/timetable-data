@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Лукашевська У.Т.,",
+        "subject": "Моніторинг і оцінювання соціальних програм і проектів",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/77151604369?pwd=ELkZSveOS6C5oKN34UTeloqHBYbbfa.1"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Лукашевська У.Т.,",
+        "subject": "Технології соціального забезпечення",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/74808034673?pwd=h7blMo4InNjGOKra81ZbyuICCxLAO6.1"
+        ]
+    },
+    {
+        "date": "2022-12-07T00:00:00.000Z",
+        "lecturer": "Школяр М.В.,",
+        "subject": "Експертиза якості соціальних змін",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9c0dbfb7314b42a18c83ddd23b82913b%40thread.tacv2/1668951554279?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Климанська Л.Д., Яцишин У.В.,",
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09",
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ]
+    }
+]

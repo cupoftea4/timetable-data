@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "МБ-42,",
+        "subject": "Розрахунок і проектування машин, частина 2",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayWm2lsvK5p2rINwRPod9S-wbkBZW0DwauHiomHQfVlE1%40thread.tacv2/conversations?groupId=702dbafe-15e8-4805-bf13-1396318ddf7c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "МБКГ-11,",
+        "subject": "Проектування кузовів та їх систем",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3dBqzIQtckESMzJdNPO0eMuyjUmbmDctqZh8l5BYwz41%40thread.tacv2/conversations?groupId=7c8edc3f-17c0-4632-a09c-3610d7e018df&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "МБКІ-11, МБКІ-12,",
+        "subject": "Комп`ютерно-інтегрований інжиніринг в експериментальній в механіці",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYpYjNt_poNEgNptKHWYkOeqbujCxD6wgJ3EafYK8Cus1%40thread.tacv2/conversations?groupId=bcde2247-8e16-42ab-9bfd-e6dbf3e34bde&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

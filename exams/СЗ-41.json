@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Школяр М.В.,",
+        "subject": "Експертиза якості соціальних змін",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9c0dbfb7314b42a18c83ddd23b82913b%40thread.tacv2/1668951628600?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Школяр М.В.,",
+        "subject": "Запобігання конфліктів та професійна етика",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7a9d75792ede4a7bb075539b56661a64%40thread.tacv2/1668951690793?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Школяр М.В.,",
+        "subject": "Робота в громадах",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9ceb0544e9e74689aa9c1b4bf902a25d%40thread.tacv2/1668951471799?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Шаповалова Т.В.,",
+        "subject": "Методи нарахування соціальних виплат",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Яцишин У.В.,",
+        "subject": "Маркетинг соціального забезпечення",
+        "number": 5,
+        "urls": []
+    }
+]

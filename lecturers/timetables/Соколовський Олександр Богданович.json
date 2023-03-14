@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Міжнародні організації",
+        "lecturer": "МІ-11, 111 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2070017266?pwd=YzExVTRHZjA5ellZNjk3MHN0OGFKQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

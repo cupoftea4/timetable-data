@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Регіональна та транскордонна співпраця Західноукраїнського регіону",
+        "lecturer": "МВ-46, МВ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4462867697?pwd=eEViRkNyT2VWSHVINCtTY0QyLzg0dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Регіональна та транскордонна співпраця Західноукраїнського регіону",
+        "lecturer": "МВ-41, МВ-42, МВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4462867697?pwd=eEViRkNyT2VWSHVINCtTY0QyLzg0dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Регіональна та транскордонна співпраця Західноукраїнського регіону",
+        "lecturer": "МВ-46, МВ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4462867697?pwd=eEViRkNyT2VWSHVINCtTY0QyLzg0dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Регіональна та транскордонна співпраця Західноукраїнського регіону",
+        "lecturer": "МВ-41, МВ-42, МВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4462867697?pwd=eEViRkNyT2VWSHVINCtTY0QyLzg0dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

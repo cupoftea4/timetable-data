@@ -1,0 +1,52 @@
+[
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Пахолок Б.Б.,",
+        "subject": "Теорія ймовірності, ймовірнісні процеси та математична статистика",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a40d32462baba4f11b34fe6d69691bebd%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=85f083f3-876d-4fd5-902e-e9bc6e3b5d59&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "Сидорчук О.В.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/76199101370?pwd=cXlURzJMUmU2aEhDRXMxNEd3NHdNQT09%20%20i%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84i%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD:%20761%209910%201370%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%207jDtYm"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Крайник Л.Б.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/88240338209?pwd=bTdoT0JoR1NOdkxBNzZ0M2VVcG1xZz09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Антонів В.Я., Дорошенко А.В.,",
+        "subject": "Організація баз даних та знань",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77906173027?pwd=FXhLnTSfhbTXS5eCxAa7TWHodVdVMk.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Зербіно Д.Д.,",
+        "subject": "Операційні системи",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Скорохода О.В.,",
+        "subject": "Прикладне програмування",
+        "number": 2,
+        "urls": []
+    }
+]

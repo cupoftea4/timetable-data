@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Бліхар М.М.,",
+        "subject": "Фінансове право",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/79426405016?pwd=1mewyFZegkd5uQxrsKRf6VkYlNtZIl.1"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Ромців О.І.,",
+        "subject": "Конституційний процес",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75430757918?pwd=08WwkpSvdKDjkXsMjYQtZbvarU2YwW.1"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Чистоклетов Л.Г.,",
+        "subject": "Адміністративний процес",
+        "number": 1,
+        "urls": [
+            "https://meet.google. com/snu-hzpi-rxx?authuser=0 "
+        ]
+    },
+    {
+        "date": "2022-12-17T00:00:00.000Z",
+        "lecturer": "Комарницька І.І.,",
+        "subject": "Цивільне право , частина 2",
+        "number": 1,
+        "urls": [
+            "https://zoom.us/j/9649089415?pwd=dlNOT1V4eHZFaWw2Z3JXN1BiZDROQT09"
+        ]
+    }
+]

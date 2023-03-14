@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Петренко Ю.В.,",
+        "subject": "Архітектура виробничих будівель і споруд",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Кущенко В.М.,",
+        "subject": "Будівельні конструкції",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Шиндер В.К.,",
+        "subject": "Будівельна механіка (спецкурс)",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aqEcADDhr9Ddb1Q0WB7HziALzIlQFLtoxoyH5f0hvvok1%40thread.tacv2/1669814800508?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Жбадинський І.Я.,",
+        "subject": "Основи теорії пружності, пластичності та повзучості",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3amzthT_g9oc52aGXmeY-JO2OepqJNP1347wnXEH7a_i41%40thread.tacv2/conversations?groupId=18581f70-4d09-49b6-8465-fb83c6a31fb7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

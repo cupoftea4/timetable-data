@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "Ільчук П.Г., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09%20%20Meeting%20ID:%20847%207223%208548%20Passcode:%201"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "Ільчук П.Г., 4 V н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

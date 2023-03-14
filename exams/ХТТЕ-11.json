@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Таранський І.П.,",
+        "subject": "Менеджмент у виробництві",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/5281221496?pwd=alNTT3NCOWo2bldwbG5tUE9aN25jQT09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Слюзар А.В.,",
+        "subject": "Технологія,  обладнання і проектування електрохімічних виробництв",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/81069155810?pwd=UjFCb2tRRm84QmFMczRQclUyUFFuZz09"
+        ]
+    }
+]

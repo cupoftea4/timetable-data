@@ -1,0 +1,54 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "ТТ-41, ТТ-42,",
+        "subject": "Інформаційні системи",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5Sael5S2zBUe8MrNlfvxlHrDD5XoGU_PQEjlG0TfuPM1%40thread.tacv2/1669760467775?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "ТТ-34,",
+        "subject": "Екологічні характеристики схем організації дорожнього руху",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aqXI9LNRhLbVMSEqL_KxEEj76x9SsN2yqsU_stLOkioA1%40thread.tacv2/1669760575509?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ТТ-43,",
+        "subject": "Екологічні характеристики схем організації дорожнього руху",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag0OdfJUmLk_MwKKdw9RtZcE9SXdEkEBfQT4kEPb_EZw1%40thread.tacv2/1669760738632?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "ТТ-43,",
+        "subject": "Інформаційні технології",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag0OdfJUmLk_MwKKdw9RtZcE9SXdEkEBfQT4kEPb_EZw1%40thread.tacv2/1669760822395?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ТТ-34,",
+        "subject": "Інформаційні технології",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aqXI9LNRhLbVMSEqL_KxEEj76x9SsN2yqsU_stLOkioA1%40thread.tacv2/1669760877199?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ТТ-11сп, 206 VI н.к.,",
+        "subject": "Транспортна географія",
+        "number": 1,
+        "urls": []
+    }
+]

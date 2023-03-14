@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Теплообмінні апарати атомних електричних станцій",
+        "lecturer": "АЕ-41, 213 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76542044200?pwd=iPp6gAIKR2kaOHdapJVoMeUTJAU0IU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Теплообмінні апарати атомних електричних станцій",
+        "lecturer": "АЕ-41, 209 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79254823979?pwd=8AJ538YThcAoUFagv0cp3avxML2wuL.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Теплообмінні апарати атомних електричних станцій",
+        "lecturer": "АЕ-41, 209 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76542044200?pwd=iPp6gAIKR2kaOHdapJVoMeUTJAU0IU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теплообмінні апарати атомних електричних станцій",
+        "lecturer": "АЕ-41, 209 X н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77779085909?pwd=rrZcyvwfNZiQFbey4FbsWnCoU0kLLM.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

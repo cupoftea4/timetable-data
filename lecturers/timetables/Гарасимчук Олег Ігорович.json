@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "КБ-205, КБ-206, КБ-207, 202 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09%20%20Meeting%20ID:%20825%20296%203852%20Passcode:%20M0nvpH"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "КБ-205, КБ-206, КБ-207, 202 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09%20%20Meeting%20ID:%20825%20296%203852%20Passcode:%20M0nvpH"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "КБ-201, КБ-202, КБ-203, КБ-204, 208 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09%20%20Meeting%20ID:%20825%20296%203852%20Passcode:%20M0nvpH"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "КБ-201, КБ-202, КБ-203, КБ-204, 208 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8252963852?pwd=WlBBT1A3M0dqZTVVcHdGREExUERVUT09%20%20Meeting%20ID:%20825%20296%203852%20Passcode:%20M0nvpH"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

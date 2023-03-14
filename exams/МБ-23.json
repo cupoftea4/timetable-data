@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Боровець В.М.,",
+        "subject": "Металорізальні верстати",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3as1xA_OgkRV-vMN0k5Z28ijcXz3H_Kyr3JBWY767yYdA1%40thread.tacv2/conversations?groupId=0c524cc2-9a1a-4ffa-a5e4-6afb1ef009d1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Малащенко В.О.,",
+        "subject": "Деталі машин, частина 1",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Сліпчук А.М.,",
+        "subject": "Взаємозамінність, стандартизація та технічні вимірювання",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Лемішка І.А.,",
+        "subject": "Матеріалознавство та технологія конструкційних матеріалів",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Гурей І.В.,",
+        "subject": "Технологія машинобудування",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aW1M5LBTF5A8qN06oxMpMRgef96qKm_Lx3tnZ6-5DQwk1%40thread.tacv2/1669762160057?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d"
+        ]
+    }
+]

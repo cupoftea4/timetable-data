@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Технологія галузі",
+        "lecturer": "ХР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2275088298?pwd=aXVuWMMivXUR223JxR1A2Xwt1Hp6DG.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технологія галузі",
+        "lecturer": "ХР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2275088298?pwd=aXVuWMMivXUR223JxR1A2Xwt1Hp6DG.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія галузі",
+        "lecturer": "ХР-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2275088298?pwd=aXVuWMMivXUR223JxR1A2Xwt1Hp6DG.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія галузі",
+        "lecturer": "ХР-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2275088298?pwd=aXVuWMMivXUR223JxR1A2Xwt1Hp6DG.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

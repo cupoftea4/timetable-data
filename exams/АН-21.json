@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Ліске О.М.,",
+        "subject": "Основи комп`ютерної графіки в авіоніці",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Балацька Л.П.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://join.skype.com/zFNcGgbc80pj"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Веселовська О.В.,",
+        "subject": "Вища математика, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71828547222?pwd=RDNwSGl2cDZXMHRwQ0VWUy9YSFhFQT09"
+        ]
+    }
+]

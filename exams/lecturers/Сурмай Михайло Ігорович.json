@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "БД-33, БД-34,",
+        "subject": "Будівельні кострукції будівель і споруд міського господарства",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "БДПЦ-11f,",
+        "subject": "Проектування основ і фундаментів",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09#success"
+        ]
+    }
+]

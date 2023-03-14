@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "ПЗ-34, ПЗ-35, ПЗ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/81021569735?pwd=L05TUS9XZVFvdzhoeVo1ZXljZ0tHdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Адміністрування баз даних",
+        "lecturer": "ПЗ-45, ПЗ-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/86481608820?pwd=enRuQWNUYzdIZEtiVXhiOGJIa0lRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "ПЗ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/88313302881?pwd=Ti9qc3p5MUhLTE4yM3NJNjY3TVBRZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Хмарні обчислення",
+        "lecturer": "ПЗ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/88313302881?pwd=Ti9qc3p5MUhLTE4yM3NJNjY3TVBRZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    }
+]

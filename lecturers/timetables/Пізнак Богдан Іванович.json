@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Вентиляція",
+        "lecturer": "БД-39, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azMbYTH6ousmSY6SYim-b3dJtmerFVhANAPp4idAvEWE1%40thread.tacv2/1677835938045?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222be84bc-ca1c-46de-aec1-e0994585e482%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Вентиляція",
+        "lecturer": "БД-38, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a764tZajj3nCVu4_C3TUNFyT7DiQpEpI8eLvGrF0sdFE1%40thread.tacv2/1677835997219?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222be84bc-ca1c-46de-aec1-e0994585e482%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

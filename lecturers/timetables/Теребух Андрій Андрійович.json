@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Іміджелогія та PR у туризмі",
+        "lecturer": "ТУТД-11, ІPТ-ТУР-101, ІPТ-ТУР-102, 313 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72915833481?pwd=6b4wCj5WRxxHMww4kOzpSRCJ3irfFO.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    }
+]

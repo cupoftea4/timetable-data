@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Вербовський О.В.,",
+        "subject": "Раціональне використання та охорона водних ресурсів",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Гнатів Р.М.,",
+        "subject": "Керування річищними процесами",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/6346871885?pwd=WmdMeDZ5dVY4ZEdybW9zTUg1MGZxQT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Піцишин Б.С.,",
+        "subject": "Водовідвідні мережі та споруди",
+        "number": 4,
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Іванейко І.Д.,",
+        "subject": "Технологія та організація будівельних робіт",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/86187060927?pwd=dnEzQ1Bqd1pqWXF0U1FHOE14NFRWdz09"
+        ]
+    }
+]

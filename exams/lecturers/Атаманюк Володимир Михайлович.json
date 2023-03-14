@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-10-28T00:00:00.000Z",
+        "lecturer": "ХТМ-25,",
+        "subject": "Спецкурс з наукових досліджень спеціальності",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "ХТ-47,",
+        "subject": "Розрахунок і конструювання машин та апаратів хімічної технології, частина 1",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZiYmE4YTItMzU3ZC00NDIwLTkxZTUtNjMxMTI3YzdhNTdh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf90e14e-25bf-4271-9e71-c44c35ee7d8d%22%7d"
+        ]
+    }
+]

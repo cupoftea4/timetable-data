@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Гавриляк А.С.,",
+        "subject": "Економіка і управління будівництвом",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/9614862408?pwd=RTJYUFJIc0JNRlJSd1l4bU9TcG9Zdz09"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Желих В.М.,",
+        "subject": "Нетрадиційні джерела енергії",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a83ea1c4ad2c044aabbd77fe6d0486b75%40thread.tacv2/1676626605247?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229f0e9621-e256-4c6b-b49e-b194ec1de7f0%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Желих В.М.,",
+        "subject": "Проектування систем вентиляції",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7dd7e7c9b95e47088d56fad5285a3647%40thread.tacv2/1676627304905?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229f0e9621-e256-4c6b-b49e-b194ec1de7f0%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Юркевич Ю.С.,",
+        "subject": "Промислові технології та очистка вентиляційно-технологічних викидів",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayQIpx_SpuM95QDNwm_B-v9TBLf_o3A1_XMFCvm_Co581%40thread.tacv2/conversations?groupId=2ce85528-4feb-46a8-9f3d-7eb25bbef73e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Юркевич Ю.С.,",
+        "subject": "Проектування систем теплопостачання",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXX3HFoq554zzNXuwMpjOB1G4RRezB4aT2gG-5CqhHSA1%40thread.tacv2/conversations?groupId=960ea451-ed21-464f-adeb-263d5922ccbc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

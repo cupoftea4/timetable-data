@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "АР-23, АР-24, АР-25,",
+        "subject": "Основи теорії споруд",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aex7kJz8-wQUQREj8HqP0K3y5QBhzE6EFZpTcLq1PdLo1%40thread.tacv2/1669813676166?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "АР-21, АР-22, АР-29,",
+        "subject": "Основи теорії споруд",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aRu17lV_TRYNaYEV8d55VAyCFhPnPZ3XJ5dp8RR3y_Yc1%40thread.tacv2/1669814037198?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "АР-26, АР-27, АР-28,",
+        "subject": "Основи теорії споруд",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3agf33CXJpDiQmrSul4FMxnifaBf7oJSV1paeA5B-Ewno1%40thread.tacv2/1669814242643?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "БД-29,",
+        "subject": "Будівельна механіка (спецкурс)",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aqEcADDhr9Ddb1Q0WB7HziALzIlQFLtoxoyH5f0hvvok1%40thread.tacv2/1669814800508?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22aa757a2f-7f39-4b6d-a15d-a1ca490019e6%22%7d"
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Довбуш О.М.,",
+        "subject": "Теплогазопостачання та вентиляція",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak7rAKQziXEb2PeBnaBp2R5jYsW2IGs2j88LMifJB-w41%40thread.tacv2/conversations?groupId=3aaa3199-128d-4b88-a358-d7e7d8e7b1db&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Стасюк Б.М.,",
+        "subject": "Опір матеріалів",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Маргаль І.В.,",
+        "subject": "Будівельна техніка",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Паньків О.В.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76187265077?pwd=JuNdfMODpdbNGPq02Xrm35LL5LHe1Q.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Петровська Н.І., Турба Ю.В.,",
+        "subject": "Інженерна геологія і основи механіки грунтів",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/82915855351?pwd=VHYwakw1OVZQbTdsNEt5RTRJa3NGUT09"
+        ]
+    }
+]

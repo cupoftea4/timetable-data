@@ -1,0 +1,144 @@
+[
+    {
+        "subject": "Англійська технічна мова",
+        "lecturer": "ІТ-21, 134 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Англійська технічна мова",
+        "lecturer": "ІТ-21, 134 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "ФЛ-42, 132 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/vbq-typq-ngu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "ФЛ-41, 132 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/oyp-fsid-jog"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "ФЛ-41, 132 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/mgv-cwbn-raa"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "ФЛ-43, 132 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ikz-jrey-rzc"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "ФЛ-43, 132 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ijw-abmw-ncd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Корпусна лінгвістика",
+        "lecturer": "ФЛ-42, 132 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/pbh-cxij-dfk"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ПЗ-18, 225 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ПЗ-18, 225 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    }
+]

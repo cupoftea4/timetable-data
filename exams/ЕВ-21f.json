@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Тивончук О.І.,",
+        "subject": "Бухгалтерський облік",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/78166246801?pwd=qpUeGHPS3fUauxPdZpriRbbb0uZMGD.1"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Кіржецька М.С.,",
+        "subject": "Економіка підприємства",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Фігун Н.В.,",
+        "subject": "Маркетинг",
+        "number": 5,
+        "urls": [
+            "https://us05web.zoom.us/j/84911201929?pwd=Y1lJVUlXbld6d0JGZUdXQkNoSVUrZz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Дорошкевич К.О.,",
+        "subject": "Міжнародна економіка",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19:WDt0_KqhYBqH2fFadaPEecqRc0ip_-Ohp4mMnHz4vdY1@thread.tacv2/%D0%9E%D0%B1%D1%89%D0%B8%D0%B5?groupId=e3831220-6a2b-4883-adcc-409c3c2983c3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

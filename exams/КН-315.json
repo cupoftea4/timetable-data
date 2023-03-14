@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Засоба Є.О.,",
+        "subject": "Основи штучного інтелекту",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Яковина В.С.,",
+        "subject": "Технології захисту інформації",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac6da2100b4184dd0805aa33a4b2eda11%40thread.tacv2/1668596530302?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2269749394-701f-41f1-aa81-a6acc2d4246f%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Маркелов О.Е.,",
+        "subject": "Людино-машинна взаємодія",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/kbx-aqxs-ott"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Михайлишин В.Ю.,",
+        "subject": "Проектування інформаційних систем",
+        "number": 2,
+        "urls": []
+    }
+]

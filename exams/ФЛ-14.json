@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Захарчук М.Є.,",
+        "subject": "Англійська мова за професійним спрямуванням",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Банах В.М., 218 I н.к.,",
+        "subject": "Історія державності та культури України",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Левченко О.П., 117 IV н.к.,",
+        "subject": "Основи прикладної лінгвістики",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Шестакевич Т.В., 217 I н.к.,",
+        "subject": "Основи комп`ютерних лінгвотехнологій",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-10T00:00:00.000Z",
+        "lecturer": "Нитребич З.М., 218 I н.к.,",
+        "subject": "Алгебра та аналіз",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3advy7pfgSs6u47JK9pSX_46ltaGeLRLGoXbnXduRGE0A1%40thread.tacv2/conversations?groupId=44357b84-793d-49b1-9d1f-ddc0e914ee5c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

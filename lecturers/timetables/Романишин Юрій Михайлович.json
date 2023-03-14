@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Методи обробки цифрової інформації в сучасних системах авіоніки, частина 2",
+        "lecturer": "АН-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3awRJxrPXz__pXP39hlndUlWVKhwl8Mo7ar3WuGvXndEg1%40thread.tacv2/General?groupId=f27004f0-6e5c-4ace-bb65-c06469541dcf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи обробки цифрової інформації в сучасних системах авіоніки, частина 2",
+        "lecturer": "АН-41, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3awRJxrPXz__pXP39hlndUlWVKhwl8Mo7ar3WuGvXndEg1%40thread.tacv2/General?groupId=f27004f0-6e5c-4ace-bb65-c06469541dcf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи обробки цифрової інформації в сучасних системах авіоніки, частина 2",
+        "lecturer": "АН-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aj4UA1h2Zny0eAPyqZAWE_2bQmTPjThe1jcAC1g0Dxs81%40thread.tacv2/General?groupId=5c8039bd-bb94-4b74-96ac-fd7fabb931cd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Математичне моделювання та прогнозування експерименту",
+        "lecturer": "ТРа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_wnU9iPjd2u6WU4V6oekfmZvGgejVgIExbQ8j598a481%40thread.tacv2/General?groupId=c05970ed-ac4a-466e-8f48-5b0acaed9718&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичне моделювання та прогнозування експерименту",
+        "lecturer": "ТРа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aPzxJqKIAgr6Z7eMqv8biUgelOCx5fIQZ-eI8WvwOEFM1%40thread.tacv2/General?groupId=c80df704-ce2b-42b4-ab77-b96947a95e24&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

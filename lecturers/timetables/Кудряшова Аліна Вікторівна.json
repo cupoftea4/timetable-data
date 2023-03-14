@@ -1,0 +1,88 @@
+[
+    {
+        "subject": "Сімейне консультування",
+        "lecturer": "ПС-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/85321398824?pwd=SkJtcDE1aW1nMm5VTW51cnhxdWVQUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Сімейне консультування",
+        "lecturer": "ПС-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/85321398824?pwd=SkJtcDE1aW1nMm5VTW51cnhxdWVQUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Сімейне консультування",
+        "lecturer": "ПС-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/86029700247?pwd=L2FyVWQ1RUN0dVpNRmFQWHBHOHExdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Сімейне консультування",
+        "lecturer": "ПС-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/86029700247?pwd=L2FyVWQ1RUN0dVpNRmFQWHBHOHExdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Сімейна психотерапія",
+        "lecturer": "ПСПС-12, 116 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сімейна психотерапія",
+        "lecturer": "ПСПС-11, 116 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

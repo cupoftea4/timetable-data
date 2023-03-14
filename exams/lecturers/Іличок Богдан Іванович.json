@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "УАі-21,",
+        "subject": "Публічне адміністрування",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a955bbb57344043789e0385df0268abd2%40thread.tacv2/conversations?groupId=be2749ec-4573-45fd-a46e-0475c2d2ac28&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ФБ-11, ФБ-12, 210 IV н.к.,",
+        "subject": "Макроекономіка",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "ЕБ-11, ЕБ-12, 206 IV н.к.,",
+        "subject": "Макроекономіка",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "МК-15, 206 IV н.к.,",
+        "subject": "Макроекономіка",
+        "number": 2,
+        "urls": []
+    }
+]

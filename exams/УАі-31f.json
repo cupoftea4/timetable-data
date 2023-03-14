@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Мартинюк В.П.,",
+        "subject": "Національна безпека",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Химич О.В.,",
+        "subject": "Прогнозування і макроекономічне планування",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/4929862551?pwd=U0EzU1ZhWm5INURVVVlEUTNVQVQwQT09"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Дорош І.М.,",
+        "subject": "Фінансовий менеджмент і аналіз неприбуткових організацій",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/5014200537?pwd=R095dzRtNXBOUXoyTjViWXd6TVpQZz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Блинда Ю.О.,",
+        "subject": "Контролінг",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9805345511?pwd=QUJpTkY3YVhBR3gwWUlHUnBNWHY1dz09"
+        ]
+    }
+]

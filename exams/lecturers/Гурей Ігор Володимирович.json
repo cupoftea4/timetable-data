@@ -1,0 +1,54 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "МП-41,",
+        "subject": "Проектування та технологія виготовлення металорізальних інструментів, частина 2",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aKitaWALXATWa56nI5FdZrzqNoJfgPdSmN_QSjhEaZw81%40thread.tacv2/1669760911358?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "МП-41f,",
+        "subject": "Проектування та технологія виготовлення металорізальних інструментів, частина 2",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3anqv2hFkW0pzgB7M9XNH8Fnhqzc74wY6qnatpICHn5C41%40thread.tacv2/1669761272224?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "МП-31, МП-32,",
+        "subject": "Технологія машинобудування",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3arrH7h81QAAOcdjVhIyRQgPpJWXJ55JB-An1TzIz1Akg1%40thread.tacv2/1669761778776?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "МБ-31, МБ-32,",
+        "subject": "Технологія машинобудування",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3arrH7h81QAAOcdjVhIyRQgPpJWXJ55JB-An1TzIz1Akg1%40thread.tacv2/1669761964047?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "МБ-23,",
+        "subject": "Технологія машинобудування",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aW1M5LBTF5A8qN06oxMpMRgef96qKm_Lx3tnZ6-5DQwk1%40thread.tacv2/1669762160057?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22351cc3cb-cbb4-4578-9c3b-3fddfcf8cede%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "МПТМ-11,",
+        "subject": "Інструментальне забезпечення автоматизованого виробництва",
+        "number": 2,
+        "urls": []
+    }
+]

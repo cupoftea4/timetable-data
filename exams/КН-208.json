@@ -1,0 +1,54 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "Висоцька Р.Р.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us06web.zoom.us/j/6174554655?pwd=dExjdFhUNEJ4cVRYUkJwSjdjUzIydz09"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Вільховченко Н.П.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/96020063755?pwd=NUZJeDFlaHNQcHhla2kyNGVJK2MzUT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Белей О.І., Нестор Н.І., Плесканка Н.М.,",
+        "subject": "Операційні системи",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75812452253?pwd=Zp0eCfaUEzIIpYNv92ZoTgoQaJKNi8.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Станкевич О.М.,",
+        "subject": "Організація баз даних та знань",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3504071411?pwd=bDBVRGN1Tkc0K2RkWTF6emR6cEQ0UT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Обшта А.Ф.,",
+        "subject": "Теорія ймовірності, ймовірнісні процеси та математична статистика",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Оборська О.В.,",
+        "subject": "Прикладне програмування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78340347026?pwd=luRkMw7jAhqr75esd9eCtbe32xnZ6D.1"
+        ]
+    }
+]

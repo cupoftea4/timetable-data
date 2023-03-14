@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "ІТПА-11,",
+        "subject": "Технології проектування інформаційних систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79385872462?pwd=QCX6Wy2y2xxoCZb3PYhhbv5PAj9AcM.1"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "ІТУП-11, ІТУП-12, ІТУП-13,",
+        "subject": "Технології проектування інформаційних систем",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/79385872462?pwd=QCX6Wy2y2xxoCZb3PYhhbv5PAj9AcM.1"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "ІТІС-11, ІТІС-12, ІТМ-11,",
+        "subject": "Технології проектування інформаційних систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79385872462?pwd=QCX6Wy2y2xxoCZb3PYhhbv5PAj9AcM.1"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Нарисна геометрія та інженерна графіка",
+        "lecturer": "НГ-11, 104 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Нарисна геометрія",
+        "lecturer": "ТТ-11, ТТ-12, ТТ-13, ТТ-14, 205 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

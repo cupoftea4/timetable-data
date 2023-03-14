@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Аудит",
+        "lecturer": "ОП-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/89302691935?pwd=UGRyM2ZiSHc4NEpZYXVQRXlHTXNWUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Аудит",
+        "lecturer": "ОП-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/89302691935?pwd=UGRyM2ZiSHc4NEpZYXVQRXlHTXNWUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

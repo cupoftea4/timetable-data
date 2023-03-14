@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Файтас О.І.,",
+        "subject": "Управління ІТ-проектами",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/syg-hqac-srv?hs=122&authuser=2"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Кривий Р.З.,",
+        "subject": "Теорія прийняття рішень",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/vsz-mgdj-xve"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Стефанович Т.О.,",
+        "subject": "Методи ділових комунікацій",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/dez-cdyo-utv"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Панчак Р.Т.,",
+        "subject": "Адміністрування комп`ютерних систем проектування І",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/87328946089?pwd=Z09hRHpGbHl6VXhqQVpVZzdxZG1Udz09"
+        ]
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Мельник М.Р.,",
+        "subject": "Методи багатокритеріальної оптимізації",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/6304733771?pwd=SEpzVHRHM1QzT1FLQ05uek9sR1Npdz09"
+        ]
+    }
+]

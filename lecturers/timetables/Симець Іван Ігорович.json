@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "ПЗ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "ПЗ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "ПЗ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "ПЗ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "ПЗ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "ПЗ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78834990414?pwd=Od4g32KhSBwrounrvqAsMzZji6ZUsw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

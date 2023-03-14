@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Управління продажами в сфері послуг",
+        "lecturer": "МК-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72168293065?pwd=yajfXpZADWhHGVMNZnYUtgtKlfQ7rh.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління продажами в сфері інтернет-маркетингу",
+        "lecturer": "МК-31, МК-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78818452327?pwd=0ycbjKbnKRRTUx0ksT6BHUACBk5EAx.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління продажами товарів",
+        "lecturer": "МК-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72591439605?pwd=kI86BkQEfCblt47XAFEbjbrLtoOqlZ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "МЕ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78823401519?pwd=uRG4DjaHUYsGaAJD00GGY5UbY8h0wI.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "МЕ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75986875035?pwd=8jk8858Q9NtaQRyGWq4W1NaZWl8UbO.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "МЕ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75754865106?pwd=pZ4HrHGwrQxGHmHw4Sypb1TSqPBBm9.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Маркетингові дослідження",
+        "lecturer": "МЕ-38, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75404279015?pwd=yy8S2uDtWebWSRZFLT05BTbCFJfsVF.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління продажами в сфері інтернет-маркетингу",
+        "lecturer": "МК-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75045075254?pwd=MPCWLUBZFJihTdH2MB7EbRYOOctoq9.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Управління продажами в сфері інтернет-маркетингу",
+        "lecturer": "МК-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79876756968?pwd=Nd87YxZbSSZD7XKb51raL9VO7jAbUQ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Управління продажами товарів",
+        "lecturer": "МК-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77924835143?pwd=Qo0B5IcHr031OGz5ml1Jqh2ORvQyHD.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Управління продажами в сфері послуг",
+        "lecturer": "МК-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78022925466?pwd=PQKK1GVrPyzsv305N0qWFNKIJfOcLa.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Крамарчук А.П.,",
+        "subject": "Будівельні конструкції",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Жбадинський І.Я.,",
+        "subject": "Основи теорії пружності, пластичності та повзучості",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMcsQFV4Gy6fIr78jGIt5PK-8GrpPUpwUcxtbq6j7wYA1%40thread.tacv2/conversations?groupId=a9a75cb1-8059-4baa-afbd-eb502c979db2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Петренко Ю.В.,",
+        "subject": "Архітектура виробничих будівель і споруд",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Бутринський І.З.,",
+        "subject": "Будівельна механіка (спецкурс)",
+        "number": 1,
+        "urls": []
+    }
+]

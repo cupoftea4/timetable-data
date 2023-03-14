@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ТР-33, ТР-34,",
+        "subject": "Системи передавання інформації",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/ipb-yfjm-ekw?authuser=2&pli=1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ТР-31, ТР-32,",
+        "subject": "Системи передавання інформації",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/vjx-vduq-jbi?authuser=2&pli=1"
+        ]
+    }
+]

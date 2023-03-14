@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Лешко Д.Д.,",
+        "subject": "Психічна травма",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Лещинська О.А.,",
+        "subject": "Основи психологічного консультування",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTUxNTNkNDEtODlkZi00YjBlLWJjZTUtNTFlZWIwMGVhNjNh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd0b4eca-8e47-47ae-a509-fbdb7536dcd8%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Партико Н.В.,",
+        "subject": "Психологія  реклами",
+        "number": 1,
+        "urls": [
+            "http://zoom.us/j/7178940677?pwd=Vk5lcFBRNGIUek4yeGJZaXFIT2h3UT09"
+        ]
+    }
+]

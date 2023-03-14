@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Колінко Н.О.,",
+        "subject": "Глобальна економіка",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Бублик М.І.,",
+        "subject": "Економетрика у міжнародному бізнесі",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/6733046247?pwd=YVFHbFUxOTVzOEVYTE5JWm1xTEVrdz09"
+        ]
+    },
+    {
+        "date": "2023-02-27T00:00:00.000Z",
+        "lecturer": "Когут У.І.,",
+        "subject": "Міжнародний стратегічний менеджмент",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/86537230426?pwd=S1hUUlY5V0NXaGN1RmtvL0dDL2tFdz09"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Гурей Т.А., 206 VI н.к.,",
+        "subject": "Транспортна географія",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Постранський Т.М., 206 VI н.к.,",
+        "subject": "Загальний курс транспорту",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a16PuVKTSLZTHpJmlUBYRTca05x_qFb-dL9Rf5W2t1hw1%40thread.tacv2/conversations?groupId=f4defded-41d8-494c-928f-31738fd0871a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Афонін М.О., 206 VI н.к.,",
+        "subject": "Дослідження операцій у транспортних системах",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Гілевич В.В., 206 VI н.к.,",
+        "subject": "Основи безпеки руху",
+        "number": 1,
+        "urls": []
+    }
+]

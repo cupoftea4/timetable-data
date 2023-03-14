@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Кучер А.В.,",
+        "subject": "Операційний менеджмент",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Кучер А.В.,",
+        "subject": "Управління інноваційною діяльністю",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Григор'єв О.Ю.,",
+        "subject": "Технологія зовнішньоекономічних операцій",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3axk-s2KD6nd5kR2hMP1cLGQWDk5PSgP1qUZZFdi-254M1%40thread.tacv2/conversations?groupId=d6ac2382-b0ab-4091-a55b-ef8d5d68e258&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Гринів Н.Т.,",
+        "subject": "Транспортна логістика",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Гринкевич С.С.,",
+        "subject": "Міжнародна логістика",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73662151273?pwd=ym0SiNfHuVtRrHiUchdskIdCbZdtw4.1"
+        ]
+    }
+]

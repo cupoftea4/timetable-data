@@ -1,0 +1,200 @@
+[
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-34, ПВ-35, ПВ-36, ПВ-37, ПВ-38, ПВ-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/ocn-ukdn-pyy?authuser=5&pli=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-34, ПВ-35, ПВ-36, ПВ-39, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/drf-qwac-aob?authuser=5"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПВ-33, ПВ-37, ПВ-38, ",
+        "location": ", практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-34, ПВ-35, ПВ-36, ПВ-39, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/drf-qwac-aob?authuser=5"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПВ-33, ПВ-37, ПВ-38, ",
+        "location": ", практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-34, ПВ-35, ПВ-36, ПВ-37, ПВ-38, ПВ-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/drf-qwac-aob?authuser=5"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-34, ПВ-35, ПВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/urf-jbdh-gvc?authuser=5"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПВ-33, ПВ-37, ПВ-38, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-34, ПВ-35, ПВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/urf-jbdh-gvc?authuser=5"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПВ-33, ПВ-37, ПВ-38, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проблеми філософсько-правових наукових досліджень",
+        "lecturer": "ПВа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/sdv-zkwh-xdo?authuser=5"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПР-11, 302 XIX н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Правове забезпечення гендерної рівності",
+        "lecturer": "ПР-11, 302 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Проблеми філософсько-правових наукових досліджень",
+        "lecturer": "ПВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/esy-vuhb-thr?authuser=5"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

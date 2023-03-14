@@ -1,0 +1,71 @@
+[
+    {
+        "subject": "Зовнішня політика України",
+        "lecturer": "МВ-21, МВ-22, МВ-23, МВ-24, 225 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Зовнішня політика України",
+        "lecturer": "МІ-21, МІ-22, 511 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Зовнішньополітичні пріоритети України у сучасній системі міжнародних відносин",
+        "lecturer": "МВа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/99812762410?pwd=N25IWkJZRU53NDlnOGJBSVpYN0F5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Зовнішньополітичні пріоритети України у сучасній системі міжнародних відносин",
+        "lecturer": "МВа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/99812762410?pwd=N25IWkJZRU53NDlnOGJBSVpYN0F5QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Зовнішня політика України",
+        "lecturer": "МВ-21, МВ-22, МВ-23, МВ-24, 210 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "БД-47,",
+        "subject": "Теплогенеруючі установки",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aLkrlDlpMSk_P8_SWgI0Gujht9BEDkMQVOrsRkI_ak6Q1%40thread.tacv2/conversations?groupId=0b5e8446-bac9-4d3b-a4d4-669a428af69b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "БДТГ-11, БДТГ-12,",
+        "subject": "Проектування систем теплопостачання",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXX3HFoq554zzNXuwMpjOB1G4RRezB4aT2gG-5CqhHSA1%40thread.tacv2/conversations?groupId=960ea451-ed21-464f-adeb-263d5922ccbc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "БДТГ-11, БДТГ-12,",
+        "subject": "Промислові технології та очистка вентиляційно-технологічних викидів",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayQIpx_SpuM95QDNwm_B-v9TBLf_o3A1_XMFCvm_Co581%40thread.tacv2/conversations?groupId=2ce85528-4feb-46a8-9f3d-7eb25bbef73e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

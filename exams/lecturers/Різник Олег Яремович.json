@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "ВП-31, ВП-32,",
+        "subject": "Комп`ютерна графіка та відеографіка",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ]
+    },
+    {
+        "date": "2022-12-20T00:00:00.000Z",
+        "lecturer": "ВПа-11,",
+        "subject": "Методи аналізу і оптимізації складних систем",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ]
+    },
+    {
+        "date": "2022-12-23T00:00:00.000Z",
+        "lecturer": "ВПа-11,",
+        "subject": "Інформаційні технології цифрового опрацювання сигналів та зображень",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "КНУС-11, КНУС-12,",
+        "subject": "Інноваційні інформаційні технології",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "КНУС-13, КНУС-14,",
+        "subject": "Інноваційні інформаційні технології",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Кадикало А.М.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aa99b3acf55e6439d976f7c132e10bea5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4e4e63dc-f629-4388-bcc0-e0c65d31571e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Чубик Р.В.,",
+        "subject": "Схемотехніка",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aNk5lls9kRrrEDjUta5g6FroUGmZ2N_38gcIPuFA1qjU1%40thread.tacv2/1669101749945?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22303393d6-50d7-440d-a292-c44765f7b7ac%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Стахів М.Ю.,",
+        "subject": "Теорія інформації та кодування",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/76669823291?pwd=ymrhuqosSUiAawLPvTb7Q3oHzj14iI.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Березюк Б.М.,",
+        "subject": "Комп`ютерні мережі",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Нагачевська О.О.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/5419500628?pwd=MhsYXL174DsdrS4CWfvJoTlaGjhQxw.1"
+        ]
+    }
+]

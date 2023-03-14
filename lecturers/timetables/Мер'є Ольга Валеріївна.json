@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "ДС-13, 337 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:9LAZWWL8xQ8FviqQrntQ90yyozCjT5j4Su5kzY1bWPg1@thread.tacv2/1676100318837?groupId=ac7b7527-8918-40a5-a849-71e05dea1c39"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "ДС-13, 337 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:9LAZWWL8xQ8FviqQrntQ90yyozCjT5j4Su5kzY1bWPg1@thread.tacv2/1676100453946?groupId=ac7b7527-8918-40a5-a849-71e05dea1c39"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "ДС-14, 337 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:F5v8hmWFpQd939GXP41q17APJ21ROCU0KiM-NZQnhUk1@thread.tacv2/1676100595069?groupId=2ea589e5-dd09-4db1-b89d-9c77069ef563"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "ДС-14, 337 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:F5v8hmWFpQd939GXP41q17APJ21ROCU0KiM-NZQnhUk1@thread.tacv2/1676100726982?groupId=2ea589e5-dd09-4db1-b89d-9c77069ef563"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Типографіка і шрифти",
+        "lecturer": "ДС-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:zNG5h9JW3byhWUR3ycOzq-zDSIx-_bBzRcCEXyyYk_g1@thread.tacv2/1676100902448?groupId=52ba3e0f-b0de-48fb-acbf-f1d23c4c63ea"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Типографіка і шрифти",
+        "lecturer": "ДС-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:xXyzlIaRk8QcALHsrYpmYdNfflBGTrHBP7Rgdbdu8w01@thread.tacv2/1676101041377?groupId=905e8877-c05a-4864-9f6e-701a023f061c"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "ДС-14, 337 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:F5v8hmWFpQd939GXP41q17APJ21ROCU0KiM-NZQnhUk1@thread.tacv2/1676100726982?groupId=2ea589e5-dd09-4db1-b89d-9c77069ef563"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "ДС-13, 337 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:9LAZWWL8xQ8FviqQrntQ90yyozCjT5j4Su5kzY1bWPg1@thread.tacv2/1676101293568?groupId=ac7b7527-8918-40a5-a849-71e05dea1c39"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Типографіка і шрифти",
+        "lecturer": "ДС-31, ДС-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:11zaSJFiJD_focJMtBbpy4LKecpmnCUhxVilVyqvR581@thread.tacv2/1676101563562?groupId=d8047a8e-21bd-4023-986e-2608fc5d2f6c"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

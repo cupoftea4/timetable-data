@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Методи досліджень вогнестійкості будівельних конструкцій",
+        "lecturer": "ПБ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSuK46nhkYO1qJahgkBbZq5BGHTwnRHi7IYDHIIo7YiA1%40thread.tacv2/conversations?groupId=06d8afb7-582a-4cbc-b288-61b648d0c82a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Ефективність та впровадження результатів науково-дослідних розробок",
+        "lecturer": "БДа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aeiYYdJpa85fHvWtDcoMThfTh-tI_PoZChHKm6Hnqdv01%40thread.tacv2/conversations?groupId=a0126b5a-8178-40a2-8103-44beafb3a4e7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Ефективність та впровадження результатів науково-дослідних розробок",
+        "lecturer": "БДа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aeiYYdJpa85fHvWtDcoMThfTh-tI_PoZChHKm6Hnqdv01%40thread.tacv2/conversations?groupId=a0126b5a-8178-40a2-8103-44beafb3a4e7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "БД-41, БД-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7w0DE5ymWntinlnrdhmezovI11ECHy8vXaBS9HmXljc1%40thread.tacv2/conversations?groupId=a0e7dedd-6648-4307-8627-64d10c8ac560&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Будівлі та споруди та їх поведінка в умовах пожежі, частина 2",
+        "lecturer": "ПБ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDMQJ1vj02mHV9x3sgcYoBGLUnHq5Ce7fvtVBCpyL96w1%40thread.tacv2/conversations?groupId=106a1cac-4539-415c-9f35-fa4562cd7ea8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "БД-41, БД-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7w0DE5ymWntinlnrdhmezovI11ECHy8vXaBS9HmXljc1%40thread.tacv2/conversations?groupId=a0e7dedd-6648-4307-8627-64d10c8ac560&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Будівлі та споруди та їх поведінка в умовах пожежі, частина 2",
+        "lecturer": "ПБ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDMQJ1vj02mHV9x3sgcYoBGLUnHq5Ce7fvtVBCpyL96w1%40thread.tacv2/conversations?groupId=106a1cac-4539-415c-9f35-fa4562cd7ea8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

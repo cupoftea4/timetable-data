@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Петрушка А.І.,",
+        "subject": "Інформаційна аналітика в діяльності бібліотек та архівів",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/78682006640?pwd=UKeoT4QblSHPUm7IscxDQgiTzKAyed.1"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Думанський Н.О.,",
+        "subject": "Інтернет-технології опрацювання інформаційних ресурсів",
+        "number": 5,
+        "urls": [
+            "https://us05web.zoom.us/j/4441149040?pwd=TC9xczkvQVgzbjdNUEZRTWlSNEFhQT09"
+        ]
+    },
+    {
+        "date": "2023-02-25T00:00:00.000Z",
+        "lecturer": "Федушко С.С.,",
+        "subject": "Комп`ютерно-лінгвістичні сервіси наукових досліджень",
+        "number": 5,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77714424180?pwd%3Dj9Z8HN3EhdTItwcTKwGCjXXboaO72C.1&sa=D&source=calendar&usd=2&usg=AOvVaw2S9P4cqukSkqgMNWHEepFd"
+        ]
+    },
+    {
+        "date": "2023-02-28T00:00:00.000Z",
+        "lecturer": "Вовк Н.С.,",
+        "subject": "Технології управлінського документообігу",
+        "number": 5,
+        "urls": [
+            "https://us05web.zoom.us/j/82959065986?pwd=WS9VYi9ib01QUTdXaS8wRWw1SStDZz09"
+        ]
+    },
+    {
+        "date": "2023-03-03T00:00:00.000Z",
+        "lecturer": "Сєров Ю.О.,",
+        "subject": "Технології менеджменту даних та знань",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:40a9da66a6c24aa08a7b1c613d86b727@thread.tacv2/1675855901029?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=88962d8d-aa10-4b5a-bb0c-520bc68c42bd&parentMessageId=1675855901029&teamName=%D0%94%D0%9A%D0%86%D0%91-1x%20%D0%BC%D0%B0%D0%B3%D1%96%D1%81%D1%82%D1%80%D0%B8&channelName=%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97%20%D0%BC%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82%D1%83%20%D0%B4%D0%B0%D0%BD%D0%B8%D1%85%20%D1%82%D0%B0%20%D0%B7%D0%BD%D0%B0%D0%BD%D1%8C&createdTime=1675855901029&allowXTenantAccess=false"
+        ]
+    }
+]

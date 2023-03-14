@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ПЗ-21, ПЗ-22, ПЗ-23,",
+        "subject": "Алгоритми і структури даних",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/3596422995?pwd=a3l3WnpuWkc4TUNXZEtGdkVHNGJMZz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ПЗ-24, ПЗ-25, ПЗ-26,",
+        "subject": "Алгоритми і структури даних",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/3596422995?pwd=a3l3WnpuWkc4TUNXZEtGdkVHNGJMZz09"
+        ]
+    }
+]

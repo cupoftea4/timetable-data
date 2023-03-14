@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ЕЕ-21, ЕЕ-22,",
+        "subject": "Вища математика, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/92199911777?pwd=bVAvd2tQUERFRGtYRkhLazc0Q2JCdz09",
+            "https://us05web.zoom.us/j/92199911777?pwd=bVAvd2tQUERFRGtYRkhLazc0Q2JCdz09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "БД-18, БД-19, 212 II н.к.,",
+        "subject": "Вища математика, частина 1",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/92199911777?pwd=bVAvd2tQUERFRGtYRkhLazc0Q2JCdz09"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "ПБ-11, ГБ-11, 212 II н.к.,",
+        "subject": "Вища математика, частина 1",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/92199911777?pwd=bVAvd2tQUERFRGtYRkhLazc0Q2JCdz09"
+        ]
+    }
+]

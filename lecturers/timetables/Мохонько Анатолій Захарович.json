@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БД-13, 224 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/7768204046"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БД-12, 224 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/7768204046"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БД-11, 202 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/7768204046"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БД-11, 202 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/7768204046"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БД-11, БД-12, БД-13, БД-14, 212 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/7768204046"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БД-12, 417 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/7768204046"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БД-13, 417 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/7768204046"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

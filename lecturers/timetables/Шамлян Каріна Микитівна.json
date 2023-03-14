@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Психологічне консультування за різними напрямами, частина 1",
+        "lecturer": "ПС-34, ПС-35, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a-NiWDeOAge6A07yHtB9BGFCjy6z59L8ufZqKHUMYTSw1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=9109e874-5a15-4e0b-b032-2a46b6e56878&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Психологічне консультування за різними напрямами, частина 1",
+        "lecturer": "ПС-31, ПС-32, ПС-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ah5hvoW4FcWEiUHXsQGi25izwkKjKnWPPiSU5h2Fm-dE1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=3d1c3587-7caa-4714-9d9e-3830045e9993&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

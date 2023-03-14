@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Паралельні та розподілені обчислення",
+        "lecturer": "КІ-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://tel.meet/nzt-owtv-tjg"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Паралельні та розподілені обчислення",
+        "lecturer": "КІ-36, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://tel.meet/nzt-owtv-tjg"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології опрацювання сигналів і зображень",
+        "lecturer": "КІ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/hcq-egrb-iap"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технології опрацювання сигналів і зображень",
+        "lecturer": "КІ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://tel.meet/jgx-ekzg-vuw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Паралельні та розподілені обчислення",
+        "lecturer": "КІ-37, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://tel.meet/rqh-meiv-vam"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Паралельні та розподілені обчислення",
+        "lecturer": "КІ-37, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://tel.meet/rqh-meiv-vam"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

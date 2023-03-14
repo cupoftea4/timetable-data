@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "ТТ-24,",
+        "subject": "Аналіз транспортних проектів",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3axBYZYmZvUsEOOkB4nNzve1Lu_gfw43B1ISnnFZSjuK01%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ceed50fd-2421-4f3e-ab81-51079b77b0ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ТТ-31, ТТ-32, ТТ-33,",
+        "subject": "Аналіз транспортних проектів",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3axBYZYmZvUsEOOkB4nNzve1Lu_gfw43B1ISnnFZSjuK01%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ceed50fd-2421-4f3e-ab81-51079b77b0ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "ТТ-34,",
+        "subject": "Основи моделювання транспортних потоків",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFF07LEYtnPOPnU8o7saJo05LFmOM9z9JrKjiYh66V_41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=33e1fdbc-e1a0-4bc1-826b-04af71b5b269&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "ТТ-33,",
+        "subject": "Основи моделювання транспортних потоків",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFF07LEYtnPOPnU8o7saJo05LFmOM9z9JrKjiYh66V_41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=33e1fdbc-e1a0-4bc1-826b-04af71b5b269&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

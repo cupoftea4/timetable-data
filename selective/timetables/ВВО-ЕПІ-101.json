@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "Войцеховська В.В., Лесик Л.І., 214 II н.к., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85216716543?pwd=ck5HK2Y4RVdKcWYxSy9TeFR6KzJOZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "Лесик Л.І., Войцеховська В.В., 214 II н.к., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73801479351?pwd=DoJkh2kLcyC6gmDnN6bwgpvYNhzQKB.1%20%20Meeting%20ID:%20738%200147%209351%20Passcode:%20e6wPMQ,,%20https://us05web.zoom.us/j/88076189096?pwd=cDJxd1UvVHFrZmJ6TlUzVldMclIvQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

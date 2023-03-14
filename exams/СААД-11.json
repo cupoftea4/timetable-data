@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Верес О.М.,",
+        "subject": "Технології підтримки процесів прийняття рішень",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/95663784778?pwd=VGJTWG9GQUR2YWEzaVR4UXl0NmFQZz09%20%20Meeting%20ID:%20956%206378%204778%20%20Passcode:%2012345"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Тарасов Д.О.,",
+        "subject": "Розподілені інформаційні системи",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a1c06f0db30a1410c89f9389ed1b88567%40thread.tacv2/%25D0%25A0%25D0%2586%25D0%25A1-2022?groupId=14cf1991-a597-4176-8aa2-2056d8dea444&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Пелещак Р.М.,",
+        "subject": "Обчислювальний інтелект",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Кісь Я.П.,",
+        "subject": "Аналіз бізнес-процесів",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/7359554324?pwd=eVc3aUo4UTdTQXo3aFJFZzIyQUg1UT09"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Познякова О.І.,",
+        "subject": "HR менеджмент",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78028349113?pwd=aTQ2Tm9OSm8reGRmSHpVMmcrRlpmdz09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Сенів Л.А.,",
+        "subject": "Система публічної влади в Україні",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/_#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:Wgtw7n2Yrv73D_jnymL3q-pN9mflLs3IqEF1HnFlvEQ1@thread.tacv2&ctx=channel"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Химич О.В.,",
+        "subject": "Адміністративний менеджмент в публічних та приватних фінансах",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4929862551?pwd=U0EzU1ZhWm5INURVVVlEUTNVQVQwQT09"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Михальчишин Н.Л.,",
+        "subject": "Аналіз ринкової поведінки суб`єктів господарювання",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3arg-dsyg-FWZJZRo09D4L996oaLnbxB8V9OX0RfqKOUs1%40thread.tacv2/conversations?groupId=227ef99f-da22-4221-af4c-f696222e9cfb&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Гошовська О.В.,",
+        "subject": "Методологія аналізу ринків",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aO8LBvbhNkh6BPtk9Yy2MUVe0tt7vMIyjlgqZDIQIylk1%40thread.tacv2/conversations?groupId=f7094b2c-2122-4df6-a833-7a47c3b62987&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

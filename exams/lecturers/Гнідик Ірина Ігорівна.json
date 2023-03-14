@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "СТ-31,",
+        "subject": "Культурна спадщина і туристичний потенціал Львова",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/71458606408?pwd=BaC6KnibXc3GL4MQ7bnLseBcrGmd0b.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "СТ-31,",
+        "subject": "Культурна спадщина іконопису",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/71458606408?pwd=BaC6KnibXc3GL4MQ7bnLseBcrGmd0b.1"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "СТ-11, 204 IV н.к.,",
+        "subject": "Основи професійної комунікації",
+        "number": 2,
+        "urls": []
+    }
+]

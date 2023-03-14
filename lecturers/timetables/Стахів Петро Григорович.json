@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Теоретичні основи електротехніки, частина 1",
+        "lecturer": "ЕЕ-11, ЕЕ-12, ЕЕ-13, 114 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Теоретичні основи електротехніки, частина 1",
+        "lecturer": "ЕЕ-11, ЕЕ-12, ЕЕ-13, 114 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

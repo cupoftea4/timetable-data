@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Маркелов О.Е.,",
+        "subject": "Основи програмування, частина 2",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/vrc-kvft-ohs"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Прикарпатський А.К.,",
+        "subject": "Теорія ймовірностей і математична статистика",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aPBWjmwvZB_gZzPXOZVnkM1mYrlayrMZ54jQ53Xfg-pg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a1bc30da-2231-433b-a2f7-2c43a96adb98&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Витичак У.Я.,",
+        "subject": "Сучасна німецька/японська/чеська/польська мова, частина 3",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/71312415502?pwd=OUKjvpRzYqpANmQwmndErGiy5ncvaQ.1"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Левицька О.С.,",
+        "subject": "Історія украінської та зарубіжної літератури",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73838775913?pwd=RDRhYTIrL29WRXd6TG5uOGFnUHVYZz09"
+        ]
+    }
+]

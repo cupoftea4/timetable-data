@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Смердова Т.А.,",
+        "subject": "Робототехніка та робототехнічні системи",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Гліненко Л.К.,",
+        "subject": "Бази даних в інформаційно-комп`ютерних системах",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Романишин Ю.М.,",
+        "subject": "Цифрова обробка сигналів",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Фаст В.М.,",
+        "subject": "Проектування радіоелектронних апаратів",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Вус Б.С.,",
+        "subject": "Вбудовані системи інтернету речей",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4T1Tqc8KdjXJTqQ7HAXQgjNDbhPXyBuk2TtNQUYFydw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4e1c774b-90be-4613-bdba-eaea8dceac28&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

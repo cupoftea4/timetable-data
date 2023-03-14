@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "АТ-21, АТ-22,",
+        "subject": "Опір матеріалів",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/6024609592?pwd=ZG0zMmpFR2hzWjdLV25odzZmRWU1QT09"
+        ]
+    },
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "АТ-11сп, 307 II н.к.,",
+        "subject": "Опір матеріалів",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "БД-11сп, 217 II н.к.,",
+        "subject": "Опір матеріалів",
+        "number": 1,
+        "urls": []
+    }
+]

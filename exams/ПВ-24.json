@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Марціхів Х.Р.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://join.skype.com/zOZtktNA7JJZ"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Остапенко О.І.,",
+        "subject": "Адміністративне право",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78090611643?pwd=DbIm9g8vZiME92blD5lbVFaPqef0LX.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Сорока С.О.,",
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/8973389103?pwd=emcxRGErV1NKTy91dVlaNytQc0Z5UT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Остапенко Л.О.,",
+        "subject": "Трудове право",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/83073947288?pwd=YS9sZ21LRnlIYzU2eG1JcUdjcTR5Zz09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Кушпіт В.П.,",
+        "subject": "Кримінальне право, частина 1",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/72948681733?pwd=8TmaU6jmkWsNRazZgwNdqFSu7y0NpI.1"
+        ]
+    }
+]

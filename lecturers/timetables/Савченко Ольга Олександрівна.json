@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "ПІ-11, 404 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9194918571?pwd=OU50ME1Wc0FxU1ZVUkt6SHJOdm04UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "БД-16, 213 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9194918571?pwd=OU50ME1Wc0FxU1ZVUkt6SHJOdm04UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    }
+]

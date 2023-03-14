@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "Сай Л.П.,",
+        "subject": "Міжнародна економіка",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/89711374208"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Онищук О.В.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71055240208?pwd=rUCW2VewXcn6KovytOoHJRxDBhUX9a.1"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Лихолат С.М.,",
+        "subject": "Маркетинг",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77343054350?pwd=Dc11c6NIr3RyMyqQaeSwwTbDBzifPF.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Воскресенська Т.І.,",
+        "subject": "Бухгалтерський облік",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/89154839026?pwd=K00rWTZPRlRRRzRzeEl3Ynl0T3g5dz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Ємельянов О.Ю.,",
+        "subject": "Економіка підприємства",
+        "number": 2,
+        "urls": []
+    }
+]

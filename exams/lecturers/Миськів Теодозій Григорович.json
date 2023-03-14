@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "ТТ-21, ТТ-22, ТТ-23,",
+        "subject": "Теорія руху автомобіля",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/7324145432?pwd=RklFVE1HZG1Gc1hoMjZVZUpPbGRTUT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "АТ-21, АТ-22,",
+        "subject": "Теорія руху автомобіля",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/7324145432?pwd=RklFVE1HZG1Gc1hoMjZVZUpPbGRTUT09"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "АТ-11сп, 216 VI н.к.,",
+        "subject": "Теорія руху автомобіля",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/7324145432?pwd=RklFVE1HZG1Gc1hoMjZVZUpPbGRTUT09"
+        ]
+    }
+]

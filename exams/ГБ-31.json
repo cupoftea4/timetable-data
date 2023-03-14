@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Чернюк В.В.,",
+        "subject": "Водопровідні мережі та споруди",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Матлай І.І.,",
+        "subject": "Гідротехнічні споруди",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Вовк Л.І.,",
+        "subject": "Гідрологія та гідрометрія",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/6387061538?pwd=MDM4REVpLzBZb2VJYU9GOEdkWGZ3Zz09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Вербовський О.В.,",
+        "subject": "Гідравлічні машини",
+        "number": 1,
+        "urls": []
+    }
+]

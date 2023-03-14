@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Господарський процес",
+        "lecturer": "ПВ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74443477991?pwd=rrv6S0ZnnAKvTziFMuOdXfvJXB3IDk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

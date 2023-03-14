@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Бритковський В.М.,",
+        "subject": "Діагностика електричного і електронного обладнання автомобіля",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/83743515171?pwd=ektFbUR5VkUxRW1tOXBwL3JWcGd1QT09"
+        ]
+    },
+    {
+        "date": "2022-12-07T00:00:00.000Z",
+        "lecturer": "Качмар Р.Я.,",
+        "subject": "Сенсори систем автомобіля",
+        "number": 1,
+        "urls": [
+            "https://zoom.us/j/8940852137?pwd=d1Uxb3lOWUh5MGR1aElWdDBFcURkQT09%20%20Meeting%20ID:%20894%20085%202137%20Passcode:%202020"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Лема Г.В.,",
+        "subject": "Економіка підприємства",
+        "number": 2,
+        "urls": []
+    }
+]

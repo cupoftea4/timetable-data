@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ХТ-34,",
+        "subject": "Структура і властивості високомолекулярних сполук",
+        "number": 3,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77263437224?pwd%3DtO3B2nRGfmpp9vRFVZw6BDsDbbL9JW.1&sa=D&source=calendar&usd=2&usg=AOvVaw15mWLt6gb9UXljWNCZywQc"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ХТ-24,",
+        "subject": "Технологія виробництва та перероблення полімерів",
+        "number": 1,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/5761096488?pwd%3DaEpPSW9QNEN3WnZ6aktjZTdVSjczUT09&sa=D&source=calendar&usd=2&usg=AOvVaw3oHKOFnnGzCd8RVqTQ1IsX"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "ХТПК-11, ХТМ-11,",
+        "subject": "Технологічні процеси модифікування та перероблення полімерних та композиційних матеріалів",
+        "number": 3,
+        "urls": []
+    }
+]

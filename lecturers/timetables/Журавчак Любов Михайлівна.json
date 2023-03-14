@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Дослідження операцій",
+        "lecturer": "ПЗ-23, 808 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Засоби програмування комп`ютерної графіки",
+        "lecturer": "ПЗ-31, ПЗ-32, ПЗ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atqwzZDF5PHhuwUwlkdvLMHtKwX7i96YXz_E_BK4Wgds1%40thread.tacv2/conversations?groupId=021374a6-7b1c-4563-bad4-bcc3a2302214&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Засоби програмування комп`ютерної графіки",
+        "lecturer": "ПЗ-31, ПЗ-32, ПЗ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atqwzZDF5PHhuwUwlkdvLMHtKwX7i96YXz_E_BK4Wgds1%40thread.tacv2/conversations?groupId=021374a6-7b1c-4563-bad4-bcc3a2302214&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження операцій",
+        "lecturer": "ПЗ-24, 808 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Засоби програмування комп`ютерної графіки",
+        "lecturer": "ПЗ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atqwzZDF5PHhuwUwlkdvLMHtKwX7i96YXz_E_BK4Wgds1%40thread.tacv2/conversations?groupId=021374a6-7b1c-4563-bad4-bcc3a2302214&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Дослідження операцій",
+        "lecturer": "ПЗ-23, ПЗ-24, 411 V н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження операцій",
+        "lecturer": "ПЗ-23, ПЗ-24, 411 V н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Засоби програмування комп`ютерної графіки",
+        "lecturer": "ПЗ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atqwzZDF5PHhuwUwlkdvLMHtKwX7i96YXz_E_BK4Wgds1%40thread.tacv2/conversations?groupId=021374a6-7b1c-4563-bad4-bcc3a2302214&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

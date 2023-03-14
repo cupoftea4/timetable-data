@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Нормативно-правове забезпечення та міжнародні стандарти кібербезпеки",
+        "lecturer": "КБ-206, 211 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Нормативно-правове забезпечення та міжнародні стандарти кібербезпеки",
+        "lecturer": "КБ-205, 211 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

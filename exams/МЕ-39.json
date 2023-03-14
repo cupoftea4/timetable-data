@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Кучер А.В.,",
+        "subject": "Операційний менеджмент",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Кучер А.В.,",
+        "subject": "Управління інноваційною діяльністю",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Григор'єв О.Ю.,",
+        "subject": "Технологія зовнішньоекономічних операцій",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3axk-s2KD6nd5kR2hMP1cLGQWDk5PSgP1qUZZFdi-254M1%40thread.tacv2/conversations?groupId=d6ac2382-b0ab-4091-a55b-ef8d5d68e258&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Панас Я.В.,",
+        "subject": "Контроллінг",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:8df6f2c69e3b4195bb8d0c8ad16fc222@thread.tacv2/1670151866881?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=d1731de7-0c6b-436d-b863-e0b3b7dd83a1&parentMessageId=1670151866881&teamName=%D0%9C%D0%9F%D0%90%20%D0%9C%D0%95-39%20(22%2F23%20%D0%BD.%D1%80.)&channelName=%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%96%D0%BD%D0%B3&createdTime=1670151866881&allowXTenantAccess=false"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Сватюк О.Р.,",
+        "subject": "Започаткування малого бізнесу",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3add654d892ec24d44aab1ae4410588c8d%40thread.tacv2/1671006534897?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2235b39b72-71f2-40f5-ada0-72016b184c34%22%7d"
+        ]
+    }
+]

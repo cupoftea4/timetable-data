@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "СА-21, СА-22,",
+        "subject": "Комп`ютерні мережі",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/81985966135?pwd=Zi9UT282bktqT1g4TWg1TXhaRkFLZz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "СА-23, УП-21,",
+        "subject": "Комп`ютерні мережі",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/81656983856?pwd=OHVCWEFHdEpWdXN6OVU5clBNTmpDQT09"
+        ]
+    }
+]

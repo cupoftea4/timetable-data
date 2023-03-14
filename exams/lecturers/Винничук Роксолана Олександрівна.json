@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "МЕ-47,",
+        "subject": "Мотивування персоналу",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ЕК-33,",
+        "subject": "Управління персоналом",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "МЕ-47,",
+        "subject": "Управління розвитком персоналу організації",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4138639159?pwd=QWJuTlhOLzVSelRhNU9lTnFjSDhaUT09"
+        ]
+    }
+]

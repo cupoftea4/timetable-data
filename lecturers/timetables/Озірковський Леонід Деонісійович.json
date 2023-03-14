@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Забезпечення надійності радіоелектронних засобів",
+        "lecturer": "ТР-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/ijy-xgpv-zim"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Забезпечення надійності радіоелектронних засобів",
+        "lecturer": "ТР-33, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/goe-ixzf-ovn"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

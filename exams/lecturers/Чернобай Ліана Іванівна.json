@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ЕВ-31, ЕВ-32, ЕВ-33, ЕВ-34,",
+        "subject": "Економіка зарубіжних країн",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0389dd44ddf246579dc079b118c85625%40thread.tacv2/conversations?groupId=f616408d-aaee-44f8-9321-6713857997e8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "МЕБА-11, МЕБА-12,",
+        "subject": "Економіка та управлінсько-правове забезпечення діяльності бізнесу",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a95f0b74cc95d4d92af56c2a1b0f33c9f%40thread.tacv2/conversations?groupId=372a4ea3-5413-4ab1-8d84-21d7838e773a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

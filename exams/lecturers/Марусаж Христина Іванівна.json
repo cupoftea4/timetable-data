@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "ГД-41, ГД-42,",
+        "subject": "Картографія",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6_2PIyj9zlSTk2GPjoyRzwXmYYY-aSaKC8x8ALxrxaA1%40thread.tacv2/conversations?groupId=2679ea5f-796c-40aa-ace5-91369d8a0154&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-17T00:00:00.000Z",
+        "lecturer": "ГД-31, ГД-32, ГД-33,",
+        "subject": "Картографія",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aONA5Gi0UaCz-HSFz952EFvMXNdvOGZR-LUIJaF0KiWs1%40thread.tacv2/conversations?groupId=fbceebb6-dc83-4bf4-a632-d444161dbfa7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

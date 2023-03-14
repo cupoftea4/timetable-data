@@ -1,0 +1,133 @@
+[
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-225, 405 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-212, 217 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-211, 213 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-231, 402 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-229, 401 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-230, 402 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-227, 403 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-226, 107 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-304, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

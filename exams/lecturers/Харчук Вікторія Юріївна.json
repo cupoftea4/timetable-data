@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "МЕЗД-11, МЕЗД-12, МЕМД-11,",
+        "subject": "Фінансовий менеджмент",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0zKVM8zA8NAbmmoqLM4bt4UXSiYBiZMM2otd9E_3f0o1%40thread.tacv2/General?groupId=d113d2e0-6d7f-44b1-87ac-bcc0e4946d9b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/channel/19%3a0zKVM8zA8NAbmmoqLM4bt4UXSiYBiZMM2otd9E_3f0o1%40thread.tacv2/General?groupId=d113d2e0-6d7f-44b1-87ac-bcc0e4946d9b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "ЕВМЕ-11, ЕВМЕ-12,",
+        "subject": "Міжнародний фінансовий менеджмент",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aZVJc4jKXpY85MeWtcI0BnVJxhkKGBBexI5wufdARsjA1%40thread.tacv2/General?groupId=77407157-548d-470f-b058-82ac5f46649d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-27T00:00:00.000Z",
+        "lecturer": "МЕОА-11f,",
+        "subject": "Фінансовий менеджмент",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/78188220191?pwd=RVmjApsG5krtUHCLEK56X4XP4VFiEj.1"
+        ]
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Інженерія програмного забезпечення",
+        "lecturer": "СА-32, 522 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:ZiRqY3Kt11JQMeBqoOc_UXPYUijQ0IbOrRXIeVod-aQ1@thread.tacv2/1677233984174?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=e2c97945-ec92-4b24-83a8-a2a6014bc00c&parentMessageId=1677233984174&teamName=%D0%86%D0%9F%D0%97%20%D0%A1%D0%90-31%2C32%20(2023)&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677233984174&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інженерія програмного забезпечення",
+        "lecturer": "СА-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:ZiRqY3Kt11JQMeBqoOc_UXPYUijQ0IbOrRXIeVod-aQ1@thread.tacv2/1677234271231?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=e2c97945-ec92-4b24-83a8-a2a6014bc00c&parentMessageId=1677234271231&teamName=%D0%86%D0%9F%D0%97%20%D0%A1%D0%90-31%2C32%20(2023)&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677234271231&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інженерія програмного забезпечення",
+        "lecturer": "СА-31, 516 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:ZiRqY3Kt11JQMeBqoOc_UXPYUijQ0IbOrRXIeVod-aQ1@thread.tacv2/1677234359428?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=e2c97945-ec92-4b24-83a8-a2a6014bc00c&parentMessageId=1677234359428&teamName=%D0%86%D0%9F%D0%97%20%D0%A1%D0%90-31%2C32%20(2023)&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677234359428&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Технології корпоративних систем",
+        "lecturer": "САСМ-12, 522 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:frnXOgziG-tzY2lZZTzPaZN1SPre5uaaYN1yVJsEVHw1@thread.tacv2/1677234502878?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=06353ba3-6b7d-4ec0-a6d7-b7fd5da28a80&parentMessageId=1677234502878&teamName=%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97%20%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677234502878&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технології корпоративних систем",
+        "lecturer": "САСМ-11, 522 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:frnXOgziG-tzY2lZZTzPaZN1SPre5uaaYN1yVJsEVHw1@thread.tacv2/1677234583891?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=06353ba3-6b7d-4ec0-a6d7-b7fd5da28a80&parentMessageId=1677234583891&teamName=%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97%20%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677234583891&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології корпоративних систем",
+        "lecturer": "САСМ-11, 522 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:frnXOgziG-tzY2lZZTzPaZN1SPre5uaaYN1yVJsEVHw1@thread.tacv2/1677234657640?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=06353ba3-6b7d-4ec0-a6d7-b7fd5da28a80&parentMessageId=1677234657640&teamName=%D0%A2%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%97%20%D0%BA%D0%BE%D1%80%D0%BF%D0%BE%D1%80%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677234657640&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

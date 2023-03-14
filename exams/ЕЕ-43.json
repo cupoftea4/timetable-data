@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Куцик А.С.,",
+        "subject": "Автоматизовані системи управління технологічними процесами",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Цяпа В.Б.,",
+        "subject": "Автоматизований електропривод загальнопромислових механізмів",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=7468446d-dc52-44df-862f-7d9c66561c94&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_b4AMV6JQAa9sLgENzHOlQKkVWNHbiMvJxmwBed7Ay7w1@thread.tacv2&messageId=1670419328743&language=uk-UA"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Маляр А.В.,",
+        "subject": "Електромеханічні системи керування",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Головач І.Р.,",
+        "subject": "Налагодження, випробування та експлуатація електромеханічних систем",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Місюренко В.О.,",
+        "subject": "Сучасні елекроприводи змінного струму",
+        "number": 4,
+        "urls": []
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Морська Н.О.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://join.skype.com/Jb8R2A2IuzTE"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Скорик Г.І., Гошовська О.В., анг. мовою",
+        "subject": "Мікроекономіка",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/7789201276?pwd=YUZSV2ZlWGRoUWtlZ0EyNERMS1E5Zz09%20https://teams.microsoft.com/l/team/19%3ahBUEt7b0TMgkzXghePEId4FyrK5lYd6EINwnw1Wu4JE1%40thread.tacv2/conversations?groupId=42f992a0-9b2b-44b6-858f-6b9f43b179b6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Чурсінова О.Ю.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Іличок Б.І.,",
+        "subject": "Публічне адміністрування",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a955bbb57344043789e0385df0268abd2%40thread.tacv2/conversations?groupId=be2749ec-4573-45fd-a46e-0475c2d2ac28&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Мартинюк В.П.,",
+        "subject": "Світовий та національний ринки",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/umr-nuau-vxt"
+        ]
+    }
+]

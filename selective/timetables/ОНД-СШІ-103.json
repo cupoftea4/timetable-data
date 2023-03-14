@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "Ізонін І.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6235066858?pwd=UlhTNXRHWkJYc3VUdDBQN2RDZmJmdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "Ізонін І.В., 231 XX н.к., ",
+        "location": ", Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6235066858?pwd=UlhTNXRHWkJYc3VUdDBQN2RDZmJmdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "Ізонін І.В., 231 XX н.к., ",
+        "location": " Лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6235066858?pwd=UlhTNXRHWkJYc3VUdDBQN2RDZmJmdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    }
+]

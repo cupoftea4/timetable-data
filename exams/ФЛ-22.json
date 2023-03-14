@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Винничук С.Я.,",
+        "subject": "Сучасна німецька/японська/чеська/польська мова, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75977317836?pwd=mlKvQRI7rUG15OFFfmJGa6bzI8LyJO.1"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Клапчук М.І.,",
+        "subject": "Теорія ймовірностей і математична статистика",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/2591708413?pwd=U3k0bC81RzF3MFEzYkhVMm9NVE9Hdz09"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Маркелов О.Е.,",
+        "subject": "Основи програмування, частина 2",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/vrc-kvft-ohs"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Левицька О.С.,",
+        "subject": "Історія украінської та зарубіжної літератури",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73838775913?pwd=RDRhYTIrL29WRXd6TG5uOGFnUHVYZz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Голуб І.Ю.,",
+        "subject": "Сучасна німецька/японська/чеська/польська мова, частина 3",
+        "number": 2,
+        "urls": [
+            "https://goethe-institut.zoom.us/j/83107422560"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ПВ-41, ПВ-42, ПВ-43,",
+        "subject": "Криміналістика",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/4886457805?pwd=MlJRdWxvTjVCOVZsZ0I0N0FYbGtsUT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ПВ-44, ПВ-45, ПВ-47, ПВ-49,",
+        "subject": "Криміналістика",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/4886457805?pwd=MlJRdWxvTjVCOVZsZ0I0N0FYbGtsUT09"
+        ]
+    }
+]

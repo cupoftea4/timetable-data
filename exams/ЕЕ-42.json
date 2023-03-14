@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Куцик А.С.,",
+        "subject": "Автоматизовані системи управління технологічними процесами",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Каша Л.В.,",
+        "subject": "Основи надійності та діагностування електромеханотронних перетворювачів",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aheyqjmkNDlQbZGGXKKLsHVdF6j2n0FH3uZeaGKsE1Hk1%40thread.tacv2/1669137274788?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-10T00:00:00.000Z",
+        "lecturer": "Біляковський І.Є.,",
+        "subject": "Спеціальні електромеханотронні перетворювачі",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ae85116006fca4fdabb64547c8cae1f81%40thread.tacv2/conversations?groupId=4855080f-9212-458a-bd2f-bfd8e5d7aea5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Гавдьо І.Р., Макарчук О.В.,",
+        "subject": "Основи проектування та конструювання електромеханотронних пристроїв",
+        "number": 4,
+        "urls": []
+    }
+]

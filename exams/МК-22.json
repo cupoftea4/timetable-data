@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Сінельнікова М.В.,",
+        "subject": "Філософія",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/85085740493?pwd=VEhWSmNzVktoOUJJd280bGYrakRzUT09"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Когут У.І.,",
+        "subject": "Міжнародна економіка",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Люльчак З.С.,",
+        "subject": "Маркетинг",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/88604257790?pwd=Wi9vVUtFdHBCRVVYdVpWM3VqUWR5dz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Мусійовська О.Б.,",
+        "subject": "Економіка підприємства",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Ольшанська М.В.,",
+        "subject": "Бухгалтерський облік",
+        "number": 1,
+        "urls": []
+    }
+]

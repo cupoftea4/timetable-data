@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Основи автоматики та автоматизації енергетичних об`єктів",
+        "lecturer": "АЕ-41, 209 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/92496170503?pwd=VEVVMGNhOFA4ZFYzaVVTaWtVcDVVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи автоматики та автоматизації енергетичних об`єктів",
+        "lecturer": "АЕ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/92496170503?pwd=VEVVMGNhOFA4ZFYzaVVTaWtVcDVVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи автоматики і автоматизації енергетичних об`єктів",
+        "lecturer": "ТЕ-41, 115 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/92496170503?pwd=VEVVMGNhOFA4ZFYzaVVTaWtVcDVVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

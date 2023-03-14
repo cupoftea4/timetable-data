@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "ЕВ-32, ЕВ-33,",
+        "subject": "Міжнародне інвестування",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19:f6c73a89c5964e0687da8977b9560b9a@thread.tacv2/%D0%9E%D0%B1%D1%89%D0%B8%D0%B5?groupId=56236cda-10f0-473e-938a-cfc40f81b53e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ЕВ-21f,",
+        "subject": "Міжнародна економіка",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19:WDt0_KqhYBqH2fFadaPEecqRc0ip_-Ohp4mMnHz4vdY1@thread.tacv2/%D0%9E%D0%B1%D1%89%D0%B8%D0%B5?groupId=e3831220-6a2b-4883-adcc-409c3c2983c3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

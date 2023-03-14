@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Клінічна психологія",
+        "lecturer": "ПС-31, ПС-32, ПС-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84386209415?pwd=WXJGOWpwZ3RBNVpEdlU4Vk9wOTNBUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Клінічна психологія",
+        "lecturer": "ПС-34, ПС-35, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89914923424?pwd=TXFGSkI2Q0NlWjBHeERYUmxvdkZEUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Клінічна психологія",
+        "lecturer": "ПС-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81487356223?pwd=cGhZUG1jcGF5d0JCQjNxNzdlZ3A5QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Клінічна психологія",
+        "lecturer": "ПС-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88002765829?pwd=bytBWStaN213L0JoanRYYTVINEVGdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

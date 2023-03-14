@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Кунинець А.В.,",
+        "subject": "Вища математика, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/88955117649?pwd=bGQyK2V5Y0lQdjZJeDVoZWpaSjM2Zz09%20%20Meeting%20ID:%20889%205511%207649%20Passcode:%20m1UNvx"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Походило Є.В.,",
+        "subject": "Інформаційно-вимірювальні технології, частина 1",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Рендзіняк С.Й.,",
+        "subject": "Аналогова схемотехніка",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3acgmDYNOuy3NGOKUJGe4ukifEt6Fsk_LPXGlTCuqJrdk1%40thread.tacv2/1669019089999?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222a7b15e3-186d-45d7-b5ae-bec2f001b49c%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Вислободська І.М.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://us02web.zoom.us/j/89024928719?pwd=SThyejFTb2luYWJTOUduWGdwNUVRdz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Хвойницька-Перейма Х.М.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/86401459967?pwd=c2cwRzBxdWtmNXpsK1pvQVBjVUdpZz09"
+        ]
+    }
+]

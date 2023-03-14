@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-23T00:00:00.000Z",
+        "lecturer": "БТа-11,",
+        "subject": "Біоінформатика та інформаційні технології в біотехнології",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "ФРФП-11, ФРМ-11,",
+        "subject": "Економіка хіміко-фармацевтичних підприємств",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4kGxFawjssk4wMgdjvvngROj95ABGVXWh7vkbVemPiA1%40thread.tacv2/1675624040925?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bb156214-abaa-4040-9424-e082a3518b18%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "БТБТ-11, БТМ-11,",
+        "subject": "Моделювання та масштабування біотехнологічних виробництв в системі GMP",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3awWAnsOWBta-8pdNjSsiYI99IH_iZZhdlTDTyWH38YqA1%40thread.tacv2/1675624260722?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bb156214-abaa-4040-9424-e082a3518b18%22%7d"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Калиновський А.О.,",
+        "subject": "Стратегічний менеджмент",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/72076628864?pwd=MYbslQBzoIs7A1wedcbcUzSXTIC11F.1"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Адамовський О.М.,",
+        "subject": "Ділове адміністрування",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/8626324378?pwd=bmducFowbWwzekdKQW4zSUJjNldCdz09"
+        ]
+    },
+    {
+        "date": "2023-02-27T00:00:00.000Z",
+        "lecturer": "Харчук В.Ю.,",
+        "subject": "Фінансовий менеджмент",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/78188220191?pwd=RVmjApsG5krtUHCLEK56X4XP4VFiEj.1"
+        ]
+    },
+    {
+        "date": "2023-03-02T00:00:00.000Z",
+        "lecturer": "Прокопишин-Рашкевич Л.М.,",
+        "subject": "Економіка бізнесу",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09%20(Meeting%20ID:605%20861%203984;%20Passcode:%207777)"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "КН-403, КН-404, КН-405,",
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем I",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71815940423?pwd=tWLArlTsuUjaiXuv2v3YgYix2nIhOi.1"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "КН-401, КН-402,",
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем I",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77817469629?pwd=g00ZkUqvPk83GNbaZSGp1Jhbakorsy.1"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Токарєва М.О.,",
+        "subject": "Управління ризиками безпеки професійної діяльності",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a1fb02d0a52c24289a46fd23cbf3494f5%40thread.tacv2/1675191813526?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Болібрух Б.В.,",
+        "subject": "Експертиза проектів та технологій",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3anFJ91PgaFJhi0SbeGTP-hhTm90IA1zPzHk6bNtzZRmo1%40thread.tacv2/1675172374745?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cee63320-7cb7-40c3-9ff0-94b7fb8e5352%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Кіт Ю.В.,",
+        "subject": "Управління промисловою безпекою та охороною праці",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/5360975860?pwd=Nk14aE1sODdkaHRiN05OU1pnMGh1Zz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20536%20097%205860%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%200SRUf5"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Корчак Б.О.,",
+        "subject": "Промислова безпека технологічних процесів",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aEIoy4gXOyEzF6nxGZYZoFWslYs88lChzJd_Lb4MfpCQ1%40thread.tacv2/1676445158559?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2240c489e6-361b-43ac-b14e-2f6963e94ff7%22%7d"
+        ]
+    }
+]

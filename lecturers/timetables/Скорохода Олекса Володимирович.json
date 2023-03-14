@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-305, 802б V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73919317949?pwd=aYAo3wQFIuaB6GZ0GS4GdTalu6AG2D.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-301, КН-302, КН-303, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFK3foHwbz5eOR9un0-NiiXWP6LwEHKKKvKKRUV6szc1%40thread.tacv2/conversations?groupId=dd914bfc-be4d-449e-bdd8-e4efce2bd6d8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-301, КН-302, КН-303, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFK3foHwbz5eOR9un0-NiiXWP6LwEHKKKvKKRUV6szc1%40thread.tacv2/conversations?groupId=dd914bfc-be4d-449e-bdd8-e4efce2bd6d8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-304, КН-305, 807 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFK3foHwbz5eOR9un0-NiiXWP6LwEHKKKvKKRUV6szc1%40thread.tacv2/conversations?groupId=dd914bfc-be4d-449e-bdd8-e4efce2bd6d8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-304, КН-305, 807 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFK3foHwbz5eOR9un0-NiiXWP6LwEHKKKvKKRUV6szc1%40thread.tacv2/conversations?groupId=dd914bfc-be4d-449e-bdd8-e4efce2bd6d8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

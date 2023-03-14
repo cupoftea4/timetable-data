@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Верба В.Б.,",
+        "subject": "Пожежна безпека об`єктів підвищеної небезпеки",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/94354924056?pwd=N2tDcVRKV3VqVGNKaWdZQXFYQVg1dz09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Вашкевич Р.В.,",
+        "subject": "Обстеження і реконструкція будівель і споруд після пожежі",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/79263408109?pwd=Aszb9TCDQW2CVcntAZhCD90Zk7a05b.1"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Гаврилко О.А.,",
+        "subject": "Автоматичні системи забезпечення протипожежного захисту",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/89779025029?pwd=VGROZ0xVMml2KzVEa0FlWTZJUGgxZz09"
+        ]
+    }
+]

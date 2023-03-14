@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПК-41,",
+        "subject": "Основи педагогічних досліджень",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/81389472613?pwd=VVRwTW94V0o0WERCZm0yS1g5WWd0UT09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "НОПН-11, НОПН-12, НОПН-13, НОПН-14,",
+        "subject": "Теорія та методика педагогічного дослідження",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/77822004896?pwd=26XxJoCBCeKB96KKTW9FwbrHamkUVG.1"
+        ]
+    }
+]

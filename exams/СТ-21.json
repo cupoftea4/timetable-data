@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Білик О.О.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/6615994740?pwd=ZDZuMVFWOTRZQWZ5Q0x2QU5JbVZPZz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20661%20599%204740%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20RxpRT1"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Курдина Ю.М.,",
+        "subject": "Історична та культурна спадщина Європейської цивілізації (XVIII – XXI ст.)",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/87406765108?pwd=L0xlbFkvSXBxaVNaNmxpOG1yZmhoUT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Камінска О.З.,",
+        "subject": "Історія туризму і мандрівництва",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75039796510?pwd=VTNlV2VwalU1NzlpditpWk03VmExQT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Банах В.М.,",
+        "subject": "Історія музеїв світу і музейний туризм",
+        "number": 1,
+        "urls": [
+            "https://zoom.us/j/8750148606?pwd=MkdrU1VKQkdVczFCUzV6OVY1bkVxUT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Лисейко Я.Б.,",
+        "subject": "Основи наукової роботи",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09"
+        ]
+    }
+]

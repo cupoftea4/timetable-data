@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-11сп, 205 VI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQpnRTDdfBzO1AIrd1d9kOB9u01yizgghNuQM2Mx6pDY1%40thread.tacv2/conversations?groupId=b6c74f87-39d0-41a6-aa1d-738bfbf07a6c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-31, ТТ-32, ТТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aatjc6tdci6ls6BYtnfnR2wl_-Cp3IuMk5k6-JN6Jlg81%40thread.tacv2/conversations?groupId=96ece5aa-7787-48c8-9d51-ee23c4da510b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMmrmnywRA1H6Llfy-ZwCYe8jxQuopb1ua-k6Qlv154E1%40thread.tacv2/conversations?groupId=8e3ad7c4-1ae9-46aa-96a8-6947509e8bf9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aL5nQHcjToQjM1vIHBCbqAg4H2ZUsDU9Xrct6cqPERHw1%40thread.tacv2/conversations?groupId=1388846f-97e9-4aa2-82b3-4bceb025d0f7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-11сп, 204 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQpnRTDdfBzO1AIrd1d9kOB9u01yizgghNuQM2Mx6pDY1%40thread.tacv2/conversations?groupId=b6c74f87-39d0-41a6-aa1d-738bfbf07a6c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aymUydZ9Cfj-UDCIitoqBeqNUpyoTV7q0IQGyPAQDdZg1%40thread.tacv2/conversations?groupId=b5ed77b6-c66b-451b-86f0-4d6dec5d302f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-11сп, 207 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQpnRTDdfBzO1AIrd1d9kOB9u01yizgghNuQM2Mx6pDY1%40thread.tacv2/conversations?groupId=b6c74f87-39d0-41a6-aa1d-738bfbf07a6c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Системи організації та управління дорожнім рухом",
+        "lecturer": "ТТа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aP-WzwhWJ4SmjPnaHKi-qZOtIaZnJFBDq_yW41wG2Jig1%40thread.tacv2/conversations?groupId=12420f54-6a74-41aa-abe7-594cb9ba307d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Системи організації та управління дорожнім рухом",
+        "lecturer": "ТТа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aP-WzwhWJ4SmjPnaHKi-qZOtIaZnJFBDq_yW41wG2Jig1%40thread.tacv2/conversations?groupId=12420f54-6a74-41aa-abe7-594cb9ba307d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

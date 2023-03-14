@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Мудра І.М.,",
+        "subject": "Економічні і соціальні проблеми в ЗМІ",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ]
+    },
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "Кіца М.О.,",
+        "subject": "Інформаційна безпека та інформаційна війна в ЗМІ",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/76567969806?pwd=Gvu8uMnSngQXRa4u9pGH0qG5Xc6W9I.1"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Гоцур О.І.,",
+        "subject": "Масмедійна економіка",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78163478769?pwd=NnJRTHpwUWdoT0Y5MkM3YzFvMWNxQT09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Кіца М.О.,",
+        "subject": "Міжнародні і політичні проблеми в ЗМІ",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/76567969806?pwd=Gvu8uMnSngQXRa4u9pGH0qG5Xc6W9I.1"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Фінклер Ю.Е.,",
+        "subject": "Праволюдяність у медіа",
+        "number": 4,
+        "urls": []
+    }
+]

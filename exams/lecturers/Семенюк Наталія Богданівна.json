@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "ХТ-34,",
+        "subject": "Теоретичні основи технології виробництва високомолекулярних сполук",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76414040439?pwd=KlG2uuPr148brdkpzxbqyag1Ik4Li4.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ХТ-33,",
+        "subject": "Основи хімії і фізико-хімії полімерів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/74683945997?pwd=WhtyYVg1vLaf1rEbrk6HnfRRBEMhnI.1"
+        ]
+    }
+]

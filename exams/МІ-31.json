@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Гулай В.В.,",
+        "subject": "Інформаційна політика України та держав світу",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76387772436?pwd=lK5FoxmO9TtatkwBHMMAx9LOiBPdaV.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Лемко Ю.Р.,",
+        "subject": "Регіональна та транскордонна співпраця",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6100425148?pwd=NklSYVdnS2RFdUtPS0pIUUN5RVpwZz09"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Базилюк К.Ф.,",
+        "subject": "Візуалізація та аналіз даних",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75399499124?pwd=anNGaTgrL0tObkpBR2ZHZlo1VDJkZz09"
+        ]
+    }
+]

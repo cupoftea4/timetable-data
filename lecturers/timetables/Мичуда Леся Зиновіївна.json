@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Технології програмування, частина 2",
+        "lecturer": "КБ-18, КБ-19, КБ-110, 202 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a01Gp1KaXav0uHzMzY3bnPKUI2lLCcxpohCRBs_qBW1c1%40thread.tacv2/conversations?groupId=b8f28523-aff8-4fa7-9242-71f1e3804f2d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології програмування, частина 2",
+        "lecturer": "КБ-18, КБ-19, КБ-110, 202 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a01Gp1KaXav0uHzMzY3bnPKUI2lLCcxpohCRBs_qBW1c1%40thread.tacv2/conversations?groupId=b8f28523-aff8-4fa7-9242-71f1e3804f2d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Нормативно-правове забезпечення та міжнародні стандарти кібербезпеки",
+        "lecturer": "КБ-208, 210 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aJSdAo3MXFoSDA-2giR9ZhLtOfJa7_zmU3lHhYqJSrHs1%40thread.tacv2/conversations?groupId=550ca17a-2c7c-4ef0-837c-4a8c66fecffd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Нормативно-правове забезпечення та міжнародні стандарти кібербезпеки",
+        "lecturer": "КБ-209, 214 XX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aJSdAo3MXFoSDA-2giR9ZhLtOfJa7_zmU3lHhYqJSrHs1%40thread.tacv2/conversations?groupId=550ca17a-2c7c-4ef0-837c-4a8c66fecffd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Нормативно-правове забезпечення та міжнародні стандарти кібербезпеки",
+        "lecturer": "КБ-208, КБ-209, КБ-210, 202 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ajr4Zo2JtvXjys0mSeaW11MvvFmnenArCAu_VkA5MROs1%40thread.tacv2/conversations?groupId=128044a3-0705-4c98-8e22-652d81184b30&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Нормативно-правове забезпечення та міжнародні стандарти кібербезпеки",
+        "lecturer": "КБ-210, 211 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aJSdAo3MXFoSDA-2giR9ZhLtOfJa7_zmU3lHhYqJSrHs1%40thread.tacv2/conversations?groupId=550ca17a-2c7c-4ef0-837c-4a8c66fecffd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

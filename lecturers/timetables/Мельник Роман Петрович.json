@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Історія української культури",
+        "lecturer": "СМ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "МЕ-15, МЕ-16, МЕ-17, МЕ-18, МЕ-19, 116 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77894398902?pwd=8Hfni4GwWTiFYHytLQe5gUSoHHndDs.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Історія української культури",
+        "lecturer": "СМ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77894398902?pwd=8Hfni4GwWTiFYHytLQe5gUSoHHndDs.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Історія української культури",
+        "lecturer": "СМ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77894398902?pwd=8Hfni4GwWTiFYHytLQe5gUSoHHndDs.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "КБ-11, КБ-12, КІ-19, КІ-110, 411 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77894398902?pwd=8Hfni4GwWTiFYHytLQe5gUSoHHndDs.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи маркетингу у галузі",
+        "lecturer": "СМ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77894398902?pwd=8Hfni4GwWTiFYHytLQe5gUSoHHndDs.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "МЕ-17, 205 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77894398902?pwd=8Hfni4GwWTiFYHytLQe5gUSoHHndDs.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "КІ-14, 411 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77894398902?pwd=8Hfni4GwWTiFYHytLQe5gUSoHHndDs.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "МЕ-16, 201 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77894398902?pwd=8Hfni4GwWTiFYHytLQe5gUSoHHndDs.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи маркетингу у галузі",
+        "lecturer": "СМ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "ТР-14, ТР-15, 213 XI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77894398902?pwd=8Hfni4GwWTiFYHytLQe5gUSoHHndDs.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "ЕВ-13, 206 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77894398902?pwd=8Hfni4GwWTiFYHytLQe5gUSoHHndDs.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

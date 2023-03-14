@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Лесько Н.В.,",
+        "subject": "Актуальні проблеми адміністративного права та процесу (судова практика)",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/87945281966?pwd=cEMrRzZoZG1NTU93ZGU4M3MwUVhTZz09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Баїк О.І.,",
+        "subject": "Актуальні проблеми трудового права України",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76238630986?pwd=xUq3SJbZk8T3sWmfJNSqrrD2ybJB8p.1"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Забокрицький І.І.,",
+        "subject": "Актуальні проблеми конституційного та міжнародного права",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/78036636212?pwd=OI9pOIOChS3SvUDkjovRrWFaqxE4X2.1"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Василів С.С.,",
+        "subject": "Актуальні проблеми цивільного права та процесу (судова практика)",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/5228396225?pwd=Rnh1QzVzTmcyL0QwQzNKZVc5SnEvQT09%20%20Meeting%20ID:%20522%20839%206225%20Passcode:%20Lb2juE"
+        ]
+    }
+]

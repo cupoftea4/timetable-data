@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Андрейчук С.К., Дудок К.С.,",
+        "subject": "Соціологія економіки та управління",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Климанська Л.Д.,",
+        "subject": "Методи збору соціологічної інформації, частина 2",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Герус О.І.,",
+        "subject": "Комп`ютерний аналіз соціологічних даних",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aPIA-YmDKjG1gkAr8nOMVzxA_Prv-R6UAynX1sfEohY41%40thread.tacv2/1668584358470?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d63c1a94-2487-4cf4-8766-3d7936f6f887%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Проскура В.В.,",
+        "subject": "Сучасні моделі соціальної політики",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Мишок Р.Р.,",
+        "subject": "Зв`язки з громадськістю (PR)",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ]
+    }
+]

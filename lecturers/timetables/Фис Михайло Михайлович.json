@@ -1,0 +1,129 @@
+[
+    {
+        "subject": "Вища математика, частина 3",
+        "lecturer": "ГД-11сп, 608 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/4348513715?pwd=L1NSQzVSY1liMXVhVTJNU1VEZ3BPZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Вища математика, частина 3",
+        "lecturer": "ГД-11сп, 612 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/4348513715?pwd=L1NSQzVSY1liMXVhVTJNU1VEZ3BPZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 3",
+        "lecturer": "ГД-11сп, 612 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/4348513715?pwd=L1NSQzVSY1liMXVhVTJNU1VEZ3BPZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Математичне опрацювання та аналіз геоданих",
+        "lecturer": "ГД-13, 609 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Математичне опрацювання та аналіз геоданих",
+        "lecturer": "ГД-13, 609 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Картографічне моделювання",
+        "lecturer": "НЗКА-11, 609 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9135684222?pwd=4YBaVRLlq0CllYntfb5eV1rbVq3BIQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Математико-статистичні методи в картографії",
+        "lecturer": "НЗКА-11, 609 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/96482066240?pwd=RlFWbHMyVHYyOXFzYjByMGNNVDdIZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Математичне опрацювання та аналіз геоданих",
+        "lecturer": "ГД-11, 609 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Математичне опрацювання та аналіз геоданих",
+        "lecturer": "ГД-11, 609 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

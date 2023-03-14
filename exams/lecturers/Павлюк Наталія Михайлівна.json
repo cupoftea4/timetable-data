@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33,",
+        "subject": "Цивільне право , частина 2",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ПВ-34, ПВ-35, ПВ-36,",
+        "subject": "Цивільне право , частина 2",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9838054287?pwd=Z0YzM2x2cHpXMHNmUGRPY1BNZ2IwUT09"
+        ]
+    }
+]

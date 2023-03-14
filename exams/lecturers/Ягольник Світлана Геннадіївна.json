@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "ПТ-41,",
+        "subject": "Екологічна експертиза товарів",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/8850778896?pwd=R2ZyODJQd01NU2ZDQWtxeVl2clYwUT09"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "ПТ-41,",
+        "subject": "Товарознавство та митна експертиза біржових товарів",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/8850778896?pwd=R2ZyODJQd01NU2ZDQWtxeVl2clYwUT09"
+        ]
+    }
+]

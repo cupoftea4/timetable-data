@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Програмування чисельних методів",
+        "lecturer": "КБ-208, КБ-209, КБ-210, 202 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOob3ysObnOf5jMf9hs9Zqt97WtmeEW6zt8W1m3DhFRc1%40thread.tacv2/conversations?groupId=a71816f3-f558-425f-84fe-1114b15e618b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

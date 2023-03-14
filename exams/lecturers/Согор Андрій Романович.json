@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ГД-21, ГД-22,",
+        "subject": "Математичне опрацювання та аналіз геоданих",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ]
+    },
+    {
+        "date": "2022-12-20T00:00:00.000Z",
+        "lecturer": "НЗ-21,",
+        "subject": "Математичне опрацювання геодезичних вимірювань",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ]
+    }
+]

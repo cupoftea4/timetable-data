@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Колещук О.Я.,",
+        "subject": "Економіка і управління будівництвом",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTBjZmIxNTYtZGNlOS00YWM3LTg4NWYtYWQ2NmZlZDMwMjZl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d35dab98-8f7a-46c1-8d59-991a1e754019%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Гоголь М.В.,",
+        "subject": "Інноваційні та ВІМ технології в будівництві",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Іванейко І.Д.,",
+        "subject": "Організація ремонтно-реконструктивних робіт",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/89491871443?pwd=am93WmNKbml2RXhOejBIanc1QjZOUT09"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Петренко О.В.,",
+        "subject": "Технології зведення та реконструкції будівель і споруд",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Парнета Б.З.,",
+        "subject": "Утримання та використання міської забудови",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6MDBQD9CQHtk4ggp7hx_1Oj34G7MLeFW6Iiuc_PEa8k1%40thread.tacv2/conversations?groupId=2628292a-8b6c-47b0-b69a-b63d6bc967b3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

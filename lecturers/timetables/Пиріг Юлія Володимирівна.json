@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "ТР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/yit-rqqj-tve"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "ТР-34, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/bxv-smkb-fqp"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "ТР-33, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/cfh-gcxb-vpa"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "ТР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/kjk-gjat-sdb"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

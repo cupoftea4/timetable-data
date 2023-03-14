@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Інформаційне право",
+        "lecturer": "ПВ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73330660263?pwd=sayGm6aOpqMmwS2SVaVT75trSN8UR1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційне право",
+        "lecturer": "ПВ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78300398040?pwd=ydpzSyvjqbXcoFI7pd6Mlfm8OqbgbN.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційне право",
+        "lecturer": "ПВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78325479038?pwd=bljqUQC5CXuPhgcPAG5hsRVLmYzdK0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційне право",
+        "lecturer": "ПВ-41, ПВ-42, ПВ-43, ПВ-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72316633330?pwd=ZJNkB7cXteiPWV8CYTThBkygScfaAs.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційне право",
+        "lecturer": "ПВ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79041655669?pwd=bdabkVCsXaOQ8K2Lb7ZF4CvlztwOAb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Запобігання корупції у публічній сфері",
+        "lecturer": "ПВ-49, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76141105896?pwd=68X91SvU1J8I55bQ2INr0rfMkvJyxN.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

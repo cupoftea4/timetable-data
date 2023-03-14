@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Селюченко Н.Є.,",
+        "subject": "Фінансовий менеджмент у бізнесі",
+        "number": 4,
+        "urls": [
+            "http://meet.google.com/dav-jkjp-anb"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Григор'єв О.Ю.,",
+        "subject": "Діяльність суб`єктів економіки на зовнішніх ринках",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ag4yPExatrTsk0Ehf9bs-d_vhdV90MAyFFYwVXExlXho1%40thread.tacv2/conversations?groupId=58410e3e-e56b-4652-8f29-089d5ea3d185&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Данилович Т.Б.,",
+        "subject": "Економічні інструменти управління проектами і програмами розвитку соціально-економічних систем",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/81305551930?pwd=dHFnM2xIVXFIZzV1QXRIb25zd3dpQT09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Бойківська Г.М.,",
+        "subject": "Стратегії розвитку соціально-економічних систем",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:_aKTkBCysm6S-gw5CaR5pOpXU0at9raXB_CUBn-WA2w1@thread.tacv2/1674822312980?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=8e3c035a-dd2d-4e78-856e-5da36f57f1ea&parentMessageId=1674822312980&teamName=%D0%A1%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D1%96%D1%97%20%D1%80%D0%BE%D0%B7%D0%B2%D0%B8%D1%82%D0%BA%D1%83%20%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%B5%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D1%85%20%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1674822312980&allowXTenantAccess=false"
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "КІ-41, КІ-42,",
+        "subject": "Мережні операційні системи",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/77713009719?pwd=M8rddaj89rh6CLCbmrJSce6tsevJQa.1",
+            "https://us04web.zoom.us/j/75142901150?pwd=78ATS69YZrHX2ytLzzZQG7BfihhUkW.1"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "КІКС-11, КІКС-12,",
+        "subject": "Теорія інтелектуальних систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77864436479?pwd=DgaEhQJw3FrYG7VjK4Q0aLbNiTESKF.1"
+        ]
+    }
+]

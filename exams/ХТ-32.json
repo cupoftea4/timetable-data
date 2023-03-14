@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2022-12-03T00:00:00.000Z",
+        "lecturer": "Братичак М.М.,",
+        "subject": "Хімія нафти і газу",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=13a4a219-61ba-4ef7-afa3-04405929ac88&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWU0NjQ5NjQtM2VmNC00NzJhLTllMzUtYTRkOWMxZTM2N2Yw@thread.v2&messageId=0&language=uk-UA"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Токарев В.С.,",
+        "subject": "Харчова хімія",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Мельник Ю.Р.,",
+        "subject": "Теорія хімічних процесів органічного синтезу",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Дзіняк Б.О.,",
+        "subject": "Основи полімерної хімії",
+        "number": 4,
+        "urls": []
+    }
+]

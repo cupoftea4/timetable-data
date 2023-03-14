@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Безпека хмарних технологій",
+        "lecturer": "КБа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/84473230750?pwd=Z3M4MStkZlUrZ3lEQkZicXBqVUZoZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Безпека хмарних технологій",
+        "lecturer": "КБа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/84473230750?pwd=Z3M4MStkZlUrZ3lEQkZicXBqVUZoZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології блокчейну",
+        "lecturer": "ТЕБЛ-БІТ-101, ТЕБЛ-БІТ-102, ТЕБЛ-БІТ-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/82941424866?pwd=RHlaSHdPcHRaUUZoUXMraG1jOTFqUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

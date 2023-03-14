@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "Кузан Г.С.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73367646413?pwd=5PWL4KJ1feNbazAlIO6EW2TXYrgAoe.1"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Сорока С.О.,",
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/8973389103?pwd=emcxRGErV1NKTy91dVlaNytQc0Z5UT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Скочиляс-Павлів О.В.,",
+        "subject": "Адміністративне право",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/86840489112?pwd=MmdlL29lTlVSTjF2YVhoWnRKdUhNQT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Цилюрик І.І.,",
+        "subject": "Кримінальне право, частина 1",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/71993887109?pwd=fCDMSZ5pgf9jtt1A68VxjyZ0BsLha6.1"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Бек У.П.,",
+        "subject": "Трудове право",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/85676384905?pwd=eUdTQ0dwRnJaSmJzTlJSOFo3RCtwdz09"
+        ]
+    }
+]

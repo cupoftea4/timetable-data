@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Тестування програмного забезпечення програмно-апаратних систем",
+        "lecturer": "ТР-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/isn-gzyz-ikp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Тестування програмного забезпечення програмно-апаратних систем",
+        "lecturer": "ТР-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/vju-hbyg-cpx"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Проектування радіочастотних пристроїв дистанційного контролю",
+        "lecturer": "ТРПА-11, 103 XI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування радіочастотних пристроїв дистанційного контролю",
+        "lecturer": "ТРПА-11, 103 XI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

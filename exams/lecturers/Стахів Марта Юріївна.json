@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "КБ-205, КБ-206, КБ-207,",
+        "subject": "Теорія інформації та кодування",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/79609478931?pwd=FmfmDFUiakxXhf2mX0FTGM8nfyf9f4.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "КБ-201, КБ-202, КБ-203, КБ-204,",
+        "subject": "Теорія інформації та кодування",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/76669823291?pwd=ymrhuqosSUiAawLPvTb7Q3oHzj14iI.1"
+        ]
+    }
+]

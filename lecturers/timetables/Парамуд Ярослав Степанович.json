@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Програмні засоби мікропроцесорних систем",
+        "lecturer": "КІ-45, 504 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73776920957?pwd=Vmp2eXFxQ2s2UGM1d1Y5L01VMEQ4UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Програмні засоби мікропроцесорних систем",
+        "lecturer": "КІ-45, 504 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73776920957?pwd=Vmp2eXFxQ2s2UGM1d1Y5L01VMEQ4UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "КІ-42, 504 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74925027169?pwd=aVpHSHVocElTY1RqVEZ4OWlnNVMvdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "КІ-41, 504 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73412128228?pwd=QStzR2JwUysrc2Z4WjFFR3VPWGZMQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "КІ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79398877475?pwd=NUFBWHp6NU5PekMxdzFsS0tJSURpZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "КІ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79398877475?pwd=NUFBWHp6NU5PekMxdzFsS0tJSURpZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "КІ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74925027169?pwd=aVpHSHVocElTY1RqVEZ4OWlnNVMvdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "КІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73412128228?pwd=QStzR2JwUysrc2Z4WjFFR3VPWGZMQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Програмні засоби мікропроцесорних систем",
+        "lecturer": "КІ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73776920957?pwd=Vmp2eXFxQ2s2UGM1d1Y5L01VMEQ4UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Програмні засоби мікропроцесорних систем",
+        "lecturer": "КІ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73776920957?pwd=Vmp2eXFxQ2s2UGM1d1Y5L01VMEQ4UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

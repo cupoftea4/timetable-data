@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "АТСМ-11, АТСМ-12, АТСМ-13,",
+        "subject": "Управління підприємствами автомобільного транспорту",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/7142409738?pwd=eXNQSWNKMU9leXJ4dFhrUDVCMjJXUT09"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "АТСМ-11, АТСМ-12, АТСМ-13,",
+        "subject": "Силові агрегати автомобілів",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/7142409738?pwd=eXNQSWNKMU9leXJ4dFhrUDVCMjJXUT09"
+        ]
+    }
+]

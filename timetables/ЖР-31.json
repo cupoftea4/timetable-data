@@ -1,0 +1,180 @@
+[
+    {
+        "subject": "Слов`янські мови",
+        "lecturer": "Випасняк Г.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/HE3XaLWayLZq"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Слов`янські мови",
+        "lecturer": "Випасняк Г.О., ",
+        "location": " Практична",
+        "urls": [
+            "https://join.skype.com/HE3XaLWayLZq"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Журналістська майстерність, частина 2",
+        "lecturer": "Пуцята І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78709762859?pwd=bjLGhll070s3Bz3nSLNhoaOWYF6Ziu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Журналістська майстерність, частина 2",
+        "lecturer": "Пуцята І.С., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78709762859?pwd=bjLGhll070s3Bz3nSLNhoaOWYF6Ziu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Журналістська етика",
+        "lecturer": "Кузнецова О.Д., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5702243579?pwd=ZURLWFprR0ZzajRkUktKK3Q1MTQxZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Зарубіжна журналістика",
+        "lecturer": "Семен Н.Ф., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теорія масової комунікації",
+        "lecturer": "Білограць Х.Р., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73459244251?pwd=P5TMSfU2XWVamfQag8UMEMt7JqcTx4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Правові норми журналістики України",
+        "lecturer": "Галаджун З.В., ",
+        "location": " Лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72422761691?pwd=AS1tpLRN5Db3u8IpIjRt842jphVNn9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Зарубіжна журналістика",
+        "lecturer": "Семен Н.Ф., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7033859852?pwd=nxAqvGmVMEhlTHAu8BYS0xbKHzY2ay.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Правові норми журналістики України",
+        "lecturer": "Галаджун З.В., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72422761691?pwd=AS1tpLRN5Db3u8IpIjRt842jphVNn9.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Журналістська етика",
+        "lecturer": "Квасниця О.Ю., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Теорія масової комунікації",
+        "lecturer": "Білограць Х.Р., ",
+        "location": " Практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73459244251?pwd=P5TMSfU2XWVamfQag8UMEMt7JqcTx4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

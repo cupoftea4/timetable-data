@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПМ-21,",
+        "subject": "Математичний аналіз, частина 3",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/mds-wwvj-zhk"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "ФІ-21,",
+        "subject": "Математичний аналіз, частина 3",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/jwf-nkgx-bxi"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ПМ-22,",
+        "subject": "Математичний аналіз, частина 3",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/dpd-bzof-foj"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ПМ-23,",
+        "subject": "Математичний аналіз, частина 3",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/soe-ixmy-hek"
+        ]
+    }
+]

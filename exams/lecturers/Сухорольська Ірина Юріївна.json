@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "МВ-31, МВ-32, МВ-33, МВ-34, МВ-35, МВ-36,",
+        "subject": "Громадська дипломатія",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/4223656094?pwd=YWQ1dVo3ZjE1bE1QZkptVW1sMkxMZz09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "МІ-11, 511 IV н.к.,",
+        "subject": "Політологія",
+        "number": 1,
+        "urls": []
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "УАі-31,",
+        "subject": "Контролінг",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/75306421020?pwd=ou1NjYpPNSnYdMEOfaJdBh4bG5pzhT.1"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "УАі-41,",
+        "subject": "Міжнародні фінанси",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/73379736795?pwd=tPSHrWveE2y5pasbP0stV0qLXEdarp.1"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "МЕРІі-11, МЕРІі-12,",
+        "subject": "Маркетинг та цифрові технології",
+        "number": 6,
+        "urls": [
+            "https://us02web.zoom.us/j/4587854354?pwd=c2Nnbk5YR2pJWWtXY1lHZy93N3N3QT09"
+        ]
+    }
+]

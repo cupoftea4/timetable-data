@@ -1,0 +1,23 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "МК-11, 504 XXVIII н.к., 505 XXVIII н.к.,",
+        "subject": "Інформатика",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "МК-15, 504 XXVIII н.к., 505 XXVIII н.к.,",
+        "subject": "Інформатика",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "ФБ-11, 506 XXVIII н.к., 507 XXVIII н.к.,",
+        "subject": "Інформатика",
+        "number": 3,
+        "urls": []
+    }
+]

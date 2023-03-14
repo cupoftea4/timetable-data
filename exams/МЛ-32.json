@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Кулик В.В.,",
+        "subject": "Виробництво виливків із кольорових металів",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-msbTG_U_MZuyFDbvzAvIE56i1MozwSyssD-BD5sHBY1%40thread.tacv2/1669879003506?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Кулик В.В.,",
+        "subject": "Виробництво виливків із чавуну",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-msbTG_U_MZuyFDbvzAvIE56i1MozwSyssD-BD5sHBY1%40thread.tacv2/1669879064990?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Ковбасюк Т.М.,",
+        "subject": "Основи стандартизації та сертифікації в галузі ливарного виробництва",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azdAQbciRfMx8FvmNEYddV95a9qr7ptILWOPZpwjd-4A1%40thread.tacv2/1670436542875?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Кулик В.В.,",
+        "subject": "Виробництво виливків спеціальними способами лиття",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-msbTG_U_MZuyFDbvzAvIE56i1MozwSyssD-BD5sHBY1%40thread.tacv2/1669879513423?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Кушпір В.І.,",
+        "subject": "Проектування технологічних дільниць ливарних цехів",
+        "number": 1,
+        "urls": []
+    }
+]

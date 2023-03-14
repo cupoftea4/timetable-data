@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Європейські аспекти дистрибуції лікарських засобів на етапах просування від виробника до споживача",
+        "lecturer": "Заярнюк Н.Л., Лубенець В.І., ",
+        "location": " Лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTljNWFhY2QtOTUzYy00N2FlLWE2ZGQtMDM0OWE5MTQwOGFm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2284229ca8-8678-40ef-b7fe-c29ae90ff721%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Європейські аспекти дистрибуції лікарських засобів на етапах просування від виробника до споживача",
+        "lecturer": "Заярнюк Н.Л., 236 VIII н.к., ",
+        "location": " Практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

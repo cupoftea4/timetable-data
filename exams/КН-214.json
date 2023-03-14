@@ -1,0 +1,44 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "Фучила О.М.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ae0e4f51-cd68-4b4b-bf85-6f8ae89ed1ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_ZSp9XoInmNJd0NgTN_JtTR3pY8kPjAVLl2FqZ9bsNTE1@thread.tacv2&messageId=1669912963047&language=en-US",
+            "https://us04web.zoom.us/j/72839978374?pwd=6shWa6AxPYMO3frKgYSL4sg0vHICOu.1"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Кривенчук Ю.П.,",
+        "subject": "Операційні системи",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3axm27e238xNFhL6Jbt4hM1VIFl2HzYd5in3Aa6S4VXik1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=846d24b5-90bf-4527-85fc-c432e0eeb4c6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "Мельникова Н.І.,",
+        "subject": "Організація баз даних та знань",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Пукач П.Я.,",
+        "subject": "Теорія ймовірності, ймовірнісні процеси та математична статистика",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auyqTpGqr_sYp99HIiMt-1EnHaBS3NPg6X97jumHgRlI1%40thread.tacv2/1669916673959?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2279c626ea-b22e-4e61-acd3-7c2c28f49c37%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Виклюк Я.І.,",
+        "subject": "Прикладне програмування",
+        "number": 2,
+        "urls": []
+    }
+]

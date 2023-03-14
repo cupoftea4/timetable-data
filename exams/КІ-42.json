@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Бочкарьов О.Ю.,",
+        "subject": "Мережні операційні системи",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/77713009719?pwd=M8rddaj89rh6CLCbmrJSce6tsevJQa.1"
+        ]
+    },
+    {
+        "date": "2022-12-07T00:00:00.000Z",
+        "lecturer": "Бачинський Р.В.,",
+        "subject": "Програмні технології інтернету речей",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Козак Н.Б.,",
+        "subject": "Автоматизоване проектування комп`ютерних систем",
+        "number": 3,
+        "urls": [
+            "https://kozaknazar.github.io/cscad_lectures.html"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Юрчак І.Ю.,",
+        "subject": "Глобальні інформаційні мережі",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Морозов Ю.В.,",
+        "subject": "Захист інформації в комп`ютерних системах",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78541668044?pwd=cLr0FE35PWVZKueYag3lEGh-s2UMbP.1"
+        ]
+    }
+]

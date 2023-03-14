@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "КН-409, КН-410, КН-411,",
+        "subject": "Теорія прийняття рішень",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/vsz-mgdj-xve"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "КН-406, КН-407, КН-408,",
+        "subject": "Теорія прийняття рішень",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/guv-sgxs-rkq"
+        ]
+    },
+    {
+        "date": "2023-02-18T00:00:00.000Z",
+        "lecturer": "КНІТ-11, КНІТ-12,",
+        "subject": "Розробка систем комп`ютерного проектування",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/htw-ymxm-eat"
+        ]
+    }
+]

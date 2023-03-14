@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "БД-25, БД-26,",
+        "subject": "Теплогазопостачання та вентиляція",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak7rAKQziXEb2PeBnaBp2R5jYsW2IGs2j88LMifJB-w41%40thread.tacv2/conversations?groupId=3aaa3199-128d-4b88-a358-d7e7d8e7b1db&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "БД-27, БД-28,",
+        "subject": "Теплогазопостачання та вентиляція",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a59KfSVLIHEJG00m5cyZ_dFvF09UBLdGrcgVHQ9uqyvU1%40thread.tacv2/conversations?groupId=dd45e8d2-e270-4347-a931-1a9bba9d07a7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "БД-47,",
+        "subject": "Технологія заготівельних і монтажних робіт",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNwISzMPuvOyJGumPnakG52okMjwxGF3v-oX_TIwjW8c1%40thread.tacv2/conversations?groupId=cc78a3c9-c06e-46e1-b2f3-6620f34ef08f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

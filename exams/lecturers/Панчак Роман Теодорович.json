@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "КН-409, КН-410,",
+        "subject": "Адміністрування САПР",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/82419890805?pwd=VnlFOTMzaG82TUhoZlZ5WFlpQzY4dz09"
+        ]
+    },
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "КН-406, КН-407, КН-408,",
+        "subject": "Адміністрування САПР",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/81484623172?pwd=Y3ZlSHpCZDFrK3RjR21PcTFRQ2F3Zz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "КН-411,",
+        "subject": "Адміністрування комп`ютерних систем проектування І",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/87328946089?pwd=Z09hRHpGbHl6VXhqQVpVZzdxZG1Udz09"
+        ]
+    }
+]

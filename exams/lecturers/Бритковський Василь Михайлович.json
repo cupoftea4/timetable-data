@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "АТ-41, АТ-42,",
+        "subject": "Діагностика електричного і електронного обладнання автомобіля",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/83743515171?pwd=ektFbUR5VkUxRW1tOXBwL3JWcGd1QT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "АТ-34,",
+        "subject": "Діагностування електричного і електронного обладнання автомобіля",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/84843478073?pwd=OGZYY3lyZjhXTlFiUSsxNzc0ME9pUT09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "АТ-23,",
+        "subject": "Основи комп`ютерного діагностування автомобілів",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/89553387127?pwd=a2ZVN0U0M2NWeTNpUlJzc0tEYTZxUT09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "АТСМ-11, АТСМ-12, АТСМ-13,",
+        "subject": "Алгоритми і методи комп`ютерного діагностування автомобілів",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/83318814464?pwd=cFNlaytYdk5NRkJlR2RUSC8rb2dZdz09"
+        ]
+    }
+]

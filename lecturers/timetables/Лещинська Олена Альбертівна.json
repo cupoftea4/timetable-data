@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Диференціальна та порівняльна психологія",
+        "lecturer": "ПС-21, ПС-22, ПС-23, ПС-24, 313 XIX н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Диференціальна та порівняльна психологія",
+        "lecturer": "ПС-21, ПС-22, ПС-23, ПС-24, 313 XIX н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

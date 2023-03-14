@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ПМ-31, ПМ-32, ПМ-33,",
+        "subject": "Автоматизовані системи тестування програмного продукту",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ПМПМ-11, ПМКМ-11, КНІК-11,",
+        "subject": "Серверне WEB - програмування",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:6nFdJGXzYOjanEzWKF2WP70datUrBFCCtNrqTgv3cZA1@thread.tacv2/1676290328572?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%221511483e-55ef-477b-a68c-0dbfd0cfec66%22%7D"
+        ]
+    }
+]

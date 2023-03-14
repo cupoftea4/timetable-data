@@ -1,0 +1,59 @@
+[
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Моравський В.С.,",
+        "subject": "Технологічні процеси синтезу і модифікування полімерів",
+        "number": 2,
+        "urls": [
+            "https://www.google.com/url?q=https://us02web.zoom.us/j/89927867536?pwd%3DS3c5YXRBdlFoQ3J0YURTdE1Kb25wZz09&sa=D&source=calendar&ust=1635158277529646&usg=AOvVaw2bvlkvu4NYB3YFJ57v2ERi",
+            "https://teams.microsoft.com/l/channel/19%3aCBDj4FEE0qcL_entTrhvG8JmUmv560Sry5dyN3NpUCU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=05dc7a94-3add-4893-90b6-5091de115fe0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Таранський І.П.,",
+        "subject": "Менеджмент у виробництві",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/5281221496?pwd=alNTT3NCOWo2bldwbG5tUE9aN25jQT09"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Реутський В.В.,",
+        "subject": "Технологія продуктів органічного синтезу",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/3276507338?pwd=UjRUTzRMS0x2VlRjK1Btb2tBSS9DUT09"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Гринишин О.Б.,",
+        "subject": "Сучасні технології переробки горючих копалин",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aTR4WNYArKuym1zQq5z11S6ekZP7hEFOpB888DtBrXFQ1%40thread.tacv2/1676958265755?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf2477fd-dac5-4fcf-bb92-fcbf43c7b57c%22%7d",
+            "https://us04web.zoom.us/j/76593292921?pwd=GMi3iV85vj36ym9C8MpvVhaiHdhRF2.1",
+            "https://teams.microsoft.com/l/meetup-join/19%3aa15470b92c894673a54f5b15607277bb%40thread.tacv2/1676659052708?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226325827c-86ac-4aa6-b31d-d6ffe92baeb3%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Гузьова І.О.,",
+        "subject": "Засади проектування хімічних установок, ч.1",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a740431ac217d4fccbd87ba9ca5131cc9%40thread.tacv2/1676658700729?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226325827c-86ac-4aa6-b31d-d6ffe92baeb3%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Стецишин Ю.Б.,",
+        "subject": "Токсикологія продуктів харчування та косметичних засобів",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTQzMjFiNWItMTQ5ZS00ZDllLWFiOWQtMzk4NWM2NzM3ZjA1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d07e3d38-d82e-4526-b1a1-23c08cac4ead%22%7d"
+        ]
+    }
+]

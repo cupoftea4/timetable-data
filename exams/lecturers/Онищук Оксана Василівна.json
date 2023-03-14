@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ОП-21, ФБ-21, ФБ-22,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71055240208?pwd=rUCW2VewXcn6KovytOoHJRxDBhUX9a.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "АТ-21, АТ-22,",
+        "subject": "Філософія",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/74267258332?pwd=Bzu8Uxwbmq0Ruh6w7wJI4vXeYLqqje.1"
+        ]
+    },
+    {
+        "date": "2022-12-27T00:00:00.000Z",
+        "lecturer": "ХТа-11,",
+        "subject": "Філософія і методологія науки",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72263558720?pwd=8GE3q3Yvbp5wTaxXu3I3qfcXZ4QTT6.1",
+            "https://us04web.zoom.us/j/74006924558?pwd=whgibZkNNEPQqhB6kFOljqgpRJP7ak.1"
+        ]
+    }
+]

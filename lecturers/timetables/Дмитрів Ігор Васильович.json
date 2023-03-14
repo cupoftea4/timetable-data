@@ -1,0 +1,88 @@
+[
+    {
+        "subject": "Автомобілі, частина 1",
+        "lecturer": "АТ-22, 114 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Засоби комп`ютерного діагностування автомобілів",
+        "lecturer": "АТ-31, АТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73182091258?pwd=PAxPTHoae1d7DMgAHHcxo8CrxWh5VQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дослідницький семінар у галузі транспорту",
+        "lecturer": "ТТа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74154474329?pwd=QFMExSopBK3tU85LNgCpkfCbbwBzAV.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Мехатроніка автомобілів",
+        "lecturer": "АТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73182091258?pwd=PAxPTHoae1d7DMgAHHcxo8CrxWh5VQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Мехатроніка автомобілів",
+        "lecturer": "АТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73182091258?pwd=PAxPTHoae1d7DMgAHHcxo8CrxWh5VQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Автомобілі, частина 1",
+        "lecturer": "АТ-22, 114 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    }
+]

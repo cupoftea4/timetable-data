@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Матвій І.Є., Бойко В.В., +МЕМ-11, анг. мовою",
+        "subject": "Проектний менеджмент",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/83249692657?pwd=TVpncUtCam4vbGEydnlXUkV1OTc5QT09%20https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ]
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Подольчак Н.Ю., +МЕМ-11",
+        "subject": "Стратегічний менеджмент",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Таранський І.П., +МЕМ-11",
+        "subject": "Фінансовий менеджмент",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/5281221496?pwd=alNTT3NCOWo2bldwbG5tUE9aN25jQT09"
+        ]
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Галаз Л.В., +МЕМ-11",
+        "subject": "Ділове адміністрування",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Петрович Й.М., +МЕМ-11",
+        "subject": "Економіка бізнесу",
+        "number": 2,
+        "urls": []
+    }
+]

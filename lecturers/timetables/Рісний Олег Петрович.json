@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Регулювання зайнятості",
+        "lecturer": "ЕК-33, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/99311921423?pwd=TnZ3d0Q3QmlxNTVXTFR3NlpCc2pCdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Регулювання зайнятості",
+        "lecturer": "ЕК-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/99311921423?pwd=TnZ3d0Q3QmlxNTVXTFR3NlpCc2pCdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Управління персоналом",
+        "lecturer": "МЕ-26, 508 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/99311921423?pwd=TnZ3d0Q3QmlxNTVXTFR3NlpCc2pCdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

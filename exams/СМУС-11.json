@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Бондаренко Ю.Г.,",
+        "subject": "Проектний менеджмент і креативне підприємництво",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/8289610449?pwd=RkkzdzB5OVFOVG10N28vdEZLQWhIQT09%20%20Meeting%20ID:%20828%20961%200449%20Passcode:%2011"
+        ]
+    },
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "Дзюбенко Н.В.,",
+        "subject": "Музейне проектування: методологія, процеси, управління",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/81757060481?pwd=TDdSNk9qcjNBclkvODZRY1E4em1ndz09"
+        ]
+    },
+    {
+        "date": "2023-02-18T00:00:00.000Z",
+        "lecturer": "Хомчин Ю.В.,",
+        "subject": "Управління культурним туризмом",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Муравська С.В.,",
+        "subject": "Управління культурною спадщиною",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3137011977?pwd=UXhWVFFBcy9hMnpvN1loY2ptRFpTZz09"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Кулиняк І.Я.,",
+        "subject": "Маркетинг та PR для музеїв і об`єктів культурної спадщини",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/74604411654?pwd=uvPEbbYmpr4OMesTDoplNrj5ETXgor.1"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-01T00:00:00.000Z",
+        "lecturer": "ІТ-33, ІТ-41, ІТ-42,",
+        "subject": "Методи опрацювання великих даних",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "ІТУП-11, ІТУП-12, ІТУП-13,",
+        "subject": "Методи опрацювання великих даних",
+        "number": 4,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "ІТІС-11, ІТІС-12, ІТМ-11,",
+        "subject": "Методи опрацювання великих даних",
+        "number": 1,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "ІТІС-11, ІТІС-12, ІТМ-11,",
+        "subject": "Інноваційні інформаційні технології",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "ІТУП-11, ІТУП-12, ІТУП-13,",
+        "subject": "Інноваційні інформаційні технології",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    }
+]

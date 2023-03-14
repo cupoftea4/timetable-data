@@ -1,0 +1,46 @@
+[
+    {
+        "date": "2022-11-30T00:00:00.000Z",
+        "lecturer": "Гасько О.Л.,",
+        "subject": "Іноземна мова за професійним спрямуванням,частина 3",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/9064294090?pwd=ZzViVjBwc052WURCYlozeXRnOWk0UT09",
+            "https://us04web.zoom.us/j/9979974373?pwd=WWJ0c1JnbzJZQU9yTmpHZkx5bHF2UT09%20%20%D0%86%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D1%96%D1%97:%20997%20997%204373%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%83/%D0%BF%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%202KsqSF"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Закутня Ю.О.,",
+        "subject": "Основи лідогенерації та маркетингу",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Буров Є.В.,",
+        "subject": "Комп`ютерні мережі",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/81656983856?pwd=OHVCWEFHdEpWdXN6OVU5clBNTmpDQT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Кравець П.О.,",
+        "subject": "Об`єктно-орієнтоване програмування",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/6176843192?pwd=OWJ3SEppZUFlWjNoUjR6SkVLbzdWQT09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Бугрій Н.В.,",
+        "subject": "Теорія ймовірностей і математична статистика",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=48332d62-4172-4e61-87f6-8e989c2f22c1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_VL2PIkyRD0pRC-OdOke0Y6cAGp-2jm16p5lnUy2UX9Y1@thread.tacv2&messageId=1670486768204&language=en-US"
+        ]
+    }
+]

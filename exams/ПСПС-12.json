@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-02-15T00:00:00.000Z",
+        "lecturer": "Клименко М.Р.,",
+        "subject": "Глибинна психологія",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Галян І.М.,",
+        "subject": "Дизайн психологічного дослідження",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Березовська Л.І.,",
+        "subject": "Психологічне консультування з основами психотерапії, частина 1",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjE3MWY2MWYtNjM3ZS00NDQ2LTgyYzMtMjMyNTNlYjI5Zjg5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221e2c2fdb-546d-4b83-b76e-6fa7ac7c27e2%22%7d"
+        ]
+    }
+]

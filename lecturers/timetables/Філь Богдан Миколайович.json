@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "КБ-19, 405 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://tel.meet/vuo-buug-hvg?pin=6429313799008"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "АЕ-11, 214 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/xbn-tidm-qfz?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теорія ймовірностей, ймовірнісні процеси та математична статистика",
+        "lecturer": "ІР-22, 114 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/bxn-grrh-woy?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "КБ-19, 405 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/bxn-grrh-woy?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ТТ-12, 215 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/qoh-dbzx-rej?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ТТ-12, 215 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/qoh-dbzx-rej?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Піцишин Б.С.,",
+        "subject": "Мережі водовідведення",
+        "number": 4,
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Орел В.І.,",
+        "subject": "Проектування водопостачання та водовідведення малих об`єктів",
+        "number": 4,
+        "urls": [
+            "https://zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Мних Р.В.,",
+        "subject": "Хімія води та мікробіологія",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "Матлай І.І.,",
+        "subject": "Гідротехнічні споруди",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ]
+    }
+]

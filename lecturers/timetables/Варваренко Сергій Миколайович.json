@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Полімери у виробництві продуктів харчування та косметичних засобів",
+        "lecturer": "ХТХД-11, 218 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzRkNDU4ODAtY2FjYS00OWQwLWI3NWUtMGQ2ZjU1ZjNjNjJk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220b21f21f-5aa8-4179-828d-f0fc17713c73%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Хімія і технологія косметичних засобів",
+        "lecturer": "ХТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzRkNDU4ODAtY2FjYS00OWQwLWI3NWUtMGQ2ZjU1ZjNjNjJk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220b21f21f-5aa8-4179-828d-f0fc17713c73%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Хімія і технологія косметичних засобів",
+        "lecturer": "ХТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTI3MmE0YWItZTFjMS00OWRmLTliMGMtYmFiN2U1Y2ZiZmMx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220b21f21f-5aa8-4179-828d-f0fc17713c73%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Методи аналізу продуктів харчування та косметичних засобів",
+        "lecturer": "ХТ-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a984865e3dfa646ab90110d7c9ac77840%40thread.tacv2/1675859366053?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a33ba216-ede1-4bb8-a5ed-0b4178482863%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Методи аналізу продуктів харчування та косметичних засобів",
+        "lecturer": "ХТ-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a984865e3dfa646ab90110d7c9ac77840%40thread.tacv2/1675859366053?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a33ba216-ede1-4bb8-a5ed-0b4178482863%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методи аналізу продуктів харчування та косметичних засобів",
+        "lecturer": "ХТ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTIwNzVjMGUtNDNjNC00MTMxLWE5M2UtMTVhZmE5MjU5ZjA1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a33ba216-ede1-4bb8-a5ed-0b4178482863%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методи аналізу продуктів харчування та косметичних засобів",
+        "lecturer": "ХТ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTIwNzVjMGUtNDNjNC00MTMxLWE5M2UtMTVhZmE5MjU5ZjA1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a33ba216-ede1-4bb8-a5ed-0b4178482863%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

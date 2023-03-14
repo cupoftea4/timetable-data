@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "ЖР-21, ЖР-22, ЖР-23,",
+        "subject": "Медіатехнології",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09"
+        ]
+    },
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "ЖР-31,",
+        "subject": "Сучасна техніка ЗМІ",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/7033859852?pwd=UHhQZXBta2ZrSHRrb1QzdVZYeUJzQT09"
+        ]
+    }
+]

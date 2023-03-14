@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-02-10T00:00:00.000Z",
+        "lecturer": "РІ-11, РІ-12, 215 I н.к.,",
+        "subject": "Дискретна математика",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "ІК-11, ІК-12, 218 XI н.к.,",
+        "subject": "Дискретна математика",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9655560785?pwd=MDQvZ2RNUUN0SzhPRGl4eEowWllaUT09"
+        ]
+    }
+]

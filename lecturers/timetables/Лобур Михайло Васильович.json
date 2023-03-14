@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Автоматизація проектування мікроелектронних систем",
+        "lecturer": "КН-306, КН-307, КН-308, 325 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/jam-ivht-xjv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизація проектування мікросистем",
+        "lecturer": "КН-309, КН-310, КН-311, 325 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/gcq-nvyn-tto"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні методи проектування інтелектуальних систем",
+        "lecturer": "КНа-11, КНа-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/jam-ivht-xjv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні методи проектування інтелектуальних систем",
+        "lecturer": "КНа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://tel.meet/hgq-jvdc-uih?pin=3183927208399"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні методи проектування інтелектуальних систем",
+        "lecturer": "КНа-12, ",
+        "location": " практична",
+        "urls": [
+            "https://calendar.google.com/calendar/u/0/r/eventedit/N2pjNGZ1OW9hbnUwbGJqYjVsOXY1ZTNpMXNfMjAyMzAyMjFUMTIxNTAwWiBteWtoYXlsby52LmxvYnVyQGxwbnUudWE?tab=mc"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

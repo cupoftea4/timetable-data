@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Гулай Б.І.,",
+        "subject": "Вентиляція, частина 2",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Савченко О.О.,",
+        "subject": "Теплопостачання",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auncPGJulvET5uc2N_HYwzPzYge2b79Ni134k8y71zRg1%40thread.tacv2/1669806000504?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Юркевич Ю.С.,",
+        "subject": "Теплогенеруючі установки",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aLkrlDlpMSk_P8_SWgI0Gujht9BEDkMQVOrsRkI_ak6Q1%40thread.tacv2/conversations?groupId=0b5e8446-bac9-4d3b-a4d4-669a428af69b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Довбуш О.М.,",
+        "subject": "Технологія заготівельних і монтажних робіт",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNwISzMPuvOyJGumPnakG52okMjwxGF3v-oX_TIwjW8c1%40thread.tacv2/conversations?groupId=cc78a3c9-c06e-46e1-b2f3-6620f34ef08f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

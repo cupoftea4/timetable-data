@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ЕВ-21f,",
+        "subject": "Бухгалтерський облік",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/78166246801?pwd=qpUeGHPS3fUauxPdZpriRbbb0uZMGD.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ОП-21,",
+        "subject": "Бухгалтерський облік",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78166246801?pwd=qpUeGHPS3fUauxPdZpriRbbb0uZMGD.1"
+        ]
+    },
+    {
+        "date": "2023-02-25T00:00:00.000Z",
+        "lecturer": "ОПАГ-11, ОПМ-11,",
+        "subject": "Бухгалтерський облік в управлінні підприємством",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73926457477?pwd=sUmpaR5e7t9cc44hwzsq79hFXXMwTk.1"
+        ]
+    }
+]

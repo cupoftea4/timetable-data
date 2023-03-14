@@ -1,0 +1,75 @@
+[
+    {
+        "subject": "Методи наукових дослідження в інженерії програмного забезпечення",
+        "lecturer": "ПЗа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7388104071?pwd=SXNISXhLdDM0YURzem55Rm43c2xkQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методи наукових дослідження в інженерії програмного забезпечення",
+        "lecturer": "ПЗа-21, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7388104071?pwd=SXNISXhLdDM0YURzem55Rm43c2xkQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методи та засоби наукових досліджень в інженерії програмного забезпечення",
+        "lecturer": "ПЗІП-11, ПЗІП-12, ПЗМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7388104071?pwd=SXNISXhLdDM0YURzem55Rm43c2xkQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дослідницький семінар зі спеціальності інженерія програмного забезпечення",
+        "lecturer": "ПЗа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/7388104071?pwd=SXNISXhLdDM0YURzem55Rm43c2xkQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з підготовки наукових публікацій",
+        "lecturer": "ПЗМ-21, 809 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

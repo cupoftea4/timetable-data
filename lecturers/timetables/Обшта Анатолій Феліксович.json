@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Алгоритми та моделі обчислень",
+        "lecturer": "КІ-205, 505б1 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9-WeZVLYk42dIOzF0d4Ku3Uuf2v6U10zrvTL7aaiZUc1%40thread.tacv2/conversations?groupId=d763478e-9d0d-4366-891d-30828a9f0179&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Алгоритми та моделі обчислень",
+        "lecturer": "КІ-205, 904а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9-WeZVLYk42dIOzF0d4Ku3Uuf2v6U10zrvTL7aaiZUc1%40thread.tacv2/conversations?groupId=d763478e-9d0d-4366-891d-30828a9f0179&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Алгоритми та моделі обчислень",
+        "lecturer": "КІ-206, 904а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aEOQGwGJ8f8lz9JQYQ28BQkIheEO9ExCiBHhP8-jHTJg1%40thread.tacv2/conversations?groupId=59c904c3-0f53-47d2-8d1c-a0cb7d00f530&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Алгоритми та моделі обчислень",
+        "lecturer": "КІ-206, 508 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aEOQGwGJ8f8lz9JQYQ28BQkIheEO9ExCiBHhP8-jHTJg1%40thread.tacv2/conversations?groupId=59c904c3-0f53-47d2-8d1c-a0cb7d00f530&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "КБ-201, КБ-202, КБ-203, КБ-204, 208 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-npcoul5rcke0z9QFvaD88VmkqVbJz-H7HMxKcRd1qQ1%40thread.tacv2/conversations?groupId=28b35b7c-32f5-4f6e-8c7b-f300a09753aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "КБ-33, КБ-34, КБ-35, КБ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7rQLd9Xpmv0TCc9IIkMWTFCwYUeU0_2k9irIsYsRhkg1%40thread.tacv2/conversations?groupId=8d0fe115-260a-4b84-bf9f-fea4c09ccb25&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "КБ-203, 220 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aS4GuQDljixHv5wj1FlxjiToAEixrHojmIE1D-VLMlp41%40thread.tacv2/conversations?groupId=15c9426d-5180-466c-b50f-d0455aad7c56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "КБ-201, 208 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aejEzZV67n5l2nq4kbOdyZ2xcLtmSJ3JD3Rnv8RpuM6w1%40thread.tacv2/conversations?groupId=93783c1d-c897-4a1f-bf8d-e177f315d14b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "КБ-204, 220 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3azCkLJX36ZZLXPesxlFEO43MohsWVpJhy4UOsC4zCda41%40thread.tacv2/conversations?groupId=52fe704c-dcc5-4789-908f-297a77964936&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "КБ-202, 220 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aHPMjb_BOB3E2USYO_5Jl2_fKzEts11K7AgbJum5_AzA1%40thread.tacv2/conversations?groupId=e4022966-ddbd-40fc-a4ec-848e3eda3ca5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "КБ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNHsB1K5QJ9uXuW787r7rLnpveKtWKBRgPlUtsq1P-aY1%40thread.tacv2/conversations?groupId=98273c1b-d38d-4256-b672-fd5db712780f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "КБ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-dFWFm7ST_O8EJEQAvW7ULbUabSggc10OxgrZ-MUWDQ1%40thread.tacv2/conversations?groupId=3ec43a3f-5238-422f-ac28-6fdca97fc374&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "КБ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYsSiK3NiOf9EZ78Oopv4ZlU4FsphPUk7e0KZeaySRO41%40thread.tacv2/conversations?groupId=17bd31e3-af6e-4a9b-aeca-d1e8fe21744c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Алгоритми та моделі обчислень",
+        "lecturer": "КІ-206, 508 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afdfj37TfnC2Zvmeydac-y0H7pfsDxNH7e61CHkwcaeg1%40thread.tacv2/conversations?groupId=be2c4303-12a6-4b88-9585-4c6228d02c5a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Алгоритми та моделі обчислень",
+        "lecturer": "КІ-205, 901 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3auPvE_VfUufe87LYPoS4KEA02V32qImiBKK-ojru01js1%40thread.tacv2/conversations?groupId=83afdbed-010c-4002-a2b2-3a835ca7c90c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "КБ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a63GYS0ScTnMAntN_wIrxecwwwyOHfTLE4BInoRdK5D41%40thread.tacv2/conversations?groupId=aa77b081-7e35-4e5c-8269-32322bfc36c5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

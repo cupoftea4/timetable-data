@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Математичний аналіз та диференційні рівняння",
+        "lecturer": "ПП-12, 406 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78396553006?pwd=ZiP3uWmCKWx0xl2EiH6R1K5lQ5ThHb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Математичний аналіз",
+        "lecturer": "ВП-13, 215 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78396553006?pwd=ZiP3uWmCKWx0xl2EiH6R1K5lQ5ThHb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Математичний аналіз",
+        "lecturer": "ВП-13, 215 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78396553006?pwd=ZiP3uWmCKWx0xl2EiH6R1K5lQ5ThHb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

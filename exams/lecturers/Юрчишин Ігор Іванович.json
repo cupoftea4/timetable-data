@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "МП-31f,",
+        "subject": "Технологія машинобудування",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aFOKEnQks9dnXaeWqNA2JPCXi_hvoc97EqanWzUdpmtU1%40thread.tacv2/1670571083884?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "МПТМ-11,",
+        "subject": "Інформаційні технології підготовки виробництва машинобудівного підприємства",
+        "number": 2,
+        "urls": []
+    }
+]

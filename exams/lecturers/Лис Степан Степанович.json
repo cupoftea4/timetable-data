@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "ТЕ-31,",
+        "subject": "Паливо та основи теорії горіння",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3anzKdMYm1W3zyLinq_2Td6_CluT0oXetwoeRSqqwhhQo1%40thread.tacv2/conversations?groupId=8a0e9d03-67ab-4180-b993-e312ebfa1204&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "АЕ-41,",
+        "subject": "Матеріали ядерної техніки",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a310fc32f1b744af2ac5209fceba8666b%40thread.tacv2/conversations?groupId=ab092d39-94e6-4d69-a11c-df57f8fe7526&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "АЕ-21,",
+        "subject": "Ядерна та нейтронна фізика",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac531a6321c314894bbcbeea8b83b5b0d%40thread.tacv2/conversations?groupId=415da38c-41fa-479c-8c26-309b8c02956e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

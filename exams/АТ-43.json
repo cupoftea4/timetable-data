@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-14T00:00:00.000Z",
+        "lecturer": "Лема Г.В.,",
+        "subject": "Економіка підприємства",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Літвін Р.Г.,",
+        "subject": "Спеціалізовані автомобілі",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78705360178?pwd=JZrhumpVuk02SJEO7AUOMDxFDawpuX.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Нікіпчук С.В.,",
+        "subject": "Організація перевезення небезпечних вантажів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/634486685?pwd=UndLRFJLK2NMU0lSUmFvVFd1K1NsZz09"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Шуляр Р.А.,",
+        "subject": "Будівельні конструкції заводського виготовлення",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/9981777404?pwd=WkFaanJRS1UvbG1Kd29PRFpiOE1vZz09"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Каганов В.О.,",
+        "subject": "Основи виробництва бетонних і залізобетонних конструкцій",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Марущак У.Д., Саницький М.А.,",
+        "subject": "Основи термомодернізації будинків",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aFcS13ay6nERpgtBrsxnip4pWUmzl-1OsXgKS4pXD_F81%40thread.tacv2/1670748249417?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22fd19b86d-0109-4b21-958e-2003f29574dc%22%7d"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Пелешко І.Д.,",
+        "subject": "Основи САПР на підприємствах будівельної індустрії",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/77393428517?pwd=b2Z4cGpnQThiMk1hdTN3UmNLckw0Zz09"
+        ]
+    }
+]

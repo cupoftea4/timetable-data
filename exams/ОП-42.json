@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "Грицай О.І.,",
+        "subject": "Облік за видами економічної діяльності",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/627955001?pwd=bVBnMUNnM0g0MWdkcnBMZld2dlFwQT09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20627%20955%20001%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20912406"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Яструбський М.Я.,",
+        "subject": "Податкова звітність",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/88529809653?pwd=RlZZT2hWTWtyOHp1Q2NYdndFc1duUT09"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Воськало Н.М.,",
+        "subject": "Податкові розрахунки",
+        "number": 3,
+        "urls": []
+    }
+]

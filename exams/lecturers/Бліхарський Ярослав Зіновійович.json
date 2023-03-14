@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "БД-46,",
+        "subject": "Основи та фундаменти транспортних споруд, частина 1",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "БД-37,",
+        "subject": "Механіка грунтів транспортних споруд",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/81205951584?pwd=WXRSRTVqTE5Ob3FWZVdYL244SEgxdz09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "БДМТ-11, БДМТ-12,",
+        "subject": "Проектування та дослідження залізобетонних мостів та споруд",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/82336118144?pwd=MllWTzBNNlM4MkdJNER5USt4STJTdz09"
+        ]
+    }
+]

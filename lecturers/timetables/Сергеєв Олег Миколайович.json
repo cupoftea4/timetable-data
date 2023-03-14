@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Банківський менеджмент",
+        "lecturer": "ФБСС-11, ФБМ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2638QHRxEijU8hX_4WzeN3HrtLZKNIj-3vYkdAU-xVM1%40thread.tacv2/1677081422623?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Банківський менеджмент",
+        "lecturer": "ФБСС-11, ФБМ-11, ",
+        "location": ", практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2638QHRxEijU8hX_4WzeN3HrtLZKNIj-3vYkdAU-xVM1%40thread.tacv2/1677081243986?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фінансово-кредитне забезпечення власного бізнесу",
+        "lecturer": "ФКЗ-ФІН-201, 404 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Фінансовий моніторинг і протидія шахрайству",
+        "lecturer": "ФБ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9ZqNy0yFxQHZ_bjp5qdtn2Ac2yQg0JDFtcuFfJ0OQtM1%40thread.tacv2/1677080123906?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Фінансовий моніторинг і протидія шахрайству",
+        "lecturer": "ФБ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9ZqNy0yFxQHZ_bjp5qdtn2Ac2yQg0JDFtcuFfJ0OQtM1%40thread.tacv2/1677080426581?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Аналіз фінансових ринків",
+        "lecturer": "АФР-ФІН-101, АФР-ФІН-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aE5p2IWWUGeA5YYSeUT0YpcP-HtY-VNptwjoJYm9-egs1%40thread.tacv2/1677078335377?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2266f246d5-c4f7-43af-9888-54cf9fc797ec%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Фінансово-кредитне забезпечення власного бізнесу",
+        "lecturer": "ФКЗ-ФІН-202, 403 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Фінансово-кредитне забезпечення власного бізнесу",
+        "lecturer": "ФКЗ-ФІН-201, ФКЗ-ФІН-202, ФКЗ-ФІН-203, ФКЗ-ФІН-204, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Фінансово-кредитне забезпечення власного бізнесу",
+        "lecturer": "ФКЗ-ФІН-203, 403 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    },
+    {
+        "subject": "Фінансово-кредитне забезпечення власного бізнесу",
+        "lecturer": "ФКЗ-ФІН-204, 403 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

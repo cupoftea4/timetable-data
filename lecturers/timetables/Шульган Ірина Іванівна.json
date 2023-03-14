@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Запобігання корупції у публічній сфері",
+        "lecturer": "ПВ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82958529126?pwd=bWlHNE0vVjVkWkdRdTJQOCtJZDRRdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Запобігання корупції у публічній сфері",
+        "lecturer": "ПВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/87262219208?pwd=M0paK3NLcHF3aVpRWkszNFNNMDVzdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Запобігання корупції у публічній сфері",
+        "lecturer": "ПВ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85860254183?pwd=L3habEFMNUhLRTVBL0Z6RmZXOGc1Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Запобігання корупції у публічній сфері",
+        "lecturer": "ПВ-41, ПВ-42, ПВ-43, ПВ-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81922445555?pwd=Y0NJVWZ5clhpVmxzbjl3NWtXKzdRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Запобігання корупції у публічній сфері",
+        "lecturer": "ПВ-45, ПВ-47, ПВ-49, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89251992342?pwd=bmtMc1R2Smgzd1JRZ1BVZ0x4aEtpZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

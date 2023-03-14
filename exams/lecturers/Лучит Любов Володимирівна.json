@@ -1,0 +1,30 @@
+[
+    {
+        "date": "2022-12-02T00:00:00.000Z",
+        "lecturer": "ПВ-22,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ac1f8f956b3e84eccae571ad05ac15dd9%40thread.tacv2/PV%252022?groupId=b0cafdcf-873a-43fb-ae3b-787c88c5d4d8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ПС-24,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aa431e7321235478999f063283448f551%40thread.tacv2/PS%252024?groupId=51baf494-3c65-4f16-b148-0a25e8315e80&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ТУ-21,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 3",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aedef372ebab54066ac9f183a6f86a97d%40thread.tacv2/TU%252021?groupId=6851100c-7894-4c33-a95d-a622ccb2ead0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://teams.microsoft.com/l/channel/19%3a4f44934fbb124efc9df4adef0c562e7a%40thread.tacv2/TU%252022?groupId=62d94ea4-d6b0-4e19-91c6-a634495994bc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Проектування, аналіз та синтез паралельних алгоритмів",
+        "lecturer": "КІа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aCEEyu5DMWGS15bJ-5kx47MxnYChe5SgXZHeL7f8uIOE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=cef83ab0-ad60-4b18-a1d2-cc78adcbd430&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Проектування, аналіз та синтез паралельних алгоритмів",
+        "lecturer": "КІа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aCEEyu5DMWGS15bJ-5kx47MxnYChe5SgXZHeL7f8uIOE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=cef83ab0-ad60-4b18-a1d2-cc78adcbd430&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

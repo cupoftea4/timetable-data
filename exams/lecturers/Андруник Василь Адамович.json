@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "ФЛ-35, ФЛ-36,",
+        "subject": "Інтелектуальний аналіз даних",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/98213400258?pwd=WmJZeGFGazFuTSt0QmFWYXdIUjRrUT09"
+        ]
+    },
+    {
+        "date": "2022-12-06T00:00:00.000Z",
+        "lecturer": "ФЛ-37, ФЛ-38,",
+        "subject": "Інтелектуальний аналіз даних",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/98213400258?pwd=WmJZeGFGazFuTSt0QmFWYXdIUjRrUT09"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "СА-41, СА-42,",
+        "subject": "Візуалізація даних",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/93768676139?pwd=bHlJUTdYSmhTYWdFOTlMZGFzaTVkZz09"
+        ]
+    },
+    {
+        "date": "2022-12-15T00:00:00.000Z",
+        "lecturer": "ФЛ-31, ФЛ-32,",
+        "subject": "Інтелектуальний аналіз даних",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/98213400258?pwd=WmJZeGFGazFuTSt0QmFWYXdIUjRrUT09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "ФЛ-33, ФЛ-34,",
+        "subject": "Інтелектуальний аналіз даних",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/98213400258?pwd=WmJZeGFGazFuTSt0QmFWYXdIUjRrUT09"
+        ]
+    }
+]

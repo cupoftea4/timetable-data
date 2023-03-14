@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "СА-21, СА-22,",
+        "subject": "Об`єктно-орієнтоване програмування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6176843192?pwd=OWJ3SEppZUFlWjNoUjR6SkVLbzdWQT09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "СА-23, УП-21,",
+        "subject": "Об`єктно-орієнтоване програмування",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/6176843192?pwd=OWJ3SEppZUFlWjNoUjR6SkVLbzdWQT09"
+        ]
+    }
+]

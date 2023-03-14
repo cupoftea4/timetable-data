@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2022-12-08T00:00:00.000Z",
+        "lecturer": "МЕ-35, МЕ-36, МЕ-37, МЕ-38,",
+        "subject": "Управління інноваційною діяльністю",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/73070828780?pwd=k7515NAmfag2uADIqCrS6B1vZmMPCR.1"
+        ]
+    },
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "СМУС-11, СМУС-12,",
+        "subject": "Маркетинг та PR для музеїв і об`єктів культурної спадщини",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/74604411654?pwd=uvPEbbYmpr4OMesTDoplNrj5ETXgor.1"
+        ]
+    }
+]

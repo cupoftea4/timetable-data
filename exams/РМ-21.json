@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Чурсінова О.Ю.,",
+        "subject": "Філософія",
+        "number": 3,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Ремешило-Рибчинська О.І.,",
+        "subject": "Історія мистецтва і архітектури України",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Лехнюк Р.О.,",
+        "subject": "Історія державності та культури України",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/3871631655?pwd=MW16TUdBTWlnNFR3dU5KT0FRQ250UT09"
+        ]
+    }
+]

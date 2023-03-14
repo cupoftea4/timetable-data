@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Гнідик І.І.,",
+        "subject": "Культурна спадщина і туристичний потенціал Львова",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/71458606408?pwd=BaC6KnibXc3GL4MQ7bnLseBcrGmd0b.1"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Гнідик І.І.,",
+        "subject": "Культурна спадщина іконопису",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/71458606408?pwd=BaC6KnibXc3GL4MQ7bnLseBcrGmd0b.1"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "Лисейко Я.Б.,",
+        "subject": "Спеціальні історичні дисципліни",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/7830143673?pwd=a0hSdU5EQzlublp3dXg5L0tmNjIrZz09"
+        ]
+    },
+    {
+        "date": "2022-12-16T00:00:00.000Z",
+        "lecturer": "Дзюбенко Н.В.,",
+        "subject": "Експозиційна робота музеїв",
+        "number": 4,
+        "urls": []
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Бурштинська Х.В.,",
+        "subject": "Геоматика та дистанційні методи в дослідженні територій",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aecea6d13f6ba4e2cbbe5ac2750a4ce87%40thread.tacv2/conversations?groupId=a97d0824-33c0-4405-b97d-51b994aa86db&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-18T00:00:00.000Z",
+        "lecturer": "Колб І.З.,",
+        "subject": "Прикладна геоінформатика",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Ступень Н.М.,",
+        "subject": "Землевпорядне проектування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6465126974?pwd=dzcvK2E4V3VaMytrMlI2aDNsZ0Z5Zz09"
+        ]
+    }
+]

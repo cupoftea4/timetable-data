@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Ступницький В.В.,",
+        "subject": "Технології механоскладального виробництва",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-22T00:00:00.000Z",
+        "lecturer": "Боровець В.М.,",
+        "subject": "Технологічні процеси пакування харчових продуктів",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Магерус Н.І.,",
+        "subject": "Програмування і комп`ютерні технології у виробництві",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDI3Y2JhOGUtNzRhNi00YTE4LTgwNDMtN2I2MDc5YTUxZjg1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221efa9729-3d0c-435b-a7b3-797d4ce14598%22%7d"
+        ]
+    },
+    {
+        "date": "2023-02-27T00:00:00.000Z",
+        "lecturer": "Дмитерко П.Р.,",
+        "subject": "Комп`ютерні технології в формоутворенні і композиції обладнання",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aqt7KXL8jBh3kPuVzdYeuT8p_td9uyADI7SlpYt0ks-I1%40thread.tacv2/conversations?groupId=b07c5ca4-d9d3-489d-bfe2-2510e7c143ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Гаврильченко О.В.,",
+        "subject": "Вібраційні процеси та обладнання виробництв",
+        "number": 2,
+        "urls": []
+    }
+]

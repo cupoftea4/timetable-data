@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Управління неприбутковими організаціями",
+        "lecturer": "ПУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3262603270?pwd=NWNnN3dFMEY4NEV4Uk84SGxNVVEwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління неприбутковими організаціями",
+        "lecturer": "ПУ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3262603270?pwd=NWNnN3dFMEY4NEV4Uk84SGxNVVEwQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління неприбутковими організаціями",
+        "lecturer": "ПУ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3262603270?pwd=NWNnN3dFMEY4NEV4Uk84SGxNVVEwQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

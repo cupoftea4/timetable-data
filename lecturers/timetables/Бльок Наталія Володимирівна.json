@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ПВ-35, ПВ-36, ПВ-37, ПВ-38, ПВ-39, ПВ-310, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73810695754?pwd=BziN3iYc1xQHgGNeqm2lEte5E1w01x.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "ПВ-38, ПВ-39, ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77032759943?pwd=8XqvuJYlzVwg063sB1aGeLOnxPpU0f.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "ПВ-35, ПВ-36, ПВ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73750014044?pwd=SGvieRGP4nT6ii1JnnwHNn0jLpZvTD.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "ПВ-38, ПВ-39, ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77002625273?pwd=fWqqSuUKB0u5HLNraa7n185WHaQD1U.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "ПВ-35, ПВ-36, ПВ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78121120226?pwd=BlUoOGlGab1Er43HG7LrfXzqf0bgFH.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "ПВ-33, ПВ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78433184839?pwd=yayFotLPDSZDwEqMRl6M7qVugEr7Hg.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "ПВ-33, ПВ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77861643282?pwd=fIIzoJMaVbEPxBmHYc4UAR2tIcZFTD.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77861643282?pwd=fIIzoJMaVbEPxBmHYc4UAR2tIcZFTD.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Адвокатура в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72024641296?pwd=WNWUjUDGTZnHBuDg1GgWjlLeUGtyoA.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

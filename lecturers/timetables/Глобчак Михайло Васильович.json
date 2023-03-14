@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Технічне діагностування автомобілів",
+        "lecturer": "АТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/4749208487?pwd=R2FxUkNXUFBXdkhnbkEwaU1rQ0VHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

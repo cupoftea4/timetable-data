@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-02-14T00:00:00.000Z",
+        "lecturer": "Стасюк І.Д.,",
+        "subject": "Автоматизовані системи керування технологічними процесами на атомних електричних станціях",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-02-17T00:00:00.000Z",
+        "lecturer": "Матіко Г.Ф.,",
+        "subject": "Діагностика обладнання атомних електричних станцій",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ae813f17051aa41e58a8949f020f0b20a%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b8cbe7d7-8bd4-4974-9a57-0be0c0abc38a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-20T00:00:00.000Z",
+        "lecturer": "Кравець Т.Ю.,",
+        "subject": "Фізична ядерна безпека",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ad8ac4c0e0943470e9446a8ff2234a892%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=27e18bff-3e8f-4c2d-af29-8fa4b934fdcd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-02-23T00:00:00.000Z",
+        "lecturer": "Матіко Г.Ф.,",
+        "subject": "Оперативне управління енергоблоком атомної електричної станції",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ae813f17051aa41e58a8949f020f0b20a%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b8cbe7d7-8bd4-4974-9a57-0be0c0abc38a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

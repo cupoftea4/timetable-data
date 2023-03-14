@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "ПВ-34, ПВ-35, ПВ-36,",
+        "subject": "Фінансове право",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09"
+        ]
+    },
+    {
+        "date": "2022-12-12T00:00:00.000Z",
+        "lecturer": "ПВ-37, ПВ-38, ПВ-39,",
+        "subject": "Фінансове право",
+        "number": 1,
+        "urls": [
+            "https://zoom.us/j/3898881706?pwd=bUVsc2pYMnBzVE9YQVd5dWw3cmxOZz09"
+        ]
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "ПВПР-11f,",
+        "subject": "Актуальні проблеми адміністративного права та процесу (судова практика)",
+        "number": 5,
+        "urls": []
+    }
+]

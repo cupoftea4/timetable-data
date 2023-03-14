@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2022-12-05T00:00:00.000Z",
+        "lecturer": "Хвойницька-Перейма Х.М.,",
+        "subject": "Філософія",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/86401459967?pwd=c2cwRzBxdWtmNXpsK1pvQVBjVUdpZz09"
+        ]
+    },
+    {
+        "date": "2022-12-13T00:00:00.000Z",
+        "lecturer": "Лисенко О.Ю.,",
+        "subject": "Основи дизайну предметного середовища",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=dd414dbd-1b82-47b1-8263-0d56d28e71e9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_4TLHb5L_kTmpjZWvg7L6_tbLTcYNCYME9lpY3W211cE1@thread.tacv2&messageId=1670513093972&language=en-US"
+        ]
+    },
+    {
+        "date": "2022-12-09T00:00:00.000Z",
+        "lecturer": "Казанцева Т.Є., Мотиль Р.Я.,",
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 3",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aH04x_DJvrGjELq4hJh8YZcgRUL2520U4XOwlpDKFgGE1%40thread.tacv2/conversations?groupId=20d0cc66-4002-4024-8bc0-38a8ff3b7b4e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

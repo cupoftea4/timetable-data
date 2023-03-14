@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2023-02-24T00:00:00.000Z",
+        "lecturer": "Литвин І.В.,",
+        "subject": "Глобальна економіка",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71341150579?pwd=Bn5VPw4lTDMzbTF4261hy1fr2WRpIo.1%20%20Meeting%20ID:%20713%204115%200579%20Passcode:%2096q8Gj"
+        ]
+    },
+    {
+        "date": "2023-02-13T00:00:00.000Z",
+        "lecturer": "Олексів І.Б.,",
+        "subject": "Економетрика у міжнародному бізнесі",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-16T00:00:00.000Z",
+        "lecturer": "Олексів І.Б.,",
+        "subject": "Міжнародний стратегічний менеджмент",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-02-21T00:00:00.000Z",
+        "lecturer": "Харчук В.Ю.,",
+        "subject": "Міжнародний фінансовий менеджмент",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aZVJc4jKXpY85MeWtcI0BnVJxhkKGBBexI5wufdARsjA1%40thread.tacv2/General?groupId=77407157-548d-470f-b058-82ac5f46649d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]
