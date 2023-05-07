@@ -70,6 +70,7 @@ export async function getLecturers(department: string | null = null) {
 			params = {
 				department_name_selective: timetableCategory,
 				teachername_selective: timetableName,
+				semestr_selective: '2',
 				assetbuilding_name_selective: "весь семестр"
 			};
 		} else {
