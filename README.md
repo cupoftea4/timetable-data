@@ -1,22 +1,52 @@
-# nulp-timetable-data
+# LPNU timetable data
 Timetable data for NULP in JSON format
 
-All data files are stored on `data` branch and updated every day on 3AM
+All data files are stored on `data` branch and updated every day at 3AM
 
 # Structure
+
+## General
 ### `institutes.json`
 Sorted JSON array with valid institutes
 
 ### `institutes/INSTITUTE_NAME.json`
 Sorted JSON array with groups in that institute
 
+## Students
 ### `groups.json`
 Sorted JSON array with all valid groups in university
 
-### `timetables/GROUP_NAME.json`
+### `timetables/<GROUP_NAME>.json`
 JSON array with lessons
 
-## Lesson
+## Selective
+### `selective/groups.json`
+Sorted JSON array with all selective groups
+
+### `selective/timetables/<GROUP_NAME>.json`
+JSON array with lessons
+
+## Lecturers
+### `lecturers/all.json`
+JSON array with all lecturers in LPNU
+
+### `lecturers/departments.json`
+JSON array with all departments in LPNU
+
+### `lecturers/grouped.json`
+JSON array with all lecturers grouped by department in LPNU
+
+### `lecturers/timetables/<LECTURER_NAME>.json`
+JSON array with lessons for the lecturer
+
+## Exams
+### `exams/<GROUP_NAME>.json`
+JSON array with exams
+
+### `exams/lecturers/<LECTURER_NAME>.json`
+JSON array with exams
+
+# Lesson Type Example
 Example structure of a lesson:
 ``` json
 {
