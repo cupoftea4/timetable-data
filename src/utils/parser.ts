@@ -3,6 +3,7 @@ import jsdom from "jsdom";
 const { JSDOM } = jsdom;
 
 const NULP_STUDENTS = "https://student.lpnu.ua/";
+const NULP_STUDENTS_2023 = "https://student2023.lpnu.ua/";
 const NULP_STAFF = "https://staff.lpnu.ua/";
 
 let timetableSuffix = "students_schedule";
@@ -53,63 +54,64 @@ export async function getLecturers(department: string | null = null) {
 	});
 }
 
- export async function getLecturerDepartments() {
-		return fetchHtml({}, NULP_STAFF).then(html => {
-			const select = parseAndGetOne(html, "#edit-department-name-selective");
-			const departments = Array.from(select?.children ?? [])
-				.map(child => (child as HTMLInputElement).value)
-				.filter(depart => depart !== "All")
-				.sort((a, b) => a.localeCompare(b));
-			return departments;
-		}).catch(err => {
-			console.log("Couldn't parse departments: " + err);
-		});
+export async function getLecturerDepartments() {
+	return fetchHtml({}, NULP_STAFF).then(html => {
+		const select = parseAndGetOne(html, "#edit-department-name-selective");
+		const departments = Array.from(select?.children ?? [])
+			.map(child => (child as HTMLInputElement).value)
+			.filter(depart => depart !== "All")
+			.sort((a, b) => a.localeCompare(b));
+		return departments;
+	}).catch(err => {
+		console.log("Couldn't parse departments: " + err);
+	});
+}
+
+export function prepareTimetableRequest(timetableName = "All", timetableCategory = "All", isLecturers = false) {
+	let params = {};
+	if (isLecturers) {
+		params = {
+			department_name_selective: timetableCategory,
+			teachername_selective: timetableName,
+			semestr_selective: '2',
+			assetbuilding_name_selective: "весь семестр"
+		};
+	} else {
+		params = {
+			departmentparent_abbrname_selective: timetableCategory,
+			studygroup_abbrname: timetableName,
+			semestr: '1',
+			semestrduration: '1', // Why, NULP?
+		};			
 	}
 
-	export function prepareTimetableRequest(timetableName = "All", timetableCategory = "All", isLecturers = false) {
-		let params = {};
-		if (isLecturers) {
-			params = {
-				department_name_selective: timetableCategory,
-				teachername_selective: timetableName,
-				semestr_selective: '2',
-				assetbuilding_name_selective: "весь семестр"
-			};
-		} else {
-			params = {
-				departmentparent_abbrname_selective: timetableCategory,
-				studygroup_abbrname_selective: timetableName,
-				semestrduration: '1', // Why, NULP?
-			};			
-		}
+	return {
+    method: "GET",
+    url: buildUrl(params, isLecturers ? NULP_STAFF : NULP_STUDENTS_2023).toString(),
+    responseType: "text",
+  } as const;
+}
 
-		return {
-			method: 'GET',
-			url: buildUrl(params, isLecturers ? NULP_STAFF : NULP_STUDENTS).toString(),
-			responseType: 'text',
-		} as const;
+export function prepareExamsTimetableRequest(timetableName = "All", timetableCategory = "All", isLecturers = false) {
+	let params = {};
+	if (isLecturers) {
+		params = {
+			namedepartment_selective: timetableCategory,
+			teachername_selective: timetableName
+		};
+	}  else {
+		params = {
+			departmentparent_abbrname_selective: timetableCategory,
+			studygroup_abbrname_selective: timetableName
+		};
 	}
 
-	export function prepareExamsTimetableRequest(timetableName = "All", timetableCategory = "All", isLecturers = false) {
-		let params = {};
-		if (isLecturers) {
-			params = {
-				namedepartment_selective: timetableCategory,
-				teachername_selective: timetableName
-			};
-		}  else {
-			params = {
-				departmentparent_abbrname_selective: timetableCategory,
-				studygroup_abbrname_selective: timetableName
-			};
-		}
-
-		return {
-			method: 'GET',
-			url: buildUrl(params, isLecturers ? NULP_STAFF : NULP_STUDENTS).toString(),
-			responseType: 'text',
-		} as const;
-	}
+	return {
+		method: 'GET',
+		url: buildUrl(params, isLecturers ? NULP_STAFF : NULP_STUDENTS).toString(),
+		responseType: 'text',
+	} as const;
+}
 
 
 export async function getGroups(departmentparent_abbrname_selective = "All") {
@@ -131,11 +133,16 @@ export async function getGroups(departmentparent_abbrname_selective = "All") {
 }
 
 export function parseTimetable(html: string) {
-	const content = parseAndGetOne(html, ".view-content");
-	const days = Array.from(content?.children ?? [])
-		.map(parseDay)
-		.flat(1);
-	return days;
+  const content = parseAndGetOne(html, ".view-content");
+  // const days = Array.from(content?.children ?? [])
+  // 	.map(parseDay)
+  // 	.flat(1);
+  if (!content) {
+	console.warn("parseTimetable: No content");
+	return;
+  }
+  const timetable = parseTimetableV2(content);
+  return timetable;
 }
 
 export function parseExamsTimetable(html: string) {
@@ -189,6 +196,35 @@ function parseExam(exam: Element) {
 		number,
 		urls
 	};
+}
+
+function parseTimetableV2 (table: Element) {
+	const contentChildren = table.children ?? [];
+
+	let lessons: any[] = [], currentLesson = 0, currentDay: number | undefined;
+
+	for (let i = 0; i < contentChildren.length; i++) {
+		const child = contentChildren[i];
+		if (child?.classList.contains('view-grouping-header')) {
+		currentDay = dayToNumber(child?.textContent ?? '');
+		} else if (child?.tagName === 'H3') {
+		currentLesson = Number.parseInt(child?.textContent ?? '0');
+		} else if (child?.classList.contains('stud_schedule')) {
+		const pairs = parsePair(child);
+		if (currentLesson === 0) console.warn('Lesson number is 0!', child);
+		if (currentDay === undefined) throw Error('Got wrong DOM structure for timetable: no day');
+
+		for (const lesson of pairs) {
+			lesson.day = currentDay;
+			lesson.number = currentLesson;
+		}
+
+		lessons = lessons.concat(pairs);
+		} else {
+		throw Error('Got wrong DOM structure for timetable: unknown child');
+		}
+	}
+	return lessons;
 }
 
 /*

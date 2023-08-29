@@ -156,7 +156,7 @@ function showStats(data: Record<string, number>) {
 
 export async function getRecentTimetables() {
     const data: Record<string, number> = await axios
-      .get("https://lpnu.pp.ua/used-timetables.json", {
+      .get("https://lpnu.pp.ua/next-year-timetables.json", {
         responseType: "json",
       })
       .then((response) => response.data);
