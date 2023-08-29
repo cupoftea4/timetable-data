@@ -148,15 +148,22 @@ function showStats(data: Record<string, number>) {
 }
 
 export async function getRecentTimetables() {
-    const data = await axios.get("https://lpnu.pp.ua/used-timetables.json", {
-		responseType: 'json',
-	}).then(response => response.data);
+    const data: Record<string, number> = await axios
+      .get("https://lpnu.pp.ua/used-timetables.json", {
+        responseType: "json",
+      })
+      .then((response) => response.data);
+    const mostUsed = Object.keys(data).filter(key => data[key] > 20);
+    console.log("Most used count: ", mostUsed.length)
     showStats(data);
-    const requests: AxiosRequestConfig[] = Object.keys(data).filter(el => el.includes("lpnu.ua")).map(el => ({
-            method: 'GET',
-            url: decodeURI(el), // CHANGED HERE FROM "new URL(decodeURI(el))"
-            responseType: 'text',            
-        }));
+
+    const requests: AxiosRequestConfig[] = mostUsed
+      .filter((el) => el.includes("lpnu.ua"))
+      .map((el) => ({
+        method: "GET",
+        url: decodeURI(el), // CHANGED HERE FROM "new URL(decodeURI(el))"
+        responseType: "text",
+      }));
     const getRequestDir = (request:  AxiosResponse<any, any>) => {
         const url = request.config.url?.toString() ?? "";
         const isExams = url.includes("exam");
