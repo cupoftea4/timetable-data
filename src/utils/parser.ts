@@ -21,9 +21,11 @@ function buildUrl(params: Record<string, string> = {}, base = NULP_STUDENTS) {
 }
 
 function fetchHtml(params = {}, url = NULP_STUDENTS) {
-	return axios.get(buildUrl(params, url).toString(), {
-		responseType: 'text',
-	}).then(response => response.data);
+	return axios
+    .get(buildUrl(params, url).toString(), {
+      responseType: "text",
+    })
+    .then((response) => response.data);
 }
 
 export async function getInstitutes() {
@@ -34,7 +36,7 @@ export async function getInstitutes() {
 			.filter(inst => inst !== "All")
 			.sort((a, b) => a.localeCompare(b));
 		return institutes;
-	})
+	}).catch(console.warn)
 }
 
 export async function getLecturers(department: string | null = null) {
@@ -47,7 +49,7 @@ export async function getLecturers(department: string | null = null) {
 								.sort((a, b) => a.localeCompare(b));
 		return lecturers;
 	}).catch(err => {
-		throw Error("Couldn't parse lecturers: " + err);
+		console.warn("Couldn't parse lecturers: " + err);
 	});
 }
 
@@ -60,7 +62,7 @@ export async function getLecturers(department: string | null = null) {
 				.sort((a, b) => a.localeCompare(b));
 			return departments;
 		}).catch(err => {
-			throw Error("Couldn't parse departments: " + err);
+			console.warn("Couldn't parse departments: " + err);
 		});
 	}
 
@@ -118,7 +120,7 @@ export async function getGroups(departmentparent_abbrname_selective = "All") {
 			.filter(inst => inst !== "All")
 			.sort((a, b) => a.localeCompare(b));
 		return groups;
-	})
+	}).catch(console.warn)
 }
 
 export function parseTimetable(html: string) {

@@ -39,6 +39,7 @@ export async function doStudentScheduleParsing() {
         console.log("Got error while downloading institutes:", err);
         process.exit(1);
     })
+    if (!institutes) return;
     writeFile(join(exportPath, "institutes.json"), JSON.stringify(institutes, null, 4));
 
     for (let institute of institutes) {
@@ -51,6 +52,7 @@ export async function doStudentScheduleParsing() {
         console.log("Got error while downloading groups:", err);
         process.exit(1);
     });
+    if (!groups) return
     groups = groups.map(el => el.trim());
     writeFile(join(exportPath, "groups.json"), JSON.stringify(groups, null, 4));
 
@@ -67,6 +69,7 @@ export async function doExamsScheduleParsing() {
         console.log("Got error while downloading groups:", err);
         process.exit(1);
     });
+    if (!groups) return;
     groups = groups.map(el => el.trim());
 
     setSuffix(examsSuffix);
@@ -77,6 +80,7 @@ export async function doExamsScheduleParsing() {
         console.log("Got error while downloading groups:", err);
         process.exit(1);
     });
+    if (!groups) return;
     groups = groups.map(el => el.trim());
 
     setSuffix(lecturerExamsSuffix);
@@ -93,6 +97,7 @@ export async function doSelectiveParsing() {
         console.log("Got error while downloading groups:", err);
         process.exit(1);
     });
+    if (!groups) return
     groups = groups.map(el => el.trim());
     writeFile(join(exportPath, selectiveDir, "groups.json"), JSON.stringify(groups, null, 4));
 
@@ -108,6 +113,7 @@ export async function doLecturerParsing() {
         console.log("Got error while lecturer departments:", err);
         process.exit(1);
     });
+    if (!departments) return
     departments = departments.map(el => el.trim());
     writeFile(join(exportPath, lecturerDir, "departments.json"), JSON.stringify(departments, null, 4));
 
@@ -115,6 +121,7 @@ export async function doLecturerParsing() {
     for (let department of departments) {
         console.log("Downloading lecturers from " + department);
         await getLecturers(department).then(async lecturers => {
+            if (!lecturers) return;
             lecturers = lecturers.map(el => el.trim());
             lecturersByDepartment[department] = lecturers;
         }).catch(err => {
@@ -180,7 +187,7 @@ export async function getRecentTimetables() {
     const requestQueue = [];
     let currentPosition = 0;
     for (; currentPosition < Math.min(MAX_PARALLEL_REQUESTS, requests.length); currentPosition++) {
-        requestQueue.push(axios(requests[currentPosition]));
+        requestQueue.push(axios(requests[currentPosition]).catch(console.warn));
     }
     while (requestQueue.length) {
         
@@ -188,7 +195,9 @@ export async function getRecentTimetables() {
         if (request?.status !== 200) continue;
         handleResponse(request, getRequestDir(request));
         if (currentPosition < requests.length) {
-            requestQueue.push(axios(requests[currentPosition]));
+            requestQueue.push(
+              axios(requests[currentPosition]).catch(console.warn)
+            );
             currentPosition++;
             await new Promise(resolve => setTimeout(resolve, 500));
         }
@@ -205,15 +214,17 @@ async function fetchTimetables(groups: string[], dir: string) {
     const requestQueue = [];
     let currentPosition = 0;
     for (; currentPosition < MAX_PARALLEL_REQUESTS; currentPosition++) {
-        requestQueue.push(axios(requests[currentPosition]));
+        requestQueue.push(axios(requests[currentPosition]).catch(console.warn));
     }
 
     while (requestQueue.length) {
-        const request = await requestQueue.shift();
+        const request = await requestQueue.shift() ?? undefined;
         
         handleResponse(request, dir);
         if (currentPosition < requests.length) {
-            requestQueue.push(axios(requests[currentPosition]));
+            requestQueue.push(
+              axios(requests[currentPosition]).catch(console.warn)
+            );
             currentPosition++;
             await new Promise(resolve => setTimeout(resolve, 500));
         }
@@ -239,6 +250,7 @@ function handleResponse(response: AxiosResponse | undefined, dir: string) {
 async function downloadGroups(institute?: string) {
     console.log("Downloading groups " + (institute || ""))
     let groups = await getGroups(institute)
+    if (!groups) return;
     groups.sort(localeCompare);
     return groups;
 }
@@ -246,6 +258,7 @@ async function downloadGroups(institute?: string) {
 async function downloadInstitutes() {
     console.log("Downloading institutes");
     let inst = await getInstitutes()
+    if (!inst) return;
     inst.sort(localeCompare);
     return inst;
 }
