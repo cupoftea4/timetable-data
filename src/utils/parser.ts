@@ -36,7 +36,7 @@ export async function getInstitutes() {
 			.filter(inst => inst !== "All")
 			.sort((a, b) => a.localeCompare(b));
 		return institutes;
-	}).catch(console.warn)
+	}).catch(err => {if (typeof err === "string") console.log((err as string).slice(0, 100))})
 }
 
 export async function getLecturers(department: string | null = null) {
@@ -49,7 +49,7 @@ export async function getLecturers(department: string | null = null) {
 								.sort((a, b) => a.localeCompare(b));
 		return lecturers;
 	}).catch(err => {
-		console.warn("Couldn't parse lecturers: " + err);
+		console.log("Couldn't parse lecturers: " + err);
 	});
 }
 
@@ -62,7 +62,7 @@ export async function getLecturers(department: string | null = null) {
 				.sort((a, b) => a.localeCompare(b));
 			return departments;
 		}).catch(err => {
-			console.warn("Couldn't parse departments: " + err);
+			console.log("Couldn't parse departments: " + err);
 		});
 	}
 
@@ -113,14 +113,21 @@ export async function getLecturers(department: string | null = null) {
 
 
 export async function getGroups(departmentparent_abbrname_selective = "All") {
-	return fetchHtml({ departmentparent_abbrname_selective }).then(html => {
-		const select = parseAndGetOne(html, "#edit-studygroup-abbrname-selective");
-		const groups = Array.from(select?.children ?? [])
-			.map(child => (child as HTMLInputElement).value)
-			.filter(inst => inst !== "All")
-			.sort((a, b) => a.localeCompare(b));
-		return groups;
-	}).catch(console.warn)
+	return fetchHtml({ departmentparent_abbrname_selective })
+    .then((html) => {
+      const select = parseAndGetOne(
+        html,
+        "#edit-studygroup-abbrname-selective"
+      );
+      const groups = Array.from(select?.children ?? [])
+        .map((child) => (child as HTMLInputElement).value)
+        .filter((inst) => inst !== "All")
+        .sort((a, b) => a.localeCompare(b));
+      return groups;
+    })
+    .catch((err) => {
+      if (typeof err === "string") console.log((err as string).slice(0, 100));
+    });
 }
 
 export function parseTimetable(html: string) {
@@ -210,7 +217,7 @@ function parseDay(day: Element) {
 		const child = contentChildren[i];
 		if (child.classList.contains("stud_schedule")) {
 			const lessons = parsePair(child);
-			if (currentLessonNumber === 0) console.warn("Lesson number is 0!", child)
+			if (currentLessonNumber === 0) console.log("Lesson number is 0!", child)
 			lessons.forEach(lesson => {
 				lesson.day = dayNumber;
 				lesson.number = currentLessonNumber;

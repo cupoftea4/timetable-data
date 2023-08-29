@@ -187,7 +187,12 @@ export async function getRecentTimetables() {
     const requestQueue = [];
     let currentPosition = 0;
     for (; currentPosition < Math.min(MAX_PARALLEL_REQUESTS, requests.length); currentPosition++) {
-        requestQueue.push(axios(requests[currentPosition]).catch(console.warn));
+        requestQueue.push(
+          axios(requests[currentPosition]).catch((err) => {
+            if (typeof err === "string")
+              console.log((err as string).slice(0, 100));
+          })
+        );
     }
     while (requestQueue.length) {
         
@@ -196,7 +201,10 @@ export async function getRecentTimetables() {
         handleResponse(request, getRequestDir(request));
         if (currentPosition < requests.length) {
             requestQueue.push(
-              axios(requests[currentPosition]).catch(console.warn)
+              axios(requests[currentPosition]).catch((err) => {
+                if (typeof err === "string")
+                  console.log((err as string).slice(0, 100));
+              })
             );
             currentPosition++;
             await new Promise(resolve => setTimeout(resolve, 500));
@@ -214,7 +222,12 @@ async function fetchTimetables(groups: string[], dir: string) {
     const requestQueue = [];
     let currentPosition = 0;
     for (; currentPosition < MAX_PARALLEL_REQUESTS; currentPosition++) {
-        requestQueue.push(axios(requests[currentPosition]).catch(console.warn));
+        requestQueue.push(
+          axios(requests[currentPosition]).catch((err) => {
+            if (typeof err === "string")
+              console.log((err as string).slice(0, 100));
+          })
+        );
     }
 
     while (requestQueue.length) {
@@ -223,7 +236,10 @@ async function fetchTimetables(groups: string[], dir: string) {
         handleResponse(request, dir);
         if (currentPosition < requests.length) {
             requestQueue.push(
-              axios(requests[currentPosition]).catch(console.warn)
+              axios(requests[currentPosition]).catch((err) => {
+                if (typeof err === "string")
+                  console.log((err as string).slice(0, 100));
+              })
             );
             currentPosition++;
             await new Promise(resolve => setTimeout(resolve, 500));
