@@ -16,7 +16,8 @@ import {
     parseTimetable2023
 } from "./parser.js";
 
-const MAX_PARALLEL_REQUESTS = 10;
+const MAX_PARALLEL_REQUESTS = 3;
+const THROTTLE_TIME = 700;
 
 const dir = "../../data";
 const exportPath = join(dirname(fileURLToPath(import.meta.url)), dir);
@@ -147,9 +148,11 @@ function showStats(data: Record<string, number>) {
         .forEach(el => {
             const params = new URL(el[0]).searchParams;
             console.log(
-                el[1] + "\t", 
-                (params.get("studygroup_abbrname_selective") ?? params.get("teachername_selective")) + 
-                    (el[0].includes("exam") ? " (exams)" : "")
+              el[1] + "\t",
+              (params.get("studygroup_abbrname_selective") ??
+                params.get("teachername_selective") ??
+                params.get("studygroup_abbrname")) +
+                (el[0].includes("exam") ? " (exams)" : "")
             );
         });
     console.log(`Total: ${array.length}`);
@@ -210,7 +213,7 @@ export async function getRecentTimetables() {
         })
       );
       currentPosition++;
-      await new Promise((resolve) => setTimeout(resolve, 500));
+      await new Promise((resolve) => setTimeout(resolve, THROTTLE_TIME));
     }
   }
 }
@@ -245,7 +248,7 @@ async function fetchTimetables(groups: string[], dir: string) {
               })
             );
             currentPosition++;
-            await new Promise(resolve => setTimeout(resolve, 500));
+            await new Promise(resolve => setTimeout(resolve, THROTTLE_TIME));
         }
     }
 }
