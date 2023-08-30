@@ -134,12 +134,21 @@ export async function getGroups(departmentparent_abbrname_selective = "All") {
 
 export function parseTimetable(html: string) {
   const content = parseAndGetOne(html, ".view-content");
-  // const days = Array.from(content?.children ?? [])
-  // 	.map(parseDay)
-  // 	.flat(1);
   if (!content) {
 	console.warn("parseTimetable: No content");
 	return;
+  }
+  const days = Array.from(content?.children ?? [])
+  	.map(parseDay)
+  	.flat(1);
+  return days;
+}
+
+export function parseTimetable2023(html: string) {
+  const content = parseAndGetOne(html, ".view-content");
+  if (!content) {
+    console.warn("parseTimetable: No content");
+    return;
   }
   const timetable = parseTimetableV2(content);
   return timetable;
@@ -199,29 +208,29 @@ function parseExam(exam: Element) {
 }
 
 function parseTimetableV2 (table: Element) {
-	const contentChildren = table.children ?? [];
+	const contentChildren = Array.from(table.children) ?? [];
 
 	let lessons: any[] = [], currentLesson = 0, currentDay: number | undefined;
 
 	for (let i = 0; i < contentChildren.length; i++) {
 		const child = contentChildren[i];
 		if (child?.classList.contains('view-grouping-header')) {
-		currentDay = dayToNumber(child?.textContent ?? '');
+			currentDay = dayToNumber(child?.textContent ?? '');
 		} else if (child?.tagName === 'H3') {
-		currentLesson = Number.parseInt(child?.textContent ?? '0');
+			currentLesson = Number.parseInt(child?.textContent ?? '0');
 		} else if (child?.classList.contains('stud_schedule')) {
-		const pairs = parsePair(child);
-		if (currentLesson === 0) console.warn('Lesson number is 0!', child);
-		if (currentDay === undefined) throw Error('Got wrong DOM structure for timetable: no day');
+			const pairs = parsePair(child);
+			if (currentLesson === 0) console.warn('Lesson number is 0!', child);
+			if (currentDay === undefined) throw Error('Got wrong DOM structure for timetable: no day');
 
-		for (const lesson of pairs) {
-			lesson.day = currentDay;
-			lesson.number = currentLesson;
-		}
+			for (const lesson of pairs) {
+				lesson.day = currentDay;
+				lesson.number = currentLesson;
+			}
 
-		lessons = lessons.concat(pairs);
+    		lessons = lessons.concat(pairs);
 		} else {
-		throw Error('Got wrong DOM structure for timetable: unknown child');
+			console.warn("Unknown child:", child);
 		}
 	}
 	return lessons;

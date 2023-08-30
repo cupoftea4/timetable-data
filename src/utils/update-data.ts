@@ -12,7 +12,8 @@ import {
     getGroups, 
     getInstitutes,
     getLecturers,
-    getLecturerDepartments
+    getLecturerDepartments,
+    parseTimetable2023
 } from "./parser.js";
 
 const MAX_PARALLEL_REQUESTS = 10;
@@ -155,61 +156,63 @@ function showStats(data: Record<string, number>) {
 }
 
 export async function getRecentTimetables() {
-    const data: Record<string, number> = await axios
-      .get("https://lpnu.pp.ua/next-year-timetables.json", {
-        responseType: "json",
-      })
-      .then((response) => response.data);
-    const mostUsed = Object.keys(data).filter(key => data[key] > 20);
-    console.log("Most used count: ", mostUsed.length)
-    showStats(data);
+  axios.defaults.headers.common["Cache-Control"] = "no-cache"; // for all requests
+  axios.defaults.headers.common["User-Agent"] = "PostmanRuntime/7.32.2";
+  axios.defaults.headers.common["Accept"] = "*/*";
+  const data: Record<string, number> = await axios
+    .get("https://lpnu.pp.ua/next-year-timetables.json", {
+      responseType: "json",
+    })
+    .then((response) => response.data);
+  const mostUsed = Object.keys(data).filter((key) => data[key] > 20);
+  console.log("Most used count: ", mostUsed.length);
+  showStats(data);
 
-    const requests: AxiosRequestConfig[] = mostUsed
-      .filter((el) => el.includes("lpnu.ua"))
-      .map((el) => ({
-        method: "GET",
-        url: decodeURI(el), // CHANGED HERE FROM "new URL(decodeURI(el))"
-        responseType: "text",
-      }));
-    const getRequestDir = (request:  AxiosResponse<any, any>) => {
-        const url = request.config.url?.toString() ?? "";
-        const isExams = url.includes("exam");
-        const isLecturer = url.includes("staff");
-        const isSelective = url.includes("schedule_selective");
-        if (isExams) 
-            return isLecturer ? lecturerExamsDir : examsDir;
-        if (isSelective) 
-            return join(selectiveDir, timetableDir);
-        if (isLecturer) 
-            return join(lecturerDir, timetableDir);
-        return timetableDir;
-    };
-    const requestQueue = [];
-    let currentPosition = 0;
-    for (; currentPosition < Math.min(MAX_PARALLEL_REQUESTS, requests.length); currentPosition++) {
-        requestQueue.push(
-          axios(requests[currentPosition]).catch((err) => {
-            if (typeof err === "string")
-              console.log((err as string).slice(0, 100));
-          })
-        );
+  const requests: AxiosRequestConfig[] = mostUsed
+    .filter((el) => el.includes("lpnu.ua"))
+    .map((el) => ({
+      method: "GET",
+      url: decodeURI(el), // CHANGED HERE FROM "new URL(decodeURI(el))"
+      responseType: "text",
+    }));
+  const getRequestDir = (request: AxiosResponse<any, any>) => {
+    const url = request.config.url?.toString() ?? "";
+    const isExams = url.includes("exam");
+    const isLecturer = url.includes("staff");
+    const isSelective = url.includes("schedule_selective");
+    if (isExams) return isLecturer ? lecturerExamsDir : examsDir;
+    if (isSelective) return join(selectiveDir, timetableDir);
+    if (isLecturer) return join(lecturerDir, timetableDir);
+    return timetableDir;
+  };
+  const requestQueue = [];
+  let currentPosition = 0;
+  for (
+    ;
+    currentPosition < Math.min(MAX_PARALLEL_REQUESTS, requests.length);
+    currentPosition++
+  ) {
+    requestQueue.push(
+      axios(requests[currentPosition]).catch((err) => {
+        if (typeof err === "string") console.log((err as string).slice(0, 100));
+      })
+    );
+  }
+  while (requestQueue.length) {
+    const request = await requestQueue.shift();
+    if (request?.status !== 200) continue;
+    handleResponse(request, getRequestDir(request));
+    if (currentPosition < requests.length) {
+      requestQueue.push(
+        axios(requests[currentPosition]).catch((err) => {
+          if (typeof err === "string")
+            console.log((err as string).slice(0, 100));
+        })
+      );
+      currentPosition++;
+      await new Promise((resolve) => setTimeout(resolve, 500));
     }
-    while (requestQueue.length) {
-        
-        const request = await requestQueue.shift();
-        if (request?.status !== 200) continue;
-        handleResponse(request, getRequestDir(request));
-        if (currentPosition < requests.length) {
-            requestQueue.push(
-              axios(requests[currentPosition]).catch((err) => {
-                if (typeof err === "string")
-                  console.log((err as string).slice(0, 100));
-              })
-            );
-            currentPosition++;
-            await new Promise(resolve => setTimeout(resolve, 500));
-        }
-    }
+  }
 }
 
 async function fetchTimetables(groups: string[], dir: string) {
@@ -250,16 +253,22 @@ async function fetchTimetables(groups: string[], dir: string) {
 function handleResponse(response: AxiosResponse | undefined, dir: string) {
     if (response?.status !== 200) return;
     const url = new URL(response.config.url ?? "");
-    const group = url.searchParams.get('studygroup_abbrname_selective') || url.searchParams.get('teachername_selective');
+    const group =
+      url.searchParams.get("studygroup_abbrname_selective") ||
+      url.searchParams.get("studygroup_abbrname") ||
+      url.searchParams.get("teachername_selective");
     console.log(`[${getTime()}] Parsing ${group}`);
 
     try {
         const timetable = (dir.includes("exams")) 
             ? parseExamsTimetable(response.data) 
-            : parseTimetable(response.data);
+            : (url.hostname.includes("2023"))
+                ? parseTimetable2023(response.data) 
+                : parseTimetable(response.data);
+        if (!timetable || timetable?.length === 0) throw Error("Timetable is empty");
         writeFile(join(exportPath, dir, group + ".json"), JSON.stringify(timetable, null, 4));
     } catch (e) {
-        console.error(e);
+        console.warn(e);
     }
 }
 
