@@ -16,7 +16,7 @@ import {
     parseTimetable2023
 } from "./parser.js";
 
-const MAX_PARALLEL_REQUESTS = 3;
+const MAX_PARALLEL_REQUESTS = 2;
 const THROTTLE_TIME = 700;
 
 const dir = "../../data";
@@ -167,7 +167,7 @@ export async function getRecentTimetables() {
       responseType: "json",
     })
     .then((response) => response.data);
-  const mostUsed = Object.keys(data).filter((key) => data[key] > 20);
+  const mostUsed = Object.keys(data).filter((key) => data[key] > 20 || !key.includes("2023"));
   console.log("Most used count: ", mostUsed.length);
   showStats(data);
 
@@ -269,7 +269,7 @@ function handleResponse(response: AxiosResponse | undefined, dir: string) {
                 ? parseTimetable2023(response.data) 
                 : parseTimetable(response.data);
         if (!timetable || timetable?.length === 0) throw Error("Timetable is empty");
-        writeFile(join(exportPath, dir, group + ".json"), JSON.stringify(timetable, null, 4));
+        writeFile(join(exportPath, dir, group?.toUpperCase() + ".json"), JSON.stringify(timetable, null, 4));
     } catch (e) {
         console.warn(e);
     }
