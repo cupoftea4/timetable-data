@@ -300,11 +300,11 @@ function parsePair(pair: Element) {
 
 		const lesson = {
 			...data,
-			type: tryToGetType(data.location),
+			type: tryToGetType(element.textContent ?? ''),
 			...meta,
 			day: -1,
-			number: -1
-		};
+			number: -1,
+    	};
 		lessons.push(lesson);
 	}
 
