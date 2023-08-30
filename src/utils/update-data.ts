@@ -167,7 +167,7 @@ export async function getRecentTimetables() {
       responseType: "json",
     })
     .then((response) => response.data);
-  const mostUsed = Object.keys(data).filter((key) => data[key] > 20 || !key.includes("2023"));
+  const mostUsed = Object.keys(data).filter((key) => data[key] > 50 && !key.includes("2023"));
   console.log("Most used count: ", mostUsed.length);
   mostUsed.unshift(
     "https://student2023.lpnu.ua/students_schedule?studygroup_abbrname=ПЗ-32&semestr=1&semestrduration=1"
@@ -271,10 +271,10 @@ function handleResponse(response: AxiosResponse | undefined, dir: string) {
             : (url.hostname.includes("2023"))
                 ? parseTimetable2023(response.data) 
                 : parseTimetable(response.data);
-        if (!timetable || timetable?.length === 0) throw Error("Timetable is empty");
+        if (!timetable || timetable?.length === 0) throw Error("Timetable is empty!");
         writeFile(join(exportPath, dir, group?.toUpperCase() + ".json"), JSON.stringify(timetable, null, 4));
     } catch (e) {
-        console.warn(e);
+        console.log(e);
     }
 }
 
