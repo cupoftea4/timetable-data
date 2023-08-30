@@ -327,12 +327,18 @@ function parseLessonData(element: Element) {
 			texts.push(node.textContent)
 		}
 	}
-	return {
-		subject: texts[0] || "",
-		lecturer: texts[1] || "",
-		location: texts[2] || "",
-		urls: lessonUrls,
+
+	const parts = texts[1]!.split(",")
+	if (parts.length !== 3) {
+		parts[0] = texts[1]!;
+		parts[1] = "";
 	}
+	return {
+    subject: texts[0] ?? "",
+    lecturer: parts[0] ?? "",
+    location: parts[1] ?? "",
+    urls: lessonUrls,
+  };
 }
 
 function parseLessonId(id: string) {

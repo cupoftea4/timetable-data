@@ -17,7 +17,7 @@ import {
 } from "./parser.js";
 
 const MAX_PARALLEL_REQUESTS = 2;
-const THROTTLE_TIME = 700;
+const THROTTLE_TIME = 800;
 
 const dir = "../../data";
 const exportPath = join(dirname(fileURLToPath(import.meta.url)), dir);
@@ -167,7 +167,7 @@ export async function getRecentTimetables() {
       responseType: "json",
     })
     .then((response) => response.data);
-  const mostUsed = Object.keys(data).filter((key) => data[key] > 300 && key.includes("2023"));
+  const mostUsed = Object.keys(data).filter((key) => data[key] > 10 && key.includes("2023"));
   console.log("Most used count: ", mostUsed.length);
   mostUsed.unshift(
     "https://student2023.lpnu.ua/students_schedule?studygroup_abbrname=ПЗ-32&semestr=1&semestrduration=1"
