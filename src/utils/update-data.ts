@@ -169,6 +169,9 @@ export async function getRecentTimetables() {
     .then((response) => response.data);
   const mostUsed = Object.keys(data).filter((key) => data[key] > 20 || !key.includes("2023"));
   console.log("Most used count: ", mostUsed.length);
+  mostUsed.unshift(
+    "https://student2023.lpnu.ua/students_schedule?studygroup_abbrname=ПЗ-32&semestr=1&semestrduration=1"
+  );
   showStats(data);
 
   const requests: AxiosRequestConfig[] = mostUsed
