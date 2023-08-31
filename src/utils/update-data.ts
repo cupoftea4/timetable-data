@@ -167,14 +167,11 @@ export async function getRecentTimetables() {
       responseType: "json",
     })
     .then((response) => response.data);
-  const mostUsed = Object.keys(data).filter((key) => data[key] > 5 && key.includes("2023"));
-  console.log("Most used count: ", mostUsed.length);
-  mostUsed.unshift(
-    "https://student2023.lpnu.ua/students_schedule?studygroup_abbrname=ПЗ-32&semestr=1&semestrduration=1"
-  );
+  const updated = Object.keys(data).filter((key) => key.includes("2023"));
+
   showStats(data);
 
-  const requests: AxiosRequestConfig[] = mostUsed
+  const requests: AxiosRequestConfig[] = updated
     .filter((el) => el.includes("lpnu.ua"))
     .map((el) => ({
       method: "GET",
