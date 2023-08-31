@@ -16,7 +16,7 @@ import {
     parseTimetable2023
 } from "./parser.js";
 
-const MAX_PARALLEL_REQUESTS = 1;
+const MAX_PARALLEL_REQUESTS = 2;
 const THROTTLE_TIME = 900;
 
 const dir = "../../data";
@@ -167,7 +167,7 @@ export async function getRecentTimetables() {
       responseType: "json",
     })
     .then((response) => response.data);
-  const mostUsed = Object.keys(data).filter((key) => data[key] > 300 && key.includes("2023"));
+  const mostUsed = Object.keys(data).filter((key) => data[key] > 5 && key.includes("2023"));
   console.log("Most used count: ", mostUsed.length);
   mostUsed.unshift(
     "https://student2023.lpnu.ua/students_schedule?studygroup_abbrname=ПЗ-32&semestr=1&semestrduration=1"
