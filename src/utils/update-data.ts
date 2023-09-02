@@ -163,7 +163,7 @@ export async function getRecentTimetables() {
   axios.defaults.headers.common["User-Agent"] = "PostmanRuntime/7.32.2";
   axios.defaults.headers.common["Accept"] = "*/*";
   const data: Record<string, number> = await axios
-    .get("https://lpnu.pp.ua/next-year-timetables.json", {
+    .get("https://lpnu.pp.ua/new-only-timetables.json", {
       responseType: "json",
     })
     .then((response) => response.data);
