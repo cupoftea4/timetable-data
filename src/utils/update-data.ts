@@ -163,11 +163,11 @@ export async function getRecentTimetables() {
   axios.defaults.headers.common["User-Agent"] = "PostmanRuntime/7.32.2";
   axios.defaults.headers.common["Accept"] = "*/*";
   const data: Record<string, number> = await axios
-    .get("https://lpnu.pp.ua/new-only-timetables.json", {
+    .get("https://lpnu.pp.ua/next-year-timetables.json", {
       responseType: "json",
     })
     .then((response) => response.data);
-  const updated = Object.keys(data).filter((key) => key.includes("2023"));
+  const updated = Object.keys(data).filter((key) => key.includes("2023") && key.includes("staff"));
 
   showStats(data);
 
@@ -259,7 +259,8 @@ function handleResponse(response: AxiosResponse | undefined, dir: string) {
     const group =
       url.searchParams.get("studygroup_abbrname_selective") ||
       url.searchParams.get("studygroup_abbrname") ||
-      url.searchParams.get("teachername_selective");
+      url.searchParams.get("teachername_selective") ||
+      url.searchParams.get("teachername");
     console.log(`[${getTime()}] Parsing ${group}`);
 
     try {
@@ -269,7 +270,9 @@ function handleResponse(response: AxiosResponse | undefined, dir: string) {
                 ? parseTimetable2023(response.data) 
                 : parseTimetable(response.data);
         if (!timetable || timetable?.length === 0) throw Error("Timetable is empty!");
-        writeFile(join(exportPath, dir, group?.toUpperCase() + ".json"), JSON.stringify(timetable, null, 4));
+        if (!group) throw Error("Group is empty");
+        const fileName = url.hostname.includes("staff") ? group : group.toUpperCase()
+        writeFile(join(exportPath, dir,fileName + ".json"), JSON.stringify(timetable, null, 4));
     } catch (e) {
         console.log(e);
     }
