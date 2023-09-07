@@ -167,7 +167,7 @@ export async function getRecentTimetables() {
       responseType: "json",
     })
     .then((response) => response.data);
-  const updated = Object.keys(data).filter((key) => key.includes("2023") && key.includes("staff"));
+  const updated = Object.keys(data).filter((key) => key.includes("2023"));
 
   showStats(data);
 
