@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Управління талантами",
+        "lecturer": "ЕКУП-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2098989454?pwd=OWkwbEVSTHNjbThhd0JJN3k0S1dtUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління персоналом",
+        "lecturer": "МЕ-21f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2098989454?pwd=OWkwbEVSTHNjbThhd0JJN3k0S1dtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Управління персоналом",
+        "lecturer": "МЕ-21, МЕ-22, МЕ-23, МЕ-24, 116 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2098989454?pwd=OWkwbEVSTHNjbThhd0JJN3k0S1dtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління персоналом",
+        "lecturer": "МЕ-25, МЕ-26, МЕ-27, 116 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2098989454?pwd=OWkwbEVSTHNjbThhd0JJN3k0S1dtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління талантами",
+        "lecturer": "ЕКУП-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2098989454?pwd=OWkwbEVSTHNjbThhd0JJN3k0S1dtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Дизайн мислення",
+        "lecturer": "ДЗМ-МПА-101, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2098989454?pwd=OWkwbEVSTHNjbThhd0JJN3k0S1dtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Дизайн мислення",
+        "lecturer": "ДЗМ-МПА-101, 003 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2098989454?pwd=OWkwbEVSTHNjbThhd0JJN3k0S1dtUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

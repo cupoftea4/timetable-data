@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "\nІсторія державності та культури України",
+        "lecturer": " ІР-12",
+        "location": " 405 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nІсторія державності та культури України",
+        "lecturer": " ОІ-16",
+        "location": " 401 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nІсторія державності та культура України",
+        "lecturer": " МН-11, ЕЛ-11, 331 III н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "\nІсторія державності та культура України",
+        "lecturer": " МН-11",
+        "location": " 331 III н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nІсторія державності та культури України",
+        "lecturer": " ІР-13",
+        "location": " 102 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nІсторія державності та культури України",
+        "lecturer": " СЗ-11",
+        "location": " 207 V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nІсторія державності та культура України",
+        "lecturer": " ЕЛ-11",
+        "location": " 220 III н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

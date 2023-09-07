@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Тестування програмного забезпечення програмно-апаратних систем",
+        "lecturer": "ТР-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akfusLktiG7VBZuLqv-G4ozvZ7WVnS59QbvLcU8RIqLk1%40thread.tacv2/1677592412561?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22838553d0-fe97-498e-9ee9-2967632c0f98%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Проектування радіочастотних пристроїв дистанційного контролю",
+        "lecturer": "ТРПА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aoDNYKxm5geMxgESkOydX_VPvRUWjMjxAfM8lH36z5AA1%40thread.tacv2/1677594321460?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22838553d0-fe97-498e-9ee9-2967632c0f98%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Тестування програмного забезпечення програмно-апаратних систем",
+        "lecturer": "ТР-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akfusLktiG7VBZuLqv-G4ozvZ7WVnS59QbvLcU8RIqLk1%40thread.tacv2/1678263186380?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22838553d0-fe97-498e-9ee9-2967632c0f98%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

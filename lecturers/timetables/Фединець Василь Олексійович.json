@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "\nСучасні методи досліджень технологічних об`єктів та формування керуючих впливів",
+        "lecturer": " АВа-11, лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "\nАвтоматизація об`єктів періодичної дії",
+        "lecturer": " АВ-43",
+        "location": " 051 X н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nАвтоматизація об`єктів періодичної дії",
+        "lecturer": " АВ-34",
+        "location": " 071 X н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nНаукові дослідження та семінари за їх тематикою, частина 1",
+        "lecturer": " АВМ-21, АВМ-22, 071 X н.к., практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nНаукові дослідження та семінари за їх тематикою, частина 2",
+        "lecturer": " АВМ-21, АВМ-22, 071 X н.к., практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

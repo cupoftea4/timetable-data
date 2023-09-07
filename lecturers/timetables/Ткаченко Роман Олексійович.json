@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Системи штучного інтелекту у видавництві та поліграфії",
+        "lecturer": "ВПа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/cig-tumq-vkh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Системи штучного інтелекту у видавництві та поліграфії",
+        "lecturer": "ВПа-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/gpa-rkas-qaw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "КНУС-11, КНУС-12, КНУС-13, КНУС-14, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/sxp-tgzz-oyk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "КНУС-11, КНУС-12, КНУС-13, КНУС-14, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/ync-syah-hjc"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "КНУС-13, 803 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/ajv-bfjp-egb"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "КНУС-13, 803 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/bsq-dzmz-xbn"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних",
+        "lecturer": "ВПКТ-11, ВПКТ-12, 414 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/izp-fgak-dyv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Системи штучного інтелекту",
+        "lecturer": "ВП-31, 414 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/ybo-ujrp-rnq"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних",
+        "lecturer": "ВПКТ-11, 414 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/mrb-suyv-doc"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальний аналіз даних",
+        "lecturer": "ВПКТ-12, 414 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/tjw-wyiy-nhg"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Системи штучного інтелекту",
+        "lecturer": "ВП-32, 414 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/gbe-xeno-sre"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "КНУС-12, 912 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/ntr-qtih-kxw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "КНУС-12, 912 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ntr-qtih-kxw"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "КНУС-11, 908 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/ntr-qtih-kxw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технології обчислювального інтелекту",
+        "lecturer": "КНУС-11, 908 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/qhh-osot-rck"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системи штучного інтелекту",
+        "lecturer": "ВП-31, ВП-32, 908 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/xrt-cahj-tui"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

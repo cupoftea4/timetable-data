@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "Ймовірнісні процеси",
+        "lecturer": "ВП-21, 414 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Ймовірнісні процеси",
+        "lecturer": "ВП-21, 414 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Ймовірнісні процеси",
+        "lecturer": "ВП-22, 912 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Ймовірнісні процеси",
+        "lecturer": "ВП-22, 908 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Ймовірнісні процеси",
+        "lecturer": "ВП-21, ВП-22, 908 V н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

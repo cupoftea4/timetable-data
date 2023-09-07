@@ -1,0 +1,56 @@
+[
+    {
+        "subject": "\nПублічний маркетинг та маркетинг територій",
+        "lecturer": " УА-21",
+        "location": " 023 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nПублічний маркетинг та маркетинг територій",
+        "lecturer": " УА-21",
+        "location": " 003 IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nПублічний маркетинг та маркетинг територій",
+        "lecturer": " УА-21",
+        "location": " 003 IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nТехнології розробки стартапів",
+        "lecturer": " ТРС-АФМ-201, практична ",
+        "location": "",
+        "urls": [
+            "00 PM         Oct 5, 2023"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

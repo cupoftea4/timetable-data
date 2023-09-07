@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "АР-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVFn1SY0DsU1KQ5PzOpv7lEdZ23bBTKFnZJ1g9WpuAVw1%40thread.tacv2/1677168468698?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c302fe76-65d2-496d-9de4-9f7465aee024%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "АР-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVFn1SY0DsU1KQ5PzOpv7lEdZ23bBTKFnZJ1g9WpuAVw1%40thread.tacv2/1677168468698?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c302fe76-65d2-496d-9de4-9f7465aee024%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування (спецпредмет)",
+        "lecturer": "АР-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ad05e41335875409390d5fe7d8f21b386%40thread.tacv2/1677402998506?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6b76d14-3331-4657-a719-4c693e9923af%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурне проектування (спецпредмет)",
+        "lecturer": "АР-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ad05e41335875409390d5fe7d8f21b386%40thread.tacv2/1677402998506?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6b76d14-3331-4657-a719-4c693e9923af%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-17, 332 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-17, 332 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурна форма та матеріали",
+        "lecturer": "АР-26, 332 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурна форма та матеріали",
+        "lecturer": "АР-26, 332 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

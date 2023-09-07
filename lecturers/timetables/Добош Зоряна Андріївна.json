@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "ПВ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89584644991?pwd=NHR4SzFha0RVaUdkZDdERWVWbjVldz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "ПВ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89584644991?pwd=NHR4SzFha0RVaUdkZDdERWVWbjVldz09%20to%20start%20or%20join%20a%20scheduled%20Zoom%20meeting"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

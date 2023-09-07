@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "Математичний аналіз",
+        "lecturer": "ОІ-15, 407 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Математичний аналіз",
+        "lecturer": "ОІ-14, 528 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичний аналіз",
+        "lecturer": "ОІ-14, 407 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Математичний аналіз",
+        "lecturer": "ОІ-15, 407 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

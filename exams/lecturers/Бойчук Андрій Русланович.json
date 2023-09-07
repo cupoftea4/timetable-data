@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "КН-312, КН-313,",
+        "subject": "Машинне навчання",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a41a41c7ef70442989de4c49f5e1f10e8%40thread.tacv2/1687748711920?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b14ad340-8b70-43c2-bd22-6025d60df843%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "КН-314, КН-315,",
+        "subject": "Машинне навчання",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a41a41c7ef70442989de4c49f5e1f10e8%40thread.tacv2/1687748711920?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b14ad340-8b70-43c2-bd22-6025d60df843%22%7d"
+        ]
+    }
+]

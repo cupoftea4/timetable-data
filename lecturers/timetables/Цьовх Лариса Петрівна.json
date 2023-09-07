@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "ФЛ-15, ФЛ-16, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "КБ-12, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Фізичне виховання, частина 2",
+        "lecturer": "АР-13, АР-14, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

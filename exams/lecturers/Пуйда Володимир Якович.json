@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-25T00:00:00.000Z",
+        "lecturer": "КІ-44, КІ-45,",
+        "subject": "Програмні засоби мікропроцесорних систем",
+        "number": 5,
+        "urls": [
+            "https://us02web.zoom.us/j/83883954276?pwd=UU9JenlidEV3a0duSUpKYTJ4cGpEUT09"
+        ]
+    },
+    {
+        "date": "2023-04-27T00:00:00.000Z",
+        "lecturer": "КІ-41, КІ-42, КІ-43,",
+        "subject": "Мікропроцесорні системи",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/83474471534?pwd=QjdJT3NyZFFQRitPYWxzSnJLcGw0Zz09"
+        ]
+    }
+]

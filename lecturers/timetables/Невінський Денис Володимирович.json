@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Основи інформаційних технологій і систем",
+        "lecturer": "ТР-43, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/hco-ffcs-smv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи інформаційних технологій і систем, частина 2",
+        "lecturer": "АН-41, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/hey-xpds-fps"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні системи в біомедичній інженерії",
+        "lecturer": "БІ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/vht-mtvs-rix"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи інформаційних технологій і систем",
+        "lecturer": "АН-31, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/pqt-gavk-vep"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Електронні системи управління типовим літаком",
+        "lecturer": "АН-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/sin-kggw-act"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Електронні системи управління типовим літаком",
+        "lecturer": "АН-31, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/sin-kggw-act"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Інформаційні системи в біомедичній інженерії",
+        "lecturer": "БІ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/eqw-nzwc-gdn"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні системи в біомедичній інженерії",
+        "lecturer": "БІ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/eqw-nzwc-gdn"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

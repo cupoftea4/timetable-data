@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "\nПрограмні технології інтернету речей",
+        "lecturer": " КІ-43",
+        "location": " 904а V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "\nПрограмні технології інтернету речей",
+        "lecturer": " КІ-43",
+        "location": " 904а V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "\nПрограмні технології інтернету речей",
+        "lecturer": " КІ-43",
+        "location": " 504 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

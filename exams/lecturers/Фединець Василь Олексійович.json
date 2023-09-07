@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2023-05-04T00:00:00.000Z",
+        "lecturer": "БТ-41, БТ-42,",
+        "subject": "Автоматизація та управління біотехнологічним виробництвом",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/86115460903?pwd=dnVKaGZsN2phY2EybXR1VEk1b2dtUT09"
+        ]
+    },
+    {
+        "date": "2023-05-10T00:00:00.000Z",
+        "lecturer": "ХР-41, ХР-42,",
+        "subject": "Автоматизація виробничих процесів",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/87590135194?pwd=SWRIM0Z4K0hJeFVRaEZLbWxOVkViZz09"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "АВ-21, АВ-22, 051 X н.к.,",
+        "subject": "Теорія інформації",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-21T00:00:00.000Z",
+        "lecturer": "АВКВ-11, АВМ-11, 051 X н.к.,",
+        "subject": "Автоматизація та оптимізація процесів хімічної та харчової промисловості",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/81772798954?pwd=eDdFNTk3cHZQZjJmUkg3bk5GWU5sUT09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "АВ-11сп, 082 X н.к.,",
+        "subject": "Теорія інформації",
+        "number": 2,
+        "urls": []
+    }
+]

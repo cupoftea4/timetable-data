@@ -1,0 +1,146 @@
+[
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3468419213?pwd=M0pyaDkyaVhib0gvak1EVFdQLzlpdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3468419213?pwd=M0pyaDkyaVhib0gvak1EVFdQLzlpdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Екологічна та кліматична стійкість ЄС",
+        "lecturer": "ЕКС-ПМВ-301, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3468419213?pwd=M0pyaDkyaVhib0gvak1EVFdQLzlpdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародні організації",
+        "lecturer": "МВ-14, 313 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародні організації",
+        "lecturer": "МВ-13, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні організації",
+        "lecturer": "МВ-11, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3468419213?pwd=M0pyaDkyaVhib0gvak1EVFdQLzlpdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3468419213?pwd=M0pyaDkyaVhib0gvak1EVFdQLzlpdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3468419213?pwd=M0pyaDkyaVhib0gvak1EVFdQLzlpdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3468419213?pwd=M0pyaDkyaVhib0gvak1EVFdQLzlpdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

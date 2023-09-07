@@ -1,0 +1,101 @@
+[
+    {
+        "subject": "Міжнародні відносини та світова політика",
+        "lecturer": "МВ-22, 313 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародні відносини та світова політика",
+        "lecturer": "МВ-22, 313 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Політологія",
+        "lecturer": "СТ-21, 207 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Глобалізація та глобальні проблеми сучасності",
+        "lecturer": "МВ-31, МВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74647406296?pwd=DqnlNe4e75WHoGBLRePe7eObkSVKhm.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Глобалізація та глобальні проблеми сучасності",
+        "lecturer": "МВ-31, МВ-32, МВ-33, МВ-34, МВ-35, МВ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71251907351?pwd=IQxosjHauQsvbg67LeeGV30f7rM48a.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Теорія та методологія досліджень у сфері політології та міжнародних відносин",
+        "lecturer": "ПЛа-11, МВа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74538382481?pwd=BaqbOVAG02h0tOq1qbVie1hdhT0tPb.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Теорія та методологія досліджень у сфері політології та міжнародних відносин",
+        "lecturer": "ПЛа-11, МВа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78691466578?pwd=sRsuEDTUsQ1Ay6Vv8jZFQUZbeMhCLH.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

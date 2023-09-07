@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Калиновський А.О.,",
+        "subject": "Міжнародний бізнес",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9L7Kl3auGMahwQ86tknlHKse00S-_FDcj9cGHWZx75M1%40thread.tacv2/1687011364472?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229f29287a-875f-4d36-8146-b843abbdba95%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Гайванович Н.В.,",
+        "subject": "Маркетингові дослідження",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/76200364724?pwd=ANy0FpBckJXvKGgfNCEcCLqMn37w1v.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Гринів Н.Т.,",
+        "subject": "Складська логістика",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Люльчак З.С.,",
+        "subject": "Фінанси підприємства",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/89763270074?pwd=b1FMS0JjcnV4anc2bkVGQlFXZFo1QT09%20%20https://us05web.zoom.us/j/89763270074?pwd=b1FMS0JjcnV4anc2bkVGQlFXZFo1QT09"
+        ]
+    }
+]

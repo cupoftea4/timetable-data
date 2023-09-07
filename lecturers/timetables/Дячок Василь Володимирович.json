@@ -1,0 +1,133 @@
+[
+    {
+        "subject": "Основи промислової екології, частина 2",
+        "lecturer": "ЕО-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDc4YjViNTctODljNy00NDVkLTg3MWMtMjNlNDliNzQyNzA2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Екологічні стратегії захисту та збереження ландшафтів",
+        "lecturer": "ЕОа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDc4YjViNTctODljNy00NDVkLTg3MWMtMjNlNDliNzQyNzA2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Екологічні стратегії захисту та збереження ландшафтів",
+        "lecturer": "ЕОа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDc4YjViNTctODljNy00NDVkLTg3MWMtMjNlNDliNzQyNzA2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технологічні процеси охорони навколишнього середовища, частина 2",
+        "lecturer": "ЕОЕС-11, 012 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjdhYTJiM2EtODljYy00Nzc1LWFmMDQtZjZkNGM3Yzc3MjJl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологічні процеси охорони навколишнього середовища, частина 2",
+        "lecturer": "ЕОЕС-11, 012 VIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjdhYTJiM2EtODljYy00Nzc1LWFmMDQtZjZkNGM3Yzc3MjJl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Екологія людини",
+        "lecturer": "ЕО-21, 115 VIII н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технологічні процеси охорони навколишнього середовища, частина 2",
+        "lecturer": "ЕОЕС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmVjOWNmMzktMzk4ZC00NmZlLTkxNDgtYjI5YmI1OTIxOTQ5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи промислової екології, частина 2",
+        "lecturer": "ЕО-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDc4YjViNTctODljNy00NDVkLTg3MWMtMjNlNDliNzQyNzA2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a02962fb-e4c2-4107-b0b2-b10ef34fded8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи промислової екології, частина 2",
+        "lecturer": "ЕО-41, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

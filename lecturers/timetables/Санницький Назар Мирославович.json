@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "\nЗалізничні станції та вузли, частина 4",
+        "lecturer": " УЗ-41",
+        "location": " 212 XXXVIII н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "\nЗалізничні станції та вузли, частина 4",
+        "lecturer": " УЗ-41",
+        "location": " 212 XXXVIII н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "\nЗалізничні станції та вузли, частина 4",
+        "lecturer": " УЗ-31сп",
+        "location": " 208 XXXVIII н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "\nЗалізничні станції та вузли, частина 4",
+        "lecturer": " УЗ-31сп",
+        "location": " 305 XXXVIII н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-31f, 313 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:k5ZC4ZuWSeh4HWYKYh0tytShhfrumH_VXK_JNXWDT7A1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-31f, 313 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:k5ZC4ZuWSeh4HWYKYh0tytShhfrumH_VXK_JNXWDT7A1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Розробка технологій будівельних процесів, зведення будівель та споруд",
+        "lecturer": "БДПЦ-11f, 413 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahqu7ycbQRhqIwa0sxJxLcwiyQHwcn2qnfwLmQaFUgUY1%40thread.tacv2/1677664612243?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226bbaa8b4-957a-46a2-80d0-28c5bf118e73%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Розробка технологій будівельних процесів, зведення будівель та споруд",
+        "lecturer": "БДПЦ-11f, 413 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-25, 416 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-26, 416 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Економічна діагностика митної діяльності",
+        "lecturer": "ЕВ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=en-us&country=us#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:f7266077040c4e24a3bae6ab5645e679@thread.tacv2&ctx=channel"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародне інвестування в умовах розвитку світового фондового ринку",
+        "lecturer": "ЕВа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=en-us&country=us#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:69c14a473ec5462aabac4d65b61422c5@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародне інвестування в умовах розвитку світового фондового ринку",
+        "lecturer": "ЕВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=en-us&country=us#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:69c14a473ec5462aabac4d65b61422c5@thread.tacv2&ctx=channel"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародний фондовий ринок",
+        "lecturer": "ЕВ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0cfa79bf2138494cb1f54c45e64c3ea1%40thread.tacv2/General?groupId=2fc0746f-e7ff-4268-b463-b8c1799dd6af&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародні фінанси",
+        "lecturer": "ЕВ-21f, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=en-us&country=us#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:WDt0_KqhYBqH2fFadaPEecqRc0ip_-Ohp4mMnHz4vdY1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний фондовий ринок",
+        "lecturer": "ЕВ-32, ЕВ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=en-us&country=us#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:0cfa79bf2138494cb1f54c45e64c3ea1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний фондовий ринок",
+        "lecturer": "ЕВ-32, ЕВ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=en-us&country=us#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:0cfa79bf2138494cb1f54c45e64c3ea1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Глобальні проблеми та виклики економічного розвитку",
+        "lecturer": "ЕВа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=en-us&country=us#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:a23dd186b10b423abb50f97a8e15378e@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Глобальні проблеми та виклики економічного розвитку",
+        "lecturer": "ЕВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=en-us&country=us#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:a23dd186b10b423abb50f97a8e15378e@thread.tacv2&ctx=channel"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Оподаткування міжнародної економічної діяльності",
+        "lecturer": "ОМЕ-ММП-101, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=en-us&country=us#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:T6dTUq6P8IDPpmZZ5H6uW64kJWQGfl37ftauv6kbqJk1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Міжнародний фондовий ринок",
+        "lecturer": "ЕВ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=en-us&country=us#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:0cfa79bf2138494cb1f54c45e64c3ea1@thread.tacv2&ctx=channel"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Економічна діагностика митної діяльності",
+        "lecturer": "ЕВ-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=en-us&country=us#/school/conversations/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5?threadId=19:f7266077040c4e24a3bae6ab5645e679@thread.tacv2&ctx=channel"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

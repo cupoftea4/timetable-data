@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Інженерне проектування складних об`єктів та систем",
+        "lecturer": "КН-311, 407 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6251682207?pwd=OU12a3lHNGVPUzVnbS9WS0VGK0R4UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інженерне проектування складних об`єктів та систем",
+        "lecturer": "КН-309, 319 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6251682207?pwd=OU12a3lHNGVPUzVnbS9WS0VGK0R4UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інженерне проектування складних об`єктів та систем",
+        "lecturer": "КН-309, 319 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6251682207?pwd=OU12a3lHNGVPUzVnbS9WS0VGK0R4UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

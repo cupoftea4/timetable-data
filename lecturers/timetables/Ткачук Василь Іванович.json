@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Основи мехатроніки",
+        "lecturer": "ЕЕ-25, 116 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJAZZKPnantI-imhx3SXMBJdqUps0fDDZbCd4t2PuceI1%40thread.tacv2/1676457400069?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Електромеханотроніка",
+        "lecturer": "ЕЕЕЕ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ackzZjTT3nqi0jK9lkJSfvi_ymk7rUwpbc84IGAkbEAs1%40thread.tacv2/1676457119617?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електромеханотроніка",
+        "lecturer": "ЕЕЕЕ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ackzZjTT3nqi0jK9lkJSfvi_ymk7rUwpbc84IGAkbEAs1%40thread.tacv2/1676457119617?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи мехатроніки",
+        "lecturer": "ЕЕ-34, 121 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJAZZKPnantI-imhx3SXMBJdqUps0fDDZbCd4t2PuceI1%40thread.tacv2/1676457635161?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи мехатроніки",
+        "lecturer": "ЕЕ-34, 209 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJAZZKPnantI-imhx3SXMBJdqUps0fDDZbCd4t2PuceI1%40thread.tacv2/1676457513255?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи мехатроніки",
+        "lecturer": "ЕЕ-25, 121 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJAZZKPnantI-imhx3SXMBJdqUps0fDDZbCd4t2PuceI1%40thread.tacv2/1676457967986?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2223091720-0cfd-45b6-9886-a59f094f704f%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

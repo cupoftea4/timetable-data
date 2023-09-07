@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Інженерна підготовка міських територій",
+        "lecturer": "БД-34, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXM-qYVnQSsgJDzwejDYquzsBX5CvBlnolts5XHQ3IFI1%40thread.tacv2/conversations?groupId=eafa7340-8dab-47a6-9620-63b1f91cf56c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інженерна підготовка міських територій",
+        "lecturer": "БД-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXM-qYVnQSsgJDzwejDYquzsBX5CvBlnolts5XHQ3IFI1%40thread.tacv2/conversations?groupId=eafa7340-8dab-47a6-9620-63b1f91cf56c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інженерна підготовка міських територій",
+        "lecturer": "БД-33, БД-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXM-qYVnQSsgJDzwejDYquzsBX5CvBlnolts5XHQ3IFI1%40thread.tacv2/conversations?groupId=eafa7340-8dab-47a6-9620-63b1f91cf56c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

@@ -1,0 +1,192 @@
+[
+    {
+        "subject": "Архітектурна форма та матеріали",
+        "lecturer": "АР-22, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурна форма та матеріали",
+        "lecturer": "АР-22, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурна форма та матеріали",
+        "lecturer": "АР-29, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурна форма та матеріали",
+        "lecturer": "АР-29, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-11, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-11, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "АР-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avk7Wm7s7NMI5jWMruTiHQnqfGx-o3dNn_CaCUYZsJz41%40thread.tacv2/conversations?groupId=3aadd9a0-4126-4031-a21f-3f2791670b49&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "АР-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avk7Wm7s7NMI5jWMruTiHQnqfGx-o3dNn_CaCUYZsJz41%40thread.tacv2/conversations?groupId=3aadd9a0-4126-4031-a21f-3f2791670b49&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "АР-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aCfcV7JLzBDxc63m9FNsZsO6dHd3Tmb3hR5BlnPLJOmU1%40thread.tacv2/conversations?groupId=189b1803-186b-4a54-ae8a-5552b0974590&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "АР-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aCfcV7JLzBDxc63m9FNsZsO6dHd3Tmb3hR5BlnPLJOmU1%40thread.tacv2/conversations?groupId=189b1803-186b-4a54-ae8a-5552b0974590&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-22, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-22, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-29, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи містобудування та ландшафтна архітектура",
+        "lecturer": "АР-29, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

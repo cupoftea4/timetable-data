@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Фізико-хімічні процеси в технології полімерів та композитів",
+        "lecturer": "ХТа-21, 028 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9zS-fscaR2TSZ5ntUlIkCIx-nD80wHAfr9LiDbjfkiM1%40thread.tacv2/1676648567188?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2234c61cb1-df7e-4624-8a2f-7ca0177f626a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Наукові основи досліджень високомолекулярних сполук",
+        "lecturer": "ХІа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9Yfgr0h-3ox7GQfycsW1ASzejNurdroyG84OU0vICIo1%40thread.tacv2/1676649192469?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2234c61cb1-df7e-4624-8a2f-7ca0177f626a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Наукові основи теоретичних досліджень та моделювання хіміко-технологічних процесів",
+        "lecturer": "ХТа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3anrdldMFTqovkI-uhH2pqcjBxP3Vvvo639HQ0nQZbksk1%40thread.tacv2/1676647710391?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2234c61cb1-df7e-4624-8a2f-7ca0177f626a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Фізико-хімічні процеси в технології полімерів та нанокомпозитів",
+        "lecturer": "ХІа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aGu4WWsueozHHwZCpfWrEusci1EqaacexdePWCWTfeAw1%40thread.tacv2/1676649542293?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2234c61cb1-df7e-4624-8a2f-7ca0177f626a%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Наукові основи досліджень високомолекулярних сполук",
+        "lecturer": "ХІа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9Yfgr0h-3ox7GQfycsW1ASzejNurdroyG84OU0vICIo1%40thread.tacv2/1676649192469?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2234c61cb1-df7e-4624-8a2f-7ca0177f626a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Фізико-хімічні процеси в технології полімерів та нанокомпозитів",
+        "lecturer": "ХІа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aGu4WWsueozHHwZCpfWrEusci1EqaacexdePWCWTfeAw1%40thread.tacv2/1676649542293?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2234c61cb1-df7e-4624-8a2f-7ca0177f626a%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

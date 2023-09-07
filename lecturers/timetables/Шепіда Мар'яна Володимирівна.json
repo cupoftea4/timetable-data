@@ -1,0 +1,150 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-37, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aPMGZDk7LTtelqX24iH7qoSjBDGWKBOuiR3-nKYrE1R81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b56d5100-6101-43c9-bb75-2193ba723f57&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-310, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aRt-2iLzMTtreUglhnFc_cFuth6aHh_zkC8VQ6VW026Q1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=d7c85357-3dd1-40c3-b605-b51cd814e5a6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Природні та техногенні загрози прогнозування небезпек",
+        "lecturer": "ЦБ-21, 231 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a1DQ3OEGNSlcj-3USN6IHiB6zXvZHiSkrFwIghqKwexQ1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=2baed0b6-852e-4f70-a90b-cdf13f830a18&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aVDHyfBqwTE8dAZQU_G1Sj2UhR87bicKk_XDjZ2tTRo81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=a6e96c83-58df-4e72-bb60-14ca01f2e8b7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-38, ПВ-39, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ac5x4X6Cv6JiixXPErCLNSjJ73zSDnhqshmAf05x3LhA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0211783c-658e-4aee-9b1b-5cce73bab646&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aaeMRb7ykl95hDWnalpUM2j35-Vnmae52th7V1pzb2wM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=db7eaef4-db13-48e9-941b-dad6215657e1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aKZDf_OGlXmMpQeCxTfrO1PEn8HikDmPHOSBOlIeD8C81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=45e274bc-7b7a-4e95-9051-85e134aa9ed6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3alyg3RAHbkocAJV-8z3cs_LJgL15aZ_4YxincLaVQ3Mk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=69ae158b-c1e6-4997-a0e7-73d9690bad6d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3afh6GU8gQ4qtTu9JY1YFxAXLleuV98TheOK-FGivTmMY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ab7ccdc2-2055-463e-af4e-43e36f5cbb4f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

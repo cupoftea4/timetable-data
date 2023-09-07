@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Методологія та організація наукових досліджень в обліку та оподаткуванні",
+        "lecturer": "НОПН-14, 326б IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/91234352658?pwd=R3lXclQ4LzI0ejZ6Z2hHTXNqYVRQZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Облік і звітність у корпораціях",
+        "lecturer": "ОПАГ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/91234352658?pwd=R3lXclQ4LzI0ejZ6Z2hHTXNqYVRQZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Методологія та організація наукових досліджень в обліку та оподаткуванні",
+        "lecturer": "НОПН-14, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/91234352658?pwd=R3lXclQ4LzI0ejZ6Z2hHTXNqYVRQZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Облік і звітність у корпораціях",
+        "lecturer": "ОПАГ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/91234352658?pwd=R3lXclQ4LzI0ejZ6Z2hHTXNqYVRQZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    }
+]

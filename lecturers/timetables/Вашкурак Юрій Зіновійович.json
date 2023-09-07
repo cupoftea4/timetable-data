@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "\nТеорія інформації та кодування",
+        "lecturer": " КБ-209",
+        "location": " 220 XX н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "\nТеорія інформації та кодування",
+        "lecturer": " КБ-208",
+        "location": " 210 XIX н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nТеорія інформації та кодування",
+        "lecturer": " КБ-208, КБ-209, КБ-210, КБ-211, 214 XIX н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nТеорія інформації та кодування",
+        "lecturer": " КБ-210",
+        "location": " 227 XX н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

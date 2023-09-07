@@ -1,0 +1,148 @@
+[
+    {
+        "subject": "Інженерна геодинаміка територій промислово-міських агломерацій",
+        "lecturer": "НЗГІ-11, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Картографування та 3-D моделювання просторово-часових процесів",
+        "lecturer": "НЗГІ-11, 302 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://classroom.google.com/c/NTk1NjIwODczNDM5?cjc=yzekkbj"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи тектонофізичних досліджень",
+        "lecturer": "НЗа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Картографування та 3-D моделювання просторово-часових процесів",
+        "lecturer": "НЗГІ-11, 014 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ugp-rriw-jwo"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методи тектонофізичних досліджень",
+        "lecturer": "НЗа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/pdv-eaff-pce"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Картографування та 3-D моделювання просторово-часових процесів",
+        "lecturer": "НЗГІ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/ugp-rriw-jwo"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Геологія і геоморфологія",
+        "lecturer": "ГД-11, ГД-12, ГД-13, НЗ-11, 509 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/jmo-zhym-cqp"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Геологія і геоморфологія",
+        "lecturer": "НЗ-11, 507 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ita-ifpc-oea"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Геологія і геоморфологія",
+        "lecturer": "ГД-11, 507 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/cqc-coff-gwh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Геологія і геоморфологія",
+        "lecturer": "ГД-13, 507 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/fio-dcpm-ioz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

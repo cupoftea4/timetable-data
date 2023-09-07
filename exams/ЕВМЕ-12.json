@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Чернобай Л.І., 310 IV н.к.,",
+        "subject": "Соціальна відповідальність",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2e531f34255245bcaea0306550705043%40thread.tacv2/conversations?groupId=65817600-7ff2-4cc4-91f5-45f33c3b1af1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Литвин І.В., 310 IV н.к.,",
+        "subject": "Міжнародна венчурна діяльність",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/79463160733?pwd=QYZ9hTaCxReoatXbxGHrB2V7HksHo9.1%20%20Meeting%20ID:%20794%206316%200733%20Passcode:%20EsPp3G"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Бала О.І., 301 IV н.к.,",
+        "subject": "Бізнес-планування експортно-імпортної діяльності",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "Георгіаді Н.Г., 310 IV н.к.,",
+        "subject": "Державне управління митною діяльністю",
+        "number": 3,
+        "urls": []
+    }
+]

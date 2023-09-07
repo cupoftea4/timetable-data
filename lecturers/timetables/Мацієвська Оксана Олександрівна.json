@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Водні технології",
+        "lecturer": "ГБ-21, 112а II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "БД-11сп, 227 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Водопостачання та водовідведення промислових підприємств",
+        "lecturer": "БДВВ-11, БДВВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Водні технології",
+        "lecturer": "ГБ-21, 112а II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Водні технології",
+        "lecturer": "ГБ-21, 112а II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "БД-11сп, 227 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "БД-24, 202 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "БД-26, 227 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Водопостачання та водовідведення промислових підприємств",
+        "lecturer": "БДВВ-11, 213 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Водопостачання та водовідведення промислових підприємств",
+        "lecturer": "БДВВ-12, 209 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/3755121368?pwd=aUtodVNBVVRNUGQ2L2t3ZnpVS0xtQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

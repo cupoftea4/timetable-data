@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Цифрова схемотехніка",
+        "lecturer": "ЕЛ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aPhj9pmTVB3FgPKo1kUpQNm_2ioKeOqfINNmZXMvyOm01%40thread.tacv2/conversations?groupId=0b16d994-5a5f-4443-82b7-74f23684f38c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Цифрова схемотехніка",
+        "lecturer": "ЕЛ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aPhj9pmTVB3FgPKo1kUpQNm_2ioKeOqfINNmZXMvyOm01%40thread.tacv2/conversations?groupId=0b16d994-5a5f-4443-82b7-74f23684f38c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Мікропроцесорні системи керування",
+        "lecturer": "ЕЛа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aoRVMlZtRV5bSuVeLliuyy20BuU4dqTIM9xXgwapGYDA1%40thread.tacv2/conversations?groupId=6eb5732f-9205-4f3e-9526-a9830fffd086&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Мікропроцесорні системи керування",
+        "lecturer": "ЕЛа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aoRVMlZtRV5bSuVeLliuyy20BuU4dqTIM9xXgwapGYDA1%40thread.tacv2/conversations?groupId=6eb5732f-9205-4f3e-9526-a9830fffd086&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Мікросхемотехніка та сигнальні перетворювачі",
+        "lecturer": "ЕЛа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apmCmQgFL6lhdPapSso14WEAQmQpDas4JcTKt3qjKQ5k1%40thread.tacv2/conversations?groupId=e92a6b10-1508-4dfe-8b41-f92d45b3229e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Мікросхемотехніка та сигнальні перетворювачі",
+        "lecturer": "ЕЛа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apmCmQgFL6lhdPapSso14WEAQmQpDas4JcTKt3qjKQ5k1%40thread.tacv2/conversations?groupId=e92a6b10-1508-4dfe-8b41-f92d45b3229e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

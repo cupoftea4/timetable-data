@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Технічна теплофізика",
+        "lecturer": "БД-38, БД-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aeJRw8o72KoADiiNLYQ6XCZdxpRmakW7Qv1Xeh2RJ7Pc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=178de8c0-968a-4275-bb93-194c326c5d0e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Проектування систем опалення",
+        "lecturer": "БДТГ-11, 401 II н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aB2qywtp60AfVaeevJxWjCTncOcGp1BQLI2DIV5X1jss1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e4cc4a23-5e97-4b94-8c37-9ff0fd63bdc9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування систем опалення",
+        "lecturer": "БДТГ-11, 401 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aB2qywtp60AfVaeevJxWjCTncOcGp1BQLI2DIV5X1jss1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e4cc4a23-5e97-4b94-8c37-9ff0fd63bdc9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування систем опалення",
+        "lecturer": "БДТГ-12, 401 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aB2qywtp60AfVaeevJxWjCTncOcGp1BQLI2DIV5X1jss1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e4cc4a23-5e97-4b94-8c37-9ff0fd63bdc9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проектування систем опалення",
+        "lecturer": "БДТГ-11, 401 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aB2qywtp60AfVaeevJxWjCTncOcGp1BQLI2DIV5X1jss1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e4cc4a23-5e97-4b94-8c37-9ff0fd63bdc9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технічна теплофізика",
+        "lecturer": "БД-39, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3alHDFk-puIKzen3-AyFYYdoroXUEFGxD51r6DLTAXq741%40thread.tacv2/conversations?groupId=4df938ff-9bca-42aa-8e65-58489411f405&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технічна теплофізика",
+        "lecturer": "БД-38, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1xLmJhNhGNNmCPBsvrUuROmi-juId3lJ7jesyuXem4k1%40thread.tacv2/conversations?groupId=fe5fb23b-6751-4dac-b1aa-1d2ec80b6df1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технічна теплофізика",
+        "lecturer": "БД-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3alHDFk-puIKzen3-AyFYYdoroXUEFGxD51r6DLTAXq741%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4df938ff-9bca-42aa-8e65-58489411f405&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технічна теплофізика",
+        "lecturer": "БД-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a1xLmJhNhGNNmCPBsvrUuROmi-juId3lJ7jesyuXem4k1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fe5fb23b-6751-4dac-b1aa-1d2ec80b6df1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування систем опалення",
+        "lecturer": "БДТГ-11, БДТГ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aB2qywtp60AfVaeevJxWjCTncOcGp1BQLI2DIV5X1jss1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e4cc4a23-5e97-4b94-8c37-9ff0fd63bdc9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

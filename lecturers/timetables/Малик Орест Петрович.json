@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "Фізика напівпровідників та діелектриків, частина 1",
+        "lecturer": "МН-21, МН-22, 331 III н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Фізика напівпровідників та діелектриків, частина 1",
+        "lecturer": "МН-21, 331 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Фізика напівпровідників та діелектриків, частина 1",
+        "lecturer": "МН-22, 331а III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Вибрані розділи фізики і технології напівпровідників та діелектриків",
+        "lecturer": "ПФа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Вибрані розділи фізики і технології напівпровідників та діелектриків",
+        "lecturer": "ПФа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Вибрані розділи фізики і технології напівпровідників та діелектриків",
+        "lecturer": "ПФа-21, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Фізика напівпровідників та діелектриків, частина 1",
+        "lecturer": "МН-21, МН-22, 331 III н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

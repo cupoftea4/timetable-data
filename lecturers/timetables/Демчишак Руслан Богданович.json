@@ -1,0 +1,118 @@
+[
+    {
+        "subject": "Історія міжнародних відносин",
+        "lecturer": "МВ-11, МВ-12, МВ-13, МВ-14, 209 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-31, МВ-32, МВ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Демократична трансформація у країнах Центральної та Східної Європи",
+        "lecturer": "МВа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Демократична трансформація у країнах Центральної та Східної Європи",
+        "lecturer": "МВа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Історія міжнародних відносин",
+        "lecturer": "МВ-11, МВ-12, МВ-13, МВ-14, 209 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-34, МВ-35, МВ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

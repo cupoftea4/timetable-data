@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Основи релейного захисту та автоматики електроенергетичних систем",
+        "lecturer": "ЕЕ-31, 303 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи релейного захисту та автоматики електроенергетичних систем",
+        "lecturer": "ЕЕ-32, 303 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи релейного захисту та автоматики електроенергетичних систем",
+        "lecturer": "ЕЕ-32, 303 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управління виробництвом і розподілом електроенергії",
+        "lecturer": "УВР-ЕСУ-101, 307 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a08375cc67c15470cb019888adb10a478%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596?groupId=aaad8d10-df77-40f1-9d1c-9be5a2f507b2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Управління виробництвом і розподілом електроенергії",
+        "lecturer": "УВР-ЕСУ-101, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aca0913867f974cefa41991569c88767a%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F?groupId=aaad8d10-df77-40f1-9d1c-9be5a2f507b2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Релейний захист і автоматика електричних станцій",
+        "lecturer": "ЕЕЕЕ-16, 303 V н.к., 304 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3b8af6174e8f4eae94d4f9a2ea2fd385%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D0%25B0?groupId=45ced5fe-abea-448a-9ec5-0fac8c896a21&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Релейний захист і автоматика електричних станцій",
+        "lecturer": "ЕЕЕЕ-16, 303 V н.к., 304 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Релейний захист і автоматика електричних станцій",
+        "lecturer": "ЕЕЕЕ-16, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a81d8045f2b92497fbef6b31238cfafd3%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F?groupId=45ced5fe-abea-448a-9ec5-0fac8c896a21&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

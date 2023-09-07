@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-06-07T00:00:00.000Z",
+        "lecturer": "Георгіаді Н.Г.,",
+        "subject": "Управління транснаціональними корпораціями",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-06-02T00:00:00.000Z",
+        "lecturer": "Литвин І.В.,",
+        "subject": "Управління венчурними проектами",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/79592932810?pwd=PaT23mZ2xxB4mHqqf9oMhAlkx7sCSq.1%20%20Meeting%20ID:%20795%209293%202810%20Passcode:%209xeCs3"
+        ]
+    },
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "Адамів М.Є.,",
+        "subject": "Антисипативний менеджмент",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTdmNzhkYzEtY2U5MS00MTZhLWFlOGMtMjUyOTRlMzFlZGFh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224a347e82-4e03-45d7-89cb-89707d823bb5%22%7d"
+        ]
+    }
+]

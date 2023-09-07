@@ -1,0 +1,75 @@
+[
+    {
+        "subject": "Математична теорія ризику в інформаційних технологіях",
+        "lecturer": "ПМКМ-11, 225c IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Функціональний аналіз",
+        "lecturer": "ПМ-22, 215 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88647442989?pwd=YVpaODhFU0svUi9mcnQyRmh3bXd6QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Функціональний аналіз",
+        "lecturer": "ПМ-23, 509 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88647442989?pwd=YVpaODhFU0svUi9mcnQyRmh3bXd6QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Функціональний аналіз",
+        "lecturer": "ПМ-21, 214 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88647442989?pwd=YVpaODhFU0svUi9mcnQyRmh3bXd6QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Дискретна математика, частина1",
+        "lecturer": "ПМ-12, 221 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/95118845459?pwd=OS9CdkRRY2JESFlXdXdIM2FlTExxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

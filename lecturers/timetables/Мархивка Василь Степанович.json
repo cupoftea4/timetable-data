@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Системне програмне забезпечення",
+        "lecturer": "КІ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/nua-zgnc-fiu"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Системне програмне забезпечення",
+        "lecturer": "КІ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/nua-zgnc-fiu"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Системне програмне забезпечення",
+        "lecturer": "КІ-34, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/nua-zgnc-fiu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

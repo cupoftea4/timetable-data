@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Риторика",
+        "lecturer": "УАа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/92090228393?pwd=VmlsSHlaaDBnd3pPYy9hNlU3djdEZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "lecturer": "ХР-12, 404 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

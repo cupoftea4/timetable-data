@@ -1,0 +1,309 @@
+[
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "МЕОА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "МЕМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "МЕОА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "МЕМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління ризиками інноваційної діяльності",
+        "lecturer": "МЕІД-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "МЕОА-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "МЕОА-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "МЕОА-11f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "МЕ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "МЕ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/85643080499?pwd=dDhhWUJxcFJBOUhtbWExVFprbE90UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління ризиками інноваційної діяльності",
+        "lecturer": "МЕІД-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "МЕ-312, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародна статистика",
+        "lecturer": "ЕВ-21f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Управління ризиками IT-проектів",
+        "lecturer": "УРП-МО-102, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління ризиками IT-проектів",
+        "lecturer": "УРП-МО-101, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Контролінг",
+        "lecturer": "МЕ-31, МЕ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "МЕМ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Електронна комерція",
+        "lecturer": "МЕОА-11, 425 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Контролінг",
+        "lecturer": "МЕ-31f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МЕ-21f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МЕ-21, МЕ-22, МЕ-23, МЕ-24, МЕ-25, МЕ-26, МЕ-27, 427(1) IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 4
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "ОП-22,",
+        "subject": "Аудит",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/kfx-uhvt-cek"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ОП-31, ОП-32,",
+        "subject": "Аудит",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/hik-oeij-qsk"
+        ]
+    }
+]

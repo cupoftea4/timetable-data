@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "УАа-21,",
+        "subject": "Публічне управління смарт-сіті",
+        "number": 6,
+        "urls": [
+            "https://meet.google.com/nct-srtd-dqj"
+        ]
+    },
+    {
+        "date": "2023-06-03T00:00:00.000Z",
+        "lecturer": "УАа-21,",
+        "subject": "Публічне управління в ЄС",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/xda-uqtf-qit"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "МЕФБі-11, 022 IV н.к.,",
+        "subject": "Інформаційно-аналітичне забезпечення економічної безпеки",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/jhy-vefn-oeh"
+        ]
+    }
+]

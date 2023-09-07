@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aL5nQHcjToQjM1vIHBCbqAg4H2ZUsDU9Xrct6cqPERHw1%40thread.tacv2/conversations?groupId=1388846f-97e9-4aa2-82b3-4bceb025d0f7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aL5nQHcjToQjM1vIHBCbqAg4H2ZUsDU9Xrct6cqPERHw1%40thread.tacv2/conversations?groupId=1388846f-97e9-4aa2-82b3-4bceb025d0f7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMmrmnywRA1H6Llfy-ZwCYe8jxQuopb1ua-k6Qlv154E1%40thread.tacv2/conversations?groupId=8e3ad7c4-1ae9-46aa-96a8-6947509e8bf9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMmrmnywRA1H6Llfy-ZwCYe8jxQuopb1ua-k6Qlv154E1%40thread.tacv2/conversations?groupId=8e3ad7c4-1ae9-46aa-96a8-6947509e8bf9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Експлуатаційна надійність транспортних засобів",
+        "lecturer": "ТТ-24, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aujw_eBD9KJd8hOExMzs0NJF59vqxa12090x2KTXBDn81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=be1fbef9-665e-4984-8bc8-e43655575344&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Експлуатаційна надійність транспортних засобів",
+        "lecturer": "ТТ-24, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aujw_eBD9KJd8hOExMzs0NJF59vqxa12090x2KTXBDn81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=be1fbef9-665e-4984-8bc8-e43655575344&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Експлуатаційна надійність транспортних засобів",
+        "lecturer": "ТТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aujw_eBD9KJd8hOExMzs0NJF59vqxa12090x2KTXBDn81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=be1fbef9-665e-4984-8bc8-e43655575344&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Система технічного сервісу транспортних засобів",
+        "lecturer": "ТТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aZdwdp11wNu2LZ3YAPu_gB2RxGqzkREFMzobq1d1lqPM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3320242a-4304-4eab-aa2f-0669747125ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Система технічного сервісу транспортних засобів",
+        "lecturer": "ТТ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aZdwdp11wNu2LZ3YAPu_gB2RxGqzkREFMzobq1d1lqPM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=3320242a-4304-4eab-aa2f-0669747125ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aymUydZ9Cfj-UDCIitoqBeqNUpyoTV7q0IQGyPAQDdZg1%40thread.tacv2/conversations?groupId=b5ed77b6-c66b-451b-86f0-4d6dec5d302f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aymUydZ9Cfj-UDCIitoqBeqNUpyoTV7q0IQGyPAQDdZg1%40thread.tacv2/conversations?groupId=b5ed77b6-c66b-451b-86f0-4d6dec5d302f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Експлуатаційна надійність транспортних засобів",
+        "lecturer": "ТТ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aujw_eBD9KJd8hOExMzs0NJF59vqxa12090x2KTXBDn81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=be1fbef9-665e-4984-8bc8-e43655575344&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "subject": "Страхування",
+        "lecturer": "ФБ-21, ФБ-22, 412 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Страхування",
+        "lecturer": "ФБ-21, ФБ-22, 412 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання діяльності на страховому ринку",
+        "lecturer": "ФБСС-11, ФБМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6afd5ce62d394404855198691c785768%40thread.tacv2/1677323830830?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d98cc3b9-de66-4c7c-9492-051a4bb3b8f2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання діяльності на страховому ринку",
+        "lecturer": "ФБСС-11, ФБМ-11, ",
+        "location": ", практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6afd5ce62d394404855198691c785768%40thread.tacv2/1678235290038?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d98cc3b9-de66-4c7c-9492-051a4bb3b8f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Страхування",
+        "lecturer": "ФБ-21, 412 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання діяльності на страховому ринку",
+        "lecturer": "ФБМ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6afd5ce62d394404855198691c785768%40thread.tacv2/1678235400824?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d98cc3b9-de66-4c7c-9492-051a4bb3b8f2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

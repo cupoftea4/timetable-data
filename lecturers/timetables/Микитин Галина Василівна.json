@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Системи безпеки інтелектуальних об`єктів",
+        "lecturer": "КБАС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://join.skype.com/invite/jiQsxsVAHL6O"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Системи безпеки інтелектуальних об`єктів",
+        "lecturer": "КБАС-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://join.skype.com/invite/jiQsxsVAHL6O"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Системи безпеки інтелектуальних об`єктів",
+        "lecturer": "КБАС-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://join.skype.com/invite/jiQsxsVAHL6O"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

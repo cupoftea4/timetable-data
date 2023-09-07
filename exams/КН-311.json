@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-06-15T00:00:00.000Z",
+        "lecturer": "Кадикало А.М.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aa99b3acf55e6439d976f7c132e10bea5%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4e4e63dc-f629-4388-bcc0-e0c65d31571e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Матвійків О.М.,",
+        "subject": "Інженерне проектування складних об`єктів та систем",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/szk-vnjk-ffr"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Фармага І.В.,",
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Лобур М.В.,",
+        "subject": "Автоматизація проектування мікросистем",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/xro-atwu-pfi"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Колесник К.К.,",
+        "subject": "Теоретичні основи системного проектування",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/udy-fqzq-zdt"
+        ]
+    }
+]

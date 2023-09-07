@@ -1,0 +1,56 @@
+[
+    {
+        "subject": "Інформаційне забезпечення учасників дорожнього руху",
+        "lecturer": "ТТ-23, 210 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-11сп, 207 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQpnRTDdfBzO1AIrd1d9kOB9u01yizgghNuQM2Mx6pDY1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b6c74f87-39d0-41a6-aa1d-738bfbf07a6c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Мікромоделювання в середовищі PTV VISSIM",
+        "lecturer": "ТТОР-12, 205 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Мікромоделювання в середовищі PTV VISSIM",
+        "lecturer": "ТТОР-11, 205 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

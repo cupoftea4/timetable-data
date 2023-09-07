@@ -1,0 +1,213 @@
+[
+    {
+        "subject": "WEB- картографія",
+        "lecturer": "НЗа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73764469681?pwd=SfF0qMzLKcc0hQvPcO8AyVU6TrKG72.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "WEB- картографія",
+        "lecturer": "НЗа-21, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73764469681?pwd=SfF0qMzLKcc0hQvPcO8AyVU6TrKG72.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології вебкартографування",
+        "lecturer": "НЗКА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74825980149?pwd=M2tEeLHSvBfsZd8MwbuE819YALpf7u.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інформатика та програмування геозадач",
+        "lecturer": "ГД-11, 606 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інформатика та програмування геозадач",
+        "lecturer": "ГД-11, 606 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інформатика та програмування геозадач",
+        "lecturer": "ГД-12, 606 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інформатика та програмування геозадач",
+        "lecturer": "ГД-12, 606 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інформатика та програмування геозадач",
+        "lecturer": "ГД-11, ГД-12, ГД-13, НЗ-11, 509 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технології вебкартографування",
+        "lecturer": "НЗКА-11, 608 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74825980149?pwd=M2tEeLHSvBfsZd8MwbuE819YALpf7u.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інформатика та програмування геозадач",
+        "lecturer": "НЗ-11, 608 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/96291933626?pwd=aFdyeldPV0dmZ0IyM2V4UFpjKzZadz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформатика та програмування геозадач",
+        "lecturer": "НЗ-11, 608 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/96291933626?pwd=aFdyeldPV0dmZ0IyM2V4UFpjKzZadz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи WEB-картографії",
+        "lecturer": "НЗ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/96385695188?pwd=OW1tZEh2eEt5TENDdUJhTWVIa3pZdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи WEB-картографії",
+        "lecturer": "НЗ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/96385695188?pwd=OW1tZEh2eEt5TENDdUJhTWVIa3pZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи картографії",
+        "lecturer": "НЗ-21, 608 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи картографії",
+        "lecturer": "НЗ-21, 608 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

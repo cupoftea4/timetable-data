@@ -1,0 +1,21 @@
+[
+    {
+        "date": "2023-04-25T00:00:00.000Z",
+        "lecturer": "КН-409, КН-410,",
+        "subject": "Математичне моделювання в САПР",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ap_acWXVob_QID3rfuWcXCWw-THiJZwyUkAgkSA6-SbA1%40thread.tacv2/1681970384797?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d",
+            "https://teams.microsoft.com/l/meetup-join/19%3a3gxnteRrOioromrj6r74y00nifvx2raSR82xxpzrPVw1%40thread.tacv2/1681970468426?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ]
+    },
+    {
+        "date": "2023-04-28T00:00:00.000Z",
+        "lecturer": "КН-406, КН-407, КН-408,",
+        "subject": "Математичне моделювання в САПР",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asYwyNMFCapr9tgLI6R_YvMmfUPro9uN95Vxd85ETPN01%40thread.tacv2/1681970765411?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ]
+    }
+]

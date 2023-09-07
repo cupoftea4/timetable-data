@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ПВ-310, ПВ-38, ПВ-39,",
+        "subject": "Цивільний процес",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34,",
+        "subject": "Цивільний процес",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ]
+    },
+    {
+        "date": "2023-06-24T00:00:00.000Z",
+        "lecturer": "ПВ-35, ПВ-36, ПВ-37,",
+        "subject": "Цивільний процес",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ]
+    }
+]

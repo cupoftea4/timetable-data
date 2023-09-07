@@ -1,0 +1,84 @@
+[
+    {
+        "subject": "Фінансове проектування",
+        "lecturer": "ФБСС-11, ФБМ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ad5993ccc669f4ffb82d2d2ef9f0b82b4%40thread.tacv2/1678211895468?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ac856d5f-ddb3-4006-bbb9-170f0f7e7228%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фінанси, гроші та кредит",
+        "lecturer": "ФБ-22, 410 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фінанси, гроші та кредит",
+        "lecturer": "ФБ-22, 416 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Фінанси, гроші і кредит",
+        "lecturer": "ЕБ-21, ЕБ-22, ЕБ-23, 412 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Фінанси, гроші і кредит",
+        "lecturer": "ЕБ-21, ЕБ-22, ЕБ-23, 418 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Фінансове проектування",
+        "lecturer": "ФБСС-11, ФБМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ad5993ccc669f4ffb82d2d2ef9f0b82b4%40thread.tacv2/1677094271267?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ac856d5f-ddb3-4006-bbb9-170f0f7e7228%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    }
+]

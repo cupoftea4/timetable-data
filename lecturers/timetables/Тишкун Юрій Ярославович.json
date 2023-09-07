@@ -1,0 +1,110 @@
+[
+    {
+        "subject": "Міжнародні відносини та світова політика",
+        "lecturer": "МВ-21, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Аналіз та прогнозування зовнішньої політики",
+        "lecturer": "МВМВ-11, МВМВ-12, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Історія і теорія дослідження міжнародних систем та глобального розвитку",
+        "lecturer": "МВМВ-11, МВМВ-12, 407 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні відносини та світова політика",
+        "lecturer": "МВ-21, 313 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні відносини та світова політика",
+        "lecturer": "МВ-21, МВ-22, МВ-23, МВ-24, 210 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародні відносини та світова політика",
+        "lecturer": "МВ-21, МВ-22, МВ-23, МВ-24, 210 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Аналіз та прогнозування зовнішньої політики",
+        "lecturer": "МВМВ-11, МВМВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86329164542?pwd=RGZEQXBMZ1lBMmpEbXU0dmVQV1ZvQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Історія і теорія дослідження міжнародних систем та глобального розвитку",
+        "lecturer": "МВМВ-11, МВМВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83848725390?pwd=dk9NY1NMckVHdzhtUE9uTTlEVTNzZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    }
+]

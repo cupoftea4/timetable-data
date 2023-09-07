@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "\nКонструювання програмного забезпечення",
+        "lecturer": " ПЗ-34, ПЗ-35, ПЗ-36, 411 V н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nКонструювання програмного забезпечення",
+        "lecturer": " ПЗ-31",
+        "location": " 302 XXIX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "\nКонструювання програмного забезпечення",
+        "lecturer": " ПЗ-31",
+        "location": " 302 XXIX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "\nКонструювання програмного забезпечення",
+        "lecturer": " ПЗ-32",
+        "location": " 810в V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "\nКонструювання програмного забезпечення",
+        "lecturer": " ПЗ-31, ПЗ-32, ПЗ-33, 411 V н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "\nКонструювання програмного забезпечення",
+        "lecturer": " ПЗ-32",
+        "location": " 810в V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "\nКонструювання програмного забезпечення",
+        "lecturer": " ПЗ-34",
+        "location": " 303 XXIX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

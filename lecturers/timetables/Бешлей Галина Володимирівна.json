@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Системи та мережі доступу",
+        "lecturer": "ТР-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/suo-gfhi-fbd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Системи та мережі доступу",
+        "lecturer": "ТР-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/ayq-ksyi-unh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Системи та мережі доступу",
+        "lecturer": "ТР-41, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/odf-wzia-smu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системи та мережі доступу",
+        "lecturer": "ТР-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/odf-wzia-smu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системи та мережі доступу",
+        "lecturer": "ТР-41, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/ajq-bbus-oqk"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Системи та мережі доступу",
+        "lecturer": "ТР-41, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/ajq-bbus-oqk"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

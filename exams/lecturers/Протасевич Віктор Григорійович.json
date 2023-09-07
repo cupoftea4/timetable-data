@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ТР-33, ТР-34,",
+        "subject": "Системи радіомовлення і телебачення",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/qwr-tjmd-tfe"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ТР-31, ТР-32,",
+        "subject": "Системи радіомовлення і телебачення",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/qwr-tjmd-tfe"
+        ]
+    }
+]

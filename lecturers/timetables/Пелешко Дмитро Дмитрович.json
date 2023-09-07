@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Обробка зображень методами штучного інтелекту",
+        "lecturer": "КН-412, КН-413, КН-414, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/bmc-zcms-qse"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Обробка зображень методами штучного інтелекту",
+        "lecturer": "КН-412, КН-413, КН-414, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/xpi-mbri-pkh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Обробка зображень методами штучного інтелекту",
+        "lecturer": "КН-412, 125, XX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/evq-mejf-cxp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Обробка зображень методами штучного інтелекту",
+        "lecturer": "КН-412, 125, XX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/sjj-wiic-yav"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Обробка зображень методами штучного інтелекту",
+        "lecturer": "КН-414, 200 XX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/oag-rujz-afv"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Обробка зображень методами штучного інтелекту",
+        "lecturer": "КН-414, 200 XX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/upq-pxxy-mgz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Обробка зображень методами штучного інтелекту",
+        "lecturer": "КН-413, 200 XX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/xwi-wjjy-bhd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Обробка зображень методами штучного інтелекту",
+        "lecturer": "КН-413, 200 XX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/atf-feer-uxf"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

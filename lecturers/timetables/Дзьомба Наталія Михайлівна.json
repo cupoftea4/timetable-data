@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Теорія і методика журналістської творчості, частина 2",
+        "lecturer": "ЖР-11, ЖР-12, ЖР-13, 032 XXXIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7739324092?pwd=ZUx5RC9UcUFGd2hhQkZwakRhVEMrZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Теорія і методика журналістської творчості, частина 2",
+        "lecturer": "ЖР-11, ЖР-12, ЖР-13, 032 XXXIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7739324092?pwd=ZUx5RC9UcUFGd2hhQkZwakRhVEMrZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Теорія і методика журналістської творчості, частина 4",
+        "lecturer": "ЖР-21, 034 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/7739324092?pwd=ZUx5RC9UcUFGd2hhQkZwakRhVEMrZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Теорія і методика журналістської творчості, частина 4",
+        "lecturer": "ЖР-21, 034 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/7739324092?pwd=ZUx5RC9UcUFGd2hhQkZwakRhVEMrZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

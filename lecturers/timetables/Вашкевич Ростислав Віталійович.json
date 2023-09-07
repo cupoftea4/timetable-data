@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-108, 416 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76108052546?pwd=kSFDRKbsexJDC1zhvjBYRVYRTLlhsj.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-109, 416 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77403009913?pwd=OQaa5vR0w68RKZEMcNxWLOYTobChND.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "БД-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76458213589?pwd=K8iUa2lbwpa0SbREgjfwBUPtwN7PYp.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "БД-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72136083440?pwd=kfpa5YIyLqla417qZcvPejqqWZD68J.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "БД-338, 209 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73758979854?pwd=MvKvYIZT287F5NbVY0tAPZ0RhebyvV.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "БД-338, 209 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71583196954?pwd=YXn2YHIwxm83ljX0Vt9X2QzBnZmDtv.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-108, ІВЛ-БКМ-109, ІВЛ-БКМ-110, ІВЛ-БКМ-111, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77008777034?pwd=qwtIUmfkCNb3ZW8agAwipWVzxcmebs.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "БД-338, 209 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71207465227?pwd=aSkV6OXAYRn3zNbPCoqC5DaGARufTG.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-111, 313 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72183834532?pwd=en813E9PWtCpo2ZTvetBZePBAr3kRl.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-110, 313 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78695044565?pwd=wiVCy0x61j7SnUjnffCubbTSLZbQsq.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "БД-338, 209 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77717020082?pwd=zTMaxJKB2PvjiGZ5nYQ3sasL2tPTqF.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Реконструкція будівель і споруд",
+        "lecturer": "БД-338, 209 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74215446949?pwd=fZkiWCdhI7MuIZjIpsvKIdLyWvAiMY.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

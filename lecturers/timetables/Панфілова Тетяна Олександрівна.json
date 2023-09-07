@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Управління регіонами в Європейському Союзі",
+        "lecturer": "УАа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8982550719?pwd=TytWazZkcS9HKzhVK0htQmc2eUxlQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління регіонами в Європейському Союзі",
+        "lecturer": "УАа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8982550719?pwd=TytWazZkcS9HKzhVK0htQmc2eUxlQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Зв`язки з громадськістю",
+        "lecturer": "ПУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8982550719?pwd=TytWazZkcS9HKzhVK0htQmc2eUxlQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Співпраця з Європейським Союзом",
+        "lecturer": "ПУ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8982550719?pwd=TytWazZkcS9HKzhVK0htQmc2eUxlQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Зв`язки з громадськістю",
+        "lecturer": "ПУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8982550719?pwd=TytWazZkcS9HKzhVK0htQmc2eUxlQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

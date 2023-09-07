@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2023-06-13T00:00:00.000Z",
+        "lecturer": "Смірнова О.М.,",
+        "subject": "Інженерна геодезія, ч.2",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-09T00:00:00.000Z",
+        "lecturer": "Церклевич А.Л.,",
+        "subject": "Динамічна геодезія",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-02T00:00:00.000Z",
+        "lecturer": "Заяць О.С.,",
+        "subject": "Сучасні  методи опрацювання інженерно-геодезичних спостережень",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "Шило Є.О.,",
+        "subject": "Лазерне сканування",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSBVPn-h8cv5dT2h13o9m9a62pgztkUmwPLUhhpAMQCM1%40thread.tacv2/1685905938721?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b1620289-c889-453b-a7c7-f9bc397d245e%22%7d"
+        ]
+    }
+]

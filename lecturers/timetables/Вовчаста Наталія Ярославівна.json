@@ -1,0 +1,209 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "АР-36, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79696606811?pwd=qHh2JPBDl8pOcVN281KUGlyYy0Aji0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "АР-36, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79696606811?pwd=qHh2JPBDl8pOcVN281KUGlyYy0Aji0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ПМ-13, 012а VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "АРа-11, ДЗа-11, РМа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79696606811?pwd=qHh2JPBDl8pOcVN281KUGlyYy0Aji0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "АРа-11, ДЗа-11, РМа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79696606811?pwd=qHh2JPBDl8pOcVN281KUGlyYy0Aji0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "ЕЛа-11, ТРа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74023588764?pwd=YgrRZjDvSKyb1H1A4Oio6Yd2VnHFb1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "ЕЛа-11, ТРа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74023588764?pwd=YgrRZjDvSKyb1H1A4Oio6Yd2VnHFb1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ПМ-11, 026 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ПМ-12, 026 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "БТ-12, 026 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "КБ-19, 026 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ПМ-13, 022 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ПМ-11, 026 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ПМ-12, 026 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "КБ-12, 026 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

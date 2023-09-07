@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Дорошенко А.В., 311 V н.к.,",
+        "subject": "Промисловий інтернет речей та захист персональних даних",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75301171534?pwd=TyvcM1vADZ7tVclPiUU7CVS5QSM2AZ.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Ткаченко Р.О., 908 V н.к.,",
+        "subject": "Технології обчислювального інтелекту",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/avi-sywm-dgd"
+        ]
+    },
+    {
+        "date": "2023-06-24T00:00:00.000Z",
+        "lecturer": "Сікора Л.С., 311 V н.к.,",
+        "subject": "Інтегровані ієрархічні системи управління",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71021732270?pwd=z06LMwAwqGNZUJfwDMYMy2no2rSMSS.1"
+        ]
+    }
+]

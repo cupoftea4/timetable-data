@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "\nОсновні геодезичні роботи",
+        "lecturer": " ГД-31, ГД-32, ГД-33, 510 II н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nОсновні геодезичні роботи",
+        "lecturer": " ГД-32",
+        "location": " 507 II н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nОсновні геодезичні роботи",
+        "lecturer": " ГД-32",
+        "location": " 507 II н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "\nОсновні геодезичні роботи",
+        "lecturer": " ГД-31",
+        "location": " 507 II н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nОсновні геодезичні роботи",
+        "lecturer": " ГД-31",
+        "location": " 507 II н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nОсновні геодезичні роботи",
+        "lecturer": " ГД-33",
+        "location": " 507 II н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "\nОсновні геодезичні роботи",
+        "lecturer": " ГД-33",
+        "location": " 507 II н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    }
+]

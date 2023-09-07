@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-26T00:00:00.000Z",
+        "lecturer": "ДК-41, ДК-42,",
+        "subject": "Адміністрування інформаційних мереж",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3abf75324ce83e408783e74fbf42c6f54e%40thread.tacv2/%25D0%2594%25D0%25B8%25D1%2581%25D1%2582%25D0%2597%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F202-23?groupId=fa9cbec4-d601-4837-93dd-1492da456cae&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "СА-33,",
+        "subject": "Хмарні технології",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a130fd327df584203bd15c8ea63477e26%40thread.tacv2/%25D0%2594%25D0%25B8%25D1%2581%25D1%2582%25D0%2597%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F2022-23?groupId=0df1874e-28cf-4116-b49d-7156db735e8a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

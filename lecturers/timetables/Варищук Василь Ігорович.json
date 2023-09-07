@@ -1,0 +1,84 @@
+[
+    {
+        "subject": "Хмарні технології та глобальні бази даних",
+        "lecturer": "АВ-31, 086 X н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75070624167?pwd=56qUEsQ6bO2WI3c2JJaN7spekuaUxL.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Хмарні технології та глобальні бази даних",
+        "lecturer": "АВ-31, 086 X н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77176759435?pwd=SiNArUOQfzpPFazSuxKKrUuH6DWx26.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Комп`ютерні технології та програмування, частина 2",
+        "lecturer": "АВ-13, 078 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні технології та програмування, частина 2",
+        "lecturer": "АВ-13, 078 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології та програмування, частина 2",
+        "lecturer": "АВ-13, 078 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні технології та програмування, частина 2",
+        "lecturer": "АВ-13, 078 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

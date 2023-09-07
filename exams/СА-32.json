@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Мудрий В.Я.,",
+        "subject": "Машинне навчання",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Кравченко Г.В.,",
+        "subject": "Управління ІТ проектами",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Жежнич П.І.,",
+        "subject": "Інженерія програмного забезпечення",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a81bdc23e5bfd420ea969e816f18bd333%40thread.tacv2/1687242572268?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7072747-0c89-405d-9838-4c12705d67fc%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Лозицький О.А.,",
+        "subject": "Web-технології та Web-дизайн",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/8947178091?pwd=Q0k2VkJ2MlhwNUU5Ym1SS3BIc3hxdz09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Балик А.В.,",
+        "subject": "Моделювання бізнес-процесів",
+        "number": 2,
+        "urls": []
+    }
+]

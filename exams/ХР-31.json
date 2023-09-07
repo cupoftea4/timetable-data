@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-21T00:00:00.000Z",
+        "lecturer": "Паляниця Л.Я.,",
+        "subject": "Мікробіологія харчових виробництв",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6905985844?pwd=Q1RWREVYUm0vcG9tdzdtYXhSRzBWZz09"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "Косів Р.Б.,",
+        "subject": "Технологія галузі",
+        "number": 3,
+        "urls": []
+    }
+]

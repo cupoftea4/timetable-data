@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Методика навчання права: дидактичне проектування та інноваційні технології",
+        "lecturer": "НОПН-13, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3081148887?pwd=cUtYbE9Ja3B5Y0xHa1h0aVpOYkNNQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Стратегії наукових педагогічних досліджень",
+        "lecturer": "НОа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3081148887?pwd=cUtYbE9Ja3B5Y0xHa1h0aVpOYkNNQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Стратегії наукових педагогічних досліджень",
+        "lecturer": "НОа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3081148887?pwd=cUtYbE9Ja3B5Y0xHa1h0aVpOYkNNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методика навчання права: дидактичне проектування та інноваційні технології",
+        "lecturer": "НОПН-13, 402 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3081148887?pwd=cUtYbE9Ja3B5Y0xHa1h0aVpOYkNNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Методика навчання права: дидактичне проектування та інноваційні технології",
+        "lecturer": "НОПН-13, 402 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3081148887?pwd=cUtYbE9Ja3B5Y0xHa1h0aVpOYkNNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент та лідерство в професійній освіті",
+        "lecturer": "ПОа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3081148887?pwd=cUtYbE9Ja3B5Y0xHa1h0aVpOYkNNQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Менеджмент та лідерство в професійній освіті",
+        "lecturer": "ПОа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3081148887?pwd=cUtYbE9Ja3B5Y0xHa1h0aVpOYkNNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

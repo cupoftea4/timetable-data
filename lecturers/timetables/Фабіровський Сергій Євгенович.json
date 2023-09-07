@@ -1,0 +1,174 @@
+[
+    {
+        "subject": "Цифрова схемотехніка",
+        "lecturer": "ТР-23, 204 XI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Цифрова схемотехніка",
+        "lecturer": "ТР-22, 204 XI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Цифрова схемотехніка",
+        "lecturer": "ТР-23, 204 XI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "lecturer": "ТР-42, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/cyw-qxwf-zvf"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "lecturer": "ТР-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/nsi-pdtk-uju"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "lecturer": "ТР-42, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/cuk-dzdb-cto"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "lecturer": "ТР-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/vyp-spoz-mzs"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "lecturer": "ТР-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/tno-krfm-cwf"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Цифрова схемотехніка",
+        "lecturer": "ТР-22, 204 XI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системи та засоби радіозв`язку в авіації",
+        "lecturer": "АН-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/hgc-recn-psj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Системи та засоби радіозв`язку в авіації",
+        "lecturer": "АН-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/spp-hcbv-eww"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Системи та засоби радіозв`язку в авіації",
+        "lecturer": "АН-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/siw-yoew-ecp"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

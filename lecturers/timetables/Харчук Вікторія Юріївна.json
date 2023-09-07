@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Ризик-менеджмент в інноваційній діяльності",
+        "lecturer": "МЕУІ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ahDIuMjMAt0AR-nh4ifM3oEOSZrEDZwdpgNLRjs5-f441%40thread.tacv2/General?groupId=2fe92d37-2e5e-473e-8b5a-58934c04421b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Ризик-менеджмент в інноваційній діяльності",
+        "lecturer": "МЕУІ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ajdw9Agtonr2-0qqGPFTaAiLOdk3UOoe0pGEKjpplaKM1%40thread.tacv2/General?groupId=f4bf1e64-d069-4467-82a1-6b9ab9aba279&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент кар`єри",
+        "lecturer": "МЕа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_C0sDMeZdVH0QkXrwiiHYj146EU4h5BFq8IImlK3TkU1%40thread.tacv2/General?groupId=98f60a7e-0bc1-4430-8f25-5a18a5e5703c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Менеджмент кар`єри",
+        "lecturer": "МЕа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_C0sDMeZdVH0QkXrwiiHYj146EU4h5BFq8IImlK3TkU1%40thread.tacv2/General?groupId=98f60a7e-0bc1-4430-8f25-5a18a5e5703c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний фінансовий менеджмент",
+        "lecturer": "ЕВМЕ-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78188220191?pwd=RVmjApsG5krtUHCLEK56X4XP4VFiEj.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Ризик-менеджмент в інноваційній діяльності",
+        "lecturer": "МЕУІ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ahDIuMjMAt0AR-nh4ifM3oEOSZrEDZwdpgNLRjs5-f441%40thread.tacv2/General?groupId=2fe92d37-2e5e-473e-8b5a-58934c04421b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Ризик-менеджмент в інноваційній діяльності",
+        "lecturer": "МЕУІ-11, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ahDIuMjMAt0AR-nh4ifM3oEOSZrEDZwdpgNLRjs5-f441%40thread.tacv2/General?groupId=2fe92d37-2e5e-473e-8b5a-58934c04421b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний фінансовий менеджмент",
+        "lecturer": "ЕВМЕ-11f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78188220191?pwd=RVmjApsG5krtUHCLEK56X4XP4VFiEj.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

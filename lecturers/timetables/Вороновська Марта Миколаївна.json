@@ -1,0 +1,80 @@
+[
+    {
+        "subject": "Оподаткування міжнародної економічної діяльності",
+        "lecturer": "ОМЕ-ММП-101, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Оподаткування міжнародної економічної діяльності",
+        "lecturer": "ОМЕ-ММП-101, ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-11, 306 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-11, 306 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-12, 306 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-12, 306 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    }
+]

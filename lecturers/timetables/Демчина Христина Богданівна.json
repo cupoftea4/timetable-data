@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "АР-43, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apqVnkqXVAOZgD3Uql9FaXT2Y95GM64RXcxtgPTp5Qf41%40thread.tacv2/conversations?groupId=b69d1142-7da5-4daf-8b2d-9244b1b3249b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "АР-45, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0JQ0WmFPd1MkLQDfzz6cmCvJ8H-uyaQGG-rjHxQxS-w1%40thread.tacv2/conversations?groupId=3286b382-b06b-47dc-8432-98a0fdbc2c22&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "АР-46, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ae5mOQ12-SZq4Vq2fJDJMLAhEAPsWaDrYZAWu0DgHq5I1%40thread.tacv2/conversations?groupId=199163d8-a252-4459-8816-f1e2afac0d68&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "АР-48, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aw2g2xAYREhKJ1kE79WNGcUbxhetna68qHOebiHzN_Ck1%40thread.tacv2/conversations?groupId=73cc8975-fcbb-4bf4-96a4-af7c28fa38f8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "АР-49, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aiUx9FDxqbXv1rTS-eYT5pAAVBeZdjJ1taGQdw_0XKDg1%40thread.tacv2/conversations?groupId=ba6ffbf8-45ec-494e-abf0-04e7203aa0f1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "АР-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aid8r_osyrGNERywofO3ZbGCjDRqzENp_U1RSXnRH_B01%40thread.tacv2/conversations?groupId=fc1453db-16b0-479e-b7d8-599ea3a94570&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "АР-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aoZ3QWeqsBfV9YJDAxd1vLbwmz3DmWtwHbwoKeNsx9mk1%40thread.tacv2/conversations?groupId=52d07e7d-7ec2-4b3f-ab4e-d239d875139b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-28, 416 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1s5SVCuIJ-Kf7CtOuZGH2X6OAbRCiW68klLhrYjnyew1%40thread.tacv2/conversations?groupId=0874d988-8f2f-4ef1-82b4-bbf78e53eff5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "АР-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYlch5F4Wr3FM2PNhr2NO9X30BFEtnc62GSt2xAEsfvA1%40thread.tacv2/conversations?groupId=f1939be0-c256-4cb2-b7f0-a85055b0a7d7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

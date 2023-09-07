@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Європейський Союз у міжнародних відносинах",
+        "lecturer": "МВ-31, МВ-32, МВ-33, МВ-34, МВ-35, МВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86721104128?pwd=WFlxTVMxMnVPYTNQVDlJUGFkS3cxdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародні організації",
+        "lecturer": "МВ-12, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85265818230?pwd=NEhvQUhiN0N5eDlpRVF0RzhwNjlhQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Європейський Союз у міжнародних відносинах",
+        "lecturer": "МВ-31, МВ-32, МВ-33, МВ-34, МВ-35, МВ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86721104128?pwd=WFlxTVMxMnVPYTNQVDlJUGFkS3cxdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83606547360?pwd=cVJJTyt0RDA2dGtBMVcvbHlTRW9LUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83606547360?pwd=cVJJTyt0RDA2dGtBMVcvbHlTRW9LUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83606547360?pwd=cVJJTyt0RDA2dGtBMVcvbHlTRW9LUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "lecturer": "МВ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83606547360?pwd=cVJJTyt0RDA2dGtBMVcvbHlTRW9LUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

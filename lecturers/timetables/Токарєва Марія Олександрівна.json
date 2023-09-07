@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "МН-31, ЕЛ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aNcZjbOZRg1Cat26TWxLwa7XA2KopvCMpi-hVB8B48sg1%40thread.tacv2/1676890070237?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ФР-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXoMFompcreaMglo3Ri7xd-XGUxPCfp_j6Fy8LWFgklI1%40thread.tacv2/1676892364598?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ФР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXoMFompcreaMglo3Ri7xd-XGUxPCfp_j6Fy8LWFgklI1%40thread.tacv2/1676891763545?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ФР-31, ФР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXoMFompcreaMglo3Ri7xd-XGUxPCfp_j6Fy8LWFgklI1%40thread.tacv2/1676892448436?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "БТ-31, БТ-32, ФР-31, ФР-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXoMFompcreaMglo3Ri7xd-XGUxPCfp_j6Fy8LWFgklI1%40thread.tacv2/1676892555276?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d85b5e41-6c37-49ec-b785-65169a8fbd34%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

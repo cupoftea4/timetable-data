@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Кузь О.Н., 111 I н.к.,",
+        "subject": "Інформатика",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/84405809881?pwd=ZHdMVGt3NkRiNzd6VVRweFVrOHhRQT09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Москвяк Я.Є., 107 I н.к.,",
+        "subject": "Організація послуг харчування",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "Ільницька-Гикавчук Г.Я., 111 I н.к.,",
+        "subject": "Менеджмент в туризмі",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/76924348954"
+        ]
+    }
+]

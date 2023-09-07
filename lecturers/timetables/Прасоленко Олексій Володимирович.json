@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aL5nQHcjToQjM1vIHBCbqAg4H2ZUsDU9Xrct6cqPERHw1%40thread.tacv2/conversations?groupId=1388846f-97e9-4aa2-82b3-4bceb025d0f7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aL5nQHcjToQjM1vIHBCbqAg4H2ZUsDU9Xrct6cqPERHw1%40thread.tacv2/conversations?groupId=1388846f-97e9-4aa2-82b3-4bceb025d0f7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMmrmnywRA1H6Llfy-ZwCYe8jxQuopb1ua-k6Qlv154E1%40thread.tacv2/conversations?groupId=8e3ad7c4-1ae9-46aa-96a8-6947509e8bf9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aMmrmnywRA1H6Llfy-ZwCYe8jxQuopb1ua-k6Qlv154E1%40thread.tacv2/conversations?groupId=8e3ad7c4-1ae9-46aa-96a8-6947509e8bf9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aymUydZ9Cfj-UDCIitoqBeqNUpyoTV7q0IQGyPAQDdZg1%40thread.tacv2/conversations?groupId=b5ed77b6-c66b-451b-86f0-4d6dec5d302f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Організація дорожнього руху, частина 1",
+        "lecturer": "ТТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aymUydZ9Cfj-UDCIitoqBeqNUpyoTV7q0IQGyPAQDdZg1%40thread.tacv2/conversations?groupId=b5ed77b6-c66b-451b-86f0-4d6dec5d302f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

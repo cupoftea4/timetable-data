@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "МКМА-11, 429 IV н.к.,",
+        "subject": "Управління проектами",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73706365515?pwd=URln8BYDgcSKQUbaqps58fop32UZon.1"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "МЕ-310, МЕ-311, МЕ-39,",
+        "subject": "Маркетингові дослідження",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/76200364724?pwd=ANy0FpBckJXvKGgfNCEcCLqMn37w1v.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "МЕ-31f,",
+        "subject": "Маркетингові дослідження",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/76510794067?pwd=xafcmDMHo5sNw6DlYL1HrBH9cEPmPL.1"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Квантова механіка",
+        "lecturer": "ПФ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aff26c08a84b446859fcd770437a6b0d4%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fce5ffa9-5e9e-4b0c-b1d9-94fb5d4efcf0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Квантова механіка",
+        "lecturer": "ПФ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aff26c08a84b446859fcd770437a6b0d4%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fce5ffa9-5e9e-4b0c-b1d9-94fb5d4efcf0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    }
+]

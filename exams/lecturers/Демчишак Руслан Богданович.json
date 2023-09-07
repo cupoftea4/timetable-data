@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "МВа-11,",
+        "subject": "Демократична трансформація у країнах Центральної та Східної Європи",
+        "number": 6,
+        "urls": [
+            "https://us04web.zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "МВ-31, МВ-32, МВ-33,",
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "МВ-13, МВ-14, 313 IV н.к.,",
+        "subject": "Історія міжнародних відносин",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "МВ-34, МВ-35, МВ-36,",
+        "subject": "Зовнішня політика країн ЦСЄ та ПСЄ",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "МВ-11, МВ-12, 313 IV н.к.,",
+        "subject": "Історія міжнародних відносин",
+        "number": 1,
+        "urls": []
+    }
+]

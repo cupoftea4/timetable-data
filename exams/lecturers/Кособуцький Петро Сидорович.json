@@ -1,0 +1,56 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "КНСП-11, 327 IV н.к.,",
+        "subject": "Автоматизація проектування інтелектуальних вбудованих систем",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "КНСП-12, 327 IV н.к.,",
+        "subject": "Прогресивні методи проектування і виробництва мікро- та наносистем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "КН-210, КН-211, 325 IV н.к.,",
+        "subject": "Теорія інформації",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "КН-208, КН-209, 325 IV н.к.,",
+        "subject": "Теорія інформації",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "КН-212, КН-213, 325 IV н.к.,",
+        "subject": "Теорія інформації",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "КНІТ-12, 325 IV н.к.,",
+        "subject": "Прогресивні методи проектування і виробництва наносистем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77060533007?pwd=Kx3TLIZS4OoOm3gqLJznJpqCIIaCjG.1"
+        ]
+    }
+]

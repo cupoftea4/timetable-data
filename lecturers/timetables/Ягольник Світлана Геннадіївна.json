@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Кваліметрія",
+        "lecturer": "ПТ-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Кваліметрія",
+        "lecturer": "ПТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Кваліметрія",
+        "lecturer": "ПТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Товарознавство та митна експертиза товарів (промислові товари), частина 2",
+        "lecturer": "ПТ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8850778896?pwd=iMAT0CUVCWPSXUSqvvoyTh6kECzXP4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

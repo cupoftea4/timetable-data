@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-31, БД-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи технічного нагляду в будівництві",
+        "lecturer": "БД-33, БД-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-29, 417 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технічний нагляд у будівельному виробництві",
+        "lecturer": "БДТК-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/8950752926?pwd%3DUkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09&sa=D&source=calendar&usd=2&usg=AOvVaw2aQl_BfIEypUYs8jGmUH6R"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи технічного нагляду в будівництві",
+        "lecturer": "БД-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технічний нагляд у будівельному виробництві",
+        "lecturer": "БДТК-11, 413 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи технічного нагляду в будівництві",
+        "lecturer": "БД-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-29, 413 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8950752926?pwd=UkFBRm5EbFlQSHQ0ZVZqRFNFWGVndz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

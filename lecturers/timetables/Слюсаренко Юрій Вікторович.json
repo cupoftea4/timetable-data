@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Комплексний аналіз та варіаційне числення",
+        "lecturer": "ПМ-21, 221 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

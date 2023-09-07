@@ -1,0 +1,73 @@
+[
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДАД-11, 224 II н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДАД-11, 224 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aADZt9mjzGI503FUkewRlm8sooHEWb4F5N5Xd1gpYgMM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=00b19d0c-32d4-426c-99c1-c266dffb1284&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДАД-12, 209 II н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aYB2-x0sfbkNTeZPu_PQqkssXbqTu6r5XB5YATk1c8NU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=2fcc6824-8c82-4812-a431-9bd160e72387&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДАД-12, 209 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Новітні технології в проектуванні, виготовленні, будівництві і експлуатації",
+        "lecturer": "БД-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aYk2jWXeSF_L1UgpWZ2ddPg64CXfdPpK143D_aw-Cc7A1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e38e4ba6-95fd-44ef-886a-3cc66e6de555&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

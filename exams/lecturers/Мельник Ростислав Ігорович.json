@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "АТ-13, 072 XIV н.к.,",
+        "subject": "Історія державності та культури України",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/72372320909?pwd=NWhRbCtEc05Vb2IzUzZXdmxrdVIzQT09"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "СТ-31,",
+        "subject": "Архівознавство",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72372320909?pwd=NWhRbCtEc05Vb2IzUzZXdmxrdVIzQT09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "АТ-11, АТ-12, 072 XIV н.к.,",
+        "subject": "Історія державності та культури України",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/72372320909?pwd=NWhRbCtEc05Vb2IzUzZXdmxrdVIzQT09"
+        ]
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "СМУС-11, СМУС-12, 204 IV н.к.,",
+        "subject": "Культурна спадщина: інтерпретація та комунікація",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72372320909?pwd=NWhRbCtEc05Vb2IzUzZXdmxrdVIzQT09"
+        ]
+    }
+]

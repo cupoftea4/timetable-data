@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Психологічне консультування з основами психотерапії, частина 2",
+        "lecturer": "ПСПС-11, 068 XX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e7021aa19a55c36743d901000000000000000010000000f9103e9453d90243ba2824ef538415f6&conversationId=19:1tPjIWesZeu3Tl-mrsMadTHlB0ApE_KyPF49IB5ey4U1@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Exception&calendarType=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Психологічне консультування з основами психотерапії, частина 2",
+        "lecturer": "ПСПС-12, 068 XX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e7021bb3f2bc746843d9010000000000000000100000003063ddb2c308754a936fe412278ffa1a&conversationId=19:1tPjIWesZeu3Tl-mrsMadTHlB0ApE_KyPF49IB5ey4U1@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Етичні норми психологічного консультування",
+        "lecturer": "ПС-31, ПС-32, ПС-33, ПС-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e70302f4dfe5076943d901000000000000000010000000cad6a371ef5d19488e9e12403fe34df2&conversationId=19:XRsJuPsyPmoj4CHcqOoE-g6N1M3PZF3Q9LDxYTkFoFg1@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Психологічне консультування з основами психотерапії, частина 2",
+        "lecturer": "ПСПС-11, ПСПС-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/modern-calling/"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

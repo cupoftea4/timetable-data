@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Маркетинг інновацій",
+        "lecturer": "МЕІД-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/82424490377?pwd=TkdlZUlzaUFsVEw3OUprZlRLc3FRZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Маркетинговий менеджмент у малому і середньому бізнесі",
+        "lecturer": "МЕОА-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/83651734183?pwd=a0pYTGxNSERQUU9wTjkxM0ZIRTErUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

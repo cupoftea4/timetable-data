@@ -1,0 +1,191 @@
+[
+    {
+        "subject": "Радіаційне охолодження та опалення приміщень",
+        "lecturer": "БД-38, БД-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7bGEdFBTdmES2k2DP2Mp5Sos52AdVP5JzON1khu-urw1%40thread.tacv2/1676839611776?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Теплопостачання",
+        "lecturer": "БД-38, БД-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7bGEdFBTdmES2k2DP2Mp5Sos52AdVP5JzON1khu-urw1%40thread.tacv2/1676839973166?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "ЕАУ-ТГВ-103, 411 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Теплопостачання",
+        "lecturer": "БД-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-eExzzIcqyZ50hWeGs43plI5bnYADK5QYThiALJBzMk1%40thread.tacv2/1676840484727?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теплопостачання",
+        "lecturer": "БД-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aadOfp3Ky5gn20OKtspUG_kGyf0GL53B-owTH0MdNlJk1%40thread.tacv2/1676840203416?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Газопостачання, частина 2",
+        "lecturer": "БД-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avt8wK9pA3E5x9WQdLSVqvvjdCj1ujFiJzV7BaHAr3ko1%40thread.tacv2/1677063452414?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1c768ed-661c-4a6c-a7b5-93bb3874a9e6%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Радіаційне охолодження та опалення приміщень",
+        "lecturer": "БД-38, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-eExzzIcqyZ50hWeGs43plI5bnYADK5QYThiALJBzMk1%40thread.tacv2/1676840794750?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Радіаційне охолодження та опалення приміщень",
+        "lecturer": "БД-39, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aadOfp3Ky5gn20OKtspUG_kGyf0GL53B-owTH0MdNlJk1%40thread.tacv2/1676840960549?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теплопостачання",
+        "lecturer": "БД-39, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aadOfp3Ky5gn20OKtspUG_kGyf0GL53B-owTH0MdNlJk1%40thread.tacv2/1676841313145?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Теплопостачання",
+        "lecturer": "БД-38, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-eExzzIcqyZ50hWeGs43plI5bnYADK5QYThiALJBzMk1%40thread.tacv2/1676841631346?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "ЕАУ-ТГВ-101, БДТГ-11, 409 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "ЕАУ-ТГВ-102, БДТГ-12, 409 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "ЕАУ-ТГВ-101, ЕАУ-ТГВ-102, ЕАУ-ТГВ-103, БДТГ-11, БДТГ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7B-iIrluowU9OxVAnrTwvs36atzvDEEbo6hKSW-XR3U1%40thread.tacv2/1677582432376?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225dce1052-1e8d-49f8-8f80-249a71ffd707%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

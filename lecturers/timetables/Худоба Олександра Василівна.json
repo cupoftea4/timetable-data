@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Публічна служба та корупційні ризики службової діяльності",
+        "lecturer": "ПУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5603098154?pwd=THpmL1Y0TmxuODl1eXM3TytOb3N3UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Публічна служба та корупційні ризики службової діяльності",
+        "lecturer": "ПУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5603098154?pwd=THpmL1Y0TmxuODl1eXM3TytOb3N3UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

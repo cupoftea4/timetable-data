@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "Основи теорії кіл",
+        "lecturer": "ТР-12, 107 XI н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи теорії кіл",
+        "lecturer": "ТР-15, 107 XI н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи теорії кіл",
+        "lecturer": "ТР-14, 107 XI н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи теорії кіл",
+        "lecturer": "ТР-11, 216 XI н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи теорії кіл",
+        "lecturer": "ТР-13, 216 XI н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

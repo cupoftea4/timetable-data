@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ГД-31,",
+        "subject": "Землеустрій",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09",
+            "https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09",
+            "https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "ГД-23, 504 II н.к.,",
+        "subject": "Землеустрій",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09"
+        ]
+    }
+]

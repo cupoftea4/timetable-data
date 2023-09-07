@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "\nАрхітектура комп`ютерів",
+        "lecturer": " КІ-309",
+        "location": " 509 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "\nАрхітектура комп`ютерів",
+        "lecturer": " КІ-309",
+        "location": " 512 V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nАрхітектура комп`ютерів",
+        "lecturer": " КІ-310",
+        "location": " 901 V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nАрхітектура комп`ютерів",
+        "lecturer": " КІ-309",
+        "location": " 505а1 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "\nАрхітектура комп`ютерів",
+        "lecturer": " КІ-310",
+        "location": " 508 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

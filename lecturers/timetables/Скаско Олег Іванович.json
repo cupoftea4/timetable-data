@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Фінансовий моніторинг",
+        "lecturer": "ОПАГ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2635363017?pwd=S0pFeVVLcXM0QUdxWkFmcll0Mlh3dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Облік у банках",
+        "lecturer": "ОП-22, 326 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2635363017?pwd=S0pFeVVLcXM0QUdxWkFmcll0Mlh3dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Фінансовий моніторинг",
+        "lecturer": "ОПАГ-11, ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2635363017?pwd=S0pFeVVLcXM0QUdxWkFmcll0Mlh3dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

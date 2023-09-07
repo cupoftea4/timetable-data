@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "АВ-33,",
+        "subject": "Технічні засоби автоматизації",
+        "number": 2,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77418567466?pwd%3DDZqFM39NSRwNzIT3lPsav17yvgbvlb.1&sa=D&source=calendar&ust=1687625356757298&usg=AOvVaw2eNW281-XK-KwT-c8Shx8N"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "АВ-24, 071 X н.к.,",
+        "subject": "Технічні засоби автоматизації",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "АВКВ-12, АВМ-12, 051 X н.к.,",
+        "subject": "Розподілені системи керування виробництвом",
+        "number": 2,
+        "urls": []
+    }
+]

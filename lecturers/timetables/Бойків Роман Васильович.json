@@ -1,0 +1,230 @@
+[
+    {
+        "subject": "Поведінка та надійність роботи водія",
+        "lecturer": "ПНР-ТТ-104, 204 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Поведінка та надійність роботи водія",
+        "lecturer": "ПНР-ТТ-102, 204 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Поведінка та надійність роботи водія",
+        "lecturer": "ПНР-ТТ-103, 206 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Поведінка та надійність роботи водія",
+        "lecturer": "ПНР-ТТ-101, 210 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Поведінка та надійність роботи водія",
+        "lecturer": "ПНР-ТТ-105, 210 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "ТТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ac63e024ac11f47a3803176a5c9d8a031%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "ТТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ac63e024ac11f47a3803176a5c9d8a031%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "ТТ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3at87cuibTKr3UwxyarN6iFfmUTXVQSsMMXE2IEJSOtN81%40thread.tacv2/conversations?groupId=3e8a39d0-a2ce-44c7-a6a6-0c7183add984&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Спецкурс з наукових досліджень спеціальності, частина 2",
+        "lecturer": "РТМ-11, 204 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3at87cuibTKr3UwxyarN6iFfmUTXVQSsMMXE2IEJSOtN81%40thread.tacv2/conversations?groupId=3e8a39d0-a2ce-44c7-a6a6-0c7183add984&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Методи і моделі організації дорожнього руху",
+        "lecturer": "ТТ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Методи і моделі організації дорожнього руху",
+        "lecturer": "ТТ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Спецкурс з наукових досліджень спеціальності, частина 2",
+        "lecturer": "РТМ-12, 207 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3at87cuibTKr3UwxyarN6iFfmUTXVQSsMMXE2IEJSOtN81%40thread.tacv2/conversations?groupId=3e8a39d0-a2ce-44c7-a6a6-0c7183add984&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "ТТ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ac63e024ac11f47a3803176a5c9d8a031%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація вантажних автомобільних перевезень",
+        "lecturer": "ТТ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ac63e024ac11f47a3803176a5c9d8a031%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596?groupId=fc177b6b-f22f-46ae-a884-2efef6df7934&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Методи і моделі організації дорожнього руху",
+        "lecturer": "ТТ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNPwq4n8AHRnfxkNyP-LYHENvugNbCq3_Ht-E3aeGWzM1%40thread.tacv2/conversations?groupId=4caa887f-36d5-4523-af2d-a516fe0dd8ed&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Поведінка та надійність роботи водія",
+        "lecturer": "ПНР-ТТ-106, 204 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "\nБезпека програм та даних",
+        "lecturer": " ПЗ-41",
+        "location": " 302 XXIX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "\nБезпека програм та даних",
+        "lecturer": " ПЗ-41",
+        "location": " 302 XXIX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nБезпека програм та даних",
+        "lecturer": " ПЗ-41, ПЗ-42, ПЗ-43, ПЗ-44, ПЗ-45, 321 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "\nМетодології розробки програмного забезпечення",
+        "lecturer": " ПЗМ-11",
+        "location": " 809 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "\nТеорія надійності програмних систем",
+        "lecturer": " ПЗМ-11",
+        "location": " 810в V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-06-13T00:00:00.000Z",
+        "lecturer": "Міюшкович Ю.Г.,",
+        "subject": "WEB -  програмування",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/wmy-grts-tkp"
+        ]
+    },
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Ковівчак Я.В.,",
+        "subject": "Основи автоматизованого проектування видавничих систем",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYzNGQwYmYtODEzZC00NTNiLTllYTEtOWYwOTgxZjQxZmE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Лотошинська Н.Д.,",
+        "subject": "3D графіка",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72910536799?pwd=zTIOXV8p334a4k8VbgwedHSXUHUwrz.1"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Міюшкович Ю.Г.,",
+        "subject": "Технологія розробки електронних видань",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/wmy-grts-tkp"
+        ]
+    }
+]

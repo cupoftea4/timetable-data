@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "КН-201, 804г V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://netacad.webex.com/meet/aaz.mail"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "КН-201, 107a V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://netacad.webex.com/meet/aaz.mail"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "КН-205, 804б V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://netacad.webex.com/meet/aaz.mail"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "КН-205, 804б V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://netacad.webex.com/meet/aaz.mail"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

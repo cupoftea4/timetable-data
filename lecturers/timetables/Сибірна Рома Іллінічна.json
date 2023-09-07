@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Судова медицина",
+        "lecturer": "ПВ-44, ПВ-45, ПВ-47, ПВ-49, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7096684473?pwd=WjB1Ums0SFhRV2tSMkZqdXB2ZE5pZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Судова медицина",
+        "lecturer": "ПВ-41, ПВ-42, ПВ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7096684473?pwd=WjB1Ums0SFhRV2tSMkZqdXB2ZE5pZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Судова медицина",
+        "lecturer": "ПВ-46, ПВ-48, ПВ-410, ПВ-411, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7096684473?pwd=WjB1Ums0SFhRV2tSMkZqdXB2ZE5pZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    }
+]

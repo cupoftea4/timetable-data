@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "МК-24, 426а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3462634878?pwd=aHB2bWg0Rkdpc2dDTGx5MHhmaEFZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "МК-25, 408 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3462634878?pwd=aHB2bWg0Rkdpc2dDTGx5MHhmaEFZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕБ-21, ЕБ-22, ЕБ-23, ОП-21, 417 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77377934096?pwd=95S9BfYOS3kbj8GbUcUe3NPacelMXN.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-401, ЛУЛ-МЛ-402, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72436389618?pwd=enJCVDdxVGUwOXpiSVgybTZYSHYzUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-401, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72436389618?pwd=enJCVDdxVGUwOXpiSVgybTZYSHYzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-402, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72436389618?pwd=enJCVDdxVGUwOXpiSVgybTZYSHYzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "МК-25, 426а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3462634878?pwd=aHB2bWg0Rkdpc2dDTGx5MHhmaEFZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "МК-24, 426а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/3462634878?pwd=aHB2bWg0Rkdpc2dDTGx5MHhmaEFZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕБ-21, 401а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79650835756?pwd=Me7LlWIvjluDoxgOaDzwMnWHkj0eGZ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕБ-22, 401а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75972188415?pwd=SqjXnfbHLR9yGA5EbpOXbMDoK5brWo.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-204, ЛУЛ-МЛ-205, ЛУЛ-МЛ-206, ЛУЛ-МЛ-210, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74008701441?pwd=lZ3CwjCXBbnSGKfv860akjfGdbhRBF.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕБ-22, 426а IV н.к., 426в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75972188415?pwd=SqjXnfbHLR9yGA5EbpOXbMDoK5brWo.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕБ-21, 426а IV н.к., 426в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79650835756?pwd=Me7LlWIvjluDoxgOaDzwMnWHkj0eGZ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-301, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72436389618?pwd=enJCVDdxVGUwOXpiSVgybTZYSHYzUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-301, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72436389618?pwd=enJCVDdxVGUwOXpiSVgybTZYSHYzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

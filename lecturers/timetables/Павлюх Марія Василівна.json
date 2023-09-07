@@ -1,0 +1,144 @@
+[
+    {
+        "subject": "Основи проектування інформаційних потоків",
+        "lecturer": "МІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73171319867?pwd=pwAqeN8ERonZ6JHmbLfOYqMa6jvvFL.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Зовнішньополітичні комунікативні технології",
+        "lecturer": "МІ-21, 015 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Зовнішньополітичні комунікативні технології",
+        "lecturer": "МІ-22, 015 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-комунікаційні технології в інтернет-просторі",
+        "lecturer": "МІ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71616001743?pwd=tcG7hUZYNrWmXAnYRDHq0I925KUC3L.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-комунікаційні технології в інтернет-просторі",
+        "lecturer": "МІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77977570468?pwd=4TDGS4b5PkeGRbAnDiMvmHLNXIu6Ye.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційно-комунікаційні технології в інтернет-просторі",
+        "lecturer": "МІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74357400410?pwd=rSB6DaXU8cjI39bVEkT6xoNZqz3ll8.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Зовнішньополітичні комунікативні технології",
+        "lecturer": "МІ-21, 015 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Зовнішньополітичні комунікативні технології",
+        "lecturer": "МІ-22, 015 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях",
+        "lecturer": "МІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72205061080?pwd=UE21OOtenNdS5rlU5CrkN8HqBZbP20.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях",
+        "lecturer": "МІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76975906346?pwd=HNdYPaOswH7XaN3Ax09LAh9joDODCN.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

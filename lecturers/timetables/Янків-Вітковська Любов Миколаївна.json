@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Організація та управління робіт з космічної геодезії",
+        "lecturer": "ГД-34, 346 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a5ISB3NTVYb4KBy6RF2Th4GJK9xWZxF_V521KoYX2Few1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=911c03bb-533f-48f9-8557-212f3b6e6174&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Організація та управління робіт з космічної геодезії",
+        "lecturer": "ГД-34, 346 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a5ISB3NTVYb4KBy6RF2Th4GJK9xWZxF_V521KoYX2Few1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=911c03bb-533f-48f9-8557-212f3b6e6174&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Застосування GNSS-технологій в геодезії, картографії і земельному кадастрі",
+        "lecturer": "ЗТГК-ВГА-102, 613 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2jvpSle0O8kg7hNKY5IsuaJGklyW4FA7bkmx1uQAn3I1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0e1d8cd6-fb10-49a0-b462-393af25d0d9d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Застосування GNSS-технологій в геодезії, картографії і земельному кадастрі",
+        "lecturer": "ЗТГК-ВГА-101, ЗТГК-ВГА-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2jvpSle0O8kg7hNKY5IsuaJGklyW4FA7bkmx1uQAn3I1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=0e1d8cd6-fb10-49a0-b462-393af25d0d9d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Застосування GNSS-технологій в геодезії, картографії і земельному кадастрі",
+        "lecturer": "ЗТГК-ВГА-101, 605 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ВГА-102, 613 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aWFwklnwNwFLYKGxHlGHwQksQTE9AJSGgHEvz8Z8LStY1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a098b695-8472-4561-92fb-b23e101ba0b5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ВГА-101, ІВЛ-ВГА-102, ІВЛ-ВГА-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFvIr4s2gpCPXHaimov3E3BxUHtVH5z7vCaxptq42J4I1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=e853f07a-b209-4d32-8b8f-e5cb7b19bad1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ВГА-101, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aWFwklnwNwFLYKGxHlGHwQksQTE9AJSGgHEvz8Z8LStY1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a098b695-8472-4561-92fb-b23e101ba0b5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ВГА-103, 613 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aWFwklnwNwFLYKGxHlGHwQksQTE9AJSGgHEvz8Z8LStY1%40thread.tacv2/%25D0%259E%25D0%25B1%25D1%2589%25D0%25B8%25D0%25B9?groupId=a098b695-8472-4561-92fb-b23e101ba0b5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

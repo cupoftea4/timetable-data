@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Основи автоматики та автоматизації",
+        "lecturer": "АВ-11, АВ-12, АВ-13, 051 X н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи автоматики та автоматизації",
+        "lecturer": "АВ-11, АВ-12, АВ-13, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "ХТ-41, ХТ-42, ХТ-43, ХТ-44, ХТ-45, ХТ-46, ХТ-47, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6767781246?pwd=L0pMOUNKSHoxY053WUMvbjRSV2VIZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

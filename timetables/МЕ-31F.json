@@ -1,0 +1,252 @@
+[
+    {
+        "subject": "\nУправління інноваційною діяльністю",
+        "lecturer": " Огінок С.В., Лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nПублічне адміністрування",
+        "lecturer": " Огінок С.В., Практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nПублічне адміністрування",
+        "lecturer": " Огінок С.В., Лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nОпераційний менеджмент",
+        "lecturer": " Адамовський О.М., Лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "\nОснови охорони праці та безпека життєдіяльності",
+        "lecturer": " Витрикуш Н.М., Практична ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/72080321299?pwd=0dVeSzTGQvxjcT72jq6XgnrzJ5QVxW.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nОснови охорони праці та безпека життєдіяльності",
+        "lecturer": " Витрикуш Н.М., Лабораторна ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/72080321299?pwd=0dVeSzTGQvxjcT72jq6XgnrzJ5QVxW.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nОснови охорони праці та безпека життєдіяльності",
+        "lecturer": " Витрикуш Н.М., Лекція ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/74633815750?pwd=Lszb8w8db1kzuCk27Ym9e1sVESZZq4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nОпераційний менеджмент",
+        "lecturer": " Просович О.П., Лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "\nОпераційний менеджмент",
+        "lecturer": " Просович О.П., Практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "\nОснови управління фінансами",
+        "lecturer": " Другов О.О., Лабораторна ",
+        "location": "",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/85994293803?pwd%3DyeVbJFJwHTabKBGREQUcMqiCZUIyKw.1&amp;amp;amp;sa=D&amp;amp;amp;source=calendar&amp;amp;amp;usd=2&amp;amp;amp;usg=AOvVaw36GF1yRZqWs4Bks3HFK9DV"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "\nОснови управління фінансами",
+        "lecturer": " Кулініч Т.В., Лекція ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/75193265522?pwd=U6uGxLhBRt4GAO7TqVm1Fu8O19ecLy.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nОснови управління фінансами",
+        "lecturer": " Кулініч Т.В., Практична ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/72771485609?pwd=w3cLnM5RHEXgA5CRSDFzPn8xQCdBfn.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nПублічне адміністрування",
+        "lecturer": " Бойко В.В., Лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nТехнологія зовнішньоекономічних операцій",
+        "lecturer": " Подра О.П., Лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "\nТехнологія зовнішньоекономічних операцій",
+        "lecturer": " Подра О.П., Практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "\nТехнологія зовнішньоекономічних операцій",
+        "lecturer": " Подра О.П., Лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "\nУправління інноваційною діяльністю",
+        "lecturer": " Кулиняк І.Я., Практична ",
+        "location": "",
+        "urls": [
+            "https://us05web.zoom.us/j/88045606922?pwd=PHBuGZ7mC9ecbZW4m2gki5hNWRSjnp.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "\nУправління інноваційною діяльністю",
+        "lecturer": " Кулиняк І.Я., Лабораторна ",
+        "location": "",
+        "urls": [
+            "https://us05web.zoom.us/j/88045606922?pwd=PHBuGZ7mC9ecbZW4m2gki5hNWRSjnp.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

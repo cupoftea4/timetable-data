@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "\nУкраїна-ЄС: цифрова трансформація",
+        "lecturer": " Турчин Я.Б., Лекція  \n\n\n",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3atIJLIPmY6DgwLVRT7oHY_3eYNfkbWEF6WuYkqYV8FPk1%40thread.tacv2/1693583032925?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22254bc54e-9aed-40bb-b5cb-2bb00fedb5ca%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "\nУкраїна-ЄС: цифрова трансформація",
+        "lecturer": " Івасечко О.Я., Практична  \n\n\n",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Фармага І.В.,",
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Лобур М.В.,",
+        "subject": "Автоматизація проектування мікроелектронних систем",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/zcu-ytvs-mnq"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Матвійків О.М.,",
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем ІІ",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/ygt-bquk-jbx"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Чурсінова О.Ю.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "Маркелов О.Е.,",
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/rfa-rxif-ivc"
+        ]
+    }
+]

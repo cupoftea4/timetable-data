@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем ІІ",
+        "lecturer": "КН-307, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83825105811?pwd=QmpYZ2Q0NnFhaC9MN3ppUGpsdEtlZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем ІІ",
+        "lecturer": "КН-308, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83064752739?pwd=WVVoSlNEUXoyUTZsdkM1N0Y3Z1lJQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи автоматизованого проектування складних об`єктів і систем ІІ",
+        "lecturer": "КН-308, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88011386885?pwd=c2Z3NDNzUzgxUHNhSnVMbE5mRFFuQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інженерне проектування складних об`єктів та систем",
+        "lecturer": "КН-311, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82365370611?pwd=YjdhZHFvOVdDQVY1Sm9EMy92SnFQdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація проектування мікроелектронних систем",
+        "lecturer": "КН-306, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація проектування мікроелектронних систем",
+        "lecturer": "КН-306, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85745086523?pwd=d0hzeXBxNVUyK3RnUzRQN1k3VU43Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Розширене проектування мікросистемних пристроїв",
+        "lecturer": "КНІТ-12, 107 VIa н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86397639077?pwd=c29jaGhyeS9nR0M1N0FxNmkwR0l1dz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інженерне проектування складних об`єктів та систем",
+        "lecturer": "КН-310, 321 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84081584079?pwd=ekRHSWRQNGxEN203SjQ1RWladkk0QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інженерне проектування складних об`єктів та систем",
+        "lecturer": "КН-310, 321 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86290766327?pwd=QXFOcVBrMUQ5ZHdFaFB1b0Y3d0hBUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Прогресивні мікро-та нанотехнології",
+        "lecturer": "КНСП-12, 322 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83008165021?pwd=NzVXTkZWQWNGdU1DRjNld3NDUXJpZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Прогресивні мікро-та нанотехнології",
+        "lecturer": "КНСП-12, 321 IV н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82321309307?pwd=d21MVE56VVZmWTI0ZnZyeE5qVVNHdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

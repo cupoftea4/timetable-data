@@ -1,0 +1,218 @@
+[
+    {
+        "subject": "Методологія і методи досліджень соціальних проблем, частина 2",
+        "lecturer": "СР-21, 307 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Методологія і методи соціальних досліджень",
+        "lecturer": "СЗ-22, 207 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Методологія і методи соціальних досліджень",
+        "lecturer": "СЗ-21, 309 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "СЗ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77184920268?pwd=IwvTXz2HSicgGyzDAava8GajFawMYN.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "СЗ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77184920268?pwd=IwvTXz2HSicgGyzDAava8GajFawMYN.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Методологія і методи соціальних досліджень",
+        "lecturer": "СЗ-21, СЗ-22, 207 V н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Методологія і методи досліджень соціальних проблем, частина 2",
+        "lecturer": "СР-21, СР-22, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методологія і методи досліджень соціальних проблем, частина 2",
+        "lecturer": "СР-21, СР-22, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методологія і методи досліджень соціальних проблем, частина 2",
+        "lecturer": "СР-21, 005 XXIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "СЗ-41, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "СЗ-41, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методологія і методи досліджень соціальних проблем, частина 2",
+        "lecturer": "СР-22, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методологія і методи соціальних досліджень",
+        "lecturer": "СЗ-21, 105 XXIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Методологія і методи соціальних досліджень",
+        "lecturer": "СЗ-22, 005 XXIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Кількісний і якісний аналіз документів в соціології",
+        "lecturer": "СО-31, 205а XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Кількісний і якісний аналіз документів в соціології",
+        "lecturer": "СО-31, 205а XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

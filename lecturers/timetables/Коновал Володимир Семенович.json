@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Автоматичне керування в системах енергетики сталого розвитку",
+        "lecturer": "СЕ-31, 213 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aMxWuAXXrksXo-T5D2bwYZE-V5c2-2DaOwRD5WwSklm01%40thread.tacv2/General?groupId=aa2b13d5-4a24-4394-be11-ec0d9e6a27d1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерний аналіз режимів електроенергетичних систем",
+        "lecturer": "ЕЕ-41, 210 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3as0z8OCBGo2vQdqPuAGbQo45nhMaqG7Z0rt8stY5tcEU1%40thread.tacv2/General?groupId=85cc32bf-a719-4443-876c-9e2a8b60840f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Автоматика електроенергетичних систем",
+        "lecturer": "ЕЕЕЕ-16, 312в V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aPJ0m20B6h7JDk2Eay-p6OUO-DP6JeOA5Z-fCtXfWIRM1%40thread.tacv2/General?groupId=d42336f7-8138-4a87-a4ef-bea58dc7e935&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Автоматичне керування в системах енергетики сталого розвитку",
+        "lecturer": "СЕ-31, 307 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aMxWuAXXrksXo-T5D2bwYZE-V5c2-2DaOwRD5WwSklm01%40thread.tacv2/General?groupId=aa2b13d5-4a24-4394-be11-ec0d9e6a27d1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерний аналіз режимів електроенергетичних систем",
+        "lecturer": "ЕЕ-35, 212a V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3asCkatoBFWANO4XCrhJcDRR56i_sEswIOsglkbx5AJ3U1%40thread.tacv2/General?groupId=65b39cad-1ebf-4d81-9afd-c8cdd21d6245&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автоматика електроенергетичних систем",
+        "lecturer": "ЕЕЕЕ-16, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aPJ0m20B6h7JDk2Eay-p6OUO-DP6JeOA5Z-fCtXfWIRM1%40thread.tacv2/General?groupId=d42336f7-8138-4a87-a4ef-bea58dc7e935&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

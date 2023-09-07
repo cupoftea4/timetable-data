@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Дорошенко А.В.,",
+        "subject": "Технології та стандарти захисту персональних даних",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73206022385?pwd=khYXN7ObVxQM01GKNUCrc8pB612fHt.1"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Різник О.Я.,",
+        "subject": "Комп`ютерна графіка",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Чурсінова О.Ю.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Опотяк Ю.В.,",
+        "subject": "Інформаційні технології смарт-систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71971254807?pwd=7Roy7KnHkJmYm9LKLbvsCwpGhLQT15.1"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Скорохода О.В.,",
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFK3foHwbz5eOR9un0-NiiXWP6LwEHKKKvKKRUV6szc1%40thread.tacv2/conversations?groupId=dd914bfc-be4d-449e-bdd8-e4efce2bd6d8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

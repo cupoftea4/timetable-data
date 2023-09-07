@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Інспекційна діяльність",
+        "lecturer": "ЕОЕК-11, ЕОМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Екологічний аудит територій та виробництв",
+        "lecturer": "ЕОа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Екологічний аудит територій та виробництв",
+        "lecturer": "ЕОа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методологічні засади оцінки впливу на навколишнє середовище",
+        "lecturer": "ЕОа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методологічні засади оцінки впливу на навколишнє середовище",
+        "lecturer": "ЕОа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологічні та правові аспекти раціонального природокористування",
+        "lecturer": "ЕОЕС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Законодавство України в галузі природокористування",
+        "lecturer": "ЗУП-ЕЗП-101, ЕОЕС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інспекційна діяльність",
+        "lecturer": "ЕОЕК-11, ЕОМ-11, 113 VIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Законодавство України в галузі природокористування",
+        "lecturer": "ЗУП-ЕЗП-101, ЕОЕС-11, 113 VIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технологічні та правові аспекти раціонального природокористування",
+        "lecturer": "ЕОЕС-11, 115 VIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6240985663?pwd=My91b0dCU24rcGhiT1ZoM2lHL1JGUT09#success"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "ПВ-44, ПВ-45, ПВ-47, ПВ-49, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "ПВ-46, ПВ-48, ПВ-410, ПВ-411, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "ПВ-411, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "ПВ-410, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Природоохоронне законодавство та екологічне право",
+        "lecturer": "ТЗ-21, 230 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Природоохоронне законодавство та екологічне право",
+        "lecturer": "ТЗ-21, 230 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

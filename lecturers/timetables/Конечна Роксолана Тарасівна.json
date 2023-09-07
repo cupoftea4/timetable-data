@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Маркетингові інструменти аналізу фармацевтичного ринку",
+        "lecturer": "ФРа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asbnCsKMpjRMt945lik7Zy5eG74IX5pnJdHYI6tCaW-01%40thread.tacv2/1676494279032?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220f8bec6d-1de0-4a47-9f8b-6a2e1f269a08%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Ресурсознавство лікарських рослин",
+        "lecturer": "РЛР-ТБСФБ-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5e7b5fd9395f4b96a9f5faaf7ebb6b72%40thread.tacv2/1676887676585?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220f8bec6d-1de0-4a47-9f8b-6a2e1f269a08%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фармакогнозія",
+        "lecturer": "ФР-31, ФР-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aficQGTAEj6iRPRKoHe6pvDBXngZ_2FfACb5hhrr5g8E1%40thread.tacv2/conversations?groupId=1e5747b1-c890-4175-9573-dbe3797d16aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фармакогнозія",
+        "lecturer": "ФР-31, ФР-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aficQGTAEj6iRPRKoHe6pvDBXngZ_2FfACb5hhrr5g8E1%40thread.tacv2/conversations?groupId=1e5747b1-c890-4175-9573-dbe3797d16aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Ресурсознавство лікарських рослин",
+        "lecturer": "РЛР-ТБСФБ-301, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0e0137771e1b4542941f919f02a1ccf6%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F%2520%25D0%25A0%25D0%259B%25D0%25A0?groupId=6b0fbf44-7fc4-484b-b13a-54731f65f8d0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Маркетингові інструменти аналізу фармацевтичного ринку",
+        "lecturer": "ФРа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a110f867f1fe54ad5af5399223503e4c0%40thread.tacv2/1676494437765?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220f8bec6d-1de0-4a47-9f8b-6a2e1f269a08%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

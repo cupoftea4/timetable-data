@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Зв`язки з громадськістю",
+        "lecturer": "ПУ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Зв`язки з громадськістю",
+        "lecturer": "ПУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Зв`язки з громадськістю",
+        "lecturer": "ПУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Риторика",
+        "lecturer": "ПУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Риторика",
+        "lecturer": "ПУ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Риторика",
+        "lecturer": "ПУ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2956394187?pwd=eEwyZStNaExWdVA3cUEvN2tRVDRkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ТР-41, ТР-42, ТР-43, ТР-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ahCSXxWL2AtdPGO5aAFj4klqVNL0oJ9S_zsOwT6YriyA1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=7fc4b01c-5a86-40ca-82a0-02bc78f8b9d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ІК-31, ІК-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a4BNTPwW5dZMziGfYMRA9i5yskY6YXA9Z95I0pWcGgqg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=73077cc1-c77d-43c4-9077-3e711b5cacab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Психолого-педагогічні основи професійної діяльності",
+        "lecturer": "ЦБПБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3auT7rmT5HyS0nm1NhF7YIkhJ_0DGCyfNfHcpCXd4E0G81%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=524db25d-49d1-4126-b04a-b4c10b4ae6a2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "БІ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ayfU6NtBh_r3amwP9eDJ7sbTqefje51PXByL-tCZmWhk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ab14c06b-bffd-4706-87ce-5cd7de9a6f4b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "АН-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_0TbylQEVxR_rWTNTwpnDHE9FRjgsjnbbc2KdWzer5k1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=b8ea4d22-4365-49e6-8b95-c5421864fa76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Психолого-педагогічні основи професійної діяльності",
+        "lecturer": "ЦБПБ-11, 307 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auT7rmT5HyS0nm1NhF7YIkhJ_0DGCyfNfHcpCXd4E0G81%40thread.tacv2/1677089392202?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22969e6386-48c6-4f2f-a2ab-99358b0d01cf%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

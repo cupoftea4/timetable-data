@@ -1,0 +1,71 @@
+[
+    {
+        "subject": "Планування територіального розвитку",
+        "lecturer": "УАі-41, 023 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82826458781?pwd=UjJ2SWIwaXNjTHh2Vm5DNmJ1M3Z5dz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Планування територіального розвитку",
+        "lecturer": "УАі-41, 023 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85611178881?pwd=Y29EVmZCME44c2FuRElna3JFZWYrUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "ТРС-АФМ-224, 403 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "ТРС-АФМ-223, 403 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Технології розробки стартапів",
+        "lecturer": "ТРС-АФМ-225, 404 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

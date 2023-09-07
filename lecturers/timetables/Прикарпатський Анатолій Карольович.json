@@ -1,0 +1,75 @@
+[
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "НГ-11, 220 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ТЕ-11, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aNLTAUc8La5wSe9dbt5yDkZEyRWrlDR1gtNAQDiDjnNU1%40thread.tacv2/Og%25C3%25B3lny?groupId=51de0e4d-c57c-4a07-873d-ec8f3bbd4240&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ТЕ-11, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aKqy3NhSydm-H0HNIHj-Q6h4fPNvlD7AnLAah0K32rR41%40thread.tacv2/Og%25C3%25B3lny?groupId=a6ac8f66-ac1b-4760-b71b-5049f62851b8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "НГ-11, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aNLTAUc8La5wSe9dbt5yDkZEyRWrlDR1gtNAQDiDjnNU1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=51de0e4d-c57c-4a07-873d-ec8f3bbd4240&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "НГ-11, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aTd5lhQJJ0JTTe47gvKXGnVnFASZ1pZPmIFicEQv_eZI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fad2c8e3-7259-4b6f-8f7d-68b535fcde2a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

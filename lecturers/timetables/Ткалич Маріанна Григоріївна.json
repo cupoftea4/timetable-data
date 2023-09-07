@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Психологічна експертиза",
+        "lecturer": "ПСПС-11, ПСПС-12, ПСЕ-ТПП-101, ПСЕ-ТПП-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/6460058350?pwd=am5hQjFZUlRzdnczWDhDbTVTSEhwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Психологічна експертиза",
+        "lecturer": "ПСПС-11, ПСЕ-ТПП-101, 068 XX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/6460058350?pwd=am5hQjFZUlRzdnczWDhDbTVTSEhwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Психологічна експертиза",
+        "lecturer": "ПСПС-12, ПСЕ-ТПП-102, 068 XX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/6460058350?pwd=am5hQjFZUlRzdnczWDhDbTVTSEhwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Психодіагностика персоналу організації",
+        "lecturer": "ПС-35, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/6460058350?pwd=am5hQjFZUlRzdnczWDhDbTVTSEhwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

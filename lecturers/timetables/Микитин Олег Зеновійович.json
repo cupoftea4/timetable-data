@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "\nМитне оформлення зовнішньоекономічних операцій",
+        "lecturer": " МЕ-48",
+        "location": " 022 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nМитне оформлення зовнішньоекономічних операцій",
+        "lecturer": " МЕ-48",
+        "location": " 506 XXVIII н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "\nМитне оформлення зовнішньоекономічних операцій",
+        "lecturer": " МЕ-48",
+        "location": " 506 XXVIII н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "\nМитне оформлення зовнішньоекономічних операцій",
+        "lecturer": " МЕ-48",
+        "location": " 527 IV н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "\nМитний аудит",
+        "lecturer": " МЕ-48",
+        "location": " 527 IV н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    }
+]

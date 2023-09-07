@@ -1,0 +1,241 @@
+[
+    {
+        "subject": "Проектне бюджетування та фінансове планування",
+        "lecturer": "МЕУПі-11, МЕУПі-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/82863711461?pwd=SFNmQUIvT0tRaHlDaVYrN3l5bzJVQT09%20%20Meeting%20ID:%20828%206371%201461%20Passcode:%201"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Проектне бюджетування та фінансове планування",
+        "lecturer": "МЕУПі-11, 005 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Проектне бюджетування та фінансове планування",
+        "lecturer": "МЕУПі-11, 005 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Проектне бюджетування та фінансове планування",
+        "lecturer": "МЕУПі-12, 005 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектне бюджетування та фінансове планування",
+        "lecturer": "МЕУПі-12, 005 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "УПР-ТУ-101, 005 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "УПР-ТУ-101, 005 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "УПР-ТУ-101, УПР-ТУ-102, УПР-ТУ-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/83192563037?pwd=ak1XbmprdFBUQnRZOWszWU91VHdyUT09%20%20Meeting%20ID:%20831%209256%203037%20Passcode:%201"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "УПР-ТУ-102, 005 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/83192563037?pwd=ak1XbmprdFBUQnRZOWszWU91VHdyUT09%20%20Meeting%20ID:%20831%209256%203037%20Passcode:%201"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "УПР-ТУ-102, 005 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/83192563037?pwd=ak1XbmprdFBUQnRZOWszWU91VHdyUT09%20%20Meeting%20ID:%20831%209256%203037%20Passcode:%201"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-201, 004 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09%20%20Meeting%20ID:%20840%206791%202407%20Passcode:%200"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-203, 004 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09%20%20Meeting%20ID:%20840%206791%202407%20Passcode:%200"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-202, 004 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09%20%20Meeting%20ID:%20840%206791%202407%20Passcode:%200"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-201, БПУ-ТУ-202, БПУ-ТУ-203, БПУ-ТУ-204, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09%20%20Meeting%20ID:%20840%206791%202407%20Passcode:%200"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-204, 004 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84067912407?pwd=SHAzL1kwTmcyYm1PdkdzNVNLNUZ6dz09%20%20Meeting%20ID:%20840%206791%202407%20Passcode:%200"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "УПР-ТУ-103, 005 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Управління проектами",
+        "lecturer": "УПР-ТУ-103, 005 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

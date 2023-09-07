@@ -1,0 +1,56 @@
+[
+    {
+        "date": "2023-06-02T00:00:00.000Z",
+        "lecturer": "ГДа-21,",
+        "subject": "Сучасні технології створення картографічної продукції",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "НЗ-11, 611 II н.к.,",
+        "subject": "Математичне опрацювання геодезичних вимірювань",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ГД-12, 611 II н.к.,",
+        "subject": "Математичне опрацювання та аналіз геоданих",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "ГД-11, 611 II н.к.,",
+        "subject": "Математичне опрацювання та аналіз геоданих",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ГД-13, 611 II н.к.,",
+        "subject": "Математичне опрацювання та аналіз геоданих",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "НЗ-31,",
+        "subject": "Основи математичної картографії",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ]
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Організація і контроль якості інженерно-геодезичних робіт",
+        "lecturer": "ОКЯ-ІГД-101, 014 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aqrbvyNaSjDE4s_1L5-ruPDREzE9EYB7Pl8XvTMPZhQI1%40thread.tacv2/conversations?groupId=ea807906-d228-4c3b-a29a-31632e81263e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Організація і контроль якості інженерно-геодезичних робіт",
+        "lecturer": "ОКЯ-ІГД-101, ОКЯ-ІГД-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aff8ece73b4cb47f98407224506038762%40thread.tacv2/conversations?groupId=b0621f5d-9c6c-480e-8482-9994e36102a3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Дослідницький семінар у галузі геодезії та землеустрою",
+        "lecturer": "ГДа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avFoIeAtKEeg0hax8X28tTmvRDm3MOyZR9U0ZvMxoOBs1%40thread.tacv2/conversations?groupId=49c980c9-92d5-44a0-ab6e-34350dd10342&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Дослідницький семінар у галузі геодезії та землеустрою",
+        "lecturer": "ГДа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avFoIeAtKEeg0hax8X28tTmvRDm3MOyZR9U0ZvMxoOBs1%40thread.tacv2/conversations?groupId=49c980c9-92d5-44a0-ab6e-34350dd10342&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Динамічна геодезія",
+        "lecturer": "ГД-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3an896jJn6zUMHn7fK6Jqkj8KsRjrPVsN_UX7fOlZBxDs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=adde16d5-c492-4219-8fd0-9e2b79cb0de8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Організація і контроль якості інженерно-геодезичних робіт",
+        "lecturer": "ОКЯ-ІГД-102, 014 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a3WJMVpnjgtnBWd6v3fw64QWJpWSOZKZCXAyGEHMt8hI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6ae7e41d-d269-447f-99bd-67d30a386988&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Динамічна геодезія",
+        "lecturer": "ГД-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3an896jJn6zUMHn7fK6Jqkj8KsRjrPVsN_UX7fOlZBxDs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=adde16d5-c492-4219-8fd0-9e2b79cb0de8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Лазерне сканування",
+        "lecturer": "ГД-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSBVPn-h8cv5dT2h13o9m9a62pgztkUmwPLUhhpAMQCM1%40thread.tacv2/1677519902982?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b1620289-c889-453b-a7c7-f9bc397d245e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Лазерне сканування",
+        "lecturer": "ГД-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSBVPn-h8cv5dT2h13o9m9a62pgztkUmwPLUhhpAMQCM1%40thread.tacv2/1677519902982?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b1620289-c889-453b-a7c7-f9bc397d245e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

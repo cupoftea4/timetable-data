@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "ВПа-11,",
+        "subject": "Системи штучного інтелекту у видавництві та поліграфії",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/cig-tumq-vkh"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ВП-31, ВП-32,",
+        "subject": "Системи штучного інтелекту",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/mak-mmkr-mfs"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ВПКТ-11, ВПКТ-12, 908 V н.к.,",
+        "subject": "Інтелектуальний аналіз даних",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/zag-nbgc-poe"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "КНУС-13, КНУС-14, 807 V н.к.,",
+        "subject": "Технології обчислювального інтелекту",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/yah-ovqh-mpb"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "КНУС-11, КНУС-12, 908 V н.к.,",
+        "subject": "Технології обчислювального інтелекту",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/avi-sywm-dgd"
+        ]
+    }
+]

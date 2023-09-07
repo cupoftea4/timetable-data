@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-01T00:00:00.000Z",
+        "lecturer": "Кузьо Н.Є., Косар Н.С.,",
+        "subject": "Методи дослідження операцій в маркетингу",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09%20https://us04web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09"
+        ]
+    },
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "Бусько М.Б.,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 4,
+        "urls": []
+    }
+]

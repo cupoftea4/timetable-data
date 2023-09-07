@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "СА-31, 124 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "СА-31, 124 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "СА-33, 124 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "СА-33, 124 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84917204484?pwd=d1B4V1ZOejY2MFlDeGkyN1lTMXd2UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

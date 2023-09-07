@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Технології розроблення та управління життєвим циклом програмного забезпечення",
+        "lecturer": "АВКВ-12, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2749110317?pwd=M3J5dm9QdGZBOXhMK2luOFRhZ3ROdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технології розроблення та управління життєвим циклом програмного забезпечення",
+        "lecturer": "АВМ-12, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2749110317?pwd=M3J5dm9QdGZBOXhMK2luOFRhZ3ROdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології розроблення та управління життєвим циклом програмного забезпечення",
+        "lecturer": "АВКВ-12, АВМ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2749110317?pwd=M3J5dm9QdGZBOXhMK2luOFRhZ3ROdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Мікропроцесорна техніка",
+        "lecturer": "АВ-21, АВ-22, АВ-23, 051 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2749110317?pwd=M3J5dm9QdGZBOXhMK2luOFRhZ3ROdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Мікропроцесорна техніка",
+        "lecturer": "АВ-11сп, 082 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2749110317?pwd=M3J5dm9QdGZBOXhMK2luOFRhZ3ROdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Мікропроцесорна техніка",
+        "lecturer": "АВ-21, АВ-22, АВ-23, 051 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2749110317?pwd=M3J5dm9QdGZBOXhMK2luOFRhZ3ROdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Мікропроцесорна техніка",
+        "lecturer": "АВ-11сп, 082 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2749110317?pwd=M3J5dm9QdGZBOXhMK2luOFRhZ3ROdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

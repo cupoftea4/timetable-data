@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2023-06-01T00:00:00.000Z",
+        "lecturer": "МКа-11,",
+        "subject": "Методи дослідження операцій в маркетингу",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "МК-21, МК-22, МК-23, 209 IV н.к.,",
+        "subject": "Економіко-математичні методи і моделі",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "МК-24, МК-25, 209 IV н.к.,",
+        "subject": "Економіко-математичні методи і моделі",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "МЕЛГ-11, 401а IV н.к.,",
+        "subject": "Оптимізація логістичних рішень",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/8612356302?pwd=MzBXOW9lSnYzcVpHLzUrRElyUVkwdz09"
+        ]
+    }
+]

@@ -1,0 +1,221 @@
+[
+    {
+        "subject": "Моделювання процесів і систем",
+        "lecturer": "МПРС-11, МПТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWNjNDhjNTYtNTVjMS00OWIwLTkxYTktZGQ0ZjBlNzUzOTBm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МП-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmE4NDYwZGEtMzE2Ny00Zjc4LTg0MTItMzg4ZDRjZjhhMDc2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МП-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjY4MDgxZjgtMWU0ZS00YmEzLTgzOTctNjg1ZGNjMGQzYTE2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МП-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjNlZWJmNjYtODE0Yy00M2FkLTk1NGItZTk3M2Q2Mzg3ZDU4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МП-31, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МП-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODA3MGQ2OWYtNjJiZi00NDgzLTllYzgtNzBkODAxODcwMzA3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МП-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODA3MGQ2OWYtNjJiZi00NDgzLTllYzgtNzBkODAxODcwMzA3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МП-31, МП-32, МБ-31, МБ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:meeting_YzJjYzUwYWEtYTg2YS00N2E0LTkyMTUtMWU1YTY4MWMzY2Fk@thread.v2/0?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МП-24, МБ-23, 061 XIV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjMzMDY2MjAtZmRlMy00MWJhLWIwMmUtNDg0NzMzNmFkZWI4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МБ-23, МП-24, 072 XIV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmQ5OWZjMDEtNzRkMi00ODFmLWJmZDUtMGViODM1MjAzOGE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерне моделювання процесів та систем",
+        "lecturer": "КМПС-РІТМ-101, МПТП-11, 061 XIV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzg1MzY2NDgtMDYyYS00M2VhLWEwMDgtY2Q5MDU5NjhjYjEw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Моделювання процесів і систем",
+        "lecturer": "МПС-РІТМ-101, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmFhZDQ0YTItZGMwMi00MjU4LWFhNTgtNDMyNTQ5MmZhMjNj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Моделювання процесів і систем",
+        "lecturer": "МПРС-11, МПТМ-11, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Моделювання процесів і систем",
+        "lecturer": "МПС-РІТМ-101, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmFhZDQ0YTItZGMwMi00MjU4LWFhNTgtNDMyNTQ5MmZhMjNj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc9d9c50-78bb-4572-b1a0-81741caba7b5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Моделювання процесів і систем",
+        "lecturer": "МПРС-11, МПТМ-11, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

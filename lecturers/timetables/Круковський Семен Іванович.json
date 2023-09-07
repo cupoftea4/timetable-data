@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "Вибрані розділи фізики і технології напівпровідників та діелектриків",
+        "lecturer": "ПФа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Вибрані розділи фізики і технології напівпровідників та діелектриків",
+        "lecturer": "ПФа-21, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Вибрані розділи фізики і технології напівпровідників та діелектриків",
+        "lecturer": "ПФа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

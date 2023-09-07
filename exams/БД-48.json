@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-04-25T00:00:00.000Z",
+        "lecturer": "Чернюк В.В.,",
+        "subject": "Водозабірні споруди",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-04-27T00:00:00.000Z",
+        "lecturer": "Піцишин Б.С.,",
+        "subject": "Сільськогосподарське водопостачання",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ]
+    }
+]

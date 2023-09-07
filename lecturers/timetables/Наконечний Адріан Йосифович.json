@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nОснови цифрової обробки сигналів",
+        "lecturer": " ІР-41, ІР-42, 609 V н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "\nОснови цифрової обробки сигналів і зображень",
+        "lecturer": " ІР-43",
+        "location": " 608 V н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

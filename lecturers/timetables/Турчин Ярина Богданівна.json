@@ -1,0 +1,121 @@
+[
+    {
+        "subject": "Ініціатива ЄС Східне партнерство: можливості для України",
+        "lecturer": "МВ-21, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Екологічна та кліматична стійкість ЄС",
+        "lecturer": "ЕКС-ПМВ-301, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2Q1ZjJiYzAtNTUzMi00NTliLWEyMDItNDhlOWUwYTFkMzJh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22254bc54e-9aed-40bb-b5cb-2bb00fedb5ca%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Енергетика ЄС і нові тренди для України",
+        "lecturer": "ЕНТ-ПМВ-204, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Ініціатива ЄС Східне партнерство: можливості для України",
+        "lecturer": "МВ-21, МВ-22, МВ-23, МВ-24, 210 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Екологічна та кліматична стійкість ЄС",
+        "lecturer": "ЕКС-ПМВ-204, ЕКС-ПМВ-205, 116 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Екологічна та кліматична стійкість ЄС",
+        "lecturer": "ЕКС-ПМВ-201, ЕКС-ПМВ-202, ЕКС-ПМВ-203, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Енергетика ЄС і нові тренди для України",
+        "lecturer": "ЕНТ-ПМВ-201, ЕНТ-ПМВ-202, ЕНТ-ПМВ-203, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Україна-ЄС: цифрова трансформація",
+        "lecturer": "УЦТ-ПМВ-101, УЦТ-ПМВ-102, 319 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Україна-ЄС: цифрова трансформація",
+        "lecturer": "УЦТ-ПМВ-201, УЦТ-ПМВ-202, УЦТ-ПМВ-203, 116 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

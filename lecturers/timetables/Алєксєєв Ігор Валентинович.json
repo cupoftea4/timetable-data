@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Фінансові інновації",
+        "lecturer": "ФБСС-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ad44b754a60a64c89900a6948cd839cc1%40thread.tacv2/1678188448258?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2226572fdb-e2e6-4032-a164-68a9e1318632%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Фінансові інновації",
+        "lecturer": "ФБМ-11, ФБСС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ad44b754a60a64c89900a6948cd839cc1%40thread.tacv2/1677083860001?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2226572fdb-e2e6-4032-a164-68a9e1318632%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Дослідницький семінар у галузі фінансів, банківської справи та страхування",
+        "lecturer": "ФБа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSzEg2xsWzl7f8IRwyNo-70WK_8jHUFopH128E9zDLRM1%40thread.tacv2/1677085101326?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2226572fdb-e2e6-4032-a164-68a9e1318632%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Дослідницький семінар у галузі фінансів, банківської справи та страхування",
+        "lecturer": "ФБа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSzEg2xsWzl7f8IRwyNo-70WK_8jHUFopH128E9zDLRM1%40thread.tacv2/1677134126598?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2226572fdb-e2e6-4032-a164-68a9e1318632%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

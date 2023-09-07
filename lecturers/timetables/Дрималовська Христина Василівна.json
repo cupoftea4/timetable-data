@@ -1,0 +1,80 @@
+[
+    {
+        "subject": "\nМіжнародна економіка",
+        "lecturer": " ЕБ-21",
+        "location": " 510 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "\nМіжнародна економіка",
+        "lecturer": " ЕБ-21",
+        "location": " 510 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nВступ до фаху \"Міжнародні економічні відносини\"",
+        "lecturer": " ЕВ-11",
+        "location": " 410 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nМіжнародна економіка",
+        "lecturer": " ЕБ-23",
+        "location": " 404 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "\nМіжнародна економіка",
+        "lecturer": " ЕБ-23",
+        "location": " 106 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "\nМіжнародна економіка",
+        "lecturer": " ЕБ-23",
+        "location": " 410 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

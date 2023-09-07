@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nІнновації та підприємництво в інженерії програмного забезпечення",
+        "lecturer": " ПЗМ-11",
+        "location": " 411 V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nПроектування та розробка ігор",
+        "lecturer": " ПЗ-41",
+        "location": " 810а V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 7
+    }
+]

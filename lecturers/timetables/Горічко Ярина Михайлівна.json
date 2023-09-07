@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 6",
+        "lecturer": "ДС-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19:uOcQfSzAKcpEpd6dtI6iVmNGUQLynGto5AsE8s8Vs101@thread.tacv2/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D1%96?groupId=e6e31016-6218-41e0-a59c-a0a09dc8aea8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 6",
+        "lecturer": "ДС-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19:uOcQfSzAKcpEpd6dtI6iVmNGUQLynGto5AsE8s8Vs101@thread.tacv2/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D1%96?groupId=e6e31016-6218-41e0-a59c-a0a09dc8aea8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 6",
+        "lecturer": "ДС-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19:uOcQfSzAKcpEpd6dtI6iVmNGUQLynGto5AsE8s8Vs101@thread.tacv2/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D1%96?groupId=e6e31016-6218-41e0-a59c-a0a09dc8aea8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Рекламний дизайн і копірайтинг",
+        "lecturer": "ДС-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19:wLN9dDMgxsUGqz5ARqsCC5_E2Qme4x4RDjIiiLJ0L201@thread.tacv2/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D1%96?groupId=590305d3-a0bb-4388-a6d0-d7f8f629a074&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Рекламний дизайн і копірайтинг",
+        "lecturer": "ДС-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19:wLN9dDMgxsUGqz5ARqsCC5_E2Qme4x4RDjIiiLJ0L201@thread.tacv2/%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D1%96?groupId=590305d3-a0bb-4388-a6d0-d7f8f629a074&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

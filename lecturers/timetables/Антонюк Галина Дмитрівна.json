@@ -1,0 +1,176 @@
+[
+    {
+        "subject": "Сучасна німецька/японська/чеська/польська мова, частина 2",
+        "lecturer": "ФЛ-13, 208 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Сучасна німецька/японська/чеська/польська мова, частина 2",
+        "lecturer": "ФЛ-13, 208 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-33, 123а IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/zqf-wjoi-say?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-34, 123а IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/fth-yzch-tnz?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна німецька/японська/чеська/польська мова, частина 2",
+        "lecturer": "ФЛ-13, 129 IV н.к., ",
+        "location": ", практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-33, 130 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/jpr-ozyg-qyb?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-33, 130 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/fsv-fywh-kzp?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/mrr-boum-oda?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-32, 134 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/pyx-xmue-fpp?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-32, 134 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/qnc-zhwj-hny?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-34, 130 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/qde-vjpv-cas?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-34, 130 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/tux-xkie-tpz?hs=122&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

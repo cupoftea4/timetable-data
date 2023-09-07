@@ -1,0 +1,219 @@
+[
+    {
+        "subject": "Соціальне проектування і оцінювання",
+        "lecturer": "СО-21, 004 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Громадська думка і поведінка людини в соціальному оточенні",
+        "lecturer": "СР-11, 005 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "СЗ-41, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "СЗ-41, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Супервізія в установах соціальної сфери",
+        "lecturer": "СЗУУ-11, 205б XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Стратегії досліджень контенту медіа",
+        "lecturer": "СОа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Громадська думка і поведінка людини в соціальному оточенні",
+        "lecturer": "СР-11, 105 XXIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "СЗ-41, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Соціальне проектування і оцінювання",
+        "lecturer": "СО-21, 004 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Кількісний та якісний аналіз в соціальній роботі",
+        "lecturer": "СЗ-41, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Супервізія в установах соціальної сфери",
+        "lecturer": "СЗУУ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Громадська думка і поведінка людини в соціальному оточенні",
+        "lecturer": "СР-11, 005 XXIX н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Соціальне проектування і оцінювання",
+        "lecturer": "СО-21, 004 XXIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Стратегії досліджень контенту медіа",
+        "lecturer": "СОа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Кількісний і якісний аналіз документів в соціології",
+        "lecturer": "СО-31, 004 XXIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Соціальна політика",
+        "lecturer": "ЖР-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72141193221?pwd=OHJpTlE4ek80ckRBVmNtdEluY21Gdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Енергетична політика ЄС",
+        "lecturer": "ЕЕЕБ-11, 210 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79485016451?pwd=OUVxWFFHalB0MlJuM1NlblNKTEFqUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Соціальна політика",
+        "lecturer": "ЖР-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72141193221?pwd=OHJpTlE4ek80ckRBVmNtdEluY21Gdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

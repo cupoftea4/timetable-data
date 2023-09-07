@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ФБ-31, ФБ-32,",
+        "subject": "Інвестування",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "ФБ-33, ФБ-34,",
+        "subject": "Інвестування",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ]
+    }
+]

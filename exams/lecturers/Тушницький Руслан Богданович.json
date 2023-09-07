@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-18T00:00:00.000Z",
+        "lecturer": "ПЗ-45, ПЗ-46,",
+        "subject": "Адміністрування баз даних",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/81021569735?pwd=L05TUS9XZVFvdzhoeVo1ZXljZ0tHdz09"
+        ]
+    },
+    {
+        "date": "2023-05-26T00:00:00.000Z",
+        "lecturer": "ПЗ-34, ПЗ-35, ПЗ-36,",
+        "subject": "Хмарні обчислення",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/81021569735?pwd=L05TUS9XZVFvdzhoeVo1ZXljZ0tHdz09"
+        ]
+    }
+]

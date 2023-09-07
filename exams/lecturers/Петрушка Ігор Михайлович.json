@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "ТЗа-21,",
+        "subject": "Процедура підготовки статей, доповідей та презентацій",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ТЗ-31,",
+        "subject": "Інженерні методи захисту довкілля, частина 2",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72526153429?pwd=PzurnkjmwBDPJ0vD6bbDtQsjXWTkwi.1"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ТЗМ-11, 211 Гол. н.к.,",
+        "subject": "Дистанційні методи екологічних досліджень",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78083117786?pwd=vEYWvikLT0lbnuSap8F6KtVq9fEvwa.1"
+        ]
+    }
+]

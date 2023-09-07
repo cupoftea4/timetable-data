@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Гончар С.Й.,",
+        "subject": "Аудит персоналу",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aZyKFwwrR_44k3sM_BE_3TGEz6tJVyZd0tEjVyJl3bbI1%40thread.tacv2/conversations?groupId=cb0ee410-8c0d-477d-9cb9-fe51eea954b4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Сватюк О.Р.,",
+        "subject": "Організація праці",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa6609b10e2f74217ac41dd56fd84fa87%40thread.tacv2/1687324459259?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2235b39b72-71f2-40f5-ada0-72016b184c34%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Захарчин Г.М.,",
+        "subject": "Корпоративна культура",
+        "number": 3,
+        "urls": []
+    }
+]

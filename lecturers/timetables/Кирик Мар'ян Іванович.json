@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "ІК-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/ivv-azdf-dye"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Безпека інформаційно-комунікаційних систем",
+        "lecturer": "ІК-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/cgg-rmif-tjh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "ІК-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/ivv-azdf-dye"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "ІК-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/pbz-rdvj-esw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "ІК-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/pbz-rdvj-esw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Адміністрування інформаційних систем",
+        "lecturer": "ІК-31, 215 XI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ont-qdme-mhs"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "lecturer": "ТРІМ-11, ТРСА-11, МРП-ТК-101, МРП-ТК-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/tgz-ubbm-tvx"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Адміністрування інформаційних систем",
+        "lecturer": "ІК-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ont-qdme-mhs"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Адміністрування інформаційних систем",
+        "lecturer": "ІК-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/eij-gwae-jmk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "ІК-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/pbz-rdvj-esw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Безпека інформаційних систем",
+        "lecturer": "ІК-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/pbz-rdvj-esw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    }
+]

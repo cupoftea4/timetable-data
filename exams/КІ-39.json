@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Морозов Ю.В.,",
+        "subject": "Комп`ютерні мережі",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/76512095891?pwd=XF3Hy48A4w4Ce0pe2JpE3GqhiawbyP.1"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "Замроз П.І.,",
+        "subject": "Захист інформації в комп`ютерних системах",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Гаваньо Б.І.,",
+        "subject": "Системне програмне забезпечення",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/woq-tgug-kqy"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Ваврук Є.Я.,",
+        "subject": "Паралельні та розподілені обчислення",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/eyp-ieyz-mfi"
+        ]
+    }
+]

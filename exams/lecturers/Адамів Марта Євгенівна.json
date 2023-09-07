@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "МЕа-21,",
+        "subject": "Антисипативний менеджмент",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTdmNzhkYzEtY2U5MS00MTZhLWFlOGMtMjUyOTRlMzFlZGFh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224a347e82-4e03-45d7-89cb-89707d823bb5%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "МЕЗД-11, МЕЗД-12, 527 IV н.к.,",
+        "subject": "Управління витратами в зовнішньоекономічній діяльності",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "МЕМД-11, 528 IV н.к.,",
+        "subject": "Управління витратами суб`єктів зовнішньоекономічної діяльності",
+        "number": 5,
+        "urls": []
+    }
+]

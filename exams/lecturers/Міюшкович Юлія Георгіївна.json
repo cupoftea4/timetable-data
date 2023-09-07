@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-13T00:00:00.000Z",
+        "lecturer": "ВП-41, ВП-42,",
+        "subject": "WEB -  програмування",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/wmy-grts-tkp"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ВП-41, ВП-42,",
+        "subject": "Технологія розробки електронних видань",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/wmy-grts-tkp"
+        ]
+    }
+]

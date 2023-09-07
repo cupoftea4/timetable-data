@@ -1,0 +1,163 @@
+[
+    {
+        "subject": "Комп`ютерне конструювання механічних пристроїв мехатроніки, частина 2",
+        "lecturer": "МТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aab39ea5c4559406dadb7938db3a12aa8%40thread.tacv2/1677492661143?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bcf0a0e7-0727-4685-bccc-1b6c856d33c0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання мехатронних засобів",
+        "lecturer": "МТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a03b5b859f4ac4382ac810bc1de898ec9%40thread.tacv2/1677487503789?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Конструювання мехатронних засобів",
+        "lecturer": "МТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a03b5b859f4ac4382ac810bc1de898ec9%40thread.tacv2/1678177461738?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Конструювання мехатронних засобів",
+        "lecturer": "МТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a03b5b859f4ac4382ac810bc1de898ec9%40thread.tacv2/1678177621938?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерне конструювання механічних пристроїв мехатроніки, частина 2",
+        "lecturer": "МТ-33, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерне конструювання механічних пристроїв мехатроніки, частина 2",
+        "lecturer": "МТ-33, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Конструювання мехатронних засобів",
+        "lecturer": "МТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a03b5b859f4ac4382ac810bc1de898ec9%40thread.tacv2/1678181839569?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання мехатронних засобів",
+        "lecturer": "МТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a03b5b859f4ac4382ac810bc1de898ec9%40thread.tacv2/1678181985992?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Конструювання мехатронних засобів",
+        "lecturer": "МТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a03b5b859f4ac4382ac810bc1de898ec9%40thread.tacv2/1678182409592?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Конструювання мехатронних засобів",
+        "lecturer": "МТ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a03b5b859f4ac4382ac810bc1de898ec9%40thread.tacv2/1678182709976?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання мехатронних засобів",
+        "lecturer": "МТ-42, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a03b5b859f4ac4382ac810bc1de898ec9%40thread.tacv2/1678182544644?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

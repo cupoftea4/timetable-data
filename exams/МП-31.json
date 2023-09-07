@@ -1,0 +1,41 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Дмитерко П.Р.,",
+        "subject": "Математичні основи робототехніки",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3agl9n7fRlPS7FvvG1jVLPyaDKgQ64damx9TG8qdDnIDI1%40thread.tacv2/conversations?groupId=9cd72e3c-56e0-4ece-8514-ad8b64c00ac0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Кусий Я.М.,",
+        "subject": "Експлуатація та обслуговування машин",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Гурей В.І.,",
+        "subject": "Системи ЧПК технологічного обладнання",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aY3A_P8TpEZ1H8X-xDPySdySZl5GQG4juxSD2f3e6zPs1%40thread.tacv2/1687465243145?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "Гаврильченко О.В.,",
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "Малащенко В.О.,",
+        "subject": "Деталі машин, частина 2",
+        "number": 2,
+        "urls": []
+    }
+]

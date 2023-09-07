@@ -1,0 +1,56 @@
+[
+    {
+        "subject": "Маркетинг проекту",
+        "lecturer": "МЕНД-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6182373439?pwd=NFB4WHM2N0F2UHZRRzBtVVJyOUNOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Маркетинг проекту",
+        "lecturer": "МЕНД-11, 315 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Паблік менеджмент: управління персоналом та лідерство",
+        "lecturer": "ПМУП-РМР-101, ПМУП-РМР-102, ПМУП-РМР-103, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Паблік менеджмент: управління персоналом та лідерство",
+        "lecturer": "ПМУП-РМР-102, 231 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

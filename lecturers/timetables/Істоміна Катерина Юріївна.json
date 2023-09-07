@@ -1,0 +1,178 @@
+[
+    {
+        "subject": "Іноземна мова І, частина 4",
+        "lecturer": "МВ-24, 043 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова І, частина 4",
+        "lecturer": "МВ-24, 043 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова І, частина 4",
+        "lecturer": "МВ-22, 031 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова І, частина 4",
+        "lecturer": "МВ-22, 031 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "САа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "САа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова І, частина 4",
+        "lecturer": "МВ-21, 043 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова І, частина 4",
+        "lecturer": "МВ-21, 043 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова І, частина 4",
+        "lecturer": "МВ-23, 043 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова І, частина 4",
+        "lecturer": "МВ-23, 043 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Ділова іноземна мова, частина 1",
+        "lecturer": "ЕВ-21, 045 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Ділова іноземна мова, частина 1",
+        "lecturer": "ЕВ-21, 044 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76326069316?pwd=M3kvRStoTG40cGVBS1U0UFJHUjcvQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    }
+]

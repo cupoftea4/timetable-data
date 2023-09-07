@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-04-26T00:00:00.000Z",
+        "lecturer": "МП-33,",
+        "subject": "Проектування робототехнічних систем, частина 2",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "МПТП-11, МПРС-11, 049 XIV н.к.,",
+        "subject": "Автоматизоване проектування технологічного обладнання",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a5JfA8ohpvssBJsQh1A4eGLmUCKM3mlQnCraDaDxjqD01%40thread.tacv2/1687503047652?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "МПРС-11, 008 XIV н.к.,",
+        "subject": "Конструювання промислових роботів",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahtVlcZ9TH1ha2FDZFt-R4QV-Dw9dnz98Y7g9yX4qC3k1%40thread.tacv2/1687958367667?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2219c34f37-6fd8-454f-8e49-ad9b078afef4%22%7d"
+        ]
+    }
+]

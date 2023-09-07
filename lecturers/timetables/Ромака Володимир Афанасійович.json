@@ -1,0 +1,84 @@
+[
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-41, КБ-42, КБ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-41, КБ-42, КБ-43, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-44, КБ-45, КБ-46, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-44, КБ-45, КБ-46, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління ризиками та інцидентами інформаційної безпеки",
+        "lecturer": "КБУІ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління ризиками та інцидентами інформаційної безпеки",
+        "lecturer": "КБУІ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5622594994?pwd=LzgxSjlrRGZFRjV6dkdKRUR1N09kZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

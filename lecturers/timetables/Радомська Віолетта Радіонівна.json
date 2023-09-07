@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "ДЗЗВ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFHwz6ayaDrl_iQ8KYqpjNiG7Jm2sDtRfuaqd-BGz6dE1%40thread.tacv2/conversations?groupId=ff65cc5e-dd59-415b-8332-4285a92046f1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "ДС-23, 309 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4iX3wWqF_oNjkLCz7PUyZYkvXvC_k5hAjA5fi4U8c_Y1%40thread.tacv2/conversations?groupId=1cb34e4f-02f4-4368-8e31-835e85e78696&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "ДЗЗВ-11, 304 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFxfkmcEvOwjsW6AduKQXBKSyCcgm0EzoGGJo8yAuVw1%40thread.tacv2/conversations?groupId=b485761b-ca7e-4c5e-b124-186a3bfbbff4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "ДЗЗВ-11, 304 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFxfkmcEvOwjsW6AduKQXBKSyCcgm0EzoGGJo8yAuVw1%40thread.tacv2/conversations?groupId=b485761b-ca7e-4c5e-b124-186a3bfbbff4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Ергодизайн",
+        "lecturer": "ДЗЗВ-11, 304 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFxfkmcEvOwjsW6AduKQXBKSyCcgm0EzoGGJo8yAuVw1%40thread.tacv2/conversations?groupId=b485761b-ca7e-4c5e-b124-186a3bfbbff4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "ДС-21, 105 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3amngP4vT98gkMj__ETskAfTesYY9U4mjKp5wfrilTrlE1%40thread.tacv2/conversations?groupId=3f0af4b8-4788-46b0-80a7-95dbbaa2a0cd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "ДС-21, 105 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3amngP4vT98gkMj__ETskAfTesYY9U4mjKp5wfrilTrlE1%40thread.tacv2/conversations?groupId=3f0af4b8-4788-46b0-80a7-95dbbaa2a0cd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, частина 8",
+        "lecturer": "ДС-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1NK0jsSaoGvuSTs46n4_rbFJnoP6QykRpCB_exwqMq01%40thread.tacv2/conversations?groupId=24976a94-0c96-43bc-bb3b-7edc167ad234&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Живопис, частина 8",
+        "lecturer": "ДС-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1NK0jsSaoGvuSTs46n4_rbFJnoP6QykRpCB_exwqMq01%40thread.tacv2/conversations?groupId=24976a94-0c96-43bc-bb3b-7edc167ad234&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Живопис, частина 8",
+        "lecturer": "ДС-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1NK0jsSaoGvuSTs46n4_rbFJnoP6QykRpCB_exwqMq01%40thread.tacv2/conversations?groupId=24976a94-0c96-43bc-bb3b-7edc167ad234&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "ДС-23, 309 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4iX3wWqF_oNjkLCz7PUyZYkvXvC_k5hAjA5fi4U8c_Y1%40thread.tacv2/conversations?groupId=1cb34e4f-02f4-4368-8e31-835e85e78696&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "ДС-23, 309 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4iX3wWqF_oNjkLCz7PUyZYkvXvC_k5hAjA5fi4U8c_Y1%40thread.tacv2/conversations?groupId=1cb34e4f-02f4-4368-8e31-835e85e78696&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 4",
+        "lecturer": "ДС-21, 105 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3amngP4vT98gkMj__ETskAfTesYY9U4mjKp5wfrilTrlE1%40thread.tacv2/conversations?groupId=3f0af4b8-4788-46b0-80a7-95dbbaa2a0cd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

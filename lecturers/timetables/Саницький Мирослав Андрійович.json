@@ -1,0 +1,116 @@
+[
+    {
+        "subject": "Дослідницький семінар у галузі будівництва та цивільної інженерії",
+        "lecturer": "БДа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0c0_yjWtc9AgTCpHJl3sipO0XT4CXMsHJ_ViOi6R0Hg1%40thread.tacv2/conversations?groupId=9844f8ef-d3d5-4fc2-9225-3b2431b6353f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДМБ-11, БДМБ-12, БДТК-11, БДТГ-11, БДТГ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2d723bc07b4845748d3508a91be42154%40thread.tacv2/conversations?groupId=55bf4826-0522-4ed2-9a2e-28edf97b42aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інноваційні енерго-та ресурсозберігаючі технології виробництва будівельних матеріалів і виробів",
+        "lecturer": "БДа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ad5e5c2ed2db84fd68859fca203c975c1%40thread.tacv2/conversations?groupId=6662d998-0c6d-433b-a889-89349a46d7bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інноваційні енерго-та ресурсозберігаючі технології виробництва будівельних матеріалів і виробів",
+        "lecturer": "БДа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ad5e5c2ed2db84fd68859fca203c975c1%40thread.tacv2/conversations?groupId=6662d998-0c6d-433b-a889-89349a46d7bd&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні технології енергоефективних будівель і споруд",
+        "lecturer": "БДМБ-11, БДМБ-12, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "БДМ-22, 403 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технології утилізації відходів у будівництві",
+        "lecturer": "БДМБ-11, БДМБ-12, ТУВ-БВ-101, ТУВ-БВ-102, ТУВ-БВ-103, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДПЦ-11f, 403 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73640700056?pwd=27B9HHt2nC1vhbapJg14KlhgvFjWFU.1#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

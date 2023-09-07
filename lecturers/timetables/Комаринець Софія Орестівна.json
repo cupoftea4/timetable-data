@@ -1,0 +1,144 @@
+[
+    {
+        "subject": "Історія економіки та економічної думки",
+        "lecturer": "УАі-11, 003 V н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Секторальне прогнозування та сталий розвиток територій",
+        "lecturer": "УАРАі-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBEvqLDcm5lMnOUrsEJxIyQvk2RstW8iiQgrJr-isHLg1%40thread.tacv2/conversations?groupId=2f9f5e67-bff5-4a1b-b8c6-c059896fc777&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Оцінка бізнесу і майна",
+        "lecturer": "УАі-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak0XMk6f_85rzlMighJpUYJdj0ZodLFG6Csqk3awcLeE1%40thread.tacv2/conversations?groupId=01e5fb4f-cab1-4803-a7ac-99df4d44ed01&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Секторальне прогнозування та сталий розвиток територій",
+        "lecturer": "УАРАі-11, 504 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBEvqLDcm5lMnOUrsEJxIyQvk2RstW8iiQgrJr-isHLg1%40thread.tacv2/conversations?groupId=2f9f5e67-bff5-4a1b-b8c6-c059896fc777&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Оцінка бізнесу і майна",
+        "lecturer": "УАі-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak0XMk6f_85rzlMighJpUYJdj0ZodLFG6Csqk3awcLeE1%40thread.tacv2/conversations?groupId=01e5fb4f-cab1-4803-a7ac-99df4d44ed01&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Оцінка бізнесу і майна",
+        "lecturer": "УАі-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak0XMk6f_85rzlMighJpUYJdj0ZodLFG6Csqk3awcLeE1%40thread.tacv2/conversations?groupId=01e5fb4f-cab1-4803-a7ac-99df4d44ed01&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Оцінка бізнесу і майна",
+        "lecturer": "УАі-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak0XMk6f_85rzlMighJpUYJdj0ZodLFG6Csqk3awcLeE1%40thread.tacv2/conversations?groupId=01e5fb4f-cab1-4803-a7ac-99df4d44ed01&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Історія економіки та економічної думки",
+        "lecturer": "УАі-11, 401 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Мікроекономіка",
+        "lecturer": "ЕБ-11, 510 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Мікроекономіка",
+        "lecturer": "ФБ-12, 107 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

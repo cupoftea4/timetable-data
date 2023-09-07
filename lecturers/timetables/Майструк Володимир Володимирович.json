@@ -1,0 +1,193 @@
+[
+    {
+        "subject": "Тривимірне комп`ютерне конструювання",
+        "lecturer": "МБ-23, 80а XIV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDk5Mjc1ZDktZDdmNS00ZGQ2LTgwODItZTQ4YjY5YzY0YzBm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "СТД-ПМАІ-103, МБКІ-12, 083 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDAxODllNDgtMDUwMy00YzMyLWJiYzktNTEyN2I3YzI1ZDE3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "СТД-ПМАІ-102, МБКІ-11, 083 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWI0MzkxOWEtYjc5Ni00NTkxLTkyNmQtODZjYWVlNGU5ODg5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "СТД-ПМАІ-101, 077 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "СТД-ПМАІ-103, МБКІ-12, 80а XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGQyMjE4NTYtYmRlOS00NGUzLTljOTUtMmFhOTNlZjFkMDA2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "СТД-ПМАІ-102, МБКІ-11, 80а XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGI5Mjk4NTYtNDU1My00NjU3LTlkMTQtYjExNzI2OTI4Yjhi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "СТД-ПМАІ-101, 80а XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "САПР технологій для обладнання з числовим програмним керуванням",
+        "lecturer": "СТД-ПМАІ-101, СТД-ПМАІ-102, СТД-ПМАІ-103, МБКІ-11, МБКІ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTA5N2QyYmEtYTE1MS00ZWQxLTlhNmUtOTUxM2Q5YTczODVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "САПР технологічних процесів механічної обробки",
+        "lecturer": "МБКГ-11, МБКІ-11, МБКІ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDg2MTkzMTQtNzgzNy00NDQyLWI5MmYtOWUwYzdjMzU3ODlm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Тривимірне комп`ютерне конструювання",
+        "lecturer": "МБ-31, МБ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzRkMDc3MmQtNTY1Zi00OTBmLTlmMTMtZTdlM2FjZGU1OGVk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "САПР технологічних процесів механічної обробки",
+        "lecturer": "МБКГ-11, 081 XIV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTE4ZTQyMmUtMWE2YS00YjFjLTllZWItNzgyMTc4MzRmYjFh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "САПР технологічних процесів механічної обробки",
+        "lecturer": "МБКІ-12, 083 XIV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OWEwNTU4NjUtZTNjNS00MzYwLWJmYjktOTg5ZGYxZDY4ZjI4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "САПР технологічних процесів механічної обробки",
+        "lecturer": "МБКІ-11, 084 XIV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzZhMTQ3MmEtNTg0Ni00MWM4LWI2NDQtZmExNjU5NzIyNDZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d9af725a-41cc-499a-9599-245acef05309%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

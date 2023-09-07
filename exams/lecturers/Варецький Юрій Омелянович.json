@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-01T00:00:00.000Z",
+        "lecturer": "ЕЕа-11,",
+        "subject": "Методи аналізу та керування інтелектуальних електроенергетичних систем",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQycmkUED9wBqVjJgb2QoooBdqrJZ9RTjpohMhABFCKs1%40thread.tacv2/conversations?groupId=bfe40649-629f-49c4-a2da-3d8721f42399&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-09T00:00:00.000Z",
+        "lecturer": "ЕЕа-11,",
+        "subject": "Перехідні процеси та перенапруги в електроенергетичних системах",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQycmkUED9wBqVjJgb2QoooBdqrJZ9RTjpohMhABFCKs1%40thread.tacv2/conversations?groupId=bfe40649-629f-49c4-a2da-3d8721f42399&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

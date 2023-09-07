@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Будівельна механіка",
+        "lecturer": "БД-23, 112а II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

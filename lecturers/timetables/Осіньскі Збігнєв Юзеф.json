@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Інформаційні технології організації бізнесу",
+        "lecturer": "ДКІБ-11, ДКІБ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a319565beee6946e2856ce6bae8ba7f3e%40thread.tacv2/1677322463506?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    }
+]

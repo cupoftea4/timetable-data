@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Новітні теорії в бухгалтерському обліку і оподаткуванні",
+        "lecturer": "ОПа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/87569697021?pwd=SUIrcEZHQitpOFZMN1FyMkJlczhsdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Новітні теорії в бухгалтерському обліку і оподаткуванні",
+        "lecturer": "ОПа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/87569697021?pwd=SUIrcEZHQitpOFZMN1FyMkJlczhsdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні системи і технології в обліку та оподаткуванні",
+        "lecturer": "ОП-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/82219549504?pwd=Ykt6dS8ycUJhWUtRYm5kSzZPVXhWZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Облік у державному секторі економіки",
+        "lecturer": "ОП-31, ОП-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/92653518971?pwd=TlpzR0h2TExKaDlBRGFqQUtsWjVqUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Звітність бюджетних установ",
+        "lecturer": "ОПМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/82886345514?pwd=cENDR054N2FSZENVTWNGN0M5Vm1UQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Облік у державному секторі економіки",
+        "lecturer": "ОП-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/92653518971?pwd=TlpzR0h2TExKaDlBRGFqQUtsWjVqUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Облік у державному секторі економіки",
+        "lecturer": "ОП-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/92653518971?pwd=TlpzR0h2TExKaDlBRGFqQUtsWjVqUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Звітність бюджетних установ",
+        "lecturer": "ОПМ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/82886345514?pwd=cENDR054N2FSZENVTWNGN0M5Vm1UQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні системи і технології в обліку та оподаткуванні",
+        "lecturer": "ОП-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/82219549504?pwd=Ykt6dS8ycUJhWUtRYm5kSzZPVXhWZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні системи і технології в обліку та оподаткуванні",
+        "lecturer": "ОП-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/82219549504?pwd=Ykt6dS8ycUJhWUtRYm5kSzZPVXhWZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "Фізика",
+        "lecturer": "МБ-11, ел.4лаб Гол. н.к., мол.1лаб. Гол. н.к., опт.2лаб Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Фізика",
+        "lecturer": "МБ-12, ел.4лаб Гол. н.к., мол.1лаб. Гол. н.к., опт.2лаб Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Фізика, частина 2",
+        "lecturer": "ЕЕ-11, ел.3лаб Гол. н.к., опт.1лаб. Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Фізика",
+        "lecturer": "МБ-12, ел.4лаб Гол. н.к., мол.1лаб. Гол. н.к., опт.1лаб. Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фізика",
+        "lecturer": "МБ-11, ел.4лаб Гол. н.к., мол.1лаб. Гол. н.к., опт.1лаб. Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

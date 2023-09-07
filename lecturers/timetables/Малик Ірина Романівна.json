@@ -1,0 +1,82 @@
+[
+    {
+        "subject": "Практикум з політичної комунікації",
+        "lecturer": "МВМВ-11, ППК-ПМВ-101, 526а IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з політичної комунікації",
+        "lecturer": "МВМВ-12, ППК-ПМВ-102, 312 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Практикум з політичної комунікації",
+        "lecturer": "МВМВ-11, ППК-ПМВ-101, 526а IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з політичної комунікації",
+        "lecturer": "МВМВ-12, ППК-ПМВ-102, 526а IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міграційна безпека",
+        "lecturer": "МВМВ-11, МВМВ-12, 312 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Міграційна безпека",
+        "lecturer": "МВМВ-11, МВМВ-12, ",
+        "location": ", лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9114879537?pwd=RUk1Wm9QWjVhcE03VGpEVmhRMjg5dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

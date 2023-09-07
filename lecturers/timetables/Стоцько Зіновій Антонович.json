@@ -1,0 +1,127 @@
+[
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "МБ-31, МБ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmYwNTFhMTEtZGNmOS00NDQyLTgzNTUtYWQ4MjI3ZmM5YTEx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2274fa39ff-d8b3-417b-80c2-f69b9b0c9f52%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "МЗП-ПЕМ-301, МЗП-ПЕМ-302, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "МБ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmYwNTFhMTEtZGNmOS00NDQyLTgzNTUtYWQ4MjI3ZmM5YTEx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2274fa39ff-d8b3-417b-80c2-f69b9b0c9f52%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "МЗП-ПЕМ-301, МЗП-ПЕМ-302, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "МБ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmYwNTFhMTEtZGNmOS00NDQyLTgzNTUtYWQ4MjI3ZmM5YTEx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2274fa39ff-d8b3-417b-80c2-f69b9b0c9f52%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "МБ-32, МЗП-ПЕМ-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmYwNTFhMTEtZGNmOS00NDQyLTgzNTUtYWQ4MjI3ZmM5YTEx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2274fa39ff-d8b3-417b-80c2-f69b9b0c9f52%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "МЗП-ПЕМ-302, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "МБ-23, МЗП-ПЕМ-201, 079 XIV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методи та засоби прототипування виробів",
+        "lecturer": "МБ-23, МЗП-ПЕМ-201, 079 XIV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

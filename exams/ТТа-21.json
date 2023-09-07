@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-02T00:00:00.000Z",
+        "lecturer": "Жук М.М.,",
+        "subject": "Інтелектуальні транспортні системи",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-09T00:00:00.000Z",
+        "lecturer": "Ройко Ю.Я.,",
+        "subject": "Системи організації та управління дорожнім рухом",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aP-WzwhWJ4SmjPnaHKi-qZOtIaZnJFBDq_yW41wG2Jig1%40thread.tacv2/conversations?groupId=12420f54-6a74-41aa-abe7-594cb9ba307d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

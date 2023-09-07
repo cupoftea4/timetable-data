@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Системи екологічного управління та сталий розвиток",
+        "lecturer": "МТЯС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:3u44T5J_f-R52ucBZ9AOoh3MDLPVs6cT0jpD-hBfNOM1@thread.tacv2/1677758895806?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224dac45df-7f05-4e99-9b5c-bd3091b91718%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Системи екологічного управління та сталий розвиток",
+        "lecturer": "МТЯС-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:3u44T5J_f-R52ucBZ9AOoh3MDLPVs6cT0jpD-hBfNOM1@thread.tacv2/1677758895806?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224dac45df-7f05-4e99-9b5c-bd3091b91718%22%7D"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

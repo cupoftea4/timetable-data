@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Інформаційні технології смарт-систем",
+        "lecturer": "КН-301, КН-302, КН-303, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71971254807?pwd=7Roy7KnHkJmYm9LKLbvsCwpGhLQT15.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні технології смарт-систем",
+        "lecturer": "КН-301, КН-302, КН-303, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71971254807?pwd=7Roy7KnHkJmYm9LKLbvsCwpGhLQT15.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

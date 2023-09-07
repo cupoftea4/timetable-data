@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Теорія і практика перекладу (англійська мова), частина 2",
+        "lecturer": "ФЛ-36, 311 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/gfm-nmsp-ona?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теорія і практика перекладу (англійська мова), частина 2",
+        "lecturer": "ФЛ-37, 525 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/zez-cjkd-wgj?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теорія і практика перекладу (англійська мова), частина 2",
+        "lecturer": "ФЛ-38, 311 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/abz-otrm-zyj?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "ФЛ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/rjs-xijb-cfw?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "ФЛ-48, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/rjs-xijb-cfw?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "ФЛ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/qqo-muhs-ktc?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "ФЛ-44, 525 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/qqo-muhs-ktc?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Практика перекладу (англійська мова), частина 2",
+        "lecturer": "ФЛПЛ-11, 117 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/zjr-bvvq-nhn?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Практика перекладу (англійська мова), частина 2",
+        "lecturer": "ФЛПЛ-11, 117 IV н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://meet.google.com/zjr-bvvq-nhn?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "ФЛ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/mwe-qmmf-son?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "ФЛ-41, 525 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/ppd-koau-hbd?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "ФЛ-42, 525 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/ppd-koau-hbd?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Психолінгвістика",
+        "lecturer": "ФЛ-46, 403 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/wrm-gykq-tni?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Теорія і практика перекладу (англійська мова), частина 2",
+        "lecturer": "ФЛ-34, 525 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/bwg-dqvi-ptg?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Теорія і практика перекладу (англійська мова), частина 2",
+        "lecturer": "ФЛ-35, 525 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/coy-dhan-ieo?authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

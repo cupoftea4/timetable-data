@@ -1,0 +1,40 @@
+[
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Хома Н.М., 313 IV н.к.,",
+        "subject": "Теорія і практика переговорів у міжнародних комунікаціях",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/71606490474?pwd=6AFouTLdEeF2QagaGzSVEJtLX512aO.1"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Тишкун Ю.Я., 312 IV н.к.,",
+        "subject": "Аналіз та прогнозування зовнішньої політики",
+        "number": 5,
+        "urls": [
+            "https://us05web.zoom.us/j/86329164542?pwd=RGZEQXBMZ1lBMmpEbXU0dmVQV1ZvQT09%20Meeting%20ID:%20863%202916%204542",
+            "https://us04web.zoom.us/j/84119677618?pwd=Yjh3MjZOT2JWOTdJQTY1alcySmZrZz09"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "Тишкун Ю.Я., 311 IV н.к.,",
+        "subject": "Історія і теорія дослідження міжнародних систем та глобального розвитку",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/83848725390?pwd=dk9NY1NMckVHdzhtUE9uTTlEVTNzZz09%20Meeting%20ID:%20838%204872%205390%20Passcode:%20q6TEzu"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Івасечко О.Я., 312 IV н.к.,",
+        "subject": "Енергетична безпека у міжнародних відносинах",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/5755714148?pwd=RGd6VWZhSGpaT1hJTytmdENkMTZtQT09#success",
+            "https://us05web.zoom.us/j/2831228579?pwd=eVdsYjVWUFNNS3hrUGprejBJWUlFUT09"
+        ]
+    }
+]

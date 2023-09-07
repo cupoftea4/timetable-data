@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "КН-304, КН-305,",
+        "subject": "Технології та стандарти захисту персональних даних",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73206022385?pwd=khYXN7ObVxQM01GKNUCrc8pB612fHt.1"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "КНУС-11, КНУС-12, 311 V н.к.,",
+        "subject": "Промисловий інтернет речей та захист персональних даних",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75301171534?pwd=TyvcM1vADZ7tVclPiUU7CVS5QSM2AZ.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "КН-301, КН-302, КН-303,",
+        "subject": "Технології та стандарти захисту персональних даних",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/76733585501?pwd=bS56G8Und2CwAblsjMnbpHIDoO3yFv.1"
+        ]
+    }
+]

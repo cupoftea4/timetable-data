@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Журналістська етика",
+        "lecturer": "ЖР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://l.facebook.com/l.php?u=https%3A%2F%2Fus05web.zoom.us%2Fj%2F2249206676%3Fpwd%3DRXVSbHhNRitodlBUd2pCdHBIL0NLZz09%26fbclid%3DIwAR1YcmT933fg-5uTehsEiESVh42uKITpZjXp4mcVDFu7ChYOorv8n8H6BN4&h=AT1xopWM15s7D5m7XH5fAy2Jc3WYP8sfMcrsD9ny0VMc-xpLeYAFhFhw2tbbxedAD0tXhR8SSPqyLqDEIpirRoboeQYT_ddm6b0qckNgKo36AyR2p0VnM-l0WY9MjX3O8EUNlg"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Журналістська етика",
+        "lecturer": "ЖР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://l.facebook.com/l.php?u=https%3A%2F%2Fus05web.zoom.us%2Fj%2F2249206676%3Fpwd%3DRXVSbHhNRitodlBUd2pCdHBIL0NLZz09%26fbclid%3DIwAR1YcmT933fg-5uTehsEiESVh42uKITpZjXp4mcVDFu7ChYOorv8n8H6BN4&h=AT1xopWM15s7D5m7XH5fAy2Jc3WYP8sfMcrsD9ny0VMc-xpLeYAFhFhw2tbbxedAD0tXhR8SSPqyLqDEIpirRoboeQYT_ddm6b0qckNgKo36AyR2p0VnM-l0WY9MjX3O8EUNlg"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

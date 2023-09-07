@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Експлуатація систем теплогазопостачання та вентиляції",
+        "lecturer": "БД-47, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLZ-Tegz9o8ORmyErX9iIpguvyGZmY0q996jTzAhyhjQ1%40thread.tacv2/1676807517270?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220357949f-a57e-4ec2-aeba-182179788527%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Експлуатація систем теплогазопостачання та вентиляції",
+        "lecturer": "БД-47, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLZ-Tegz9o8ORmyErX9iIpguvyGZmY0q996jTzAhyhjQ1%40thread.tacv2/1676807615746?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220357949f-a57e-4ec2-aeba-182179788527%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Експлуатація систем теплогазопостачання та вентиляції",
+        "lecturer": "БД-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a87QFxF-0gCnOzBG3Lq4Yu3EyatJw4qPWPlgKTEmlpEY1%40thread.tacv2/1686597030780?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220357949f-a57e-4ec2-aeba-182179788527%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

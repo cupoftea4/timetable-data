@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ОА-101, ІВЛ-ОА-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/8399781297"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ОА-101, 326б IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8399781297"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Державний фінансовий контроль",
+        "lecturer": "ОПАГ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8399781297"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ОА-102, 326б IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8399781297"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Фінансовий облік II",
+        "lecturer": "ОП-21, 406 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8399781297"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Фінансовий облік II",
+        "lecturer": "ОП-21, 326б IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/8399781297"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

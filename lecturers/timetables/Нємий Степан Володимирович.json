@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Автомобілі, частина 1",
+        "lecturer": "АТ-22, 114 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86168665717?pwd=QlBMNExaYVNLSU9UajlnMUk3UnN1QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління якістю і сертифікація автомобілів",
+        "lecturer": "АТСМ-11, 216 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86168665717?pwd=QlBMNExaYVNLSU9UajlnMUk3UnN1QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Управління якістю і сертифікація автомобілів",
+        "lecturer": "АТСМ-11, АТСМ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86168665717?pwd=QlBMNExaYVNLSU9UajlnMUk3UnN1QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

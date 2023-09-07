@@ -1,0 +1,302 @@
+[
+    {
+        "subject": "Основи психопедагогіки управління",
+        "lecturer": "ПД-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78114435955?pwd=g3gid4td3llxalUbIG6O9RzYotapCQ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи психопедагогіки управління",
+        "lecturer": "ПД-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78114435955?pwd=g3gid4td3llxalUbIG6O9RzYotapCQ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-101, ПМВ-ПІО-102, ПМВ-ПІО-103, ПМВ-ПІО-104, НОПН-11, НОПН-12, НОПН-13, НОПН-14, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Основи психопедагогіки управління",
+        "lecturer": "ПД-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78114435955?pwd=g3gid4td3llxalUbIG6O9RzYotapCQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-101, НОПН-11, 402 XXXVI н.к., 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-102, НОПН-12, 402 XXXVI н.к., 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-102, НОПН-12, 402 XXXVI н.к., 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-102, НОПН-12, 402 XXXVI н.к., 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-102, НОПН-12, 402 XXXVI н.к., 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-101, НОПН-11, 402 XXXVI н.к., 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-101, НОПН-11, 402 XXXVI н.к., 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-101, НОПН-11, 402 XXXVI н.к., 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-104, НОПН-14, 402 XXXVI н.к., 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-103, НОПН-13, 402 XXXVI н.к., 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-104, НОПН-14, 402 XXXVI н.к., 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-104, НОПН-14, 402 XXXVI н.к., 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-103, НОПН-13, 402 XXXVI н.к., 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-104, НОПН-14, 402 XXXVI н.к., 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-103, НОПН-13, 402 XXXVI н.к., 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Професійно-педагогічна мобільність викладача",
+        "lecturer": "ПМВ-ПІО-103, НОПН-13, 402 XXXVI н.к., 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79318686368?pwd=hJvDPFuvlWEoasarekAaFb1yYwANlk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

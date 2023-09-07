@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Гузій І.С.,",
+        "subject": "Теорія та методика професійного навчання",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73311879895?pwd=nXrtURulm8Pf0SfFhLZg7MtCqMUgIG.1"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Шевчук Г.Й.,",
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72370610129?pwd=zoAmXlpmk5nuT2WyyBjVMlRSuisRbV.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Музиченко-Козловська О.В.,",
+        "subject": "Економіка будівництва",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3agMnKidmYkWzqEKae4Rra0MSrc29RWd_DqSf3dSk5mWE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=47de8d77-8917-45ad-94fc-718c3f6b032a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Ієвлєв О.М.,",
+        "subject": "Основи психопедагогіки управління",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78114435955?pwd=g3gid4td3llxalUbIG6O9RzYotapCQ.1"
+        ]
+    }
+]

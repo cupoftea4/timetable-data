@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Система технічного сервісу транспортних засобів",
+        "lecturer": "ТТ-31, ТТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/ecg-nzfn-tpp"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Експлуатаційна надійність транспортних засобів",
+        "lecturer": "ТТ-24, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fchannel%2F19%3Aujw_eBD9KJd8hOExMzs0NJF59vqxa12090x2KTXBDn81%40thread.tacv2%2F%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5%3FgroupId%3Dbe1fbef9-665e-4984-8bc8-e43655575344%26tenantId%3D7631cd62-5187-4e15-8b8e-ef653e366e7a&type=channel&deeplinkId=f2025239-5b1e-4f79-92de-ddf3bef442cd&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Експлуатаційна надійність транспортних засобів",
+        "lecturer": "ТТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/dl/launcher/launcher.html?url=%2F_%23%2Fl%2Fchannel%2F19%3Aujw_eBD9KJd8hOExMzs0NJF59vqxa12090x2KTXBDn81%40thread.tacv2%2F%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5%3FgroupId%3Dbe1fbef9-665e-4984-8bc8-e43655575344%26tenantId%3D7631cd62-5187-4e15-8b8e-ef653e366e7a&type=channel&deeplinkId=f2025239-5b1e-4f79-92de-ddf3bef442cd&directDl=true&msLaunch=true&enableMobilePage=true&suppressPrompt=true"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

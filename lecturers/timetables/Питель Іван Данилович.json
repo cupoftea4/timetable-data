@@ -1,0 +1,161 @@
+[
+    {
+        "subject": "Конструювання та виробництво мікропроцесорних засобів",
+        "lecturer": "МТ-21, МТ-22, МТ-23, 711 V н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Проектування вимірювальних приладів",
+        "lecturer": "МТМВ-11, 706 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування вимірювальних приладів",
+        "lecturer": "МТМВ-11, 706 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання та виробництво мікропроцесорних засобів",
+        "lecturer": "МТ-21, 711 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Конструювання та виробництво мікропроцесорних засобів",
+        "lecturer": "МТ-22, 711 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектування вимірювальних приладів",
+        "lecturer": "МТМВ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Конструювання та виробництво мікропроцесорних засобів",
+        "lecturer": "МТ-21, 705а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Конструювання та виробництво мікропроцесорних засобів",
+        "lecturer": "МТ-21, 705а V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Конструювання та виробництво мікропроцесорних засобів",
+        "lecturer": "МТ-22, 705а V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання та виробництво мікропроцесорних засобів",
+        "lecturer": "МТ-22, 705а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання та виробництво мікропроцесорних засобів",
+        "lecturer": "МТ-23, 711 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4264971315?pwd=bWpqQkxoU0srSjFGU0RWT3N0TXNKUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

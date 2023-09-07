@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Технологія перероблення пластичних мас і композитів",
+        "lecturer": "ХТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія перероблення пластичних мас і композитів",
+        "lecturer": "ХТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Хімічна технологія високомолекулярних сполук",
+        "lecturer": "ХТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Хімічна технологія високомолекулярних сполук",
+        "lecturer": "ХТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Хімія мономерів",
+        "lecturer": "ХТ-24, 301 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Хімія мономерів",
+        "lecturer": "ХТ-24, 301 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Хімія мономерів",
+        "lecturer": "ХТ-24, 301 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/91306667025?pwd=TXlxNWE1aU5DNmpITXhkR2hHWkoxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

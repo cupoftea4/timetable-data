@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "ФЛ-45,",
+        "subject": "Сучасна англійська мова, частина 8",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/94359130842?pwd=a3liOTRDaXI5cm4zbWR1ZlNUNHFtdz09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ФЛ-23, 116 IV н.к.,",
+        "subject": "Сучасна англійська мова, частина 3",
+        "number": 2,
+        "urls": []
+    }
+]

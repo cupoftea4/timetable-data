@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Вентиляція",
+        "lecturer": "БД-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9da1d753979c4a2b856ad37f414f9eda%40thread.tacv2/1684911081961?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7e17544-3290-477a-91cf-c0750880f931%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Вентиляція",
+        "lecturer": "БД-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a80b7397894834949940b327fb8642152%40thread.tacv2/1684911779248?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f7e17544-3290-477a-91cf-c0750880f931%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Експлуатація систем теплогазопостачання та вентиляції",
+        "lecturer": "БД-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLZ-Tegz9o8ORmyErX9iIpguvyGZmY0q996jTzAhyhjQ1%40thread.tacv2/1676807691346?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220357949f-a57e-4ec2-aeba-182179788527%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

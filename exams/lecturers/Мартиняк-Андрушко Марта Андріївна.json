@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ТЕТЕ-11, 211 X н.к.,",
+        "subject": "Проектування об`єктів теплоенергетики",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75389669218?pwd=ehUEqfb0uZoTxLChAvMxsyFJaIjLmg."
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ТЕ-31,",
+        "subject": "Установки захисту природи в теплоенергетиці",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/78341648115?pwd=Fush6HDVc1HQG6gfmx04advEffFxX9.1"
+        ]
+    }
+]

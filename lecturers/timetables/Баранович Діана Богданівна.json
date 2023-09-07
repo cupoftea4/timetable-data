@@ -1,0 +1,159 @@
+[
+    {
+        "subject": "Нормативне забезпечення біотехнологічних виробництв",
+        "lecturer": "БТ-22, 240 VIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae39fbac1c19a43859eadf32a93aa58e7%40thread.tacv2/1677566520068?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи наукових досліджень та інтелектуальна власність",
+        "lecturer": "ОНІ-ТБСФБ-101, ОНІ-ТБСФБ-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a67b9b931e9974a56a51506b2fa3b3f35%40thread.tacv2/1677456414953?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Біопошкодження та біотрансформація органічних сполук",
+        "lecturer": "БТ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7da6ee553a924abfaaa19750ecbdedfa%40thread.tacv2/1677565525954?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Біопошкодження та біотрансформація органічних сполук",
+        "lecturer": "БТ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7da6ee553a924abfaaa19750ecbdedfa%40thread.tacv2/1677565285975?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Біопошкодження та біотрансформація органічних сполук",
+        "lecturer": "БТ-41, БТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2e3f71c6c5b6431f8351f83120e433a4%40thread.tacv2/1677588068736?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Біопошкодження та біотрансформація органічних сполук",
+        "lecturer": "БТ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8da51139e3f446a0ad8f3383f2da1418%40thread.tacv2/1678148686547?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Біопошкодження та біотрансформація органічних сполук",
+        "lecturer": "БТ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8da51139e3f446a0ad8f3383f2da1418%40thread.tacv2/1677758925731?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2242e9d725-cc4c-4964-9a03-fc0805094bfb%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи наукових досліджень та інтелектуальна власність",
+        "lecturer": "ОНІ-ТБСФБ-101, 240 VIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи наукових досліджень та інтелектуальна власність",
+        "lecturer": "ОНІ-ТБСФБ-102, 240 VIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Нормативне забезпечення біотехнологічних виробництв",
+        "lecturer": "БТ-21, БТ-22, 240 VIII н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Нормативне забезпечення біотехнологічних виробництв",
+        "lecturer": "БТ-21, 240 VIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

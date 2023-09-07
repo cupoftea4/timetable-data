@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-45, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akkyvEmiBc79Fks48qbLYscOTBoB4TFX5GXeTYkiMOQw1%40thread.tacv2/1677068666805?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-45, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akkyvEmiBc79Fks48qbLYscOTBoB4TFX5GXeTYkiMOQw1%40thread.tacv2/1677068666805?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-45, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akkyvEmiBc79Fks48qbLYscOTBoB4TFX5GXeTYkiMOQw1%40thread.tacv2/1677070720827?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOfJhGerN8YU102IVWYZv-01GT-MId3Oq9S2XNNEE9Do1%40thread.tacv2/1677068901238?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOfJhGerN8YU102IVWYZv-01GT-MId3Oq9S2XNNEE9Do1%40thread.tacv2/1677069009652?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-310, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asqUBrEGMdxtaQITktvzaxJ487muutEhs7cjoOSdTeMM1%40thread.tacv2/1677069193217?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-310, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asqUBrEGMdxtaQITktvzaxJ487muutEhs7cjoOSdTeMM1%40thread.tacv2/1677069193217?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-311, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3awh0e_rDTJSJd9-WqEYyYhwlHI60zjyWk3ovAGx-o_tA1%40thread.tacv2/1677069278789?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-311, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3awh0e_rDTJSJd9-WqEYyYhwlHI60zjyWk3ovAGx-o_tA1%40thread.tacv2/1677069278789?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akkyvEmiBc79Fks48qbLYscOTBoB4TFX5GXeTYkiMOQw1%40thread.tacv2/1677069476698?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-45, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akkyvEmiBc79Fks48qbLYscOTBoB4TFX5GXeTYkiMOQw1%40thread.tacv2/1677071014573?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOfJhGerN8YU102IVWYZv-01GT-MId3Oq9S2XNNEE9Do1%40thread.tacv2/1677071081998?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-44, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOfJhGerN8YU102IVWYZv-01GT-MId3Oq9S2XNNEE9Do1%40thread.tacv2/1677069786899?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOfJhGerN8YU102IVWYZv-01GT-MId3Oq9S2XNNEE9Do1%40thread.tacv2/1677069786899?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2232435487-0bd8-413e-a471-b830b4d16ba1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    }
+]

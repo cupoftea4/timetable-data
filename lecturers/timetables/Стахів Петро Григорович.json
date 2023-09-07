@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nТеоретичні основи електротехніки, частина 2",
+        "lecturer": " ЕЕ-21, ЕЕ-22, ЕЕ-23, 114 Гол. н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "\nТеоретичні основи електротехніки, частина 2",
+        "lecturer": " ЕЕ-21, ЕЕ-22, ЕЕ-23, 114 Гол. н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    }
+]

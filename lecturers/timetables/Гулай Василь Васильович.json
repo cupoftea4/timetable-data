@@ -1,0 +1,88 @@
+[
+    {
+        "subject": "Інформаційно-аналітична діяльність у міжнародних відносинах та суспільних комунікаціях",
+        "lecturer": "МІ-21, МІ-22, 511 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "МІМ-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71675008730?pwd=9nmQvDQOFGybD1ynnB33bwRv5EQPco.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Зовнішньополітичні комунікативні технології",
+        "lecturer": "МІ-21, МІ-22, 511 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи проектування інформаційних потоків",
+        "lecturer": "МІ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73164285981?pwd=bM2Yv4TqJ5SvSsJ7OR4P9JV4jeFFRc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційно-комунікаційні технології в інтернет-просторі",
+        "lecturer": "МІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77977570468?pwd=4TDGS4b5PkeGRbAnDiMvmHLNXIu6Ye.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційно-комунікаційні технології в інтернет-просторі",
+        "lecturer": "МІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74357400410?pwd=rSB6DaXU8cjI39bVEkT6xoNZqz3ll8.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

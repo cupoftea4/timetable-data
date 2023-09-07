@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "CRM-системи",
+        "lecturer": "МК-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "CRM-системи",
+        "lecturer": "МК-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "CRM-системи",
+        "lecturer": "МК-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "CRM-системи",
+        "lecturer": "МК-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "CRM-системи",
+        "lecturer": "МК-43, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "CRM-системи",
+        "lecturer": "МК-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Облік у банках",
+        "lecturer": "ОП-22, 326 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83586009997?pwd=VXlvVjRZVzVCR0l6ZkY3M01hQkR3QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

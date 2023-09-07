@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Методи та засоби захисту інформації, частина 2",
+        "lecturer": "КБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8043181462?pwd=TDkrZ3c4aVkvYTZac0lMZTFtY0U3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методи та засоби захисту інформації, частина 2",
+        "lecturer": "КБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8043181462?pwd=TDkrZ3c4aVkvYTZac0lMZTFtY0U3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методи та засоби захисту інформації, частина 2",
+        "lecturer": "КБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8043181462?pwd=TDkrZ3c4aVkvYTZac0lMZTFtY0U3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методи та засоби захисту інформації, частина 2",
+        "lecturer": "КБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8043181462?pwd=TDkrZ3c4aVkvYTZac0lMZTFtY0U3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

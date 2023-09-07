@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " ПЗ-25",
+        "location": " 810а V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " ПЗ-25",
+        "location": " 810а V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "\nМетоди та засоби наукових досліджень в інженерії програмного забезпечення",
+        "lecturer": " ПЗМ-11",
+        "location": " 411 V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " ПЗ-25, ПЗ-26, ПЗ-27, 321 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " ПЗ-25, ПЗ-26, ПЗ-27, 321 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " ПЗ-23",
+        "location": " 302 XXIX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " ПЗ-23",
+        "location": " 302 XXIX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

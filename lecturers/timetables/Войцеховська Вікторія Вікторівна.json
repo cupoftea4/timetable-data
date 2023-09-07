@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-204, ВВО-ЕПІ-205, ВВО-ЕПІ-206, 406 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85084390037?pwd=TGhTQUNmU3BFc2NuQWVRSU9naUl3dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-101, 214 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85084390037?pwd=TGhTQUNmU3BFc2NuQWVRSU9naUl3dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-101, 214 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85872030918?pwd=RGlWMENPOStBZU14cVFPckh3UGc2UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Аналітичні та чисельні методи досліджень в економіці",
+        "lecturer": "ЕКа-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89830492709?pwd=Sm8vczZMc2RMREZrWmNpelFhTlFQQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Аналітичні та чисельні методи досліджень в економіці",
+        "lecturer": "ЕКа-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88640121313?pwd=aEVZYU4yNGdUN2wxV0ZaSFpJVXYrZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

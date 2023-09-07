@@ -1,0 +1,172 @@
+[
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "ХТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3arcK2wyo_B6hlYtypK-QJAXylFfbCn39zusCZMOCjv4w1%40thread.tacv2/1677154157208?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технологія додатків, реагентів і допоміжних продуктів",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія додатків, реагентів і допоміжних продуктів",
+        "lecturer": "ХТПВ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3acmuiTw6sHXNLYh9RQ7FAarK3uuKJ3fv1nbXY5JBqZWg1%40thread.tacv2/1677489973662?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія додатків, реагентів і допоміжних продуктів",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія додатків, реагентів і допоміжних продуктів",
+        "lecturer": "ХТПВ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3acmuiTw6sHXNLYh9RQ7FAarK3uuKJ3fv1nbXY5JBqZWg1%40thread.tacv2/1677489973662?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні технології виробництва базових олив та переробки вуглеводневих газів",
+        "lecturer": "ХТПВ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3acmuiTw6sHXNLYh9RQ7FAarK3uuKJ3fv1nbXY5JBqZWg1%40thread.tacv2/1682415154930?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні технології виробництва базових олив та переробки вуглеводневих газів",
+        "lecturer": "ХТПВ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3acmuiTw6sHXNLYh9RQ7FAarK3uuKJ3fv1nbXY5JBqZWg1%40thread.tacv2/1682414956562?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні технології виробництва базових олив та переробки вуглеводневих газів",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні технології виробництва базових олив та переробки вуглеводневих газів",
+        "lecturer": "ХТПВ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3acmuiTw6sHXNLYh9RQ7FAarK3uuKJ3fv1nbXY5JBqZWg1%40thread.tacv2/1682414956562?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні технології виробництва базових олив та переробки вуглеводневих газів",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні технології виробництва базових олив та переробки вуглеводневих газів",
+        "lecturer": "ХТМ-11, 320 VIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "ХТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3arcK2wyo_B6hlYtypK-QJAXylFfbCn39zusCZMOCjv4w1%40thread.tacv2/1677154899417?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ab97a460-3f45-4c1b-adc1-abfd1f5d61ef%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

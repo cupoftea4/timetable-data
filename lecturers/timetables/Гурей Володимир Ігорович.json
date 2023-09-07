@@ -1,0 +1,238 @@
+[
+    {
+        "subject": "Системи ЧПК технологічного обладнання",
+        "lecturer": "МП-24, 030 XIV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3amZQz69BmHRoSM0vSHERI7D71-5TKrAkIZPJNJ3WG0_g1%40thread.tacv2/1679851610099?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Математичні основи робототехніки",
+        "lecturer": "МП-31f, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a318acfb83a5145f0a5ce2ff787ef2cfa%40thread.tacv2/1677325159233?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Математичні основи робототехніки",
+        "lecturer": "МП-31f, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a318acfb83a5145f0a5ce2ff787ef2cfa%40thread.tacv2/1677325312091?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Верстати з числовим програмним керуванням",
+        "lecturer": "МП-41f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3as4BYqwxE0DMR4LsR2sFYwbXjSbAkziGZM2CClksWX0c1%40thread.tacv2/1677325815159?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Системи ЧПК технологічного обладнання",
+        "lecturer": "МП-24, 008 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Системи ЧПК технологічного обладнання",
+        "lecturer": "МП-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVmoBzul10SjUb20H-XbP45u8AoJQeW4M5PPgmBec6Pg1%40thread.tacv2/1677526897723?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Системи ЧПК технологічного обладнання",
+        "lecturer": "МП-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVmoBzul10SjUb20H-XbP45u8AoJQeW4M5PPgmBec6Pg1%40thread.tacv2/1677526897723?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Системи ЧПК технологічного обладнання",
+        "lecturer": "МП-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aKpmCYRH52k1g4A92wOsAFw1Dt1iYHK8_DKJMGYaXhYA1%40thread.tacv2/1677527107648?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Системи ЧПК технологічного обладнання",
+        "lecturer": "МП-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aKpmCYRH52k1g4A92wOsAFw1Dt1iYHK8_DKJMGYaXhYA1%40thread.tacv2/1677527107648?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Системи ЧПК технологічного обладнання",
+        "lecturer": "МП-31, МП-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aY3A_P8TpEZ1H8X-xDPySdySZl5GQG4juxSD2f3e6zPs1%40thread.tacv2/1677527300773?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Верстати з числовим програмним керуванням",
+        "lecturer": "МП-41f, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3as4BYqwxE0DMR4LsR2sFYwbXjSbAkziGZM2CClksWX0c1%40thread.tacv2/1677618709955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Верстати з числовим програмним керуванням",
+        "lecturer": "МП-41f, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3as4BYqwxE0DMR4LsR2sFYwbXjSbAkziGZM2CClksWX0c1%40thread.tacv2/1677618798138?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Системи ЧПК технологічного обладнання",
+        "lecturer": "МП-31f, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a318acfb83a5145f0a5ce2ff787ef2cfa%40thread.tacv2/1677619946373?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Системи ЧПК технологічного обладнання",
+        "lecturer": "МП-31f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a318acfb83a5145f0a5ce2ff787ef2cfa%40thread.tacv2/1677620253079?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Верстати з числовим програмним керуванням",
+        "lecturer": "МП-41f, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3as4BYqwxE0DMR4LsR2sFYwbXjSbAkziGZM2CClksWX0c1%40thread.tacv2/1677620362786?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2270fa4148-5b37-46d5-bfb6-f1b3d144b282%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Розширене проектування мікросенсорів і мікроактюаторів",
+        "lecturer": "КНСП-12, 319 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    }
+]

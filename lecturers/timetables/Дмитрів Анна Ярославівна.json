@@ -1,0 +1,45 @@
+[
+    {
+        "subject": "Контент-маркетинг",
+        "lecturer": "МК-41, МК-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78794572321?pwd=3Gv1ccVXx4IlT09hkNjasSn2k6Cifl.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Контент-маркетинг",
+        "lecturer": "МК-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71557063680?pwd=2F92GRDFasjAkF6eLUfHH72Lvhpyz5.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Контент-маркетинг",
+        "lecturer": "МК-42, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

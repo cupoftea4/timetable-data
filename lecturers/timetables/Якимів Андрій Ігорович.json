@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-208, практична ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-209, практична ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-210, практична ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-212, практична ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/79994507565?pwd=hkannYSjRAiHknci1O3pa6NCvaOsCd.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 7
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "Бридун А.М.,",
+        "subject": "Структурно-системне моделювання в картографії",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9135684222?pwd=4YBaVRLlq0CllYntfb5eV1rbVq3BIQ.1"
+        ]
+    },
+    {
+        "date": "2023-06-09T00:00:00.000Z",
+        "lecturer": "Голубінка Ю.І.,",
+        "subject": "Картознавство",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4985568578?pwd=GNn4H3yWkghj6YGWUGXe1hPWJwt7Qe.1"
+        ]
+    },
+    {
+        "date": "2023-06-13T00:00:00.000Z",
+        "lecturer": "Марченко Д.О.,",
+        "subject": "Проектування, укладання та видання карт",
+        "number": 4,
+        "urls": []
+    }
+]

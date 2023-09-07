@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Міжнародне приватне право",
+        "lecturer": "ПВ-39, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/guq-iunu-xtq?authuser=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародне приватне право",
+        "lecturer": "ПВ-38, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/rbr-qihb-kim"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародне приватне право",
+        "lecturer": "ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/euh-mszc-vwa?authuser=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    }
+]

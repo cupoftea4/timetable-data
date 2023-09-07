@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-31, АТ-32, АТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-33, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78825236590?pwd=j0Robfta4vagdNGn8xrKNZwCdJNeji.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

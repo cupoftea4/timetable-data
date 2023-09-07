@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Маркетинговий менеджмент у малому і середньому бізнесі",
+        "lecturer": "МЕОА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71160473907?pwd=OLQxJuJnapZXcZgVEadYzFQlmwxKZX.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Маркетинговий менеджмент у малому і середньому бізнесі",
+        "lecturer": "МЕОА-11, 515 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72243600457?pwd=qw29ge3AqNInvyau8enfSNSUrhlpKV.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління ризиками IT-проектів",
+        "lecturer": "УРП-МО-101, УРП-МО-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76009602155?pwd=ykXObiw8Efx5aMxnlKFR4ga9i10Lm4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "МЕ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75329732854?pwd=FehSjtFqB75xAmtbFnQ1Frc8Q8w4hR.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "МЕ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76434462729?pwd=H6VxDJJcOJkxnaaS4yxlUTCh9Xg9ZF.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження ринків",
+        "lecturer": "МЕ-312, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73917283439?pwd=oLelVPp59hgaEbxRVzqcjyMSWVBoeL.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Маркетинговий менеджмент у малому і середньому бізнесі",
+        "lecturer": "МЕОА-11f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78245998603?pwd=4LHoR67oRGo3Orj9JXt0CcwUmH8lpX.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

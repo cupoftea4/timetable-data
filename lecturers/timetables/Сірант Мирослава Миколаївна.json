@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Міжнародне право",
+        "lecturer": "ПВ-24, ПВ-25, ПВ-26, ПВ-27, 332 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/98432023817?pwd=MGp4Sy9td1dYY0cySFZ6Si9EdnJvdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародне право",
+        "lecturer": "ПВ-21, ПВ-22, ПВ-23, 322 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/98432023817?pwd=MGp4Sy9td1dYY0cySFZ6Si9EdnJvdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародне право",
+        "lecturer": "ПВ-21, 332 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/98432023817?pwd=MGp4Sy9td1dYY0cySFZ6Si9EdnJvdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародне право",
+        "lecturer": "ПВ-22, 332 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/98432023817?pwd=MGp4Sy9td1dYY0cySFZ6Si9EdnJvdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

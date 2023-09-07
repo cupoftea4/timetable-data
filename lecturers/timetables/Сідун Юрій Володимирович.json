@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Діагностика технічного стану автомобільних доріг і штучних споруд. Технічний нагляд",
+        "lecturer": "БДАД-12, 309 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjc2NzEwYjQtMDI0YS00ZWU1LThlZGYtYjBhMTlhNjczZWE0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224c304e3e-59c3-46a6-8180-93a9037528d4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Діагностика технічного стану автомобільних доріг і штучних споруд. Технічний нагляд",
+        "lecturer": "БДАД-11, 309 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjc2NzEwYjQtMDI0YS00ZWU1LThlZGYtYjBhMTlhNjczZWE0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224c304e3e-59c3-46a6-8180-93a9037528d4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Дорожні та аеродромні покриття",
+        "lecturer": "БДАД-12, 309 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmZhNWQwYTMtZDNjZi00ZDY3LWI5NjEtMWFiOGU0YzIwYjg0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224c304e3e-59c3-46a6-8180-93a9037528d4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Дорожні та аеродромні покриття",
+        "lecturer": "БДАД-11, 309 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmZhNWQwYTMtZDNjZi00ZDY3LWI5NjEtMWFiOGU0YzIwYjg0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224c304e3e-59c3-46a6-8180-93a9037528d4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Діагностика технічного стану автомобільних доріг і штучних споруд. Технічний нагляд",
+        "lecturer": "БДАД-11, БДАД-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDIyN2VmMGItZWRhMy00ZGQwLWFkNTQtNTdmMGI3MDA4YmI1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224c304e3e-59c3-46a6-8180-93a9037528d4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дорожні та аеродромні покриття",
+        "lecturer": "БДАД-11, БДАД-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTE5ZGU5YmMtYzg5OS00ZTEyLThhOWItZTMwZGIzZTZhOTFm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224c304e3e-59c3-46a6-8180-93a9037528d4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна система контрактних відносин у будівництві ФІДІК",
+        "lecturer": "БДа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWFhNTAwYjUtOGUzZi00ZDAzLTg5MzAtNjBmNTM4YzY0M2Zm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224c304e3e-59c3-46a6-8180-93a9037528d4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародна система контрактних відносин у будівництві ФІДІК",
+        "lecturer": "БДа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWFhNTAwYjUtOGUzZi00ZDAzLTg5MzAtNjBmNTM4YzY0M2Zm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224c304e3e-59c3-46a6-8180-93a9037528d4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

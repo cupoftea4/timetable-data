@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Цифрова трансформація у публічній сфері",
+        "lecturer": "УААМі-11, 022 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/78786001920?pwd=Gsc0kStWybFPvpGq6IDSOpF569DjEQ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Цифрова трансформація у публічній сфері",
+        "lecturer": "УААМі-13, 003 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/78786001920?pwd=Gsc0kStWybFPvpGq6IDSOpF569DjEQ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Цифрова трансформація у публічній сфері",
+        "lecturer": "УААМі-14, 110 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/78786001920?pwd=Gsc0kStWybFPvpGq6IDSOpF569DjEQ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

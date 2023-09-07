@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Михальчишин Н.Л., 504 IV н.к.,",
+        "subject": "Державний контроль за товарними ринками",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a17b8bba140de46c0ab5055688568d4ef%40thread.tacv2/conversations?groupId=ff26d55f-411b-4fc6-98c2-4594a6922736&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Поплавська Ж.В., 504 IV н.к.,",
+        "subject": "Основи управлінського консультування",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Комаринець С.О., 504 IV н.к.,",
+        "subject": "Секторальне прогнозування та сталий розвиток територій",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBEvqLDcm5lMnOUrsEJxIyQvk2RstW8iiQgrJr-isHLg1%40thread.tacv2/conversations?groupId=2f9f5e67-bff5-4a1b-b8c6-c059896fc777&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Данилович-Кропивницька М.Л., 504 IV н.к.,",
+        "subject": "Макроекономічний аналіз та національна безпека",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ]
+    }
+]

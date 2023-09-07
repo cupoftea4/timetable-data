@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "lecturer": "МЕ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "lecturer": "МЕ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження ринку інноваційних продуктів",
+        "lecturer": "МЕ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження ринку інноваційних продуктів",
+        "lecturer": "МЕ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Контролінг",
+        "lecturer": "МЕ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Контролінг",
+        "lecturer": "МЕ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Контролінг",
+        "lecturer": "МЕ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Проектний менеджмент",
+        "lecturer": "МЕОА-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Дослідження ринку інноваційних продуктів",
+        "lecturer": "МЕ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження ринку інноваційних продуктів",
+        "lecturer": "МЕ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20%20%20Meeting%20ID:%20825%20608%206388%20%20%20Passcode:%20sd08Wd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Контролінг",
+        "lecturer": "МЕ-31, МЕ-32, МЕ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20Meeting%20ID:%20825%20608%206388%20Passcode:%20sd08Wd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

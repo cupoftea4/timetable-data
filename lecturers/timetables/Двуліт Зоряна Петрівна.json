@@ -1,0 +1,264 @@
+[
+    {
+        "subject": "Митна справа",
+        "lecturer": "МЕ-21f, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6gnAOya_U8WV1Syw7m7IfMbahgJwkscbheIUu5GfLiw1%40thread.tacv2/1677498421383?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282e1bac1-a5d7-4228-88f6-8f1e272d4de9%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-3jN7nTvGLRzjozypWoK-SIs8sVGsM--z3r2W0AdO_w1%40thread.tacv2/1677504964599?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282e1bac1-a5d7-4228-88f6-8f1e272d4de9%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Митна справа",
+        "lecturer": "МЕ-21f, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6gnAOya_U8WV1Syw7m7IfMbahgJwkscbheIUu5GfLiw1%40thread.tacv2/1677498421383?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282e1bac1-a5d7-4228-88f6-8f1e272d4de9%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Митна справа",
+        "lecturer": "МЕ-21f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6gnAOya_U8WV1Syw7m7IfMbahgJwkscbheIUu5GfLiw1%40thread.tacv2/1677498421383?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282e1bac1-a5d7-4228-88f6-8f1e272d4de9%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-35, ",
+        "location": ", практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3jN7nTvGLRzjozypWoK-SIs8sVGsM--z3r2W0AdO_w1%40thread.tacv2/conversations?groupId=26b9484c-146b-453e-95b4-a8ec3d8c7cda&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-36, МЕ-37, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-36, МЕ-37, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3jN7nTvGLRzjozypWoK-SIs8sVGsM--z3r2W0AdO_w1%40thread.tacv2/conversations?groupId=26b9484c-146b-453e-95b4-a8ec3d8c7cda&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-35, ",
+        "location": ", практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3jN7nTvGLRzjozypWoK-SIs8sVGsM--z3r2W0AdO_w1%40thread.tacv2/conversations?groupId=26b9484c-146b-453e-95b4-a8ec3d8c7cda&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-36, МЕ-37, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-36, МЕ-37, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3jN7nTvGLRzjozypWoK-SIs8sVGsM--z3r2W0AdO_w1%40thread.tacv2/conversations?groupId=26b9484c-146b-453e-95b4-a8ec3d8c7cda&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3jN7nTvGLRzjozypWoK-SIs8sVGsM--z3r2W0AdO_w1%40thread.tacv2/conversations?groupId=26b9484c-146b-453e-95b4-a8ec3d8c7cda&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3jN7nTvGLRzjozypWoK-SIs8sVGsM--z3r2W0AdO_w1%40thread.tacv2/conversations?groupId=26b9484c-146b-453e-95b4-a8ec3d8c7cda&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-37, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3jN7nTvGLRzjozypWoK-SIs8sVGsM--z3r2W0AdO_w1%40thread.tacv2/conversations?groupId=26b9484c-146b-453e-95b4-a8ec3d8c7cda&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-37, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3jN7nTvGLRzjozypWoK-SIs8sVGsM--z3r2W0AdO_w1%40thread.tacv2/conversations?groupId=26b9484c-146b-453e-95b4-a8ec3d8c7cda&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-35, МЕ-36, МЕ-37, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3jN7nTvGLRzjozypWoK-SIs8sVGsM--z3r2W0AdO_w1%40thread.tacv2/conversations?groupId=26b9484c-146b-453e-95b4-a8ec3d8c7cda&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-35, МЕ-36, МЕ-37, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-3jN7nTvGLRzjozypWoK-SIs8sVGsM--z3r2W0AdO_w1%40thread.tacv2/conversations?groupId=26b9484c-146b-453e-95b4-a8ec3d8c7cda&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

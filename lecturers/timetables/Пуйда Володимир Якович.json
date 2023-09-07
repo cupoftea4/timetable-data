@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "КІ-41, КІ-42, КІ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/84666210782?pwd=UVp4OFAwN0U2ckltMEQrSStzeStVQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Мікропроцесорні системи",
+        "lecturer": "КІ-41, КІ-42, КІ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/84666210782?pwd=UVp4OFAwN0U2ckltMEQrSStzeStVQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Програмні засоби мікропроцесорних систем",
+        "lecturer": "КІ-44, КІ-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/87228734813?pwd=WnMwMGVRT3NyZC84aFdzYXZRNHpIdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Програмні засоби мікропроцесорних систем",
+        "lecturer": "КІ-44, КІ-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/87228734813?pwd=WnMwMGVRT3NyZC84aFdzYXZRNHpIdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

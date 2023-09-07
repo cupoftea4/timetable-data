@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Вступ до мовознавства",
+        "lecturer": "ФЛ-14, ФЛ-15, ФЛ-16, 217 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Вступ до мовознавства",
+        "lecturer": "ФЛ-11, ФЛ-12, ФЛ-13, 225 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

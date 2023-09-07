@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "БД-31, БД-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "БДМ-21, 224 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Експериментальні та теоретичні дослідження сучасних конструкцій та споруд",
+        "lecturer": "БДа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "БД-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДПЦ-11, БДПЦ-12, БДПЦ-13, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДМБ-11, БДМБ-12, БДТК-11, БДТГ-11, БДТГ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Наукові дослідження в гідротехніці",
+        "lecturer": "ГБВІ-11, 209 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДАД-11, БДАД-12, БДМТ-11, БДМТ-12, БДВВ-11, БДВВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Металеві конструкції",
+        "lecturer": "БД-31, БД-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Експериментальні та теоретичні дослідження сучасних конструкцій та споруд",
+        "lecturer": "БДа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5186409141?pwd=djFhTlVoVVFObWJBdnNCNEwxajRjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

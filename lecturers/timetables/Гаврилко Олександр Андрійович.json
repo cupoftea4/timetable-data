@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Основи проектування та конструювання інженерної та аварійно-рятувальної техніки",
+        "lecturer": "ПБПБ-11, ОПК-БКМ-101, 218 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/88153247950?pwd=QUJibTRkSVVwVGw5bnBMaGlvN2VUQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Тактика пожежогасіння та рятувальних робіт",
+        "lecturer": "ПБПБ-11, 218 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82013870072?pwd=Uk1rQi9NMGNhS0ZUQ3JtN3lmNWVtdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Тактика пожежогасіння та рятувальних робіт",
+        "lecturer": "ПБПБ-11, 202 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи проектування та конструювання інженерної та аварійно-рятувальної техніки",
+        "lecturer": "ПБПБ-11, ОПК-БКМ-101, 202 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

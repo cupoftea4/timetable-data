@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Архітектурна форма та матеріали",
+        "lecturer": "АР-23, 315 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6q61ONxWvC90F6CaaOXWkc_vvGnBbKlgOJAukforE301%40thread.tacv2/conversations?groupId=b80558bc-90a0-422f-aa91-24c07d551172&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурна форма та матеріали",
+        "lecturer": "АР-24, 315 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aLY6Qh7ODisUrBQ_TQ-OZyK3WOdQKHbBiBImPRV_UqFo1%40thread.tacv2/conversations?groupId=4ef5adf9-cc7f-40c2-891a-3ca76dc0d898&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурна форма та матеріали",
+        "lecturer": "АР-23, 315 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6q61ONxWvC90F6CaaOXWkc_vvGnBbKlgOJAukforE301%40thread.tacv2/conversations?groupId=b80558bc-90a0-422f-aa91-24c07d551172&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурна форма та матеріали",
+        "lecturer": "АР-24, 315 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aLY6Qh7ODisUrBQ_TQ-OZyK3WOdQKHbBiBImPRV_UqFo1%40thread.tacv2/conversations?groupId=4ef5adf9-cc7f-40c2-891a-3ca76dc0d898&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проектування великопролітних архітектурних форм",
+        "lecturer": "ПВАФ-АПІ-101, 315 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aEHJPVObBuruh5oEVtZ860PPUDs8Pss2Qp7XiW1DO6FI1%40thread.tacv2/conversations?groupId=9fb6e963-30d8-4c84-90dc-4bbb14dcd918&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

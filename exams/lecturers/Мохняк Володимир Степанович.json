@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-05-01T00:00:00.000Z",
+        "lecturer": "ОП-33,",
+        "subject": "Облікова політика підприємства",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71423924445?pwd=Olq126ilOTGj8nRhPZlB112FEXEJ12.1"
+        ]
+    },
+    {
+        "date": "2023-05-03T00:00:00.000Z",
+        "lecturer": "ОП-41,",
+        "subject": "Облікова політика підприємства",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/74402917250?pwd=GaTQoL2NNJ0qJIema7EbggesyJI8ab.1"
+        ]
+    }
+]

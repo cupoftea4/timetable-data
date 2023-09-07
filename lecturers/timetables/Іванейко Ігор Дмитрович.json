@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/86187060927?pwd=dnEzQ1Bqd1pqWXF0U1FHOE14NFRWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/86187060927?pwd=dnEzQ1Bqd1pqWXF0U1FHOE14NFRWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/86187060927?pwd=dnEzQ1Bqd1pqWXF0U1FHOE14NFRWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/86187060927?pwd=dnEzQ1Bqd1pqWXF0U1FHOE14NFRWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія та організація будівництва",
+        "lecturer": "БД-31, БД-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/86187060927?pwd=dnEzQ1Bqd1pqWXF0U1FHOE14NFRWdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

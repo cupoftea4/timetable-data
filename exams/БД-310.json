@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Босак М.П.,",
+        "subject": "Гідравліка каналів і споруд, частина 2",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Піцишин Б.С.,",
+        "subject": "Насосні та повітродувні станції",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Жук В.М.,",
+        "subject": "Тепломасообмін у водопостачанні та водовідведенні",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/82015676801?pwd=eHFMRmlsNnZjSVNtb1d0K0VuWGdpQT09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Чернюк В.В.,",
+        "subject": "Мережі водопостачання",
+        "number": 2,
+        "urls": []
+    }
+]

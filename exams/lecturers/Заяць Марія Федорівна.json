@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ЕЕЕБ-11, 121 Гол. н.к.,",
+        "subject": "Сучасні технології традиційної та відновлювальної енергетики",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ТЕТЕ-11, 207 X н.к.,",
+        "subject": "Захист від корозії та консервування теплоенергетичного устаткування",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ЕЕЕЕ-13, 213 X н.к.,",
+        "subject": "Теплогенеруючі установки теплоелектростанцій та режими їх роботи",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3066929880?pwd=eXBXN3A2cUxZeXdCYTRCREhKcG4xUT09"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Контрастивна лінгвістика, частина 2",
+        "lecturer": "ФЛ-31, ФЛ-32, ФЛ-33, ФЛ-34, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82394767617?pwd=eFZEUENNWExlTDRrZ2RXL01STUZRUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Контрастивна лінгвістика, частина 2",
+        "lecturer": "ФЛ-35, ФЛ-36, ФЛ-37, ФЛ-38, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82394767617?pwd=eFZEUENNWExlTDRrZ2RXL01STUZRUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

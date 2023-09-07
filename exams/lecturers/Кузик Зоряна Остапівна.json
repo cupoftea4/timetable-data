@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ГД-11сп, 616б II н.к.,",
+        "subject": "ГІС і бази даних",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ГД-22, 616б II н.к.,",
+        "subject": "ГІС і бази даних",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "ГД-21, 616б II н.к.,",
+        "subject": "ГІС і бази даних",
+        "number": 2,
+        "urls": []
+    }
+]

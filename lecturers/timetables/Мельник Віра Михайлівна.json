@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Сучасне програмне забезпечення",
+        "lecturer": "СК-22, 521 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2a2f492f66ff4b18a70ddb48660cffe5%40thread.tacv2/1677229229200?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228603217d-82bc-4829-b08c-28070afa6597%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Сучасне програмне забезпечення",
+        "lecturer": "СК-22, 521 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2a2f492f66ff4b18a70ddb48660cffe5%40thread.tacv2/1677229546096?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228603217d-82bc-4829-b08c-28070afa6597%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Сучасне програмне забезпечення",
+        "lecturer": "СК-22, 521 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2a2f492f66ff4b18a70ddb48660cffe5%40thread.tacv2/1677233669486?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228603217d-82bc-4829-b08c-28070afa6597%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Сучасне програмне забезпечення",
+        "lecturer": "СК-22, 520 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2a2f492f66ff4b18a70ddb48660cffe5%40thread.tacv2/1677233835065?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228603217d-82bc-4829-b08c-28070afa6597%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

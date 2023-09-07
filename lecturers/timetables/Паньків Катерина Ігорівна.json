@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Основи патопсихології",
+        "lecturer": "ПС-44, ПС-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:N3Z6_uBeogGm38Usi3xuMsDXXdRQqIoTCLfQVrLMSYg1@thread.tacv2/1677572412953?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22f5e2aab4-1b84-4ea7-8650-f60179523e96%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи патопсихології",
+        "lecturer": "ПС-44, ПС-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:N3Z6_uBeogGm38Usi3xuMsDXXdRQqIoTCLfQVrLMSYg1@thread.tacv2/1677572412953?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22f5e2aab4-1b84-4ea7-8650-f60179523e96%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи патопсихології",
+        "lecturer": "ПС-41, ПС-42, ПС-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aLkI7jJCRiOTCQd-iOPIh-KcPBQtzlirftsoEI77MR6I1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e67f1ff5-acb3-4a12-a54c-398f1758da8d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи патопсихології",
+        "lecturer": "ПС-41, ПС-42, ПС-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aLkI7jJCRiOTCQd-iOPIh-KcPBQtzlirftsoEI77MR6I1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e67f1ff5-acb3-4a12-a54c-398f1758da8d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

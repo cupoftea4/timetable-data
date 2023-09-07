@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-12, 504 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-12, 410 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-12, 504 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-13, 407 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-11, 407 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-11, 407 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-11, 504 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-14, 407 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-11, ШІ-12, ШІ-13, ШІ-14, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-13, 504 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-13, 407 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-14, 407 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Теорія ймовірності та статистика",
+        "lecturer": "ШІ-14, 504 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/669864921?pwd=VFE3dkpUa3paQkdPS1BwdnFMSUtDUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    }
+]

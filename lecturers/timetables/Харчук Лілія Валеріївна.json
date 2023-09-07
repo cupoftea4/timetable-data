@@ -1,0 +1,149 @@
+[
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " КІ-105",
+        "location": " 405 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " БД-110",
+        "location": " 224 II н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "\nРиторика",
+        "lecturer": " РИТ-УМ-209, практична ",
+        "location": "",
+        "urls": [
+            "https://us05web.zoom.us/j/85307307203?pwd=RkhWRU5EdXpWZDU1enE3WS8yQjlGZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "\nРиторика",
+        "lecturer": " РИТ-УМ-207, практична ",
+        "location": "",
+        "urls": [
+            "https://us05web.zoom.us/j/88945208238?pwd=La3XNNh0uVlGzk1RK01IJXUlDF1fiY.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " КІ-103",
+        "location": " 902 V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " ЕБ-14",
+        "location": " 514 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " МЕ-112",
+        "location": " 420 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " АЕ-11",
+        "location": " 115 X н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " ЛА-11",
+        "location": " 059 XIV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " СЕ-11",
+        "location": " 407 II н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " ЕБ-14",
+        "location": " 510 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,399 @@
+[
+    {
+        "subject": "Педагогіка",
+        "lecturer": "ПС-21, 329 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Педагогіка",
+        "lecturer": "ПС-22, 332 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75802741216?pwd=G6Xs78V4WuxqhcZB7dtAEdgjZQob4b.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "КБа-11, МНа-11, МПа-11, ТТа-11, МБа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Педагогіка",
+        "lecturer": "ПС-24, 329 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Педагогіка",
+        "lecturer": "ПС-23, 329 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/79829559014?pwd%3DsslDjNSMbcr30NMTNFgiMgR5Zf64Tw.1&sa=D&source=calendar&usd=2&usg=AOvVaw2FuSVs1G0do41eIb7HgXRR"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "НОПН-12, 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72543886562?pwd=9cDMLLsWAmSAKRfSwLeZEGYY21FuRc.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "ЕЛа-11, ТРа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "ПЗа-11, САа-11, ВПа-11, ГДа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "КНа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "КІа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "КНа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "КІа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "КНа-12, ПФа-11, БДа-11, ПМа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "КНа-11, ",
+        "location": ", практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "МТа-11, ІТа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "КНа-11, ",
+        "location": ", практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "МТа-11, ІТа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77463424595?pwd=1ZHnb0GV77pQzs6hPBVXvujteqUapu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "lecturer": "ПД-31, ПЦ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79579004475?pwd=VHFHmJwAf78SGo7bZazazUhcapcwSq.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Розробка дисертаційного проєкту",
+        "lecturer": "ПОа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79101096984?pwd=oQiEuQXl11XAQMNGvx7pba79wKiaRt.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Розробка дисертаційного проєкту",
+        "lecturer": "ПОа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79101096984?pwd=oQiEuQXl11XAQMNGvx7pba79wKiaRt.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "НОПН-14, 705 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72543886562?pwd=9cDMLLsWAmSAKRfSwLeZEGYY21FuRc.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "lecturer": "ПЦ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79579004475?pwd=VHFHmJwAf78SGo7bZazazUhcapcwSq.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "lecturer": "ПД-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79579004475?pwd=VHFHmJwAf78SGo7bZazazUhcapcwSq.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "lecturer": "ПЦ-31, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "lecturer": "ПД-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79579004475?pwd=VHFHmJwAf78SGo7bZazazUhcapcwSq.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "lecturer": "ПЦ-31, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "НОПН-11, 402 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72543886562?pwd=9cDMLLsWAmSAKRfSwLeZEGYY21FuRc.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

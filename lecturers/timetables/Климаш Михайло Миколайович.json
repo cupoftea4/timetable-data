@@ -1,0 +1,125 @@
+[
+    {
+        "subject": "Інфокомунікаційні мережі",
+        "lecturer": "ТР-31, ТР-32, ТР-33, ТР-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/dvm-npwy-vvi"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи наукових досліджень в телекомунікаціях",
+        "lecturer": "ТРа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методи наукових досліджень в телекомунікаціях",
+        "lecturer": "ТРа-21, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Планування та проектування мультисервісних платформ",
+        "lecturer": "ТРа-21, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Планування та проектування мультисервісних платформ",
+        "lecturer": "ТРа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Оптичні та радіоканали телекомунікацій",
+        "lecturer": "ТР-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/exv-fgvd-ych"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Оптичні та радіоканали телекомунікацій",
+        "lecturer": "ТР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/xqa-nsqb-hqn"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технології та моделі інфокомунікаційних систем",
+        "lecturer": "ТРа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технології та моделі інфокомунікаційних систем",
+        "lecturer": "ТРа-21, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

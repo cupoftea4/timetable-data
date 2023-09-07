@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-18T00:00:00.000Z",
+        "lecturer": "МВ-45, МВ-46, МВ-47,",
+        "subject": "Сучасні цивілізації і релігії світу",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4472624367?pwd=TmwyWGhpRHYza0QvdjZOV3E2a1dWUT09"
+        ]
+    },
+    {
+        "date": "2023-04-20T00:00:00.000Z",
+        "lecturer": "МВ-41, МВ-42, МВ-43, МВ-44,",
+        "subject": "Сучасні цивілізації і релігії світу",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4472624367?pwd=TmwyWGhpRHYza0QvdjZOV3E2a1dWUT09"
+        ]
+    }
+]

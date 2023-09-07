@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Контролінг для бізнесу",
+        "lecturer": "ЕКЕБ-12, ЕКЕБ-13, ЕКЕБ-14, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/8192283785?pwd=alYrd25ySkU0WGd4YUZPWkNrTnY2Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Контролінг для бізнесу",
+        "lecturer": "ЕКЕБ-12, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8192283785?pwd=alYrd25ySkU0WGd4YUZPWkNrTnY2Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Контролінг для бізнесу",
+        "lecturer": "ЕКЕБ-13, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8192283785?pwd=alYrd25ySkU0WGd4YUZPWkNrTnY2Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Контролінг для бізнесу",
+        "lecturer": "ЕКЕБ-14, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8192283785?pwd=alYrd25ySkU0WGd4YUZPWkNrTnY2Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

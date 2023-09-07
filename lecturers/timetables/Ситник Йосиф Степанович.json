@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "\nЕкономіка підприємства",
+        "lecturer": " МЕ-21, МЕ-22, МЕ-23, 319 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nЕкономіка підприємства",
+        "lecturer": " МЕ-27, МЕ-28, МЕ-29, МЕ-210, 116 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "\nЕкономіка підприємства",
+        "lecturer": " МЕ-24, МЕ-25, МЕ-26, 319 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

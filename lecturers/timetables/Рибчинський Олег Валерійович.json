@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Технології в реставрації будівель та їх мистецького вистрою",
+        "lecturer": "АРРП-11, 003 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDhjODBhYzctNDYwZS00YzNmLWJmM2EtZGM4MzE5MDA1MmY5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології в реставрації будівель та їх мистецького вистрою",
+        "lecturer": "АРРП-11, 003 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDhjODBhYzctNDYwZS00YzNmLWJmM2EtZGM4MzE5MDA1MmY5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Методика реставрації фасадів пам`яток архітектури",
+        "lecturer": "РММ-11, МРФ-АТР-101, 113 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWFjYWI4MDQtYjQxZS00NzNmLWE2ZWUtY2NjZTNhZWIxOTky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методика реставрації фасадів пам`яток архітектури",
+        "lecturer": "РММ-11, МРФ-АТР-101, 113 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWFjYWI4MDQtYjQxZS00NzNmLWE2ZWUtY2NjZTNhZWIxOTky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Культура збереження і розвитку історичного середовища",
+        "lecturer": "КЗРС-АТР-101, 332 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2U1MzZhZTEtNGY4Ny00MTIwLWE1YmMtMDQwZjFjNmMwZDFi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Культура збереження і розвитку історичного середовища",
+        "lecturer": "КЗРС-АТР-101, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2U1MzZhZTEtNGY4Ny00MTIwLWE1YmMtMDQwZjFjNmMwZDFi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Реставрація твору мистецтва з натурального каменю",
+        "lecturer": "РММ-11, 010 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Реставрація твору мистецтва з натурального каменю",
+        "lecturer": "РММ-11, 010 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Реставрація твору мистецтва з натурального каменю",
+        "lecturer": "РММ-11, 010 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGQ1MGFlNWYtMTIwMS00MWExLThlZWMtODFhYjA3ZGQ2ZDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2254c505be-04bf-4a5b-adbd-fc2823fa4cb0%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

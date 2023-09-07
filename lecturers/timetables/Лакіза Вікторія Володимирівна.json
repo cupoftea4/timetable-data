@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Міжнародний економічний аналіз та облік",
+        "lecturer": "ЕВ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac55281fb453e43adb3b9d631abd879fd%40thread.tacv2/conversations?groupId=2af269a5-1133-4405-8fd6-54b49b75adc1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародний економічний аналіз та облік",
+        "lecturer": "ЕВ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac55281fb453e43adb3b9d631abd879fd%40thread.tacv2/conversations?groupId=2af269a5-1133-4405-8fd6-54b49b75adc1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародна  електронна торгівля",
+        "lecturer": "ЕВ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3adbb55d34d9944f97bcb6e2401d6c6895%40thread.tacv2/conversations?groupId=74d4afd8-8a09-440e-9742-54e856a80bcf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна електронна торгівля у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "ЕВ-42, ЕВ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1613fff909a64387a00e85f176d50cc1%40thread.tacv2/conversations?groupId=19153dca-2956-473b-8b87-eca986878c61&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародний економічний аналіз та облік",
+        "lecturer": "ЕВ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac55281fb453e43adb3b9d631abd879fd%40thread.tacv2/conversations?groupId=2af269a5-1133-4405-8fd6-54b49b75adc1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний економічний аналіз та облік",
+        "lecturer": "ЕВ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ac55281fb453e43adb3b9d631abd879fd%40thread.tacv2/conversations?groupId=2af269a5-1133-4405-8fd6-54b49b75adc1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародна електронна торгівля у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "ЕВ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1613fff909a64387a00e85f176d50cc1%40thread.tacv2/conversations?groupId=19153dca-2956-473b-8b87-eca986878c61&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МЕ-14, 502 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a868362a255524b0c972226557968feb4%40thread.tacv2/conversations?groupId=4e863224-5d34-4eb3-8101-e847bf91be64&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МЕ-14, 502 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a868362a255524b0c972226557968feb4%40thread.tacv2/conversations?groupId=4e863224-5d34-4eb3-8101-e847bf91be64&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародна  електронна торгівля",
+        "lecturer": "ЕВ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3adbb55d34d9944f97bcb6e2401d6c6895%40thread.tacv2/conversations?groupId=74d4afd8-8a09-440e-9742-54e856a80bcf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародна  електронна торгівля",
+        "lecturer": "ЕВ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3adbb55d34d9944f97bcb6e2401d6c6895%40thread.tacv2/conversations?groupId=74d4afd8-8a09-440e-9742-54e856a80bcf&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародна електронна торгівля у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "ЕВ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1613fff909a64387a00e85f176d50cc1%40thread.tacv2/conversations?groupId=19153dca-2956-473b-8b87-eca986878c61&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна електронна торгівля у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "ЕВ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1613fff909a64387a00e85f176d50cc1%40thread.tacv2/conversations?groupId=19153dca-2956-473b-8b87-eca986878c61&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародна електронна торгівля у сфері інвестиційно-інноваційної діяльності",
+        "lecturer": "ЕВ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1613fff909a64387a00e85f176d50cc1%40thread.tacv2/conversations?groupId=19153dca-2956-473b-8b87-eca986878c61&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-14, 301 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a868362a255524b0c972226557968feb4%40thread.tacv2/conversations?groupId=4e863224-5d34-4eb3-8101-e847bf91be64&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-14, 301 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a868362a255524b0c972226557968feb4%40thread.tacv2/conversations?groupId=4e863224-5d34-4eb3-8101-e847bf91be64&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

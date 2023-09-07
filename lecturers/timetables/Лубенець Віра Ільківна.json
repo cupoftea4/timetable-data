@@ -1,0 +1,118 @@
+[
+    {
+        "subject": "Хімія і технологія лікарських субстанцій",
+        "lecturer": "ФР-31, ФР-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aZa16_IlmWLo9DSlaALMffuhCOIyd4J5RC1-w4JdkPJ01%40thread.tacv2/1677239175810?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d2ab58c-9986-485c-8331-9a616dcaec8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Використання лікарських засобів у клінічній практиці ( поглиблене вивчення фармакотерапії)",
+        "lecturer": "ФРа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azkD0VwITt4iSYUE08GSUVguXmEgxmZxFPn_AGehqfAo1%40thread.tacv2/1676400545254?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d2ab58c-9986-485c-8331-9a616dcaec8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Оцінка якості медичних та фармацевтичних технологій ( якість ЛЗ, якість лікування)",
+        "lecturer": "ФРа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auBVRMgezV7_BS5_f4CMcbIIVBY8sn2fLnv0w4uaYnmI1%40thread.tacv2/1676401345007?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d2ab58c-9986-485c-8331-9a616dcaec8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Європейські аспекти дистрибуції лікарських засобів на етапах просування від виробника до споживача",
+        "lecturer": "ЄАДЛ-ТБСФБ-101, ЄАДЛ-ТБСФБ-102, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Використання лікарських засобів у клінічній практиці ( поглиблене вивчення фармакотерапії)",
+        "lecturer": "ФРа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azkD0VwITt4iSYUE08GSUVguXmEgxmZxFPn_AGehqfAo1%40thread.tacv2/1676400818452?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d2ab58c-9986-485c-8331-9a616dcaec8b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Оцінка якості медичних та фармацевтичних технологій ( якість ЛЗ, якість лікування)",
+        "lecturer": "ФРа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auBVRMgezV7_BS5_f4CMcbIIVBY8sn2fLnv0w4uaYnmI1%40thread.tacv2/1676401457429?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d2ab58c-9986-485c-8331-9a616dcaec8b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Хімія і технологія лікарських субстанцій",
+        "lecturer": "ФР-31, ФР-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aZa16_IlmWLo9DSlaALMffuhCOIyd4J5RC1-w4JdkPJ01%40thread.tacv2/1677168126049?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220d2ab58c-9986-485c-8331-9a616dcaec8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Європейські аспекти дистрибуції лікарських засобів на етапах просування від виробника до споживача",
+        "lecturer": "ЄАДЛ-ТБСФБ-102, 236 VIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

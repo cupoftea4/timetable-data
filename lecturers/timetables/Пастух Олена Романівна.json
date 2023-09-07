@@ -1,0 +1,264 @@
+[
+    {
+        "subject": "Комп`ютерний аналіз режимів електроенергетичних систем",
+        "lecturer": "ЕЕ-35, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3nTuECZ9l0Fgjo5GtOKYBsw0Br8Z2aXEZqZtvaCjKIY1%40thread.tacv2/conversations?groupId=386ca72b-d401-46bd-a218-4f78dd1c645e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерний аналіз режимів електроенергетичних систем",
+        "lecturer": "ЕЕ-35, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a3nTuECZ9l0Fgjo5GtOKYBsw0Br8Z2aXEZqZtvaCjKIY1%40thread.tacv2/conversations?groupId=386ca72b-d401-46bd-a218-4f78dd1c645e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Електричні мережі",
+        "lecturer": "ЕЕ-21, 212a V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Електричні мережі",
+        "lecturer": "ЕЕ-23, 212a V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "СЕ-41, 305а V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFMhqQ5Pn_h9y41ImI4YamFF_s0ojXHBQ0qdjnRp8CJs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fbdd8599-8c1d-40fe-92b5-17a7260cb4a5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Електричні мережі",
+        "lecturer": "ЕЕ-23, 305а V н.к., 312а V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Електричні мережі",
+        "lecturer": "ЕЕ-23, 305б V н.к., 312а V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "СЕ-42, 305б V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ay1laFQjNnbic7Qy__-u27W46oqTVzbhI7EuNaML9Qck1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=cff741fa-41b4-407d-b4f3-7cd762c042b3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Математичні задачі електроенергетики",
+        "lecturer": "ЕЕ-31, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a_WUBAkVPqO-1YEfJ6dKGDUmcVhqdaSKjMiyW_z3mKYU1%40thread.tacv2/conversations?groupId=a5fb724d-594a-4f65-8b54-bea7a66bb7ca&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичні задачі електроенергетики",
+        "lecturer": "ЕЕ-32, 305а V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ajOel_TqYrXmS0D1Pi1ZiNPMaJ8MSNUFceBlxcHJmc8s1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=803cd3ba-d0ec-47e7-ad99-d007e906e9df&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичні задачі електроенергетики",
+        "lecturer": "ЕЕ-33, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFummNh2T-KXoaHMdhqRn3-HVvppq4dbKMWva1TZdEv01%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=cb02893f-7765-468b-8327-8b3533f2d5ae&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Математичні задачі електроенергетики",
+        "lecturer": "ЕЕ-32, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aOQqN07ZZ85-C7WgbpcMVsAIDKi5EGKnUR57JzJknaFM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=90ffed30-d777-4a22-b287-8b5b62a39a36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "СЕ-42, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0ATm9rJo1D3Lbbs_iZJFLAFJ_8vZaR_8ZUj2NHmX09Q1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ec21b1b1-da67-421e-927b-948ed058d5f6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерний аналіз режимів електроенергетичних систем",
+        "lecturer": "ЕЕ-41, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYQhPlKB8RXjDICf0Ait_PhMGW6nvrpMJ2A8FRt_mi6g1%40thread.tacv2/conversations?groupId=c1b1849c-f4e7-47f2-8bbb-b00e12c50c7b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "СЕ-41, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aoSIeJRY5HJpS2vlL_no9iBimyvqqY5qKZ0c9fH66v4k1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0d32be75-e9ab-4ae1-a72b-61160cf3fb4a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерний аналіз режимів електроенергетичних систем",
+        "lecturer": "ЕЕ-41, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYQhPlKB8RXjDICf0Ait_PhMGW6nvrpMJ2A8FRt_mi6g1%40thread.tacv2/conversations?groupId=c1b1849c-f4e7-47f2-8bbb-b00e12c50c7b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "СЕ-41, 305а V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aFMhqQ5Pn_h9y41ImI4YamFF_s0ojXHBQ0qdjnRp8CJs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fbdd8599-8c1d-40fe-92b5-17a7260cb4a5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерний аналіз режимів електроенергетичних систем",
+        "lecturer": "ЕЕ-41, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYQhPlKB8RXjDICf0Ait_PhMGW6nvrpMJ2A8FRt_mi6g1%40thread.tacv2/conversations?groupId=c1b1849c-f4e7-47f2-8bbb-b00e12c50c7b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "subject": "Автоматизоване проектування хімічного обладнання, частина 2",
+        "lecturer": "ХТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afVvhLuZJQOsvDJrhw2cte8A2pdDjwRsqdAh_CmYd6HM1%40thread.tacv2/1677489744286?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Процеси і апарати харчових виробництв, частина 1",
+        "lecturer": "ХР-21, ХР-22, 110 IX н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Відкрита наука в хімічній технології",
+        "lecturer": "ВНХТ-ХІ-102, 110 IX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Відкрита наука в хімічній технології",
+        "lecturer": "ВНХТ-ХІ-101, ВНХТ-ХІ-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asLKaVrokKHUFUcke9Lk0wNO3wfWPi2qlIxUKWNEv11U1%40thread.tacv2/1677490669590?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Відкрита наука в хімічній технології",
+        "lecturer": "ВНХТ-ХІ-101, 110 IX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aL9ealGgz7RzarUurrpAWhzVGfll9hjoAuh7Vd6UwdFs1%40thread.tacv2/1680686499212?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інженерний аналіз та підготовка виробництва хімічного обладнання, частина 1",
+        "lecturer": "ХТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afVvhLuZJQOsvDJrhw2cte8A2pdDjwRsqdAh_CmYd6HM1%40thread.tacv2/1677490086785?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Чисельне моделювання процесів та апаратів хімічної технології",
+        "lecturer": "ХТКХ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aL9ealGgz7RzarUurrpAWhzVGfll9hjoAuh7Vd6UwdFs1%40thread.tacv2/1678442534080?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Чисельне моделювання процесів та апаратів хімічної технології",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Чисельне моделювання процесів та апаратів хімічної технології",
+        "lecturer": "ХТКХ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aL9ealGgz7RzarUurrpAWhzVGfll9hjoAuh7Vd6UwdFs1%40thread.tacv2/1678442534080?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b32107b8-5588-445b-b1d4-db4f68acf2c2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Чисельне моделювання процесів та апаратів хімічної технології",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

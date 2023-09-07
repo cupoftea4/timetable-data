@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Технічна експертиза будівель та споруд",
+        "lecturer": "ПБ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/794%20212%207842"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технічна експертиза будівель та споруд",
+        "lecturer": "ПБ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/794%20212%207842"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Пожежно-рятувальна підготовка та підготовка газодимозахисника",
+        "lecturer": "ПБ-11, 218 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://staff.lpnu.ua/node/1243"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Пожежно-рятувальна підготовка та підготовка газодимозахисника",
+        "lecturer": "ПБ-11, 218 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://staff.lpnu.ua/node/1243"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Пожежно-рятувальна підготовка та підготовка газодимозахисника",
+        "lecturer": "ПБ-11, 218 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://staff.lpnu.ua/node/1243"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Пожежно-рятувальна підготовка та підготовка газодимозахисника",
+        "lecturer": "ПБ-11, 218 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://staff.lpnu.ua/node/1243"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технічна експертиза будівель та споруд",
+        "lecturer": "ПБ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/794%20212%207842"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технічна експертиза будівель та споруд",
+        "lecturer": "ПБ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/794%20212%207842"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

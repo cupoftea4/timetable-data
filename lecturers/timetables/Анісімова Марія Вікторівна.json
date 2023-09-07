@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Обгрунтування господарських рішень і оцінювання ризиків",
+        "lecturer": "ЕК-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/81960272521?pwd%3DSnVIN1hNQ1lvNzZiR0lrMURXOTdHZz09&sa=D&source=calendar&ust=1686476241591375&usg=AOvVaw0ZRK0Ck4E9nIt58sLAj5Fd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Обгрунтування господарських рішень і оцінювання ризиків",
+        "lecturer": "ЕК-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/89126152470?pwd%3DVlM1bWU0bWhIdEIrcDZzTXloTkl2Zz09&sa=D&source=calendar&ust=1686476282106446&usg=AOvVaw2dx7HWny2WZJ2bZD3IJOZh"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Обгрунтування господарських рішень і оцінювання ризиків",
+        "lecturer": "ЕК-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/86499396452?pwd%3DTllodGgvMytTQUQxVit4TkhMRWRqZz09&sa=D&source=calendar&ust=1686476300250754&usg=AOvVaw3usWv0Me2pLvBaIEbrQmo8"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Обгрунтування господарських рішень і оцінювання ризиків",
+        "lecturer": "ЕК-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/87469655953?pwd%3DMVN2L1dVVEJ4d0NsRi9SeWZXRWxZUT09&sa=D&source=calendar&ust=1686476348697071&usg=AOvVaw23qzznA3hpJGG4DrIGTM3W"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Обгрунтування господарських рішень і оцінювання ризиків",
+        "lecturer": "ЕК-31, ЕК-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us05web.zoom.us/j/89072600819?pwd%3DQm5mbTMzY0lKV3RhU0VBM0t0L0pEdz09&sa=D&source=calendar&ust=1686599957885663&usg=AOvVaw1IX6AVt3Pd0wdK_bpma8an"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

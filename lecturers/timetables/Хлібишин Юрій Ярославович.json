@@ -1,0 +1,406 @@
+[
+    {
+        "subject": "Основи фізіології та гігієни харчування",
+        "lecturer": "ХР-21, 323 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія спирту та лікеро-горілчаних напоїв",
+        "lecturer": "ХРБВ-11, ХРБВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/93663018135?pwd=UVk2dFNMWWY1RVlDcjBSYmVEZVp0QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи фізіології та гігієни харчування",
+        "lecturer": "ХР-21, 323 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологія спирту та лікеро-горілчаних напоїв",
+        "lecturer": "ХРБВ-11, 323 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія спирту та лікеро-горілчаних напоїв",
+        "lecturer": "ХРБВ-11, 323 VIII н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія спирту та лікеро-горілчаних напоїв",
+        "lecturer": "ХРБВ-12, 323 VIII н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія спирту та лікеро-горілчаних напоїв",
+        "lecturer": "ХРБВ-12, 323 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТОР-11, 325 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТОР-11, 325 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТОР-11, 325 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТОР-11, 325 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТОР-11, 325 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТОР-11, 325 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТОР-11, 325 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТОР-11, 325 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТОР-11, 325 VIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТМ-11, 325 VIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТОР-11, 325 VIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/97146417822?pwd=cUNRSWJKRFJoc3NPemd3MXFlaWlLUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Розроблення технологічних процесів органічного синтезу",
+        "lecturer": "ХТМ-11, 325 VIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технологія спирту та лікеро-горілчаних напоїв",
+        "lecturer": "ХРБВ-11, ХРБВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/93663018135?pwd=UVk2dFNMWWY1RVlDcjBSYmVEZVp0QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

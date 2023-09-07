@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Експлуатація та обслуговування машин",
+        "lecturer": "МП-24, 059 XIV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78487598156?pwd=ZMP5aNUdaWyqph3T0F4YEIT3enhoTE.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Експлуатація та обслуговування машин",
+        "lecturer": "МП-24, 059 XIV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74810833522?pwd=8vwgaacvNw3ykX3CataYQa9bm1W0AH.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Експлуатація та обслуговування машин",
+        "lecturer": "МП-31f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71723148302?pwd=p9bI1OgMaplws4TPnHSssUiL875pX0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технологічні методи виробництва заготовок деталей машин",
+        "lecturer": "МП-41f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76324434585?pwd=COQafNtvSnFDSAY3da1Xo3o67VtyIX.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технологічні методи виробництва заготовок деталей машин",
+        "lecturer": "МП-41f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79667308290?pwd=j6MvXa3AN8mIw36gE6Tj7cS5eEjzcc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Експлуатація та обслуговування машин",
+        "lecturer": "МП-31, МП-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71432296287?pwd=lZgFfLtPtFFrTBILanq8QAilSlf3vw.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Експлуатація та обслуговування машин",
+        "lecturer": "МП-31f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76284829304?pwd=eqjprLZd1fSCIlVDnvFyaBEtoLJhBc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технологічні методи виробництва заготовок деталей машин",
+        "lecturer": "МП-41f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75096869678?pwd=jyJ2fQZBnU7LsvY98YIWZGF6CQblXe.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Проектування технологічного оснащення та транспортних систем",
+        "lecturer": "МПТМ-11, 011 XIV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79344132723?pwd=wTQb800szi5OHfEimSlbD2kcbrksfw.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Проектування технологічного оснащення та транспортних систем",
+        "lecturer": "МПТМ-11, 011 XIV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79344132723?pwd=wTQb800szi5OHfEimSlbD2kcbrksfw.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

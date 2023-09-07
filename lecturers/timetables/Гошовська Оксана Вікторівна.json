@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Мікроекономіка",
+        "lecturer": "МЕ-11, МЕ-13, МЕ-14, МЕ-15, МЕ-19, 401 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6RftSMUppqa8iy4N2_J7dspjBKq-eR-6SLlw7mHBvbg1%40thread.tacv2/conversations?groupId=c68083cf-6ff1-42cd-96fb-692326b20d9e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 2
+    },
+    {
+        "subject": "Мікроекономіка",
+        "lecturer": "МЕ-11, МЕ-13, МЕ-14, МЕ-15, МЕ-19, 401 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6RftSMUppqa8iy4N2_J7dspjBKq-eR-6SLlw7mHBvbg1%40thread.tacv2/conversations?groupId=c68083cf-6ff1-42cd-96fb-692326b20d9e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 3
+    },
+    {
+        "subject": "Мікроекономіка",
+        "lecturer": "МЕ-11, МЕ-13, МЕ-14, МЕ-15, МЕ-19, 401 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6RftSMUppqa8iy4N2_J7dspjBKq-eR-6SLlw7mHBvbg1%40thread.tacv2/conversations?groupId=c68083cf-6ff1-42cd-96fb-692326b20d9e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 4
+    },
+    {
+        "subject": "Мікроекономіка",
+        "lecturer": "МЕ-11, МЕ-13, МЕ-14, МЕ-15, МЕ-19, 401 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6RftSMUppqa8iy4N2_J7dspjBKq-eR-6SLlw7mHBvbg1%40thread.tacv2/conversations?groupId=c68083cf-6ff1-42cd-96fb-692326b20d9e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 5
+    }
+]

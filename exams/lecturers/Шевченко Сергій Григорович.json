@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ПТ-21, 111 I н.к.,",
+        "subject": "Управління якістю",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3axUh3Ec6mawLHuMmZYPvOsCetRuwdqEaZUunUNQYjk9I1%40thread.tacv2/1687179455628?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22869e768b-b961-4ec4-bfa9-b5636ef82229%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ПТ-31,",
+        "subject": "Кваліметрія",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-QKWG75pKieoxPaZLgc2FETZQpBQHecqSwb807-luoI1%40thread.tacv2/1685952627620?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22869e768b-b961-4ec4-bfa9-b5636ef82229%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ПТПБ-11, 211 Гол. н.к.,",
+        "subject": "Управління комерційними ризиками",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVN11Z0LFiSFnJ4s63TvPSMF5RzcDcoTz4tiJs43NJQo1%40thread.tacv2/1687179633719?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22869e768b-b961-4ec4-bfa9-b5636ef82229%22%7d"
+        ]
+    }
+]

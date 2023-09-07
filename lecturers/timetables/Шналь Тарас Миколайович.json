@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-107, 413 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Динаміка розвитку пожеж",
+        "lecturer": "ПБПБ-11, 217 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-103, 209 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-101, 213 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-102, 213 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Вогнезахист будівельних конструкцій",
+        "lecturer": "ВБК-БКМ-301, ВБК-БКМ-302, 201 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Динаміка розвитку пожеж",
+        "lecturer": "ПБПБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "БДПЦ-11, БДПЦ-12, БДПЦ-13, ПБПБ-11, ІВЛ-БКМ-101, ІВЛ-БКМ-102, ІВЛ-БКМ-103, ІВЛ-БКМ-104, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-105, ІВЛ-БКМ-106, ІВЛ-БКМ-107, ГБВІ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-106, 224а II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-105, 224а II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "БД-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи та фундаменти транспортних споруд, частина 2",
+        "lecturer": "БД-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-104, 209 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-БКМ-115, 209 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5424495718"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

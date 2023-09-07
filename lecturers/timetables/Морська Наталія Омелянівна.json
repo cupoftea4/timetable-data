@@ -1,0 +1,193 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ДС-12, 304 Гол. н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://join.skype.com/geR0pauqVK4z"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ДС-11, 024 VII н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://join.skype.com/BTIC6ijvvko8"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ДС-14, 024 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/LRBaZyywZjHp"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "АР-34, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/DtxUB4JuNrqk"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "АР-34, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/DtxUB4JuNrqk"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ПП-17, 019 VII н.к., ",
+        "location": ", практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ПП-17, 019 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "УАі-11, 024 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/LXUvi7a1NDOl"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "АР-33, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/Dy2hLD9NOTyB"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 1",
+        "lecturer": "АР-33, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/Dy2hLD9NOTyB"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ДС-12, 023 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/geR0pauqVK4z"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ДС-14, 014 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/LRBaZyywZjHp"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "lecturer": "ДС-11, 024 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/BTIC6ijvvko8"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

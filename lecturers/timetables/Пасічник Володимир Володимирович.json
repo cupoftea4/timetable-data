@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Моделювання, аналіз та синтез взаємодії складних інформаційних систем",
+        "lecturer": "ПЗа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Розподілені бази даних та знань",
+        "lecturer": "САМ-11, 207 VIа н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання, аналіз та синтез взаємодії складних інформаційних систем",
+        "lecturer": "ПЗа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Розподілені бази даних та знань",
+        "lecturer": "САМ-11, 207 VIа н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання, аналіз та синтез взаємодії складних інформаційних систем",
+        "lecturer": "САа-21, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Моделювання, аналіз та синтез взаємодії складних інформаційних систем",
+        "lecturer": "САа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

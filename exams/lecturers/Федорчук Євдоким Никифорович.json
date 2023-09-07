@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-18T00:00:00.000Z",
+        "lecturer": "ПЗ-41, ПЗ-42,",
+        "subject": "Людино-машинна взаємодія (вбудовані системи)",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/oik-wxzz-afu"
+        ]
+    },
+    {
+        "date": "2023-05-22T00:00:00.000Z",
+        "lecturer": "ПЗ-34, ПЗ-35, ПЗ-36,",
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/zwd-yrdz-xeo"
+        ]
+    }
+]

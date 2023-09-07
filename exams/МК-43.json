@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-05-02T00:00:00.000Z",
+        "lecturer": "Рябкова О.В.,",
+        "subject": "CRM-системи",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/88301941843?pwd=RWZvYmh5aGdpd3Rqc0psY0lxVFBPdz09"
+        ]
+    },
+    {
+        "date": "2023-05-06T00:00:00.000Z",
+        "lecturer": "Таранський І.П.,",
+        "subject": "Маркетинг фінансових послуг",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-43, 131 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/89746569124?pwd=ZGFVYU9DV3JVN3RLRnlFcDhwdm1xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/89746569124?pwd=ZGFVYU9DV3JVN3RLRnlFcDhwdm1xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/89746569124?pwd=ZGFVYU9DV3JVN3RLRnlFcDhwdm1xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 1",
+        "lecturer": "ФЛ-23, 129 IV н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 1",
+        "lecturer": "ФЛ-23, 129 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 1",
+        "lecturer": "ФЛ-23, 129 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 1",
+        "lecturer": "ФЛ-22, 130 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82818847395?pwd=SHJKTlNoQmhRblQzNTJ3Q2tqOHZYQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 1",
+        "lecturer": "ФЛ-22, 130 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82818847395?pwd=SHJKTlNoQmhRblQzNTJ3Q2tqOHZYQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 1",
+        "lecturer": "ФЛ-22, 207 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82818847395?pwd=SHJKTlNoQmhRblQzNTJ3Q2tqOHZYQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 1",
+        "lecturer": "ФЛ-23, 207 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 1",
+        "lecturer": "ФЛ-23, 517 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 1",
+        "lecturer": "ФЛ-23, 115 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82673503745?pwd=UHNkV2cwTnlFd2ZtTkYrT29qRmUxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

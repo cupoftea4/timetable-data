@@ -1,0 +1,138 @@
+[
+    {
+        "subject": "Туристичні ресурси України",
+        "lecturer": "СТ-21, 309 V н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Нова і новітня історія України",
+        "lecturer": "СТ-11, 204 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Нова і новітня історія України",
+        "lecturer": "СТ-11, 204 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Туристичні ресурси України",
+        "lecturer": "СТ-21, 407 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Проблемні питання новітньої історії та культури України",
+        "lecturer": "СМУС-11, ПНІ-ІМКС-101, 204 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09%20%20Meeting%20ID:%20401%20993%204893%20Passcode:%20Krn24c"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Туристичні ресурси України",
+        "lecturer": "СТ-21, 204 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи маркетингу у галузі",
+        "lecturer": "СМ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09%20%20Meeting%20ID:%20401%20993%204893%20Passcode:%20Krn24c"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи маркетингу у галузі",
+        "lecturer": "СМ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4019934893?pwd=S0daM0lUaTJ2V0NnZEFLVkMxb2VJdz09%20%20Meeting%20ID:%20401%20993%204893%20Passcode:%20Krn24c"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Ґенеза української музейної справи в контексті національного культурного розвитку",
+        "lecturer": "ІАа-11, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Туристичні ресурси України",
+        "lecturer": "СТ-21, 517 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

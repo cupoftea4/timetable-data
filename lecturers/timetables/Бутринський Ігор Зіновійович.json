@@ -1,0 +1,75 @@
+[
+    {
+        "subject": "Динаміка та стійкість споруд",
+        "lecturer": "БД-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4297888397?pwd=bjdHano0OWlZaDdNbjduMlFqYVpxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Динаміка та стійкість споруд",
+        "lecturer": "БД-31f, 313 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4297888397?pwd=bjdHano0OWlZaDdNbjduMlFqYVpxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Динаміка та стійкість споруд",
+        "lecturer": "БД-31f, 313 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4297888397?pwd=bjdHano0OWlZaDdNbjduMlFqYVpxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Динаміка та стійкість споруд",
+        "lecturer": "БД-29, БД-31, БД-32, БД-37, 315 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/4297888397?pwd=bjdHano0OWlZaDdNbjduMlFqYVpxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Будівельна механіка",
+        "lecturer": "БД-22, 227 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

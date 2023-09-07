@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Бобало Т.В., 225 II н.к.,",
+        "subject": "Комп`ютерні технології в будівництві",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Вегера П.І., 213 II н.к.,",
+        "subject": "Проектування в сейсмічних районах",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/82610900881?pwd=VmI0RG84cUhWQ2lQVk8rTW84b1JWQT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Хміль Р.Є., 225 II н.к.,",
+        "subject": "Наукові дослідження в будівництві",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ]
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "Хміль Р.Є., 209 II н.к.,",
+        "subject": "Проектування залізобетонних та мурованих конструкцій",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "Гайда О.М., 225 II н.к.,",
+        "subject": "Розробка технологій будівельних процесів, зведення будівель та споруд",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/teamDashboard/Technology%20and%20organization%20of%20construction/19:k5ZC4ZuWSeh4HWYKYh0tytShhfrumH_VXK_JNXWDT7A1@thread.tacv2/td.members"
+        ]
+    }
+]

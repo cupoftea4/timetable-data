@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nТорговельна логістика",
+        "lecturer": " ПТ-31",
+        "location": " 211 Гол. н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nТорговельна логістика",
+        "lecturer": " ПТ-31",
+        "location": " 225 Гол. н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "date": "2023-06-13T00:00:00.000Z",
+        "lecturer": "ДПІ-ЕОМ-101, ДПІ-ЕОМ-102, ДПІ-ЕОМ-103,",
+        "subject": "Дослідження і проектування інтерфейсів користувача",
+        "number": 5,
+        "urls": [
+            "https://meet.google.com/pdx-pgks-ctm"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "КІСП-11, КІСП-12, 906 V н.к.,",
+        "subject": "Дослідження і проектування програмних систем",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/khc-xaer-grs"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "КІ-37, КІ-38, КІ-39,",
+        "subject": "Системне програмне забезпечення",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/woq-tgug-kqy"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "КІ-31, КІ-32, КІ-33,",
+        "subject": "Системне програмне забезпечення",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/qnt-wckk-aav"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "КІКС-11, КІКС-12, 512 V н.к.,",
+        "subject": "Дослідження і проектування програмних систем",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/rck-kjeg-sht"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "КІ-34, КІ-35, КІ-36,",
+        "subject": "Системне програмне забезпечення",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/pht-vekc-ihc"
+        ]
+    }
+]

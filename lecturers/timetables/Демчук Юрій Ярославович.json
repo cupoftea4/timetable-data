@@ -1,0 +1,238 @@
+[
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "ХТ-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "ХТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "ХТ-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "ХТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Проектування виробництв переробки горючих копалин",
+        "lecturer": "ХТПВ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування виробництв переробки горючих копалин",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування виробництв переробки горючих копалин",
+        "lecturer": "ХТПВ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування виробництв переробки горючих копалин",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи проектування нафтопереробних заводів",
+        "lecturer": "ХТ-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи проектування нафтопереробних заводів",
+        "lecturer": "ХТ-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Хімічні властивості нафти і газу та основи технології їх переробки",
+        "lecturer": "НГ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Хімічні властивості нафти і газу та основи технології їх переробки",
+        "lecturer": "НГ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Хімічні властивості нафти і газу та основи технології їх переробки",
+        "lecturer": "НГ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Основи проектування нафтопереробних заводів",
+        "lecturer": "ХТ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "ХТ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи проектування нафтопереробних заводів",
+        "lecturer": "ХТ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/8474323195?pwd=R3BzRUJuZUk1bzAvNm1jSGIxN3RWdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

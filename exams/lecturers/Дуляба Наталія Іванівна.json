@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "ЕВ-21f,",
+        "subject": "Дипломатичний протокол та діловий етикет",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afxSNnHgYb8SSlg-43NgJCVKseOHLAkgE67csHZ6-KrE1%40thread.tacv2/1686537755060?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2220002aa2-e55b-46ef-b23b-c44ad73d4d60%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ЕВ-21, ЕВ-22, 514 IV н.к.,",
+        "subject": "Дипломатичний протокол та діловий етикет",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "МЕБА-11, МЕБА-12, 514 IV н.к.,",
+        "subject": "Розвиток бізнес-структур",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Практика перекладу (німецька/японська мова), частина 2",
+        "lecturer": "ФЛ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/pvh-qdap-osu?pli=1&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Практика перекладу (німецька/японська мова), частина 2",
+        "lecturer": "ФЛ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/pvh-qdap-osu?pli=1&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/fqm-zvtm-sfv?pli=1&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-46, 129 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/fqm-zvtm-sfv?pli=1&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Практика перекладу (німецька/японська/чеська/польська мова), частина 2",
+        "lecturer": "ФЛПЛ-11, ФЛПЛ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/uix-cdrt-ihv?pli=1&authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Практика перекладу (німецька/японська/чеська/польська мова), частина 2",
+        "lecturer": "ФЛПЛ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/uix-cdrt-ihv?pli=1&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-46, 134 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/fqm-zvtm-sfv?pli=1&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/fqm-zvtm-sfv?pli=1&authuser=0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

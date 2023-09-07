@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Засоби приймання, передавання та обробки інформації в системах технічного захисту інформації",
+        "lecturer": "КБ-31, КБ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://join.skype.com/FoAbq3hGa0lW"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    }
+]

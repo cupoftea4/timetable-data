@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Публічно - приватне партнерство",
+        "lecturer": "ППП-АФМ-101, ППП-АФМ-102, ППП-АФМ-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73534732215?pwd=ZjZVaXFSCoSI9Ta0WtiPSubFpCA5fM.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комунікації в публічній системі, коучинг та переговори",
+        "lecturer": "УААМі-11, УААМі-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79250146909?pwd=16VraLhju3HY032AH2md793BQQiCJq.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Публічно - приватне партнерство",
+        "lecturer": "ППП-АФМ-101, 022 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74740394253?pwd=plthgylFlDZbRxbmFv4NYgRkiGmDjC.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Публічно - приватне партнерство",
+        "lecturer": "ППП-АФМ-102, 023 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74740394253?pwd=plthgylFlDZbRxbmFv4NYgRkiGmDjC.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Публічно - приватне партнерство",
+        "lecturer": "ППП-АФМ-103, 023 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74740394253?pwd=plthgylFlDZbRxbmFv4NYgRkiGmDjC.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

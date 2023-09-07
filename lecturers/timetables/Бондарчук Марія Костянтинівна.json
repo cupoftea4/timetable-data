@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Управління фінансовою санацією підприємств",
+        "lecturer": "ФБСС-11, ФБМ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a280e74494d9c47d38a929bd78628d4d5%40thread.tacv2/1677064407973?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d0097ea9-128b-45bb-987a-68ae505b204b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Банківський менеджмент",
+        "lecturer": "ФБМ-11, ФБСС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ab194e65b839145748241eafd84fc730c%40thread.tacv2/1677066222250?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d0097ea9-128b-45bb-987a-68ae505b204b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління фінансовою санацією підприємств",
+        "lecturer": "ФБСС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a280e74494d9c47d38a929bd78628d4d5%40thread.tacv2/1677064836289?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d0097ea9-128b-45bb-987a-68ae505b204b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Оподаткування зовнішньоекономічної діяльності",
+        "lecturer": "МЕ-35, МЕ-36, МЕ-37, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aN3v_MUP9nBQRYcFbgTu_Fw5jF4qNyKsHIMVUiqcekWg1%40thread.tacv2/1677349840885?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f89679dc-9cfe-43a9-82c0-cc8803370204%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Оподаткування зовнішньоекономічної діяльності",
+        "lecturer": "МЕ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_7KKzrMkzPphxewbV_NStd62r27gKOvxYye6W8MkA8U1%40thread.tacv2/1677445601850?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f89679dc-9cfe-43a9-82c0-cc8803370204%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Оподаткування зовнішньоекономічної діяльності",
+        "lecturer": "МЕ-35, 308 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_7KKzrMkzPphxewbV_NStd62r27gKOvxYye6W8MkA8U1%40thread.tacv2/1677445862702?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f89679dc-9cfe-43a9-82c0-cc8803370204%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Оподаткування зовнішньоекономічної діяльності",
+        "lecturer": "МЕ-35, 308 IV н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_7KKzrMkzPphxewbV_NStd62r27gKOvxYye6W8MkA8U1%40thread.tacv2/1677445862702?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f89679dc-9cfe-43a9-82c0-cc8803370204%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Оподаткування зовнішньоекономічної діяльності",
+        "lecturer": "МЕ-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3acy-39B1k4sgGBcRqOBm4TJdrXlKc00qirSjUZzKcUWs1%40thread.tacv2/1677446651819?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f89679dc-9cfe-43a9-82c0-cc8803370204%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Оподаткування зовнішньоекономічної діяльності",
+        "lecturer": "МЕ-36, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3acy-39B1k4sgGBcRqOBm4TJdrXlKc00qirSjUZzKcUWs1%40thread.tacv2/1677446651819?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f89679dc-9cfe-43a9-82c0-cc8803370204%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Оподаткування зовнішньоекономічної діяльності",
+        "lecturer": "МЕ-37, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOM6JrE3rYk5z01u5DuFFeIwUYH_PozAhRgo4dzhx5Bo1%40thread.tacv2/1677447381786?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f89679dc-9cfe-43a9-82c0-cc8803370204%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Оподаткування зовнішньоекономічної діяльності",
+        "lecturer": "МЕ-37, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOM6JrE3rYk5z01u5DuFFeIwUYH_PozAhRgo4dzhx5Bo1%40thread.tacv2/1677447381786?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f89679dc-9cfe-43a9-82c0-cc8803370204%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

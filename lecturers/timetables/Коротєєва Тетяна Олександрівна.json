@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "\nАлгоритми і структури даних",
+        "lecturer": " ПЗ-21, ПЗ-22, ПЗ-23, ПЗ-24, 321 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "\nАлгоритми і структури даних",
+        "lecturer": " ПЗ-25, ПЗ-26, ПЗ-27, 215 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nАлгоритми і структури даних",
+        "lecturer": " ПЗ-21",
+        "location": " 410 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nАлгоритми і структури даних",
+        "lecturer": " ПЗ-21",
+        "location": " 410 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    }
+]

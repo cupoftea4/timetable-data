@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Математичне моделювання систем в умовах невизначеності",
+        "lecturer": "ПМ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/mqo-qjgs-bxo"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання систем в умовах невизначеності",
+        "lecturer": "ПМ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/vwi-vsxd-vhd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Математичне моделювання систем",
+        "lecturer": "ПМ-31, ПМ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/tde-kmyb-kwf"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теорія керування",
+        "lecturer": "ПМ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/fna-ahrh-ugg"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Теорія керування",
+        "lecturer": "ПМ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/dkk-gcch-srb"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Математичне моделювання систем",
+        "lecturer": "ПМ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/san-bspn-eaw"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання систем",
+        "lecturer": "ПМ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/dmi-bdtc-ojb"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

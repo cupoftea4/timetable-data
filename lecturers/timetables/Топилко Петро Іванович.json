@@ -1,0 +1,84 @@
+[
+    {
+        "subject": "Програмування Web-додатків, частина 2",
+        "lecturer": "ПМ-23, 225c IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Програмування Web-додатків, частина 2",
+        "lecturer": "ПМ-23, 225а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Програмування Web-додатків, частина 2",
+        "lecturer": "ПМ-22, 225а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Програмування Web-додатків, частина 2",
+        "lecturer": "ПМ-22, 225c IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Нейронні мережі",
+        "lecturer": "ПМ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/tsa-mses-ano"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Програмування Web-додатків, частина 2",
+        "lecturer": "ПМ-22, ПМ-23, 214 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/pkp-bmtn-ffy"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

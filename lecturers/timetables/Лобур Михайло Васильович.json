@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Автоматизація проектування мікроелектронних систем",
+        "lecturer": "КН-306, КН-307, КН-308, 325 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/jam-ivht-xjv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Автоматизація проектування мікросистем",
+        "lecturer": "КН-309, КН-310, КН-311, 325 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/gcq-nvyn-tto"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

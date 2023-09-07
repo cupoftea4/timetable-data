@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Харчові технології, частина 1",
+        "lecturer": "ХР-21, ХР-22, 339 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3276507338?pwd=UjRUTzRMS0x2VlRjK1Btb2tBSS9DUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Харчові технології, частина 1",
+        "lecturer": "ХР-21, ХР-22, 339 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3276507338?pwd=UjRUTzRMS0x2VlRjK1Btb2tBSS9DUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Хімія і технологія органічних речовин",
+        "lecturer": "ХТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3276507338?pwd=UjRUTzRMS0x2VlRjK1Btb2tBSS9DUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Хімія і технологія органічних речовин",
+        "lecturer": "ХТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3276507338?pwd=UjRUTzRMS0x2VlRjK1Btb2tBSS9DUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

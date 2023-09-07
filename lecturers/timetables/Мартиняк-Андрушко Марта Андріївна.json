@@ -1,0 +1,148 @@
+[
+    {
+        "subject": "Системи теплопостачання і оптимізація режимів їх роботи",
+        "lecturer": "ТЕ-31, 213 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75937407417?pwd=NXFVRVJIVlBVMmFVdmdiQkIrL3ZZdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Установки захисту природи в теплоенергетиці",
+        "lecturer": "ТЕ-31, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78341648115?pwd=Fush6HDVc1HQG6gfmx04advEffFxX9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "АЕ-11, 207 X н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "АЕ-11, 207 X н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Установки захисту природи в теплоенергетиці",
+        "lecturer": "ТЕ-31, 209 X н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78341648115?pwd=Fush6HDVc1HQG6gfmx04advEffFxX9.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Установки захисту природи в теплоенергетиці",
+        "lecturer": "ТЕ-31, 209 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78341648115?pwd=Fush6HDVc1HQG6gfmx04advEffFxX9.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Проектування об`єктів теплоенергетики",
+        "lecturer": "ТЕТЕ-11, 207 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75389669218?pwd=ehUEqfb0uZoTxLChAvMxsyFJaIjLmg.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Установки захисту природи в теплоенергетиці",
+        "lecturer": "ТЕ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78341648115?pwd=Fush6HDVc1HQG6gfmx04advEffFxX9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Проектування об`єктів теплоенергетики",
+        "lecturer": "ТЕТЕ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75389669218?pwd=ehUEqfb0uZoTxLChAvMxsyFJaIjLmg.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Системи теплопостачання і оптимізація режимів їх роботи",
+        "lecturer": "ТЕ-31, 115 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75937407417?pwd=NXFVRVJIVlBVMmFVdmdiQkIrL3ZZdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

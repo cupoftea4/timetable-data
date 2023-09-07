@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Моделювання бізнес-процесів",
+        "lecturer": "СА-31, СА-32, 406 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://softserveinc.zoom.us/j/94625506939?pwd=ZVUrL2VGRjlySi9zNG9LM3FxZDNyZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Моделювання бізнес-процесів",
+        "lecturer": "СА-31, ",
+        "location": " практична",
+        "urls": [
+            "https://softserveinc.zoom.us/j/94625506939?pwd=ZVUrL2VGRjlySi9zNG9LM3FxZDNyZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Моделювання бізнес-процесів",
+        "lecturer": "СА-32, ",
+        "location": " практична",
+        "urls": [
+            "https://softserveinc.zoom.us/j/94625506939?pwd=ZVUrL2VGRjlySi9zNG9LM3FxZDNyZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

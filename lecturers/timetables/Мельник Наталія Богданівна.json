@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "\nАлгоритми і структури даних",
+        "lecturer": " ПЗ-22",
+        "location": " 810в V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "\nАналіз вимог до програмного забезпечення",
+        "lecturer": " ПЗ-34",
+        "location": " 810в V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nАналіз вимог до програмного забезпечення",
+        "lecturer": " ПЗ-34",
+        "location": " 810в V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nАлгоритми і структури даних",
+        "lecturer": " ПЗ-22",
+        "location": " 410 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "\nАналіз вимог до програмного забезпечення",
+        "lecturer": " ПЗ-33",
+        "location": " 810в V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    }
+]

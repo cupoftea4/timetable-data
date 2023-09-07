@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Інтернет-технології та ресурси",
+        "lecturer": "СК-31, СК-32, 526а IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a49253e1ed703458fa20c906d094a5fbe%40thread.tacv2/1677240988024?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b6f9e8d7-9cc8-4599-b2cb-0d9c93c453ad%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інтернет-технології та ресурси з управління документаційними процесами",
+        "lecturer": "СК-31, СК-32, 517 IV н.к., ",
+        "location": ", лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af1c1a7a143904baeb4cd759027b696f2%40thread.tacv2/1677241128193?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b6f9e8d7-9cc8-4599-b2cb-0d9c93c453ad%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інтернет-технології та ресурси",
+        "lecturer": "СК-32, 521 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a49253e1ed703458fa20c906d094a5fbe%40thread.tacv2/1677241504058?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b6f9e8d7-9cc8-4599-b2cb-0d9c93c453ad%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інтернет-технології та ресурси з управління документаційними процесами",
+        "lecturer": "СК-32, 521 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af1c1a7a143904baeb4cd759027b696f2%40thread.tacv2/1677242106356?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b6f9e8d7-9cc8-4599-b2cb-0d9c93c453ad%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Інтернет-технології та ресурси з управління документаційними процесами",
+        "lecturer": "СК-31, 521 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af1c1a7a143904baeb4cd759027b696f2%40thread.tacv2/1677241846544?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b6f9e8d7-9cc8-4599-b2cb-0d9c93c453ad%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "СР-21, 107 XXIX н.к.,",
+        "subject": "Соціальний аудит та інспектування в системі соціальних служб",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "СЗ-21, 107 XXIX н.к.,",
+        "subject": "Економічні основи соціального забезпечення",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "СЗ-31, СЗ-32,",
+        "subject": "Пенсійне забезпечення в Україні",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTJjYzg0MDAtZWZkOS00MzMzLTkzNDMtMTE3NmRmMDVlZTU0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a309d795-422a-43f1-a27f-5e0bfbfa24c2%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "СЗ-22, 107 XXIX н.к.,",
+        "subject": "Соціальний аудит та інспектування в системі соціальних служб",
+        "number": 2,
+        "urls": []
+    }
+]

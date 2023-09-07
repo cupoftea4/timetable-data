@@ -1,0 +1,136 @@
+[
+    {
+        "subject": "Колоїдна хімія",
+        "lecturer": "ХТ-21, 131 VIII н.к., 134 VIII н.к., 139 VIII н.к., 140 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Колоїдна хімія",
+        "lecturer": "ХТ-22, 131 VIII н.к., 134 VIII н.к., 139 VIII н.к., 140 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Фізична та колоїдна хімія",
+        "lecturer": "ХР-11, ХР-12, 214 IX н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Фізична та колоїдна хімія",
+        "lecturer": "ХР-11, ХР-12, 214 IX н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фізична та колоїдна хімія",
+        "lecturer": "РМ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7542886121?pwd=dGpKYlFXTmdPeWs0TWVjNmpCMjI3QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Фізична та колоїдна хімія",
+        "lecturer": "РМ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7542886121?pwd=dGpKYlFXTmdPeWs0TWVjNmpCMjI3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Фізична та колоїдна хімія",
+        "lecturer": "ХР-12, 131 VIII н.к., 138 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Фізична та колоїдна хімія",
+        "lecturer": "ХР-12, 131 VIII н.к., 138 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Фізична та колоїдна хімія",
+        "lecturer": "ХР-11, 131 VIII н.к., 138 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Фізична та колоїдна хімія",
+        "lecturer": "ХР-11, 131 VIII н.к., 138 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

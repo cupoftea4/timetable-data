@@ -1,0 +1,151 @@
+[
+    {
+        "subject": "Автомобілі, частина 1",
+        "lecturer": "АТ-11сп, 111 VI н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Автомобілі, частина 1",
+        "lecturer": "АТ-21, АТ-22, 111 VI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6967491849?pwd=a2g3ZGRGREtZWHI4dWlkVFhHU21sUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Автомобілі, частина 1",
+        "lecturer": "АТ-21, АТ-22, 111 VI н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Автомобілі, частина 1",
+        "lecturer": "АТ-21, 216 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автомобілі, частина 1",
+        "lecturer": "АТ-21, 114 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Автомобілі, частина 1",
+        "lecturer": "АТ-21, 114 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Гібридні та електричні приводи автомобілів",
+        "lecturer": "АТСМ-11, 114 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88064213381?pwd=cTFpVjJ6dGlhTkNsRnhDSGFhQ2ttZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Гібридні та електричні приводи автомобілів",
+        "lecturer": "АТСМ-12, 114 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Автомобілі, частина 1",
+        "lecturer": "АТ-11сп, 114 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Автомобілі, частина 1",
+        "lecturer": "АТ-11сп, 114 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Гібридні та електричні приводи автомобілів",
+        "lecturer": "АТСМ-11, АТСМ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6967491849?pwd=a2g3ZGRGREtZWHI4dWlkVFhHU21sUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

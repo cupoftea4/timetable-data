@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "ПЗ-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Програмування мультимедійних систем",
+        "lecturer": "ПЗ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/conversations?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

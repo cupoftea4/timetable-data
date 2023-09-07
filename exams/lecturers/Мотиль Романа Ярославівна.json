@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-06-02T00:00:00.000Z",
+        "lecturer": "АРа-21,",
+        "subject": "Етнокультурні традиції в сучасному дизайні",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2CRGSVtLUlZZlocZx2Vr8H5IPF4A-NbLOJhi3VLz4Ak1%40thread.tacv2/conversations?groupId=e6d0815f-b667-43b2-b3fc-97d19fab73c4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ДС-31, ДС-32, ДС-33, ДС-34,",
+        "subject": "Декоративно-ужиткове мистецтво",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-21T00:00:00.000Z",
+        "lecturer": "ДС-21, ДС-22, ДС-23, ДС-24, 223 Гол. н.к.,",
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "number": 2,
+        "urls": []
+    }
+]

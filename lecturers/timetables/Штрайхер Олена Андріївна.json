@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Політологія",
+        "lecturer": "СК-21, 517 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/98991446643?pwd=QUlrL0Z2TTNHWEprVEN6TGt6ekdEUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

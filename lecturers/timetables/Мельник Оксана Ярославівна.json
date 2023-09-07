@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Перспективи розвитку дизайну та інформаційного середовища",
+        "lecturer": "ДЗЗВ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a9t0z17tY-JH7IPfmnzoSH5nsizJTqNi0GF6AKMvRPvk1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=387b0566-886b-497d-a2bf-315e34e3bf17&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "ДС-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3AgxqLNqTV39NqfBQLcqfwQRZNyavGJQSTY7_bFxYAIzE1%40thread.tacv2/1676040453491?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "ДС-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3AgxqLNqTV39NqfBQLcqfwQRZNyavGJQSTY7_bFxYAIzE1%40thread.tacv2/1676040453491?context=%7B%22Tid%22%3A%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2C%22Oid%22%3A%22d86332e8-1325-4dd5-8daa-1cdb323ddbbe%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "ДС-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3admtXMfCRVRlL_v--GvYykIK622I1AK9H5pUZuxa1yUI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=8e5c99a0-d7c6-4501-9fdf-28035cc343f5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "ДС-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3admtXMfCRVRlL_v--GvYykIK622I1AK9H5pUZuxa1yUI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=8e5c99a0-d7c6-4501-9fdf-28035cc343f5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Передпроектний аналіз у дизайні візуальних комунікацій",
+        "lecturer": "ДС-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRZUJVJ8noRdDwai6ghdlAzxTyN1RGHJVR_QxA6HzUzU1%40thread.tacv2/conversations?groupId=1ac1e2c3-2ac8-4f0c-89ef-6ce82e1293c6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Передпроектний аналіз у дизайні візуальних комунікацій",
+        "lecturer": "ДС-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3axKuVil_B0cbzPZhf_D8WsiuRV57mmxIkm32TqSvv3fw1%40thread.tacv2/conversations?groupId=3ebc0613-dd94-40f9-885e-dabe7ab89912&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

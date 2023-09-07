@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Соціальна робота з правопорушниками",
+        "lecturer": "СР-31, СР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aj1ZL3qXIhP1rN-uEzvJpsylwnCCDUs3G3lUoGtuQBVk1%40thread.tacv2/conversations?groupId=61d88f5b-f944-4977-bef4-d38f26cc9538&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Пенітенціарна та постпенітенціарна соціальна робота",
+        "lecturer": "СР-31, СР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3adG2-EWdGK6mxm4z1lcSL3NzTzA0Oo129yMM7774LF0I1%40thread.tacv2/conversations?groupId=e048a2fe-9120-4474-8bb6-2c8459072e92&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Соціальне страхування",
+        "lecturer": "СЗ-21, СЗ-22, 207 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0HOAwfzZPaHITj-DUf_2YN7JXOhbtQ_J6Na8ShPnMG41%40thread.tacv2/conversations?groupId=909d5f05-a2d1-43e3-a6ed-31ff56fd305e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Соціальне страхування",
+        "lecturer": "СЗ-21, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0HOAwfzZPaHITj-DUf_2YN7JXOhbtQ_J6Na8ShPnMG41%40thread.tacv2/conversations?groupId=909d5f05-a2d1-43e3-a6ed-31ff56fd305e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Соціальне страхування",
+        "lecturer": "СЗ-22, 005 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0HOAwfzZPaHITj-DUf_2YN7JXOhbtQ_J6Na8ShPnMG41%40thread.tacv2/conversations?groupId=909d5f05-a2d1-43e3-a6ed-31ff56fd305e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Пенітенціарна та постпенітенціарна соціальна робота",
+        "lecturer": "СР-31, СР-32, ",
+        "location": ", практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3adG2-EWdGK6mxm4z1lcSL3NzTzA0Oo129yMM7774LF0I1%40thread.tacv2/conversations?groupId=e048a2fe-9120-4474-8bb6-2c8459072e92&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Соціальна робота з правопорушниками",
+        "lecturer": "СР-31, СР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aj1ZL3qXIhP1rN-uEzvJpsylwnCCDUs3G3lUoGtuQBVk1%40thread.tacv2/conversations?groupId=61d88f5b-f944-4977-bef4-d38f26cc9538&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "subject": "Інформаційні системи і технології в управлінні організацією",
+        "lecturer": "МЕМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4441403728?pwd=d3ZpS2JpTnRPMDFKNFFSeHRVNGJVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління поставками в електронному  бізнесі",
+        "lecturer": "МЕМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4441403728?pwd=d3ZpS2JpTnRPMDFKNFFSeHRVNGJVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Управління поставками в електронному  бізнесі",
+        "lecturer": "МЕМ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4441403728?pwd=d3ZpS2JpTnRPMDFKNFFSeHRVNGJVdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні системи і технології в управлінні організацією",
+        "lecturer": "МЕМ-11, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "lecturer": "МЕ-31, МЕ-32, МЕ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4441403728?pwd=d3ZpS2JpTnRPMDFKNFFSeHRVNGJVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

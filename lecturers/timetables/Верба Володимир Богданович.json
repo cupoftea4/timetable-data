@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "БДПЦ-11f, ІВЛ-БКМ-101f, 109 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/92492198580?pwd=b1R0TVZXT1BUblRTcnBMVDhzNkl4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "БДПЦ-11f, ІВЛ-БКМ-101f, 109 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/92492198580?pwd=b1R0TVZXT1BUblRTcnBMVDhzNkl4QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "БД-41f, 224а II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/94533849929?pwd=Z1hmWnFFanQweURrNEdJKzEyb0MwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "БД-41f, 224а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/94533849929?pwd=Z1hmWnFFanQweURrNEdJKzEyb0MwQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Термодинаміка і теплопередача",
+        "lecturer": "ПБ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85328095799?pwd=TUVjL1lSRGZWaXJ4bTBjNCs3QkNTdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Термодинаміка і теплопередача",
+        "lecturer": "ПБ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85328095799?pwd=TUVjL1lSRGZWaXJ4bTBjNCs3QkNTdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Термодинаміка і теплопередача",
+        "lecturer": "ПБ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85328095799?pwd=TUVjL1lSRGZWaXJ4bTBjNCs3QkNTdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

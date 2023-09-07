@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-03-30T00:00:00.000Z",
+        "lecturer": "ІК-41,",
+        "subject": "Безпека інформаційних систем",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/ivv-azdf-dye"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ТРІМ-11, ТРСА-11, 110 XI н.к.,",
+        "subject": "Маршрутизація та розподіл потоків у телекомунікаційних мережах",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/tgz-ubbm-tvx"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ІК-32,",
+        "subject": "Безпека інформаційно-комунікаційних систем",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/cgg-rmif-tjh"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ІК-31,",
+        "subject": "Адміністрування інформаційних систем",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/eij-gwae-jmk"
+        ]
+    }
+]

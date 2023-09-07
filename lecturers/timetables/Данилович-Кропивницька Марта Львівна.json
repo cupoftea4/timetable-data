@@ -1,0 +1,183 @@
+[
+    {
+        "subject": "Безпека держави та національного виробника",
+        "lecturer": "УАі-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Національна безпека в контексті сучасних європейських геополітичних трансформацій",
+        "lecturer": "УАа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-економіка",
+        "lecturer": "БЕК-ТПЕ-204, 214 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-економіка",
+        "lecturer": "БЕК-ТПЕ-201, 109 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Бізнес-економіка",
+        "lecturer": "БЕК-ТПЕ-201, БЕК-ТПЕ-202, БЕК-ТПЕ-203, 201 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-економіка",
+        "lecturer": "БЕК-ТПЕ-203, 201 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Безпека держави та національного виробника",
+        "lecturer": "УАі-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Макроекономічний аналіз та національна безпека",
+        "lecturer": "УАРАі-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Національна безпека в контексті сучасних європейських геополітичних трансформацій",
+        "lecturer": "УАа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Макроекономічний аналіз та національна безпека",
+        "lecturer": "УАРАі-11, 401 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-економіка",
+        "lecturer": "БЕК-ТПЕ-202, 217 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-економіка",
+        "lecturer": "БЕК-ТПЕ-204, БЕК-ТПЕ-205, 214 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-економіка",
+        "lecturer": "БЕК-ТПЕ-205, 404 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

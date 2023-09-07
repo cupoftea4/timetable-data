@@ -1,0 +1,129 @@
+[
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "ФЛ-22, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "ФЛ-22, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 5",
+        "lecturer": "ФЛ-32, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/uen-vydz-pcu"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 5",
+        "lecturer": "ФЛ-32, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/vkr-nexa-hdq?authuser=0&hs=122"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "ФЛ-42, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/uru-vjzo-xda?authuser=0&hs=122"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 5",
+        "lecturer": "ФЛ-32, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/pya-sdic-swj?authuser=0&hs=122"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "ФЛ-22, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "ФЛ-22, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "ФЛ-42, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/qqs-vmak-jbe?authuser=0&hs=122"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "subject": "Електротехніка в інформаційно-вимірювальних технологіях",
+        "lecturer": "МТ-11, МТ-12, 711 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aXTjjAcBhTgY4ob9Bv2WOg70HItx3_75AJOnNHW4hlEg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fafcf931-94df-4d64-a40d-42977d5ea4ef&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "КБ-37, КБ-38, КБ-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aXqo6bfdF2oZVrqD4Sxaf99g5tNTQCW-RNrRWNmbTCvw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=efef17e4-af8f-40a8-b08a-7ed05adcd7ae&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електротехніка в інформаційно-вимірювальних технологіях",
+        "lecturer": "МТ-11, МТ-12, 711 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aXTjjAcBhTgY4ob9Bv2WOg70HItx3_75AJOnNHW4hlEg1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fafcf931-94df-4d64-a40d-42977d5ea4ef&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "КБ-34, КБ-35, КБ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a0ZDK_3Qoutf4kAP5DBwZWL8-mToamWK4UKlLODWRySs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=af089311-04fd-43cb-9e93-106781c4b420&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Метрологія та вимірювання",
+        "lecturer": "КБ-31, КБ-32, КБ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aXKQqZOPiTi6GyeTDFl18nuUvlYIZkzgnIcIRQce0XPM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=400a3b9f-e456-4914-9d0b-221bb2f02bb0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІВТ-101, ІВЛ-ІВТ-102, ІВЛ-ІВТ-103, ІВЛ-ІВТ-104, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3akKap-CFoO-2rWkekwYTo6BIe0SV6dPdlqmpYeIziiNM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e7540859-4afb-4a33-9b55-91db82a79636&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІВТ-105, ІВЛ-ІВТ-106, ІВЛ-ІВТ-107, ІВЛ-ІВТ-108, ІВЛ-ІВТ-109, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3alJceQqHV6VPMTEDDWqkGgVXZgZ5_CD41QFYIe4ON4F41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=88d14f06-42ce-4b35-8a9f-0f9c9a6ca043&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІВТ-101, 713 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3anmvypIdpqrV6j9bon-g6QeQ4lTC7s5HgreW7PxMeUIw1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ced19407-94df-4642-b8a9-c2b09ce612f2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІВТ-102, 223 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІВТ-103, 901 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a7NUQCKxhmzhPU5iDxmN5WNrIrC7sP_SXbS9y5-8_j7g1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ab46b4c0-fed8-44e1-8b2f-fac6e46ae9a8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Психологічна служба",
+        "lecturer": "ПС-33, ПС-34, ПС-35, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDk1MTdlMTktMGE1Zi00MWViLTkxYjEtNDRkNjJkNjRiNzk1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f04d3a27-0b2c-40c8-a362-e25a786029d4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Психологічна служба",
+        "lecturer": "ПС-35, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWY0ZmVlZjItMjc4ZC00MzFlLWE5NGQtYzAyZTRmZTllMWQ3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f04d3a27-0b2c-40c8-a362-e25a786029d4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Психологічна служба",
+        "lecturer": "ПС-33, ПС-34, ПС-35, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTg2OTMzMDgtYWI1Ni00OGUxLWFhYTYtNDRjNjk2Nzk0MmVl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f04d3a27-0b2c-40c8-a362-e25a786029d4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "\nАлгоритми та програмування, частина1",
+        "lecturer": " ФІ-11",
+        "location": " 225б IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nАлгоритми та програмування, частина1",
+        "lecturer": " ФІ-11",
+        "location": " 225а IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "\nАлгоритми та програмування, частина1",
+        "lecturer": " ПМ-11",
+        "location": " 225а IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "\nАлгоритми та програмування, частина1",
+        "lecturer": " ПМ-11, ПМ-12, ПМ-13, ФІ-11, 214 IV н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nАлгоритми та програмування, частина1",
+        "lecturer": " ПМ-11",
+        "location": " 225а IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "\nАлгоритми та програмування, частина1",
+        "lecturer": " ПМ-11, ПМ-12, ПМ-13, ФІ-11, 214 IV н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "\nАлгоритми та програмування, частина1",
+        "lecturer": " ПМ-11, ПМ-12, ПМ-13, ФІ-11, 214 IV н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

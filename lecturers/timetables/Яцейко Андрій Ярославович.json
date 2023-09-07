@@ -1,0 +1,189 @@
+[
+    {
+        "subject": "Діагностика та випробування електрообладнання",
+        "lecturer": "ЕЕЕЕ-14, ЕЕМ-12, 312в V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3acoPEwnj99hRD2M3jmXXtOdR_-jwrmHVtmr2jOCgWu_k1%40thread.tacv2/conversations?groupId=04590434-7884-4886-80d4-d2445c2f363a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Діагностика та випробування електрообладнання",
+        "lecturer": "ЕЕЕЕ-14, ЕЕМ-12, 312в V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3acoPEwnj99hRD2M3jmXXtOdR_-jwrmHVtmr2jOCgWu_k1%40thread.tacv2/conversations?groupId=04590434-7884-4886-80d4-d2445c2f363a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "ЕЕ-35, 213 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a63Pmh2eTBQlLUff3SqDqlFEebTIPWTSjwNd7_Ns9Gx41%40thread.tacv2/conversations?groupId=4021e234-2748-4cde-9a3f-3702530d43d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "ЕЕ-35, 213 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a63Pmh2eTBQlLUff3SqDqlFEebTIPWTSjwNd7_Ns9Gx41%40thread.tacv2/conversations?groupId=4021e234-2748-4cde-9a3f-3702530d43d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Перенапруги в електричних мережах",
+        "lecturer": "ЕЕЕЕ-14, 305б V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Перенапруги в електричних мережах",
+        "lecturer": "ЕЕМ-12, 305б V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Діагностика та випробування електрообладнання",
+        "lecturer": "ЕЕМ-12, 312в V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Діагностика та випробування електрообладнання",
+        "lecturer": "ЕЕЕЕ-14, 312в V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Перенапруги в електричних мережах",
+        "lecturer": "ЕЕЕЕ-14, ЕЕМ-12, 312в V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apz99NB-T1AGZFeXTvQLkgyN9E16GrYYMZXfRE0Qv0JU1%40thread.tacv2/conversations?groupId=057bed5d-5682-4067-a7ab-6ace2b943261&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "ЕЕ-35, 210 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a63Pmh2eTBQlLUff3SqDqlFEebTIPWTSjwNd7_Ns9Gx41%40thread.tacv2/conversations?groupId=4021e234-2748-4cde-9a3f-3702530d43d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "ЕЕ-35, 210 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a63Pmh2eTBQlLUff3SqDqlFEebTIPWTSjwNd7_Ns9Gx41%40thread.tacv2/conversations?groupId=4021e234-2748-4cde-9a3f-3702530d43d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Проектування підстанцій електричних мереж",
+        "lecturer": "ЕЕ-35, 210 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a63Pmh2eTBQlLUff3SqDqlFEebTIPWTSjwNd7_Ns9Gx41%40thread.tacv2/conversations?groupId=4021e234-2748-4cde-9a3f-3702530d43d9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Електромагнітні перехідні процеси",
+        "lecturer": "ЕЕ-31, ЕЕ-32, 307 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3avJFQepNg6fcsvXG0YSb0Ry1N2m6V8EGq37UAwC9ZK4g1%40thread.tacv2/conversations?groupId=c385248d-ad14-4551-bc89-8b5dfff41cfb&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXpfMuB2knyWqlbWYY2q644HEmfaf1fg7PFgfyFiRtDY1%40thread.tacv2/1676964507322?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22303393d6-50d7-440d-a292-c44765f7b7ac%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXpfMuB2knyWqlbWYY2q644HEmfaf1fg7PFgfyFiRtDY1%40thread.tacv2/1676964833020?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22303393d6-50d7-440d-a292-c44765f7b7ac%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLW6_0vDM_qcq0B5Miw1TGJ6CTwqjH-yohHSrjA8GhZE1%40thread.tacv2/1676965036968?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22303393d6-50d7-440d-a292-c44765f7b7ac%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLW6_0vDM_qcq0B5Miw1TGJ6CTwqjH-yohHSrjA8GhZE1%40thread.tacv2/1676966489065?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22303393d6-50d7-440d-a292-c44765f7b7ac%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLW6_0vDM_qcq0B5Miw1TGJ6CTwqjH-yohHSrjA8GhZE1%40thread.tacv2/1676966812004?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22303393d6-50d7-440d-a292-c44765f7b7ac%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLW6_0vDM_qcq0B5Miw1TGJ6CTwqjH-yohHSrjA8GhZE1%40thread.tacv2/1676967099126?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22303393d6-50d7-440d-a292-c44765f7b7ac%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXpfMuB2knyWqlbWYY2q644HEmfaf1fg7PFgfyFiRtDY1%40thread.tacv2/1676967344633?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22303393d6-50d7-440d-a292-c44765f7b7ac%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXpfMuB2knyWqlbWYY2q644HEmfaf1fg7PFgfyFiRtDY1%40thread.tacv2/1676967498086?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22303393d6-50d7-440d-a292-c44765f7b7ac%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    }
+]

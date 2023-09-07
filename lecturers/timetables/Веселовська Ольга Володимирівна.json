@@ -1,0 +1,110 @@
+[
+    {
+        "subject": "Математика",
+        "lecturer": "АР-11, АР-12, АР-13, 225 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ІК-12, 213 XI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71595905066?pwd=WGxiellzUzYxbGgrVnhMaDB2bGU5UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ІК-12, 213 XI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ІК-11, ІК-12, 211 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71595905066?pwd=WGxiellzUzYxbGgrVnhMaDB2bGU5UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Математика",
+        "lecturer": "АР-11, 216 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ІК-11, 211 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Математика",
+        "lecturer": "АР-13, 225 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Математика",
+        "lecturer": "АР-12, 225 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

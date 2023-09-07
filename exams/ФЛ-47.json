@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-06-09T00:00:00.000Z",
+        "lecturer": "Шестакевич Т.В.,",
+        "subject": "Корпусна лінгвістика",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/twm-ushs-nhj"
+        ]
+    },
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "Захарчук М.Є.,",
+        "subject": "Сучасна англійська мова, частина 8",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-12T00:00:00.000Z",
+        "lecturer": "Козаченко Н.О.,",
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/98976424136?pwd=OVNIaXVIb3NCWjlYbjdvVHNrT1FhZz09"
+        ]
+    },
+    {
+        "date": "2023-06-15T00:00:00.000Z",
+        "lecturer": "Федоришин М.С.,",
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9jnG3D8C7a1hADO-CuPp0fqfGCUuARwjbWOtJdrNEhU1%40thread.tacv2/1686034609242?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2251af4650-f73b-483b-9f2e-e0dfd7697d17%22%7d"
+        ]
+    }
+]

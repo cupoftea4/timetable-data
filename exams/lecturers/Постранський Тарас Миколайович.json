@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "РТМ-11, РТМ-12, 202 VI н.к.,",
+        "subject": "Спецкурс з наукових досліджень спеціальності, частина 2",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aJVi6QoS52paGPMS-VIOpReI2BiPf9LmDkBhrkQTqx8A1%40thread.tacv2/conversations?groupId=76ad3227-a1f7-49ae-ad97-04d4fd40793b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "ТТ-11сп, 206 VI н.к.,",
+        "subject": "Інформаційне забезпечення учасників дорожнього руху",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "ТТ-21, 202 VI н.к.,",
+        "subject": "Інформаційне забезпечення учасників дорожнього руху",
+        "number": 3,
+        "urls": []
+    }
+]

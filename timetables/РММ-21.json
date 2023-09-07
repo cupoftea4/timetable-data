@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "\nСпецкурс з наукових досліджень спеціальності",
+        "lecturer": " Диба Ю.Р.",
+        "location": " 113 XIX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nСпецкурс з наукових досліджень спеціальності",
+        "lecturer": " Диба Ю.Р.",
+        "location": " 113 XIX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nПрактикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": " Чень Л.Я., каф.Лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nНаукові дослідження та семінари за їх тематикою",
+        "lecturer": " Чень Л.Я., каф.Лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nСпецкурс з наукових досліджень спеціальності",
+        "lecturer": " Диба Ю.Р., Лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

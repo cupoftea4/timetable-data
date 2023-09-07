@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nМетрологія та вимірювальна техніка",
+        "lecturer": " КБ-201",
+        "location": " 703 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "\nМетрологія та вимірювальна техніка",
+        "lecturer": " КБ-202",
+        "location": " 703 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

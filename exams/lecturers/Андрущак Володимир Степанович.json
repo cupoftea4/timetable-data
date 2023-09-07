@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ІК-32,",
+        "subject": "Мобільні додатки інформаційно-комунікаційних систем",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/eax-nrtq-siy"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ІК-32,",
+        "subject": "Програмування вбудованих систем",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/maa-uixo-ese"
+        ]
+    }
+]

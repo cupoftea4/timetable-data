@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Інформатика та сучасні інформаційні технології",
+        "lecturer": "МВ-12, 506 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3058709846?pwd=RXI0SmlYaFVIeUR5aHU0Szl0bFZBZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Інформатика та сучасні інформаційні технології",
+        "lecturer": "МІ-11, 506 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3058709846?pwd=RXI0SmlYaFVIeUR5aHU0Szl0bFZBZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інформатика та сучасні інформаційні технології",
+        "lecturer": "МІ-11, 506 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3058709846?pwd=RXI0SmlYaFVIeUR5aHU0Szl0bFZBZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інформатика та сучасні інформаційні технології",
+        "lecturer": "МІ-11, 103 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3058709846?pwd=RXI0SmlYaFVIeUR5aHU0Szl0bFZBZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

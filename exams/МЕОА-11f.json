@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Дзюбіна А.В.,",
+        "subject": "Електронна комерція",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Чухрай Н.І.,",
+        "subject": "Маркетинговий менеджмент у малому і середньому бізнесі",
+        "number": 4,
+        "urls": [
+            "https://us02web.zoom.us/j/85415137241?pwd=amNTclNZMlk0R0ludFdpOEY4UEJ2Zz09"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Бондаренко Ю.Г.,",
+        "subject": "Інфраструктура малого та середнього бізнесу",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Бойко В.В.,",
+        "subject": "Проектний менеджмент",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/8256086388?pwd=dkk0MWlMcVVVaEhFQkpKRGhnbVVmUT09%20%20Meeting%20ID:%20825%20608%206388%20Passcode:%20sd08Wd"
+        ]
+    }
+]

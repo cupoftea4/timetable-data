@@ -1,0 +1,80 @@
+[
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " КБ-44",
+        "location": " 221 XIX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " КБ-41, КБ-42, КБ-43, 202 XIX н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " КБ-44",
+        "location": " 201 XIX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " КБ-44, КБ-45, КБ-46, 202 XIX н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " КБ-43",
+        "location": " 220 XX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    },
+    {
+        "subject": "\nОпераційні системи",
+        "lecturer": " КБ-43",
+        "location": " 215 XX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 7
+    }
+]

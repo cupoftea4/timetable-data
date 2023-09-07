@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Методи і моделі оптимізації трансферних потоків",
+        "lecturer": "ПТПБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73723272119?pwd=DIarleJVbdUNgQnudsbDIbrqxUr5Mz.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Бізнес-діагностика підприємств інтернет-торгівлі",
+        "lecturer": "ПТПБ-11, ",
+        "location": ", лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78805401973?pwd=eeSqnnVsa8uC3aoNEbsgV5eg9eA7Z9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Дослідницький семінар у галузі управління та адміністрування",
+        "lecturer": "ПТа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74710557880?pwd=kCvYSJ8oXtLm8iVP3DJix9RdY0FaI2.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Дослідницький семінар у галузі управління та адміністрування",
+        "lecturer": "ПТа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74710557880?pwd=kCvYSJ8oXtLm8iVP3DJix9RdY0FaI2.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Методи і моделі оптимізації трансферних потоків",
+        "lecturer": "ПТПБ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71986884149?pwd=yCTxwzNLkRi7O96xpIjEQTuGpezhwN.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методи і моделі оптимізації трансферних потоків",
+        "lecturer": "ПТПБ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71986884149?pwd=yCTxwzNLkRi7O96xpIjEQTuGpezhwN.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Бізнес-діагностика підприємств інтернет-торгівлі",
+        "lecturer": "ПТПБ-11, ",
+        "location": ", практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78050204077?pwd=DAgZv8Hu3osT7JfNEsCPHTRd10MN7v.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-діагностика підприємств інтернет-торгівлі",
+        "lecturer": "ПТПБ-11, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78050204077?pwd=DAgZv8Hu3osT7JfNEsCPHTRd10MN7v.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Недзвецька О.В.,",
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72034203543?pwd=7OSmaNbaDplXOMt3L9BlbVdxRUDDCu.1%20%20https://us04web.zoom.us/j/72034203543?pwd=7OSmaNbaDplXOMt3L9BlbVdxRUDDCu.1"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Роїк О.Р.,",
+        "subject": "Планування діяльності організацій турбізнесу",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72755411050?pwd=knvDoP95ipb2uj68nLsaSgJ5dYCnSl.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Кошова Б.Р.,",
+        "subject": "Інфраструктура туризму",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ]
+    }
+]

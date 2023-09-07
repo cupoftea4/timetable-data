@@ -1,0 +1,223 @@
+[
+    {
+        "subject": "Теоретичні основи перероблення пластмас",
+        "lecturer": "ХТ-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78794939522?pwd=lIW6JzUheCnbjaAKdmjlkPi8bSfidC.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Теоретичні основи перероблення пластмас",
+        "lecturer": "ХТ-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78794939522?pwd=lIW6JzUheCnbjaAKdmjlkPi8bSfidC.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "САПР і конструювання пластмасових виробів та оснащення для їх формування",
+        "lecturer": "ХТПК-11, 026 VIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75837770092?pwd=SXfrBYjvQawg4h0kRYm3SQSxZaafIw.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "САПР і конструювання пластмасових виробів та оснащення для їх формування",
+        "lecturer": "ХТПК-11, 026 VIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75837770092?pwd=SXfrBYjvQawg4h0kRYm3SQSxZaafIw.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технологія перероблення пластичних мас і композитів",
+        "lecturer": "ХТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77034007699?pwd=NDXH7HM2RE7WbD9orYl6KfYxBC8IdW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "САПР і конструювання пластмасових виробів та оснащення для їх формування",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "САПР і конструювання пластмасових виробів та оснащення для їх формування",
+        "lecturer": "ХТПК-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72898326679?pwd=r9ovnPIIcyuJaJ9c69E9rqdEumxRUC.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "САПР і конструювання пластмасових виробів та оснащення для їх формування",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "САПР і конструювання пластмасових виробів та оснащення для їх формування",
+        "lecturer": "ХТПК-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72898326679?pwd=r9ovnPIIcyuJaJ9c69E9rqdEumxRUC.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технологія перероблення реактопластів і композитів",
+        "lecturer": "ХТ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72339606824?pwd=NErnZS6VySvgeNr1MWDiA20Dn3Daby.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні тенденції вторинної переробки полімерних відходів",
+        "lecturer": "ХТа-21, 028 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74135950269?pwd=ZDxDM6PB6Yx4EhQUbujLrgsrobEws5.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теоретичні основи виробництва і перероблення пластичних мас",
+        "lecturer": "ХТ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77034007699?pwd=NDXH7HM2RE7WbD9orYl6KfYxBC8IdW.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія перероблення реактопластів і композитів",
+        "lecturer": "ХТ-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74582205011?pwd=JIqS0nH7Yybaja67uWllkEsb1zYvuQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технологія перероблення реактопластів і композитів",
+        "lecturer": "ХТ-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74582205011?pwd=JIqS0nH7Yybaja67uWllkEsb1zYvuQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Теоретичні основи виробництва і перероблення пластичних мас",
+        "lecturer": "ХТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77034007699?pwd=NDXH7HM2RE7WbD9orYl6KfYxBC8IdW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

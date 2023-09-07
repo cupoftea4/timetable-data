@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Бридун А.М.,",
+        "subject": "Структурно-системне моделювання в картографії",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9135684222?pwd=4YBaVRLlq0CllYntfb5eV1rbVq3BIQ.1"
+        ]
+    },
+    {
+        "date": "2023-06-24T00:00:00.000Z",
+        "lecturer": "Заблоцький Ф.Д.,",
+        "subject": "Основи метеорології та кліматології",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "Ярема Н.П.,",
+        "subject": "Основи комп`ютерних технологій в картографії",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/seu-hgfq-cyt"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "Согор А.Р.,",
+        "subject": "Основи математичної картографії",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3012158992?pwd=Wi9CVHlURzE2VVMzMktDMDAwQzlmZz09"
+        ]
+    }
+]

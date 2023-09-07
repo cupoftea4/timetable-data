@@ -1,0 +1,99 @@
+[
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "КНІК-11, ММЕ-ПМ-103, 217 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "ПМ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/csj-vuhh-mts"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "ПМКМ-11, ММЕ-ПМ-102, 104 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "ПМПМ-11, ММЕ-ПМ-101, 215 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Чисельні методи, частина 1",
+        "lecturer": "ПМ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/dte-wxek-yeg"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "ММЕ-ПМ-101, ММЕ-ПМ-102, ММЕ-ПМ-103, ПМПМ-11, ПМКМ-11, КНІК-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/rfv-nwhb-eow"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичні моделі економіки",
+        "lecturer": "ММЕ-ПМ-101, ММЕ-ПМ-102, ММЕ-ПМ-103, ПМПМ-11, ПМКМ-11, КНІК-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

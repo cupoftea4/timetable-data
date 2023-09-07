@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Комп`ютерне опрацювання інформації з обмеженим доступом",
+        "lecturer": "КБа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77979809181?pwd=n4g1bDmYmUQysQ9cXmvoD2SieQVnd1.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерне опрацювання інформації з обмеженим доступом",
+        "lecturer": "КБа-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77979809181?pwd=n4g1bDmYmUQysQ9cXmvoD2SieQVnd1.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Математичне і комп`ютерне моделювання в наукових дослідженнях",
+        "lecturer": "КІа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76312107699?pwd=Fqr69i38ERDCa2mjFIETfz5ysDoaOs.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Математичне і комп`ютерне моделювання в наукових дослідженнях",
+        "lecturer": "КІа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://www.lmn.in.ua/u-lvovi-zbyratymut-lampy-batarejky-i-termometry-de-i-koly-mozhna-zdaty-2/"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна обробка інформації",
+        "lecturer": "КБ-33, КБ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76312107699?pwd=Fqr69i38ERDCa2mjFIETfz5ysDoaOs.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерна обробка інформації",
+        "lecturer": "КБ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78797163325?pwd=E34JjWP44vIiy92idwQsmpobtlLjme.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна обробка інформації",
+        "lecturer": "КБ-33, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71922007637?pwd=T98OSXQIVQ2usviiUdaPBQeytZ2TMO.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна обробка інформації",
+        "lecturer": "КБ-34, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71922007637?pwd=T98OSXQIVQ2usviiUdaPBQeytZ2TMO.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерна обробка інформації",
+        "lecturer": "КБ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78797163325?pwd=E34JjWP44vIiy92idwQsmpobtlLjme.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    }
+]

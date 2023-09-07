@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Сай В.М.,",
+        "subject": "Землеустрій",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4354778394?pwd=NmZZY3EvRlorMXhwNzZKeGhkTDkwdz09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Музика Н.М.,",
+        "subject": "Основи інвентаризації та моніторингу земельних ресурсів",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/5825602808?pwd=ZldjWE9zbW1IU2FYOW5XTkJCazlGZz09"
+        ]
+    }
+]

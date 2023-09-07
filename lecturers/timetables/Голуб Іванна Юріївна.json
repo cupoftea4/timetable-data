@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-35, 402 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://goethe-institut.zoom.us/j/88547429533?pwd=clJTall1bFdXTFJBWjZqL2ZNR0F6dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-35, 208а V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://goethe-institut.zoom.us/j/88547429533?pwd=clJTall1bFdXTFJBWjZqL2ZNR0F6dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://goethe-institut.zoom.us/j/88547429533?pwd=clJTall1bFdXTFJBWjZqL2ZNR0F6dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://goethe-institut.zoom.us/j/88547429533?pwd=clJTall1bFdXTFJBWjZqL2ZNR0F6dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-34, 208 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://goethe-institut.zoom.us/j/88547429533?pwd=clJTall1bFdXTFJBWjZqL2ZNR0F6dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://goethe-institut.zoom.us/j/88547429533?pwd=clJTall1bFdXTFJBWjZqL2ZNR0F6dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://goethe-institut.zoom.us/j/88547429533?pwd=clJTall1bFdXTFJBWjZqL2ZNR0F6dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-34, 134 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://goethe-institut.zoom.us/j/88547429533?pwd=clJTall1bFdXTFJBWjZqL2ZNR0F6dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-34, 134 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://goethe-institut.zoom.us/j/88547429533?pwd=clJTall1bFdXTFJBWjZqL2ZNR0F6dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    }
+]

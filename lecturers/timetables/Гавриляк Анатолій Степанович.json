@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Нормування та управління ресурсами у будівництві",
+        "lecturer": "ЕКУБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/9614862408?pwd=RTJYUFJIc0JNRlJSd1l4bU9TcG9Zdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Нормування та управління ресурсами у будівництві",
+        "lecturer": "ЕКУБ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/9614862408?pwd=RTJYUFJIc0JNRlJSd1l4bU9TcG9Zdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

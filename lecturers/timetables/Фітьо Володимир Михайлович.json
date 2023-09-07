@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Електронні системи",
+        "lecturer": "ЕЛ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adec761db36d54c419d0cfc78f0c883cf%40thread.tacv2/1676969687890?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226dc11bcb-42c4-4bce-b056-d2ec13d6ed2e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронні системи",
+        "lecturer": "ЕЛ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adec761db36d54c419d0cfc78f0c883cf%40thread.tacv2/1676969760229?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226dc11bcb-42c4-4bce-b056-d2ec13d6ed2e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Електронні системи",
+        "lecturer": "ЕЛ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adec761db36d54c419d0cfc78f0c883cf%40thread.tacv2/1676969760229?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226dc11bcb-42c4-4bce-b056-d2ec13d6ed2e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Плазмоніка",
+        "lecturer": "МНа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aM1mmE_84wC6xX9AmG3yA8qADOJSFWbOQnoPlDlM8_UE1%40thread.tacv2/1676969401955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226dc11bcb-42c4-4bce-b056-d2ec13d6ed2e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Плазмоніка",
+        "lecturer": "МНа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aM1mmE_84wC6xX9AmG3yA8qADOJSFWbOQnoPlDlM8_UE1%40thread.tacv2/1676969401955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%226dc11bcb-42c4-4bce-b056-d2ec13d6ed2e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "subject": "Блогінг та партнерський маркетинг",
+        "lecturer": "МКІМ-11, МКМ-11, 109 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Маркетинг послуг",
+        "lecturer": "МК-34, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCu2hXFM79Z562A7uFRf5YtHj5yYqRd0H3IdEz0rWdMU1%40thread.tacv2/1677490632986?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22faad1ba8-30fa-45c1-9308-fbb007015e02%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Виробнича логістика",
+        "lecturer": "МЕ-48, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6QZI-ihyDFPlizzM_ZrbVGnGBTbtaNwyzJHTXAGJspk1%40thread.tacv2/1676899024675?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22faad1ba8-30fa-45c1-9308-fbb007015e02%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Виробнича логістика",
+        "lecturer": "МЕ-48, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSTEkV33-YD8zQLnXjJIxQ5nuzg9Req8c7-EF-PVlZTw1%40thread.tacv2/1676813495837?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22102a5c02-1975-4953-9c5b-1cd4170e8a2e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Маркетинг послуг",
+        "lecturer": "МК-34, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSTEkV33-YD8zQLnXjJIxQ5nuzg9Req8c7-EF-PVlZTw1%40thread.tacv2/1676813495837?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22102a5c02-1975-4953-9c5b-1cd4170e8a2e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

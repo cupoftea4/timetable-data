@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Лідерство та групова динаміка",
+        "lecturer": "ЛГД-ЕПІ-102, 421 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWQ4NzUyOGQtN2EyMy00MDY4LWI5ZWItMTZmZjBjM2JhNmUx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2246d22caa-b5e6-4ff9-adf5-cd201ff5ebe4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Лідерство та групова динаміка",
+        "lecturer": "ЛГД-ЕПІ-101, 421 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWQ4NzUyOGQtN2EyMy00MDY4LWI5ZWItMTZmZjBjM2JhNmUx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2246d22caa-b5e6-4ff9-adf5-cd201ff5ebe4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Лідерство та групова динаміка",
+        "lecturer": "ЛГД-ЕПІ-101, ЛГД-ЕПІ-102, ЛГД-ЕПІ-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGE4NDk1NmQtOTY0OC00MGZhLWE0ZWUtNDg5MGRiZTRkYjky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2246d22caa-b5e6-4ff9-adf5-cd201ff5ebe4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Лідерство та групова динаміка",
+        "lecturer": "ЛГД-ЕПІ-104, ЛГД-ЕПІ-105, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGE4NDk1NmQtOTY0OC00MGZhLWE0ZWUtNDg5MGRiZTRkYjky%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2246d22caa-b5e6-4ff9-adf5-cd201ff5ebe4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Лідерство та групова динаміка",
+        "lecturer": "ЛГД-ЕПІ-103, 421 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzYxMjYxMDAtYWQ0My00MzlmLTg3YTEtNWVmNDg0NzQ0MDc2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2246d22caa-b5e6-4ff9-adf5-cd201ff5ebe4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Лідерство та групова динаміка",
+        "lecturer": "ЛГД-ЕПІ-104, 421 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzYxMjYxMDAtYWQ0My00MzlmLTg3YTEtNWVmNDg0NzQ0MDc2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2246d22caa-b5e6-4ff9-adf5-cd201ff5ebe4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Лідерство та групова динаміка",
+        "lecturer": "ЛГД-ЕПІ-105, 421 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjdjNjEwMDEtYjJhZi00YzRkLTg3ZGItNDk0ZGNjYTExY2I2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2246d22caa-b5e6-4ff9-adf5-cd201ff5ebe4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

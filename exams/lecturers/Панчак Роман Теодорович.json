@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ПП-11, ПП-12, 325 IV н.к.,",
+        "subject": "Комп`ютерна схемотехніка та архітектура комп`ютерних систем",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/86963604298?pwd=eDR6cGkySGJidzhZS1hyTlRRRTd3UT09"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "ПП-15, ПП-16, ПП-17, 325 IV н.к.,",
+        "subject": "Комп`ютерна схемотехніка та архітектура комп`ютерних систем",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/84493275019?pwd=bS9PeS9GL3JwSm5jTHA1TnJTb2dzdz09"
+        ]
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "ПП-13, ПП-14, 325 IV н.к.,",
+        "subject": "Комп`ютерна схемотехніка та архітектура комп`ютерних систем",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/85956400883?pwd=c1JzV1FQckRWblppV1BwRUZHU2YxUT09"
+        ]
+    }
+]

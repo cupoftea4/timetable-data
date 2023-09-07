@@ -1,0 +1,56 @@
+[
+    {
+        "subject": "Технології інформаційного консалтингу в міжнародних відносин та суспільних комунікаціях",
+        "lecturer": "МІ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83056637572?pwd=djZ2S3YwcmNtZjc3N0tWOGRGOUF1dz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Зовнішньополітичні комунікативні технології",
+        "lecturer": "МІ-21, 015 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародне інформаційне право",
+        "lecturer": "МІ-21, 511 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Зовнішньополітичні комунікативні технології",
+        "lecturer": "МІ-21, 015 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

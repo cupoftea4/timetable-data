@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ФБ-31, ФБ-32,",
+        "subject": "Публічні фінанси",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6175c34f0d5a4d2394743717315b618c%40thread.tacv2/1684933577180?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6ca27ba-f4c9-4de7-b7fc-33e0c69accd6%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-21T00:00:00.000Z",
+        "lecturer": "ФБ-33, ФБ-34,",
+        "subject": "Публічні фінанси",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6175c34f0d5a4d2394743717315b618c%40thread.tacv2/1686225991960?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22a6ca27ba-f4c9-4de7-b7fc-33e0c69accd6%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ОП-21, 510 IV н.к.,",
+        "subject": "Фінанси, гроші та кредит",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nДекларативне програмування",
+        "lecturer": " ПЗ-45",
+        "location": " 810а V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "\nДекларативне програмування",
+        "lecturer": " ПЗ-45",
+        "location": " 810а V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

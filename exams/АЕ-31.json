@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Лукіянець Б.А.,",
+        "subject": "Теорія ядерних реакторів, частина 2",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Галянчук І.Р.,",
+        "subject": "Математичне моделювання в атомній енергетиці",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Кузнецова М.Я.,",
+        "subject": "Парогенератори атомних електричних станцій, частина 2",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/93378560178?pwd=ek9mRHlXWGU0TmVvTVRKWGlUY09wUT09"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Кравець Т.Ю.,",
+        "subject": "Турбіни атомних електростанцій, частина 2",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aab48101306dd4cefbc651c1052853f6b%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=37475ba3-5eed-474a-9fa4-9d94ce567037&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Матіко Г.Ф.,",
+        "subject": "Підготовка та кондиціювання води",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aJ3M8ghP9BBHwbg-aA76bKwWqImDWQGy55bSywlHHCFE1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4c695ec0-a4d7-4a35-bd85-d560dcb6f15a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "\nТеорія хімічних процесів органічного синтезу",
+        "lecturer": " ХТ-32",
+        "location": " 214 IX н.к.",
+        "urls": [
+            "https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nТеорія хімічних процесів органічного синтезу",
+        "lecturer": " ХТ-32",
+        "location": " 214 IX н.к.",
+        "urls": [
+            "https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nХарчові технології, частина 2",
+        "lecturer": " ХР-31, ХР-32, 339 VIII н.к., лекція ",
+        "location": "",
+        "urls": [
+            "https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "\nХарчові технології, частина 2",
+        "lecturer": " ХР-31, ХР-32, 339 VIII н.к., лекція ",
+        "location": "",
+        "urls": [
+            "https://zoom.us/j/7435434650?pwd=UDRhWnlZWXU4VDNrWHJYYXNiRmFJdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Інформаційні системи і технології фінансового контролю",
+        "lecturer": "ОПАГ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управлінські інформаційні системи в обліку, аналізі та аудиті",
+        "lecturer": "ОПАГ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управлінські інформаційні системи в обліку, аналізі та аудиті",
+        "lecturer": "ОПАГ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні системи і технології фінансового контролю",
+        "lecturer": "ОПАГ-11, ",
+        "location": ", практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управлінські інформаційні системи в обліку, аналізі та аудиті",
+        "lecturer": "ОПАГ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Податкове планування",
+        "lecturer": "ОПАГ-11, ",
+        "location": ", практична",
+        "urls": [
+            "https://us04web.zoom.us/j/2940199196?pwd=ZEJHQm9jWEIwZVFGeFFrc3dVaTBxQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

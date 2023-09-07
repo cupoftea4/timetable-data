@@ -1,0 +1,264 @@
+[
+    {
+        "subject": "Система соціального захисту в Україні",
+        "lecturer": "СЗ-11, 105 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/87150549254?pwd=TEFCelFjUUNVV1VTNC9SYWhJbXN6UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Система соціального захисту в Україні",
+        "lecturer": "СЗ-11, 105 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/87150549254?pwd=TEFCelFjUUNVV1VTNC9SYWhJbXN6UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Соціальний аудит та інспектування в системі соціальних служб",
+        "lecturer": "СР-22, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86031374992?pwd=QS9FRzA5MDlBY3hMR0czaXpVZHQxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Соціальний аудит та інспектування в системі соціальних служб",
+        "lecturer": "СР-22, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86031374992?pwd=QS9FRzA5MDlBY3hMR0czaXpVZHQxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Соціальний аудит та інспектування в системі соціальних служб",
+        "lecturer": "СР-21, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Практикум з соціальної роботи, частина 1",
+        "lecturer": "СР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83353683116?pwd=T2JCVUs1NjNwR2JTalptMUY0bldWUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Практикум з соціальної роботи, частина 1",
+        "lecturer": "СР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85108623058?pwd=dWNOMXVzVjhLZG45QVVWbDI0d01BQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Практикум з соціальної роботи, частина 1",
+        "lecturer": "СР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85108623058?pwd=dWNOMXVzVjhLZG45QVVWbDI0d01BQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з соціальної роботи, частина 1",
+        "lecturer": "СР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85108623058?pwd=dWNOMXVzVjhLZG45QVVWbDI0d01BQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Практикум з соціальної роботи, частина 1",
+        "lecturer": "СР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82970980556?pwd=VzVPT0VFWTRTZjJrZ0pXakdkOU54Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Практикум з соціальної роботи, частина 1",
+        "lecturer": "СР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82970980556?pwd=VzVPT0VFWTRTZjJrZ0pXakdkOU54Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з соціальної роботи, частина 1",
+        "lecturer": "СР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82970980556?pwd=VzVPT0VFWTRTZjJrZ0pXakdkOU54Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Практикум з соціальної роботи, частина 1",
+        "lecturer": "СР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82970980556?pwd=VzVPT0VFWTRTZjJrZ0pXakdkOU54Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Система соціального захисту в Україні",
+        "lecturer": "СЗ-11, 105 XXIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89740748571?pwd=a0pFTDBWRHZxZnlDSjFFOXltcTh6UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Соціальний аудит та інспектування в системі соціальних служб",
+        "lecturer": "СР-21, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Система соціального захисту в Україні",
+        "lecturer": "СЗ-11, 105 XXIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82836664140?pwd=bzdYOE9FWVUzWHZRQTJhUEtqMC9UZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Соціальний аудит та інспектування в системі соціальних служб",
+        "lecturer": "СЗ-22, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Соціальний аудит та інспектування в системі соціальних служб",
+        "lecturer": "СЗ-22, 107 XXIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

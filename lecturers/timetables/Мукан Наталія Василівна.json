@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Дослідницький семінар «Професійна освіта: теорія та інноваційні технології»",
+        "lecturer": "ПОа-11, 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Дослідницький семінар «Освітні, педагогічні науки»",
+        "lecturer": "НОа-11, 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Історія педагогіки",
+        "lecturer": "НОПН-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Історія педагогіки",
+        "lecturer": "НОПН-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Педагогічна компаративістика",
+        "lecturer": "НОПН-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Педагогічна компаративістика",
+        "lecturer": "НОПН-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Дослідницький семінар «Освітні, педагогічні науки»",
+        "lecturer": "НОа-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Академічна доброчесність і якість освіти",
+        "lecturer": "УАа-21, ТЗа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Академічна доброчесність і якість освіти",
+        "lecturer": "УАа-21, ТЗа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "ТТа-11, МПа-11, МБа-11, ЕЛа-11, ТРа-11, ГДа-11, МНа-11, ДЗа-11, АРа-11, РМа-11, ПМа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "КІа-11, КБа-11, МТа-11, КНа-11, КНа-12, ПЗа-11, САа-11, ВПа-11, ІТа-11, ПФа-11, БДа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "СОа-11, ПСа-11, ПЛа-11, МВа-11, ЕКа-11, ІАа-11, НОа-11, ПОа-11, ЕВа-11, ПТа-11, СРа-11, МЕа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "УАа-11, ХІа-11, ХТа-11, ЕОа-11, ПВа-11, ФБа-11, ОПа-11, МКа-11, БТа-11, АВа-11, ЕЕа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "АРа-11f, ДЗа-11f, МТа-11f, ЕВа-11f, ЕКа-11f, НОа-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Професійна педагогіка",
+        "lecturer": "АРа-11f, ДЗа-11f, МТа-11f, ЕВа-11f, ЕКа-11f, НОа-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77503681194?pwd=gs5vQRhUAEWDOfRzhqz8iUbjNVa05W.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

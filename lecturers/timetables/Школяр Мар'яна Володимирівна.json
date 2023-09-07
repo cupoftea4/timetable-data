@@ -1,0 +1,240 @@
+[
+    {
+        "subject": "Соціологічні виміри організаційної поведінки",
+        "lecturer": "СО-21, 004 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRDNUq15lRSOXMNODLIgwqD6gHsMbvvR528udnVyxP881%40thread.tacv2/conversations?groupId=a75c3dd7-9dd7-43a0-ad13-aed5ff86fbdc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Запобігання конфліктів та професійна етика",
+        "lecturer": "СЗ-11, 105 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7a9d75792ede4a7bb075539b56661a64%40thread.tacv2/conversations?groupId=431650fb-2eb9-4499-b937-862b50662a39&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Соціологічні виміри організаційної поведінки",
+        "lecturer": "СО-21, 004 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRDNUq15lRSOXMNODLIgwqD6gHsMbvvR528udnVyxP881%40thread.tacv2/conversations?groupId=a75c3dd7-9dd7-43a0-ad13-aed5ff86fbdc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Запобігання конфліктів та професійна етика",
+        "lecturer": "СЗ-11, 105 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7a9d75792ede4a7bb075539b56661a64%40thread.tacv2/conversations?groupId=431650fb-2eb9-4499-b937-862b50662a39&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Соціологія повсякденності",
+        "lecturer": "СО-21, 004 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3awL_dsvu5haX6VDN-e8TXZG7S6IaOrMsYyvmbgDsKfGc1%40thread.tacv2/conversations?groupId=4e76d42c-35b8-4122-ae39-3c13b5ac793c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Запобігання конфліктів та професійна етика",
+        "lecturer": "СЗ-11, 105 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7a9d75792ede4a7bb075539b56661a64%40thread.tacv2/conversations?groupId=431650fb-2eb9-4499-b937-862b50662a39&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Соціологія повсякденності",
+        "lecturer": "СО-21, 004 XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3awL_dsvu5haX6VDN-e8TXZG7S6IaOrMsYyvmbgDsKfGc1%40thread.tacv2/conversations?groupId=4e76d42c-35b8-4122-ae39-3c13b5ac793c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Теорія соціальних змін",
+        "lecturer": "ТСЗ-СР-301, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Теорія соціальних змін",
+        "lecturer": "ТСЗ-СР-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3d54127b835f47ac8fca20ee933683ec%40thread.tacv2/1677525166465?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Теорія соціальних змін",
+        "lecturer": "ТСЗ-СР-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3d54127b835f47ac8fca20ee933683ec%40thread.tacv2/1677525166465?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Теорія соціальних змін",
+        "lecturer": "ТСЗ-СР-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3d54127b835f47ac8fca20ee933683ec%40thread.tacv2/1677525166465?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Теорія соціальних змін",
+        "lecturer": "ТСЗ-СР-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3d54127b835f47ac8fca20ee933683ec%40thread.tacv2/1677525166465?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cafe774f-bdd2-4563-a757-bc143f53bb82%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Соціологія повсякденності",
+        "lecturer": "СО-21, 004 XXIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3awL_dsvu5haX6VDN-e8TXZG7S6IaOrMsYyvmbgDsKfGc1%40thread.tacv2/conversations?groupId=4e76d42c-35b8-4122-ae39-3c13b5ac793c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Соціологічні виміри організаційної поведінки",
+        "lecturer": "СО-21, 004 XXIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRDNUq15lRSOXMNODLIgwqD6gHsMbvvR528udnVyxP881%40thread.tacv2/conversations?groupId=a75c3dd7-9dd7-43a0-ad13-aed5ff86fbdc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Запобігання конфліктів та професійна етика",
+        "lecturer": "СЗ-11, 105 XXIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a7a9d75792ede4a7bb075539b56661a64%40thread.tacv2/conversations?groupId=431650fb-2eb9-4499-b937-862b50662a39&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Соціологічні виміри організаційної поведінки",
+        "lecturer": "СО-21, 004 XXIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRDNUq15lRSOXMNODLIgwqD6gHsMbvvR528udnVyxP881%40thread.tacv2/conversations?groupId=a75c3dd7-9dd7-43a0-ad13-aed5ff86fbdc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

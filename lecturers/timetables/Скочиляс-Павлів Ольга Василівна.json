@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Регулювання публічних послуг та процедур",
+        "lecturer": "ПВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85611362204?pwd=cXUxakMvMVFkR3NqWjlScTQ4RkltQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Регулювання публічних послуг та процедур",
+        "lecturer": "ПВа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89786542128?pwd=aXhUWFRrdnBJZVJxS1daTjZSNDVIUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

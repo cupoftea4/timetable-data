@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Мікроконтролери, частина 1",
+        "lecturer": "ІР-21, ІР-22, ІР-23, ІР-24, 609 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2614681314?pwd=qIvBY3O6s9ugt3Nop6edmAgFtibwJ4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Аналітичні та нереляційні бази даних",
+        "lecturer": "ІР-31, ІР-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/2614681314"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    }
+]

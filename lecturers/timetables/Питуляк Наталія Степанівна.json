@@ -1,0 +1,45 @@
+[
+    {
+        "subject": "Маркетингова політика розподілу",
+        "lecturer": "МК-31, МК-32, МК-33, МК-34, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Маркетингова політика розподілу",
+        "lecturer": "МК-33, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/2464757338?pwd=N1dFaEpvUHIzN0d3dTRMV1lxQTBLUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Маркетингова політика розподілу",
+        "lecturer": "МК-32, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/2464757338?pwd=N1dFaEpvUHIzN0d3dTRMV1lxQTBLUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

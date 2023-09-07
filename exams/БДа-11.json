@@ -1,0 +1,71 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "Фучила О.М.,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ae0e4f51-cd68-4b4b-bf85-6f8ae89ed1ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_ZsKF2qj8smj8Y0LTKle3hW4npJoLPYiE9q3O9KPfHck1@thread.tacv2&messageId=1683643430339&language=en-US"
+        ]
+    },
+    {
+        "date": "2023-05-29T00:00:00.000Z",
+        "lecturer": "Гембара О.В.,",
+        "subject": "Спеціальні розділи будівельної механіки",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "Саницький М.А.,",
+        "subject": "Інноваційні енерго-та ресурсозберігаючі технології виробництва будівельних матеріалів і виробів",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-01T00:00:00.000Z",
+        "lecturer": "Сідун Ю.В.,",
+        "subject": "Міжнародна система контрактних відносин у будівництві ФІДІК",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTUxZTZkYjEtZmE0Ni00MmVmLWFjNmMtNjNmNTE3MDA3YjIx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224c304e3e-59c3-46a6-8180-93a9037528d4%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-02T00:00:00.000Z",
+        "lecturer": "Демчина Б.Г.,",
+        "subject": "Ефективність та впровадження результатів науково-дослідних розробок",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "Жук В.М.,",
+        "subject": "Гідрологія урбанізованих територій",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/85038593573?pwd=TXpTVFJjbzdGUVV1Y3h1bWFnQ1VTdz09"
+        ]
+    },
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "Чернюк В.В.,",
+        "subject": "Теорія турбулентних потоків",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-07T00:00:00.000Z",
+        "lecturer": "Харченко Є.В.,",
+        "subject": "Динаміка будівельних конструкцій та споруд",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "Кущенко В.М.,",
+        "subject": "Експериментальні та теоретичні дослідження сучасних конструкцій та споруд",
+        "number": 2,
+        "urls": []
+    }
+]

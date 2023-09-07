@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Політична психологія",
+        "lecturer": "ПС-21, ПС-22, ПС-23, ПС-24, 313 XIX н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Психологія цифрового брендингу у професійній діяльності",
+        "lecturer": "ПСа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Психологія цифрового брендингу у професійній діяльності",
+        "lecturer": "ПСа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ac2d8705ad2b44a2cab38281ebbbb16e7%40thread.tacv2/%25D0%25A6%25D0%25B8%25D1%2584%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B8%25D0%25B9%2520%25D0%25B1%25D1%2580%25D0%25B5%25D0%25BD%25D0%25B4%25D0%25B8%25D0%25BD%25D0%25B3%2520%25D1%2583%2520%25D0%25BF%25D1%2580%25D0%25BE%25D1%2584%25D0%25B5%25D1%2581%25D1%2596%25D0%25B9%25D0%25BD%25D1%2596%25D0%25B9%2520%25D0%25B4%25D1%2596%25D1%258F%25D0%25BB%25D1%258C%25D0%25BD%25D0%25BE%25D1%2581%25D1%2582%25D1%2596?groupId=49f539a0-56e1-47fc-8038-d63dee60d6e1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Психологія цифрового брендингу у професійній діяльності",
+        "lecturer": "ПСа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ac2d8705ad2b44a2cab38281ebbbb16e7%40thread.tacv2/%25D0%25A6%25D0%25B8%25D1%2584%25D1%2580%25D0%25BE%25D0%25B2%25D0%25B8%25D0%25B9%2520%25D0%25B1%25D1%2580%25D0%25B5%25D0%25BD%25D0%25B4%25D0%25B8%25D0%25BD%25D0%25B3%2520%25D1%2583%2520%25D0%25BF%25D1%2580%25D0%25BE%25D1%2584%25D0%25B5%25D1%2581%25D1%2596%25D0%25B9%25D0%25BD%25D1%2596%25D0%25B9%2520%25D0%25B4%25D1%2596%25D1%258F%25D0%25BB%25D1%258C%25D0%25BD%25D0%25BE%25D1%2581%25D1%2582%25D1%2596?groupId=49f539a0-56e1-47fc-8038-d63dee60d6e1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    }
+]

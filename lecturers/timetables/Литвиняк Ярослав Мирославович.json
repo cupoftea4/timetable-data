@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aDkxp2ZVeB7JbxotM_XDg-jjV-d2xioyqXe9umlujMcg1%40thread.tacv2/1677063174244?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e06fc88-5fc4-4029-bc51-1f25c1ff9034%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МБ-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aDkxp2ZVeB7JbxotM_XDg-jjV-d2xioyqXe9umlujMcg1%40thread.tacv2/1677070239948?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e06fc88-5fc4-4029-bc51-1f25c1ff9034%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія виготовлення деталей машин, частина 1",
+        "lecturer": "МП-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a881hqBtsln0fpJm267wv9Y1W72qaS3AoI0hUWK-sq1Y1%40thread.tacv2/1676896950844?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d1f5b817-3613-4cfc-8938-38ed94b01e66%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МБ-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aDkxp2ZVeB7JbxotM_XDg-jjV-d2xioyqXe9umlujMcg1%40thread.tacv2/1677063380264?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e06fc88-5fc4-4029-bc51-1f25c1ff9034%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aDkxp2ZVeB7JbxotM_XDg-jjV-d2xioyqXe9umlujMcg1%40thread.tacv2/1677063641708?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229e06fc88-5fc4-4029-bc51-1f25c1ff9034%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    }
+]

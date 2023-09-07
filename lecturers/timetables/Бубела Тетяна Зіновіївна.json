@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Кібербезпека та захист інформації",
+        "lecturer": "МТ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmI1YTcwZTUtNjYxNC00OTQ4LWIzNDQtNDQ0YjkwOGRhM2Y4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Кібербезпека та захист інформації",
+        "lecturer": "МТ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGEwNTc5ZjgtMTBhNy00MTE4LWE0ZjEtZjc4YzA2NWNhMGI2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Кібербезпека та захист інформації",
+        "lecturer": "МТ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBhM2M2ODYtNTI1ZC00YzcwLTljMjctYmM5M2Y3YWU0Yjk5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Кібербезпека та захист інформації",
+        "lecturer": "МТ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzMwOTEyNTItOGUyYS00MGJiLTgyYTQtNzY1YWZmMGYzYzJh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Системний аналіз об`єктів кваліметрії",
+        "lecturer": "МТЯС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGQ4OWRlYTMtZjc4OC00ZGI1LTljODctOTVlODM4OGY1YTA5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Кібербезпека та захист інформації",
+        "lecturer": "МТ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWY0ZGU2NWQtY2IxMy00NDM0LThkYTctMmI3ZjQ4N2U3MDRl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Кібербезпека та захист інформації",
+        "lecturer": "МТ-41, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTlkNzg3YzEtOWM2MS00ZDFlLTlkNmQtY2YzNDY4ZWM4NzU5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2206cfb0a1-4173-4c5c-845c-0e09c04df414%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління якістю в ІТ сфері",
+        "lecturer": "УЯІ-ІВТ-101, 702 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:fcd28c331a8d470fb096973677aa26ab@thread.tacv2/1678967310465?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224dac45df-7f05-4e99-9b5c-bd3091b91718%22%7D"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Управління якістю в ІТ сфері",
+        "lecturer": "УЯІ-ІВТ-102, 702 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:fcd28c331a8d470fb096973677aa26ab@thread.tacv2/1678967310465?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224dac45df-7f05-4e99-9b5c-bd3091b91718%22%7D"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Управління якістю в ІТ сфері",
+        "lecturer": "УЯІ-ІВТ-103, 702 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:fcd28c331a8d470fb096973677aa26ab@thread.tacv2/1678967310465?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224dac45df-7f05-4e99-9b5c-bd3091b91718%22%7D"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "subject": "Фізика, частина 2",
+        "lecturer": "ТР-11, ел.4лаб Гол. н.к., опт.4лаб Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фізика, частина 2",
+        "lecturer": "ТР-15, ел.4лаб Гол. н.к., опт.4лаб Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи енерго та ресурсоощадності",
+        "lecturer": "ПФ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4299380568?pwd=citZeFRaTm1sOS8waktNWUpJazBTZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи енерго та ресурсоощадності",
+        "lecturer": "ПФ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4299380568?pwd=citZeFRaTm1sOS8waktNWUpJazBTZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи енерго та ресурсоощадності",
+        "lecturer": "ПФ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4299380568?pwd=citZeFRaTm1sOS8waktNWUpJazBTZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Оптика",
+        "lecturer": "ПФ-21, опт.4лаб Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

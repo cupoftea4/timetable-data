@@ -1,0 +1,163 @@
+[
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-32, МВ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76314482938?pwd=UlAPlvQabz7XEWwRZqWUdJBPOQeD6P.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-33, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76314482938?pwd=UlAPlvQabz7XEWwRZqWUdJBPOQeD6P.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-33, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76314482938?pwd=UlAPlvQabz7XEWwRZqWUdJBPOQeD6P.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-31, МВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78165039922?pwd=cJ9wJnC2tsUkACePEvYpgdtarKI3MC.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-31, МВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78165039922?pwd=cJ9wJnC2tsUkACePEvYpgdtarKI3MC.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72632250721?pwd=ekwyBEHxQz5lVZZxuFbJYImrWpUU4B.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72632250721?pwd=ekwyBEHxQz5lVZZxuFbJYImrWpUU4B.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "ТРа-11, БДа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76422697503?pwd=0WGo2Y9wLEvB1AGPmSj9Vv1mEfA01b.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "ТРа-11, БДа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76422697503?pwd=0WGo2Y9wLEvB1AGPmSj9Vv1mEfA01b.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

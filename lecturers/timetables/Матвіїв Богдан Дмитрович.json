@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "ПЗ-45, ПЗ-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWY2ZjVjNTEtZjFkOS00MDI1LWI2OWYtMjVjYTEzNTZkMDY5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22eeb116c1-efb9-4760-93d7-8d3b3d609264%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Видобування та опрацювання даних",
+        "lecturer": "ПЗ-45, ПЗ-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmVhYjkzYmQtMzk2YS00YjhmLTk2YWQtOGMyOWVlYjdkNWRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22eeb116c1-efb9-4760-93d7-8d3b3d609264%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

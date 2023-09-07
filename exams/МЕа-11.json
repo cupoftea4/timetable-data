@@ -1,0 +1,21 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "Гаврилюк М.В.,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ag3QA6VSNHNO2oWz6IU8Ma7hVeeaTl6Gr-5NSxmcpaVA1%40thread.tacv2/conversations?groupId=fae64f18-e5e6-46ef-9f26-bf2752c2c11d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a",
+            "https://staff.lpnu.ua/lecturer_schedule_personified"
+        ]
+    },
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "Станасюк Н.С.,",
+        "subject": "Процесно-структурований менеджмент",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4rER8Ic0PdEcBFxLf4BVvBmAAUVkagF83kaIS-Um-zk1%40thread.tacv2/conversations?groupId=ce12ff38-5173-4e10-9af3-d598f4d4d7aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

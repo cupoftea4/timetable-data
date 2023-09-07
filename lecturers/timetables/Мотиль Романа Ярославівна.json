@@ -1,0 +1,198 @@
+[
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "ДС-15, 322 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "ДС-15, 322 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Декоративно-ужиткове мистецтво",
+        "lecturer": "ДС-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3acc53b30cc7484f9595c7441437d34748%40thread.tacv2/%25D0%2594%25D0%25A3%25D0%259C-34?groupId=6cd173c8-3069-4cac-8fc8-8748349bf61e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Декоративно-ужиткове мистецтво",
+        "lecturer": "ДС-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3afed47f59729843858507aeaa3d8919f6%40thread.tacv2/%25D0%2594%25D0%25A3%25D0%259C-32?groupId=0e79a287-0ce3-4981-9f28-3b849d280b74&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "ДС-23, ДС-24, ДС-21, ДС-22, 304 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "ДС-23, ДС-24, ДС-21, ДС-22, 304 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Етнокультурні традиції в сучасному дизайні",
+        "lecturer": "АРа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a2CRGSVtLUlZZlocZx2Vr8H5IPF4A-NbLOJhi3VLz4Ak1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=e6d0815f-b667-43b2-b3fc-97d19fab73c4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Етнокультурні традиції в сучасному дизайні",
+        "lecturer": "АРа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2CRGSVtLUlZZlocZx2Vr8H5IPF4A-NbLOJhi3VLz4Ak1%40thread.tacv2/conversations?groupId=e6d0815f-b667-43b2-b3fc-97d19fab73c4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Живопис, рисунок, скульптура, частина 2",
+        "lecturer": "ДС-15, 322 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Декоративно-ужиткове мистецтво",
+        "lecturer": "ДС-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a5cf8bb1368954be095968c35c054482d%40thread.tacv2/%25D0%2594%25D0%25A3%25D0%259C-31?groupId=792825fc-078e-42ec-8bd1-a979a3c0be98&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Декоративно-ужиткове мистецтво",
+        "lecturer": "ДС-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aae3d1ed76a8f45e9ac06b920f0b6b645%40thread.tacv2/%25D0%2594%25D0%25A3%25D0%259C-33?groupId=a274c21d-a775-4583-bc17-c84a15823e64&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Декоративно-ужиткове мистецтво",
+        "lecturer": "ДС-31, ДС-32, ДС-33, ДС-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a7f40de62ca594b9e9a50fb9e9a40c9d1%40thread.tacv2/%25D0%2594%25D0%25A3%25D0%259C%2520%25D0%2594%25D0%25A1-3?groupId=c7cd46b6-8499-4f67-85ce-e0b57d6a6d98&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "ДС-24, 109 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Історія мистецтва, архітектури і дизайну, частина 4",
+        "lecturer": "ДС-24, 109 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

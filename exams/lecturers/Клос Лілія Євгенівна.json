@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "СРа-11,",
+        "subject": "Клінічна соціальна робота",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWFhMWRlYmItMTE0NC00ZWRjLWJmNGUtMzBkMTVlMDIwNTQw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "СРСО-11, СРСО-12, 205а XXIX н.к.,",
+        "subject": "Здоров`єзбережувальна діяльність в соціальній роботі",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "СРСО-11, СРСО-12, 205а XXIX н.к.,",
+        "subject": "Методика викладання соціальної роботи",
+        "number": 3,
+        "urls": []
+    }
+]

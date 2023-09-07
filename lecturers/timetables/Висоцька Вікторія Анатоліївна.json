@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Розпізнавання мови",
+        "lecturer": "СА-42, 122в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75781046930?pwd=zzOr8yGkfHte6V9ImiMTbrjNEEieRE.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Розпізнавання мови",
+        "lecturer": "СА-42, 122в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75781046930?pwd=zzOr8yGkfHte6V9ImiMTbrjNEEieRE.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "ІТ-41, ІТ-42, ІТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73657446071?pwd=a1CP2jIOGRSItOhR98Y0McPPcGasrj.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Розпізнавання мови",
+        "lecturer": "СА-42, 208 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78540776975?pwd=b1bk4OhxxNDeV5exKjVBPuO6DO9aHa.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "СА-42, 208 VIа н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73352658380?pwd=7b0Va3aytbRsHwl1DUlG1AhYLoN2FB.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "ІТ-41, ІТ-42, ІТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73657446071?pwd=a1CP2jIOGRSItOhR98Y0McPPcGasrj.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "СА-42, 127 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71403628588?pwd=gwisqOi1bOG6pM84uMOzFCipKrYQW3.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна лінгвістика",
+        "lecturer": "СА-42, 127 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71403628588?pwd=gwisqOi1bOG6pM84uMOzFCipKrYQW3.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    }
+]

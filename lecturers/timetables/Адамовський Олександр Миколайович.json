@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "МЕ-21f, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "МЕ-21f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Контролінг",
+        "lecturer": "МЕ-31f, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "МЕ-21, МЕ-22, МЕ-24, МЕ-25, 427(1) IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "МЕ-21, МЕ-22, МЕ-24, МЕ-25, 427(1) IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Контролінг",
+        "lecturer": "МЕ-31, МЕ-32, МЕ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

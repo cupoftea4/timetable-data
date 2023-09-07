@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Господарський процес",
+        "lecturer": "ПВ-410, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89655220101?pwd=RFNURjFZZ3VJUGpYQ2RSdFYzWmJEZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Господарський процес",
+        "lecturer": "ПВ-411, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86021930364?pwd=am8reHBnNUd2NHZncHc1bFNUZ01nZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

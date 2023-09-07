@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "\nАлгоритми та структури даних",
+        "lecturer": " ІР-25",
+        "location": " 605а V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    }
+]

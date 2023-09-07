@@ -1,0 +1,66 @@
+[
+    {
+        "date": "2023-05-29T00:00:00.000Z",
+        "lecturer": "Запотічна М.І.,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72298964346?pwd=aqsIi8r8abtKRiVBzkFWXYpFISm9cS.1%20%20Meeting%20ID:%20722%209896%204346%20Passcode:%20VJf5Jw"
+        ]
+    },
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "Марчук М.В.,",
+        "subject": "Математичне і комп`ютерне моделювання в наукових дослідженнях",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/75312843419?pwd=zKH7fmBALHsSauhLcolZY7lpbcKf9y.1"
+        ]
+    },
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "Морозов Ю.В.,",
+        "subject": "Інтернет-речей",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78354341673?pwd=tmed5M78tLz3dIkHfM4ltK5Nll9VU3.1"
+        ]
+    },
+    {
+        "date": "2023-06-01T00:00:00.000Z",
+        "lecturer": "Хома В.В.,",
+        "subject": "Штучний інтелект у кіберфізичних системах",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "Мельник А.О.,",
+        "subject": "Проектування, аналіз та синтез паралельних алгоритмів",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "Пукач П.Я.,",
+        "subject": "Аналітичні та чисельні методи досліджень",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQ6uQyoRC8EggFXsxrVHmO9wkxB9ZnXixfrQRV8kfvQ81%40thread.tacv2/1676407188360?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2279c626ea-b22e-4e61-acd3-7c2c28f49c37%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-07T00:00:00.000Z",
+        "lecturer": "Кочан Р.В.,",
+        "subject": "Опрацювання результатів експериментальних досліджень",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "Глухов В.С.,",
+        "subject": "Кіберфізичні системи",
+        "number": 5,
+        "urls": []
+    }
+]

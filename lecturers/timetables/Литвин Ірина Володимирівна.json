@@ -1,0 +1,120 @@
+[
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "ЕВМЕ-11, ЕВМЕ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79463160733?pwd=QYZ9hTaCxReoatXbxGHrB2V7HksHo9.1%20%20Meeting%20ID:%20794%206316%200733%20Passcode:%20EsPp3G"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "ЕВМЕ-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76456017748?pwd=rMrL3fI4DZGybn9g3nn8eCABPuJWux.1%20%20Meeting%20ID:%20764%205601%207748%20Passcode:%202023"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управління інвестиційним та венчурним бізнесом",
+        "lecturer": "МЕУІ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75390756824?pwd=EuQjsLhIFD5bq7DqNHXGe2L8krWsta.1%20%20Meeting%20ID:%20753%209075%206824%20Passcode:%20Pp4b3j"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Управління інвестиційним та венчурним бізнесом",
+        "lecturer": "МЕУІ-11, ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління інвестиційним та венчурним бізнесом",
+        "lecturer": "МЕУІ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77587011375?pwd=8YoM8eLHaaNuFZL5cxFI4g1vPX2ijF.1%20%20Meeting%20ID:%20775%208701%201375%20Passcode:%20q2RA60"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління венчурними проектами",
+        "lecturer": "МЕа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79592932810?pwd=PaT23mZ2xxB4mHqqf9oMhAlkx7sCSq.1%20%20Meeting%20ID:%20795%209293%202810%20Passcode:%209xeCs3"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Управління венчурними проектами",
+        "lecturer": "МЕа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79592932810?pwd=PaT23mZ2xxB4mHqqf9oMhAlkx7sCSq.1%20%20Meeting%20ID:%20795%209293%202810%20Passcode:%209xeCs3"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "ЕВМЕ-11f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73450172216?pwd=npGflPfAl4ilbSs0b9ekL9ToJbBon1.1%20%20Meeting%20ID:%20734%205017%202216%20Passcode:%202023"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

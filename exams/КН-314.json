@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-06-15T00:00:00.000Z",
+        "lecturer": "Чурсінова О.Ю.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "Шамуратов О.Ю.,",
+        "subject": "Аналітичні сховища даних",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTcyZGZhMTYtOGMwOS00ODJjLWI0YjctYjM3YjQxNWU1MWQz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227d07a2e6-d03a-4f72-a61e-b071a137682a%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "Бойчук А.Р.,",
+        "subject": "Машинне навчання",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a41a41c7ef70442989de4c49f5e1f10e8%40thread.tacv2/1687748711920?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b14ad340-8b70-43c2-bd22-6025d60df843%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Гентош Л.І.,",
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Яковина В.С.,",
+        "subject": "Комп`ютерна графіка",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6ttBa0H2TJ_O6WJUkt_k3Pwwt7gUeCUmkbaCNJNzkH41%40thread.tacv2/1687005198757?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2269749394-701f-41f1-aa81-a6acc2d4246f%22%7d"
+        ]
+    }
+]

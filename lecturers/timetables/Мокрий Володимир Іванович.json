@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Технології рекультивації деградованих ландшафтів",
+        "lecturer": "ТЗМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77321653122?pwd=NcnhHd1Djx3XTcCEbq0Rw4Ihsqqwsy.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технології радіаційного захисту",
+        "lecturer": "ТЗ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76618174742?pwd=t857Fdk7vlmBxayawRIPp7UoUw2rIV.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інноваційні екологічні технології",
+        "lecturer": "ТЗПЕ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75998200652?pwd=tLq4IWa0gFGJlvK3Dw0QeBWonineE5.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Природоохоронні інформаційні системи",
+        "lecturer": "ПРІС-ЕБПД-101, ПРІС-ЕБПД-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71375044818?pwd=yg36UU1MRmPBs0DDHTXdJT6f4BfJa6.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Природоохоронні інформаційні системи",
+        "lecturer": "ПРІС-ЕБПД-101, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71375044818?pwd=yg36UU1MRmPBs0DDHTXdJT6f4BfJa6.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології рекультивації деградованих ландшафтів",
+        "lecturer": "ТЗМ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77321653122?pwd=NcnhHd1Djx3XTcCEbq0Rw4Ihsqqwsy.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Інноваційні екологічні технології",
+        "lecturer": "ТЗПЕ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75998200652?pwd=tLq4IWa0gFGJlvK3Dw0QeBWonineE5.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інноваційні екологічні технології",
+        "lecturer": "ТЗПЕ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75998200652?pwd=tLq4IWa0gFGJlvK3Dw0QeBWonineE5.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технології рекультивації деградованих ландшафтів",
+        "lecturer": "ТЗМ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77321653122?pwd=NcnhHd1Djx3XTcCEbq0Rw4Ihsqqwsy.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Природоохоронні інформаційні системи",
+        "lecturer": "ПРІС-ЕБПД-102, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71375044818?pwd=yg36UU1MRmPBs0DDHTXdJT6f4BfJa6.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Системи автоматичного екологічного контролю та спостереження",
+        "lecturer": "ТЗ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76942637204?pwd=onPMWlcCTmioVzZVXUiPPgQW9SOo7I.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології радіаційного захисту",
+        "lecturer": "ТЗ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76618174742?pwd=t857Fdk7vlmBxayawRIPp7UoUw2rIV.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методи дослідження в технології захисту довкілля від забруднень",
+        "lecturer": "ТЗа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72069573553?pwd=3ctBOl6KJktZJv45hTLyHZHsUcWyud.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Методи дослідження в технології захисту довкілля від забруднень",
+        "lecturer": "ТЗа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72069573553?pwd=3ctBOl6KJktZJv45hTLyHZHsUcWyud.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

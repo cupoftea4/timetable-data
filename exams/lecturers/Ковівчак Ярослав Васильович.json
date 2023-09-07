@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "ВП-41, ВП-42,",
+        "subject": "Основи автоматизованого проектування видавничих систем",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYzNGQwYmYtODEzZC00NTNiLTllYTEtOWYwOTgxZjQxZmE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2207242880-9bd9-4a77-a048-bcb5f4555e24%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "КН-203, КН-204, 807 V н.к.,",
+        "subject": "Системний аналіз",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "КН-201, КН-202, 807 V н.к.,",
+        "subject": "Системний аналіз",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "КН-205, КН-206, КН-207, 117 I н.к.,",
+        "subject": "Системний аналіз",
+        "number": 1,
+        "urls": []
+    }
+]

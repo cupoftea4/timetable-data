@@ -1,0 +1,204 @@
+[
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "АРа-11f, ДЗа-11f, МТа-11f, ЕВа-11f, ЕКа-11f, НОа-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83015579943?pwd=MXVEWDROc2ZzSU9vK1h4V2cwN1hSdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "АРа-11f, ДЗа-11f, МТа-11f, ЕВа-11f, ЕКа-11f, НОа-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83015579943?pwd=MXVEWDROc2ZzSU9vK1h4V2cwN1hSdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Фахова іноземна мова",
+        "lecturer": "СР-41, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/FKkR4YvXVskY"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "КБа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/BNgKeaNbR5U9"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "lecturer": "КБа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/BNgKeaNbR5U9"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "АРМБ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/I3A3Diqu8RDG"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "ТРСА-11, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/zbRF8AP7xxiS"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "ТРІМ-11, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "ТРСА-11, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/zbRF8AP7xxiS"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "ТРІМ-11, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "ТРТЕ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/qn5QE5xneTL7"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "ТРІМ-11, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "ТРТЕ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/qn5QE5xneTL7"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням",
+        "lecturer": "ТРІМ-11, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    }
+]

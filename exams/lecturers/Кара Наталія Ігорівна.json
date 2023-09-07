@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ЕВ-32, ЕВ-33, ЕВ-34,",
+        "subject": "Міжнародні організації та транснаціональні корпорації",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/2859129374?pwd=eXp3RW5Jc2kzbkdSZjA1aEhLcHhRUT09%20%20Meeting%20ID:%20285%20912%209374%20Passcode:%20061316"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "ЕВ-31,",
+        "subject": "Міжнародні організації та транснаціональні корпорації",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/2859129374?pwd=eXp3RW5Jc2kzbkdSZjA1aEhLcHhRUT09%20%20Meeting%20ID:%20285%20912%209374%20Passcode:%20061316"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ЕВ-21, ЕВ-22, 209 IV н.к.,",
+        "subject": "Міжнародні фінанси",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/2859129374?pwd=eXp3RW5Jc2kzbkdSZjA1aEhLcHhRUT09%20%20Meeting%20ID:%20285%20912%209374%20Passcode:%20061316"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ЕВМЕ-11, 310 IV н.к.,",
+        "subject": "Управління міжнародною конкурентоспроможністю",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/2859129374?pwd=eXp3RW5Jc2kzbkdSZjA1aEhLcHhRUT09%20%20Meeting%20ID:%20285%20912%209374%20Passcode:%20061316"
+        ]
+    }
+]

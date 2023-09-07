@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Вантажні перевезення",
+        "lecturer": "ТТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3am5v5jZYqyKjp4-i8y0YVUngHGbjrTfo4rN5POpVyL5Y1%40thread.tacv2/1677253480934?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224cd0bfe8-930e-480d-aeaf-8116019e154b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Вантажні перевезення",
+        "lecturer": "ТТ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aefD4aMG3JtJxeZBgOn11jvtRFmRCvTskGDmVBk4DgWM1%40thread.tacv2/1677253061273?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224cd0bfe8-930e-480d-aeaf-8116019e154b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Вантажні перевезення",
+        "lecturer": "ТТ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3am5v5jZYqyKjp4-i8y0YVUngHGbjrTfo4rN5POpVyL5Y1%40thread.tacv2/1677253480934?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224cd0bfe8-930e-480d-aeaf-8116019e154b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Вантажні перевезення",
+        "lecturer": "ТТ-31, ТТ-32, ТТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a27TIk7pJkT49W22EPsGTs04WgibHVQ_l1cI7RYfWWog1%40thread.tacv2/1677253713482?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224cd0bfe8-930e-480d-aeaf-8116019e154b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    }
+]

@@ -1,0 +1,150 @@
+[
+    {
+        "subject": "Генетика (загальна та молекулярна)",
+        "lecturer": "БТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/1677152582278?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Генетика (загальна та молекулярна)",
+        "lecturer": "БТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3c159772391c4589b4521717ebf2eefa%40thread.tacv2/1677152746268?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484389c-1037-40a0-8de3-a08c92401d62%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Молекулярна біотехнологія та біоінженерія",
+        "lecturer": "БТа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/aav-wyfk-dqx"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Біотехнологія ферментних діагностикумів",
+        "lecturer": "БТБТ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzZlZGE4MzgtYzBlOC00MDliLTk1MDEtNjkyMzc2NzI5Njg2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2265005b70-5da0-4809-995d-ebb3200866b0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Ензимологія та іммобілізація",
+        "lecturer": "БТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDJlNDM5YTktMmNjMy00ZGE0LTgzNzctOWU3MTNjYjhkM2M4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2265005b70-5da0-4809-995d-ebb3200866b0%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Молекулярна біотехнологія та біоінженерія",
+        "lecturer": "БТа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://tel.meet/zxr-anre-cyj?pin=2065111826902"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Експерементальні методи досліджень біомолекул",
+        "lecturer": "БТа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://tel.meet/vgy-wwky-wkv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Біотехнологія ферментних діагностикумів",
+        "lecturer": "БТБТ-11, 226 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Ензимологія та іммобілізація",
+        "lecturer": "БТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2FiNjVkMDYtZDVjOC00YmY4LWEyYzctYzUwNDFhYmVjYWQ3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2265005b70-5da0-4809-995d-ebb3200866b0%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Експерементальні методи досліджень біомолекул",
+        "lecturer": "БТа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://tel.meet/squ-pfjb-pqd?pin=4896034426745"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

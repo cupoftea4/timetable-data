@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nМатематичний аналіз",
+        "lecturer": " ШІ-11, ШІ-12, ШІ-13, ШІ-14, 117 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nМатематичний аналіз",
+        "lecturer": " ШІ-11, ШІ-12, ШІ-13, ШІ-14, 117 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Практикум з науково-дослідної роботи у галузі теорії права",
+        "lecturer": "ПВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/syq-oiau-tyr"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Практикум з науково-дослідної роботи у галузі теорії права",
+        "lecturer": "ПВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/syq-oiau-tyr"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    }
+]

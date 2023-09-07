@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Соціальна психологія, частина 1",
+        "lecturer": "ПС-11, ПС-12, ПС-13, 034 XXXIII н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Соціальна психологія, частина 1",
+        "lecturer": "ПС-11, ПС-12, ПС-13, 034 XXXIII н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

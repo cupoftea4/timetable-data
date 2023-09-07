@@ -1,0 +1,56 @@
+[
+    {
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "lecturer": "АР-21, 106 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "lecturer": "ПП-17, 402 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89675361211?pwd=Y2llNzlPU3c0WnNnMGdtV2dSM2lqQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "lecturer": "ВП-11, 406 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "lecturer": "ВП-13, 311 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

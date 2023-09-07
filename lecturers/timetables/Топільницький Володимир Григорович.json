@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МБ-21, МБ-22, 072 XIV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МБ-21, МБ-22, 072 XIV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МП-22, 084 XIV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МП-21, 079 XIV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МП-21, МП-22, МЗ-21, ТЛ-21, 111 VI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МП-21, МП-22, МЗ-21, ТЛ-21, 111 VI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МБ-21, 084 XIV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МБ-22, 084 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МБ-22, 084 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МП-21, 084 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78346698427?pwd=UWZ6RFgzUG5ZMlh6Um96UG1mNi9mdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "\nФілософія",
+        "lecturer": " КБ-204",
+        "location": " 403 I н.к.",
+        "urls": [
+            "https://us04web.zoom.us/j/78570350563?pwd=wp3o69KBNeaKWE47RTpnadYBM4A6ix.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " КБ-204, КБ-205, КБ-206, 411 I н.к., лекція ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/79118702432?pwd=wWyTmOMl8fKYWDDvm3Pb8fXUDd9iAJ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " КБ-205",
+        "location": " 405 I н.к.",
+        "urls": [
+            "https://us04web.zoom.us/j/79496941564?pwd=yVDtPHuff0S7DdxJLw7BdPNCJZReGH.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " КБ-206",
+        "location": " 405 I н.к.",
+        "urls": [
+            "https://us04web.zoom.us/j/72971986884?pwd=MbXH9S1yZ5uZ1OklfrIBNFIofH5uET.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " МК-21",
+        "location": " 207 IV н.к.",
+        "urls": [
+            "https://us04web.zoom.us/j/75665429891?pwd=joYCQW0H0DhXfpXvMbdwgHWhDK7yQb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " МК-22",
+        "location": " 207 IV н.к.",
+        "urls": [
+            "https://us04web.zoom.us/j/74340235572?pwd=dinQfaJEWBWU9N6mbuEvSPA9wZkNgz.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " КНа-11, КНа-12, САа-11, ВПа-11, лекція ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/75710606931?pwd=C8SIqwa1bWzx1Q8H4qH4WsOgGT8LVV.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " МК-24",
+        "location": " 206 IV н.к.",
+        "urls": [
+            "https://us04web.zoom.us/j/72955127214?pwd=Tu70SJaqbUKtieSwQX9xBXK1WbWbR1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " МК-23",
+        "location": " 510 IV н.к.",
+        "urls": [
+            "//us04web.zoom.us/j/75166740396?pwd=YodJAxHfGhKpGbUMwYzVNczaqPY2R7.1  Meeting ID: 751 667"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " МЕ-24",
+        "location": " 013 IV н.к.",
+        "urls": [
+            "https://us04web.zoom.us/j/77018255079?pwd=vzarpUWBQqMMQqbhueOBk6a5OHRBf0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " МК-21, МК-22, МК-23, МК-24, 416 IV н.к., лекція ",
+        "location": "",
+        "urls": [
+            "https://us04web.zoom.us/j/75381916109?pwd=Mi5vPdtZHG0AEUb7yaGR7MkgRfAg9U.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

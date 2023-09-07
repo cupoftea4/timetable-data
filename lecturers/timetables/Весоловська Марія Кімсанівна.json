@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Управління змінами та світові тренди",
+        "lecturer": "МЕРІі-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83974763404?pwd=T002UE04c1piV0c2aUxlTFhoM0N6Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Управління змінами та світові тренди",
+        "lecturer": "МЕРІі-12, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83974763404?pwd=T002UE04c1piV0c2aUxlTFhoM0N6Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Публічне управління макроекономічними процесами",
+        "lecturer": "УААМі-13, 509 XXVIII н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85181045400?pwd=dVRlb1VrbTg2eWhKU0JzdlFGUmFXdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Публічне управління макроекономічними процесами",
+        "lecturer": "УААМі-13, 507 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85181045400?pwd=dVRlb1VrbTg2eWhKU0JzdlFGUmFXdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Публічне управління макроекономічними процесами",
+        "lecturer": "УААМі-14, 507 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86721176270?pwd=bHZkeURRbVJhSUszZjRBRFMzK2tHZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Публічне управління макроекономічними процесами",
+        "lecturer": "УААМі-14, 509 XXVIII н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86721176270?pwd=bHZkeURRbVJhSUszZjRBRFMzK2tHZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Історія культури та європейська інтеграція України",
+        "lecturer": "ЕВМЕ-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89921699860?pwd=M0pFa1dXQUtGanNZTHByQmRScTlFdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Історія культури та європейська інтеграція України",
+        "lecturer": "ЕВМЕ-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89921699860?pwd=M0pFa1dXQUtGanNZTHByQmRScTlFdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Публічний маркетинг та маркетинг територій",
+        "lecturer": "УАі-21, 003 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86163930347?pwd=ZUhoN2lPY0QvN1ZVbVd4WVVJdUNpdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Публічний маркетинг та маркетинг територій",
+        "lecturer": "УАі-21, 003 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86163930347?pwd=ZUhoN2lPY0QvN1ZVbVd4WVVJdUNpdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

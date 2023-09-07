@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Калиновський А.О.,",
+        "subject": "Міжнародний бізнес",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9L7Kl3auGMahwQ86tknlHKse00S-_FDcj9cGHWZx75M1%40thread.tacv2/1687011364472?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229f29287a-875f-4d36-8146-b843abbdba95%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Бочко О.Ю.,",
+        "subject": "Маркетингові дослідження",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Новаківський І.І.,",
+        "subject": "Інформаційно-комунікаційний менеджмент",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Рачинська Г.В.,",
+        "subject": "Соціальний менеджмент",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ]
+    }
+]

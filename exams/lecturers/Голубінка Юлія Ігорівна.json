@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-09T00:00:00.000Z",
+        "lecturer": "НЗ-41,",
+        "subject": "Картознавство",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/4985568578?pwd=GNn4H3yWkghj6YGWUGXe1hPWJwt7Qe.1"
+        ]
+    },
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "НЗ-21, 608 II н.к.,",
+        "subject": "Основи картографії",
+        "number": 2,
+        "urls": []
+    }
+]

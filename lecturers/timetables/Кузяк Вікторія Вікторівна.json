@@ -1,0 +1,193 @@
+[
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕБ-23, 405 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75512554898?pwd=5tIRo4PNN6DIootwROShGZ5zsrEooH.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕБ-23, 405 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75512554898?pwd=5tIRo4PNN6DIootwROShGZ5zsrEooH.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕБ-23, 405 IV н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75512554898?pwd=5tIRo4PNN6DIootwROShGZ5zsrEooH.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕБ-23, 405 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75512554898?pwd=5tIRo4PNN6DIootwROShGZ5zsrEooH.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕВ-21, 405 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75512554898?pwd=5tIRo4PNN6DIootwROShGZ5zsrEooH.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕВ-22, 426а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75512554898?pwd=5tIRo4PNN6DIootwROShGZ5zsrEooH.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "ЕВ-21, ЕВ-22, 310 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74205732628?pwd=L3o6Gtop6hFb56afhft65Y22eFA5Dw.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕЛГ-11, 405 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77913005407?pwd=wyIZNoElwfHBMLVcmm8qcrFLM7gUDw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕМ-11, (3-тя підгр.)426в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕЛГ-11, 426в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77913005407?pwd=wyIZNoElwfHBMLVcmm8qcrFLM7gUDw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕМ-11, (3-тя підгр.)426в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕЛГ-11, 426в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77913005407?pwd=wyIZNoElwfHBMLVcmm8qcrFLM7gUDw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Екологічний маркетинг",
+        "lecturer": "ЕКМ-МЛ-301, ЕКМ-МЛ-302, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72966813357?pwd=SVgrB1Dbps5HQuOk85Lij2GwENBkDm.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

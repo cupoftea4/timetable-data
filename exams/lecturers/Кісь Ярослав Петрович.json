@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "СААД-11, 107 I н.к.,",
+        "subject": "Моделювання процесів аналізу даних",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/7359554324?pwd=eVc3aUo4UTdTQXo3aFJFZzIyQUg1UT09"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ІТУП-11, ІТУП-12, ІТУП-13, 525 IV н.к.,",
+        "subject": "Технології управління ІТ-проектами",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/7359554324?pwd=eVc3aUo4UTdTQXo3aFJFZzIyQUg1UT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "САМ-11, 207 VIа н.к.,",
+        "subject": "Шаблони проектування інформаційних систем",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/7359554324?pwd=eVc3aUo4UTdTQXo3aFJFZzIyQUg1UT09"
+        ]
+    }
+]

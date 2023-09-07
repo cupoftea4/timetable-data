@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Інженерна гідравліка",
+        "lecturer": "ГБ-21, 112а II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інженерна гідравліка",
+        "lecturer": "ГБ-21, 112а II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "БД-25, БД-26, БД-27, БД-28, 212 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "БД-27, 106 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "БД-21, 106 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "БД-25, 106 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інженерна гідравліка",
+        "lecturer": "ГБ-21, 105 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Гідромеліорація",
+        "lecturer": "ГБ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Гідромеліорація",
+        "lecturer": "ГБ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "БД-21, БД-22, БД-23, БД-24, 212 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

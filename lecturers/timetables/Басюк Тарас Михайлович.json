@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "\nТехнології захисту інформації",
+        "lecturer": " ІТ-21сп, ІТ-31, ІТ-32, 406 II н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "\nМетодології проектування інформаційних систем",
+        "lecturer": " ІТ-21сп, ІТ-31, ІТ-32, 406 II н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "\nПроектування інформаційних систем",
+        "lecturer": " СА-31, СА-32, СА-33, УП-31, 215 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

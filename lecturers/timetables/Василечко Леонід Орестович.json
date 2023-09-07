@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Методи синтезу функціональних матеріалів електроніки",
+        "lecturer": "МНа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6718284217?pwd=NkhEeGgzWFcxZVR6Q0lGVW5nRmtqUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методи синтезу функціональних матеріалів електроніки",
+        "lecturer": "МНа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6718284217?pwd=NkhEeGgzWFcxZVR6Q0lGVW5nRmtqUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Характеризація матеріалів мікро- та наносистемної техніки",
+        "lecturer": "МНа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6718284217?pwd=NkhEeGgzWFcxZVR6Q0lGVW5nRmtqUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Характеризація матеріалів мікро- та наносистемної техніки",
+        "lecturer": "МНа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6718284217?pwd=NkhEeGgzWFcxZVR6Q0lGVW5nRmtqUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

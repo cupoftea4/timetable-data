@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Управління репутацією організації",
+        "lecturer": "МЕ-47, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ab3b663892f8245dba91fceec38f0bf50%40thread.tacv2/%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F%2520%25D1%2580%25D0%25B5%25D0%25BF%25D1%2583%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D1%2594%25D1%258E%2520%25D0%25BE%25D1%2580%25D0%25B3%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D1%2597?groupId=20663ae1-e7d1-4776-8543-452814e28007&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Управління репутацією організації",
+        "lecturer": "МЕ-47, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ab3b663892f8245dba91fceec38f0bf50%40thread.tacv2/%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F%2520%25D1%2580%25D0%25B5%25D0%25BF%25D1%2583%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D1%2594%25D1%258E%2520%25D0%25BE%25D1%2580%25D0%25B3%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D1%2597?groupId=20663ae1-e7d1-4776-8543-452814e28007&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління репутацією організації",
+        "lecturer": "МЕ-47, 508 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ab3b663892f8245dba91fceec38f0bf50%40thread.tacv2/%25D0%25A3%25D0%25BF%25D1%2580%25D0%25B0%25D0%25B2%25D0%25BB%25D1%2596%25D0%25BD%25D0%25BD%25D1%258F%2520%25D1%2580%25D0%25B5%25D0%25BF%25D1%2583%25D1%2582%25D0%25B0%25D1%2586%25D1%2596%25D1%2594%25D1%258E%2520%25D0%25BE%25D1%2580%25D0%25B3%25D0%25B0%25D0%25BD%25D1%2596%25D0%25B7%25D0%25B0%25D1%2586%25D1%2596%25D1%2597?groupId=20663ae1-e7d1-4776-8543-452814e28007&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "ІМЖ-МПА-301, ІМЖ-МПА-302, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ada5c18ac00054bf7b22ca10e1667e461%40thread.tacv2/%25D0%2586%25D0%25BC%25D1%2596%25D0%25B4%25D0%25B6%25D0%25B5%25D0%25BB%25D0%25BE%25D0%25B3%25D1%2596%25D1%258F%2520%25D0%25BB%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%258F?groupId=3bc3e35a-0d25-4e8d-bc79-5677aa1f28e9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "ІМЖ-МПА-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ab5521307212e4465bb9247e7303e2af1%40thread.tacv2/%25D0%2586%25D0%259C%25D0%2596%2520-%2520301%252C%2520302%2520%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D0%25B0?groupId=3bc3e35a-0d25-4e8d-bc79-5677aa1f28e9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "ІМЖ-МПА-302, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ab5521307212e4465bb9247e7303e2af1%40thread.tacv2/%25D0%2586%25D0%259C%25D0%2596%2520-%2520301%252C%2520302%2520%25D0%25BF%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D0%25B0?groupId=3bc3e35a-0d25-4e8d-bc79-5677aa1f28e9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

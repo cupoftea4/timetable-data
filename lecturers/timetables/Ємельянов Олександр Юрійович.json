@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Інноваційний розвиток бізнесу",
+        "lecturer": "ЕКЕБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/9916920499?pwd=cXFUWGZRL016YXNjTnp2dzcvTWFUZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Економіка та організація інноваційної діяльності",
+        "lecturer": "ЕК-31, ЕК-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/9916920499?pwd=cXFUWGZRL016YXNjTnp2dzcvTWFUZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Проблеми економіки сталого розвитку",
+        "lecturer": "ЕКа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/9916920499?pwd=cXFUWGZRL016YXNjTnp2dzcvTWFUZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Проблеми економіки сталого розвитку",
+        "lecturer": "ЕКа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/9916920499?pwd=cXFUWGZRL016YXNjTnp2dzcvTWFUZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

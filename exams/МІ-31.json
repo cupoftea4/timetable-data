@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Рак Н.В.,",
+        "subject": "Іноземна мова І, частина 6",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avkQ3shaZZIFWU9LIlo7Ff_O3KGgWM2spCMdr3-fQWas1%40thread.tacv2/1685643670090?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Базилюк К.Ф.,",
+        "subject": "Інформаційна безпека в Інтернеті",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Дмитришин Н.М.,",
+        "subject": "Технології інформаційного консалтингу в міжнародних відносин та суспільних комунікаціях",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/75640647476?pwd=NlNEPhy34ZX90LN8zLXz5C30t7b0XH.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Максимець В.Є.,",
+        "subject": "Розвідувальні служби у забезпеченні зовнішньої політики держав",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "Анісімович-Шевчук О.З.,",
+        "subject": "Теорія і практика інформаційно-знаннєвого суспільства",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/86085713787?pwd=Njgra09GMlBzS1BDR2RHeWYxcUI5QT09"
+        ]
+    }
+]

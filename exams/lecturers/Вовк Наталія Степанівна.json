@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "СК-31, СК-32,",
+        "subject": "Технології конкурентної інформаційної розвідки",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aff2083bda63b498c9209993a7b2bf0c6%40thread.tacv2/1685516190695?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224895e068-983c-4130-9bd1-29e08d895f9f%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "ДКІБ-11f,",
+        "subject": "Маркетинг бібліотечних та архівних послуг",
+        "number": 1,
+        "urls": [
+            "https://meet.jit.si/lpnuchinameetin"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "СК-31, СК-32,",
+        "subject": "Розроблення спеціалізованих сайтів з управління документаційними процесами",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:d6529836c2b546d29d14f67e618d8caf@thread.tacv2/1687383263401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=a72069fc-aed8-490a-97f3-436f4a389b0f&parentMessageId=1687383263401&teamName=%D0%A1%D0%9A-3x&channelName=%D0%A0%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%20%D1%81%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%D0%B2%20%D0%B7%20%D1%83%D0%BF%D1%80.%D0%B4%D0%BE%D0%BA.%D0%BF%D1%80%D0%BE%D1%86&createdTime=1687383263401&allowXTenantAccess=false"
+        ]
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "СК-31, СК-32,",
+        "subject": "Розроблення спеціалізованих сайтів",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:98d2cf688fe24847b1826153e85bfd36@thread.tacv2/1687383342503?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=a72069fc-aed8-490a-97f3-436f4a389b0f&parentMessageId=1687383342503&teamName=%D0%A1%D0%9A-3x&channelName=%D0%A0%D0%BE%D0%B7%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F%20%D1%81%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%96%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%85%20%D1%81%D0%B0%D0%B9%D1%82%D1%96%D0%B2&createdTime=1687383342503&allowXTenantAccess=false"
+        ]
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-13, 406 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aaMzsPeDwwuJTv-ngR-ev5cWQoqO5lmrUS2q0YvEXIYU1%40thread.tacv2/conversations?groupId=063a5ed1-032d-4418-9244-769a9b3a8c0c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-13, 406 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aaMzsPeDwwuJTv-ngR-ev5cWQoqO5lmrUS2q0YvEXIYU1%40thread.tacv2/conversations?groupId=063a5ed1-032d-4418-9244-769a9b3a8c0c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інфраструктурне обслуговування міжнародної економічної діяльності",
+        "lecturer": "ЕВМЕ-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09#success"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інфраструктурне обслуговування міжнародної економічної діяльності",
+        "lecturer": "ЕВМЕ-11f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4626933798?pwd=bGZxcndYWUFwUjlFYTBId0U4MmxVQT09#success"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "ЕВ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_i4TeWsfvthTB3-a3uTqu02ru8ZD4NoVxMlWrQpuG0E1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13b54fd0-f73b-4b92-b4df-4563ab34e96c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "ЕВ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_i4TeWsfvthTB3-a3uTqu02ru8ZD4NoVxMlWrQpuG0E1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13b54fd0-f73b-4b92-b4df-4563ab34e96c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Дипломатичний протокол та діловий етикет",
+        "lecturer": "ЕВ-21f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83157599959?pwd=0G7s2uOd1nKrJpGYHGUdOHpG0eXfDk.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "ЕВ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_i4TeWsfvthTB3-a3uTqu02ru8ZD4NoVxMlWrQpuG0E1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13b54fd0-f73b-4b92-b4df-4563ab34e96c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "ЕВ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_i4TeWsfvthTB3-a3uTqu02ru8ZD4NoVxMlWrQpuG0E1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13b54fd0-f73b-4b92-b4df-4563ab34e96c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "ЕВ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_i4TeWsfvthTB3-a3uTqu02ru8ZD4NoVxMlWrQpuG0E1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13b54fd0-f73b-4b92-b4df-4563ab34e96c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "ЕВ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_i4TeWsfvthTB3-a3uTqu02ru8ZD4NoVxMlWrQpuG0E1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13b54fd0-f73b-4b92-b4df-4563ab34e96c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні фінансові ризики",
+        "lecturer": "ЕВ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_i4TeWsfvthTB3-a3uTqu02ru8ZD4NoVxMlWrQpuG0E1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=13b54fd0-f73b-4b92-b4df-4563ab34e96c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

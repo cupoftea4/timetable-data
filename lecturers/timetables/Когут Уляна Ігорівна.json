@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-11, МК-12, МК-13, МК-14, МК-15, 209 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a56d61f2936d44c98a04cd15a221ede4a%40thread.tacv2/conversations?groupId=45edf761-1f74-4f25-aea3-41f22a204749&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "\nМатематичне забезпечення програмних систем",
+        "lecturer": " ПЗМ-21, лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "\nСистемне адміністрування",
+        "lecturer": " ПЗ-41, САДМ-ПЗ-401, 303 XXIX н.к., лабораторна  \n\n\n",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "\nПрактикум з підготовки наукових публікацій",
+        "lecturer": " ПЗМ-21",
+        "location": " 225 II н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nМатематичне забезпечення програмних систем",
+        "lecturer": " ПЗМ-21, лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nМатематичне забезпечення програмних систем",
+        "lecturer": " ПЗМ-21, лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nСистемне адміністрування",
+        "lecturer": " ПЗ-41, САДМ-ПЗ-401, 810г V н.к., лабораторна  \n\n\n",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "\nСистемне адміністрування",
+        "lecturer": " ПЗ-44, САДМ-ПЗ-404, 808 V н.к., лабораторна  \n\n\n",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    }
+]

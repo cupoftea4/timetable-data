@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Технології інформаційного консалтингу в міжнародних відносин та суспільних комунікаціях",
+        "lecturer": "МІ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73914726658?pwd=Y49O0MbTJJdL9ay9tIcd2P4pBRWcGw.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології інформаційного консалтингу в міжнародних відносин та суспільних комунікаціях",
+        "lecturer": "МІ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75043629195?pwd=ombAHI0jnJz1LbzwpL3r4qk22aDF33.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

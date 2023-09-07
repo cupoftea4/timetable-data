@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "\nІнформаційні технології організації бізнесу",
+        "lecturer": " Марковець О.В., Лекція  \n\n\n",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a1fd8a182336348ed85992dc8c93d157d%40thread.tacv2/1694089348750?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "\nІнформаційні технології організації бізнесу",
+        "lecturer": " Марковець О.В., Практична  \n\n\n",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a1fd8a182336348ed85992dc8c93d157d%40thread.tacv2/1694089348750?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    }
+]

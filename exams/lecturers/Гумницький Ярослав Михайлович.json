@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "ЕО-11, 115 VIII н.к.,",
+        "subject": "Метеорологія і кліматологія",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4353ed0f655f49f4812b2556241f41c0%40thread.tacv2/1676893333430?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2244da559f-89a3-43bb-9a1b-c2e5739ebb00%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ЕО-31, ЕО-32,",
+        "subject": "Інженерна екологія, частина 2",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af1d3cce618784cb9a5a83f654578626f%40thread.tacv2/1660207227706?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2244da559f-89a3-43bb-9a1b-c2e5739ebb00%22%7d"
+        ]
+    }
+]

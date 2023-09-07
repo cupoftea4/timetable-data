@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Геодезія в геотехнічному інжинірінгу",
+        "lecturer": "НЗГІ-11, 510 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи інженерної геодезії",
+        "lecturer": "ГД-23, 509 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронні інженерно-геодезичні прилади з основами метрології",
+        "lecturer": "ГД-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9363933402?pwd=V0lmWFRRL0R6Tm56QTdRUHNoMWI3QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Геодезія в геотехнічному інжинірінгу",
+        "lecturer": "НЗГІ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9363933402?pwd=V0lmWFRRL0R6Tm56QTdRUHNoMWI3QT0"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи інженерної геодезії",
+        "lecturer": "ГД-23, 014 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Електронні інженерно-геодезичні прилади з основами метрології",
+        "lecturer": "ГД-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9363933402?pwd=V0lmWFRRL0R6Tm56QTdRUHNoMWI3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи інженерної геодезії",
+        "lecturer": "ГД-23, 014 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Електронні інженерно-геодезичні прилади з основами метрології",
+        "lecturer": "ГД-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9363933402?pwd=V0lmWFRRL0R6Tm56QTdRUHNoMWI3QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

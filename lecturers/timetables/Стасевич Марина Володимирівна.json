@@ -1,0 +1,146 @@
+[
+    {
+        "subject": "Промислове обладнання хіміко-фармацевтичних підприємств",
+        "lecturer": "ФРФП-11, ФРМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afO7WlKbtAAERLdO6ia43Q6kmJ6qHBFR1_ZW3hzWxOp01%40thread.tacv2/1676456123110?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "БТМ-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTNjNDlmMTAtYmRmMi00NzFiLTk5YzgtMWM1OGQ4NzZlMmJm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Хімія і технологія лікарських субстанцій",
+        "lecturer": "ФР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3apd-W-wKI00y4GS0uFpJABdP9N4zXjfzafywsS_gOcGk1%40thread.tacv2/1676456592084?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Хімія і технологія лікарських субстанцій",
+        "lecturer": "ФР-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3apd-W-wKI00y4GS0uFpJABdP9N4zXjfzafywsS_gOcGk1%40thread.tacv2/1676456807995?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Хімія і технологія лікарських субстанцій",
+        "lecturer": "ФР-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3apd-W-wKI00y4GS0uFpJABdP9N4zXjfzafywsS_gOcGk1%40thread.tacv2/1676456807995?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Хімія і технологія лікарських субстанцій",
+        "lecturer": "ФР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3apd-W-wKI00y4GS0uFpJABdP9N4zXjfzafywsS_gOcGk1%40thread.tacv2/1676456592084?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія біологічно-активних речовин, біомедполімерів і наноструктур",
+        "lecturer": "ФРМ-11, ФРФП-11, 240 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія біологічно-активних речовин, біомедполімерів і наноструктур",
+        "lecturer": "ФРМ-11, ФРФП-11, 240 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Промислове обладнання хіміко-фармацевтичних підприємств",
+        "lecturer": "ФРМ-11, ФРФП-11, 240 VIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3afO7WlKbtAAERLdO6ia43Q6kmJ6qHBFR1_ZW3hzWxOp01%40thread.tacv2/1676457080661?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ed717f44-c116-4f84-b21c-ac804ccc2b71%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технологія барвників та біопігментів",
+        "lecturer": "БТБТ-11, 227 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

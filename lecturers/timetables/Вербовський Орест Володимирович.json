@@ -1,0 +1,166 @@
+[
+    {
+        "subject": "Споруди для утилізації відходів",
+        "lecturer": "ГБВІ-11, 209 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3297823306?pwd=TlR5bi82VDJLTllpTW44Q3ZrTnkxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Споруди для утилізації відходів",
+        "lecturer": "ГБВІ-11, 209 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Гідрологія урбанізованих територій",
+        "lecturer": "БДа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3297823306?pwd=TlR5bi82VDJLTllpTW44Q3ZrTnkxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Теорія турбулентних потоків",
+        "lecturer": "БДа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3297823306?pwd=TlR5bi82VDJLTllpTW44Q3ZrTnkxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Теоретична механіка та технічна механіка рідин і газів",
+        "lecturer": "БД-19, 106 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Теоретична механіка та технічна механіка рідин і газів",
+        "lecturer": "БД-18, 106 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Обробка та утилізація осадів стічних вод",
+        "lecturer": "БДВВ-11, БДВВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3297823306?pwd=TlR5bi82VDJLTllpTW44Q3ZrTnkxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теоретична механіка та технічна механіка рідин і газів",
+        "lecturer": "БД-17, 106 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "БД-28, 227 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Водопостачання і водовідведення",
+        "lecturer": "БД-27, 227 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Обробка та утилізація осадів стічних вод",
+        "lecturer": "БДВВ-11, 413 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Обробка та утилізація осадів стічних вод",
+        "lecturer": "БДВВ-12, 413 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

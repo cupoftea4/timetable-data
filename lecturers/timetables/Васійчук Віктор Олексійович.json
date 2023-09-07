@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3asP-ZcXQPPorZSikTXdGDrBWU3ioaDCEQ11YMtXknyD01%40thread.tacv2/conversations?groupId=e4112704-7b3e-44ab-b004-833d0ca60d5f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-35, ПВ-36, ПВ-37, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aL8t3D1aVyNsSKgToTbfgyi5RBjgUUCbzaTkrtMs7fSc1%40thread.tacv2/conversations?groupId=ef11ea16-47e3-4ab5-9fae-a895e146fda2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-38, ПВ-39, ПВ-310, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ak3sW-79CJFFTnrN0KzT3S4BjBKlLqeR2zeqmSE0pZsc1%40thread.tacv2/conversations?groupId=3d44261c-f3ca-4170-8737-17cad3360f1a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

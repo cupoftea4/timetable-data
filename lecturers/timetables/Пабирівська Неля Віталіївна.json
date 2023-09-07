@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БТ-11, БТ-12, 211 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "ХТ-11, ХТ-12, 211 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "ХТ-11, ХТ-12, 211 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "ХТ-11, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "ХТ-11, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БТ-11, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БТ-11, 116 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "ХТ-12, 410 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "ХТ-12, 403 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БТ-12, 115 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "БТ-12, 115 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/7293793849?pwd=a1ZhbklhNzZiRXpheEUvUm02UFdidz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

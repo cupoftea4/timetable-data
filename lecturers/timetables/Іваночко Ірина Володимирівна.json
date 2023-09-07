@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Менеджмент",
+        "lecturer": "ЕВ-13, 107 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

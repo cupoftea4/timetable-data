@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-05-02T00:00:00.000Z",
+        "lecturer": "Павлиш В.А.,",
+        "subject": "Основи інформаційних технологій і систем",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-05-05T00:00:00.000Z",
+        "lecturer": "Заячук Д.М.,",
+        "subject": "Основи мікро- та нанотехнологій",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3agYOWblWVqSpgf6vyDkqlm7KrImtcO4AFWlHJBFb8uf81%40thread.tacv2/conversations?groupId=73e8d4ca-d435-4632-8db8-10e6998ace37&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-05-08T00:00:00.000Z",
+        "lecturer": "Васьків Г.М.,",
+        "subject": "Термінальні засоби інфокомунікаційних систем",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/wjy-xmhe-pkj"
+        ]
+    }
+]

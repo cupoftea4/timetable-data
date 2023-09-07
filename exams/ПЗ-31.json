@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-05-22T00:00:00.000Z",
+        "lecturer": "Іванов С.А.,",
+        "subject": "Штучний інтелект та методи машинного навчання (комп`ютерні ігри)",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78146958069?pwd=ABeujxwU6q1nIFi7IQpHsJpVkSmiGc.1"
+        ]
+    },
+    {
+        "date": "2023-05-26T00:00:00.000Z",
+        "lecturer": "Журавчак Л.М.,",
+        "subject": "Засоби програмування комп`ютерної графіки",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a9b0aa13b23124de0bd329a32cac8c274%40thread.tacv2/%25D0%259B%25D0%25B5%25D0%25BA%25D1%2586%25D1%2596%25D1%2597?groupId=021374a6-7b1c-4563-bad4-bcc3a2302214&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "Горечко О.М.,",
+        "subject": "Програмування мультимедійних систем",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3afjcDk5ZSXjFhYdGhuoF7FHVgp8qFxNq7-_BhPk5TwFI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=ff74244e-2e5e-4862-bde3-f426af2a10da&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

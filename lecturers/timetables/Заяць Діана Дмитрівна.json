@@ -1,0 +1,60 @@
+[
+    {
+        "subject": "Комунікації в науці та інтелектуальна власність у сфері публічного управління",
+        "lecturer": "УАа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4997930487?pwd=c2xLWk1ma2FQR2hmREROdVpiRGx0dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Цифрова трансформація у публічній сфері",
+        "lecturer": "УААМі-11, УААМі-12, УААМі-13, УААМі-14, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4997930487?pwd=kh8CnyjGjveEjRu2Hg3ZIYFwIIg4h9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Публічна служба та корупційні ризики службової діяльності",
+        "lecturer": "ПУ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4997930487?pwd=kh8CnyjGjveEjRu2Hg3ZIYFwIIg4h9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Цифрова трансформація у публічній сфері",
+        "lecturer": "УААМі-12, 023 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

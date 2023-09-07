@@ -1,0 +1,219 @@
+[
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "АВ-24, 082 X н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Розподілені системи керування виробництвом",
+        "lecturer": "АВКВ-12, АВМ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77141881119?pwd%3DIMwft3mt4qEHrUPjg7w8rbBHCEqqnO.1&sa=D&source=calendar&ust=1678015469242870&usg=AOvVaw0pPDdvlfpF1H_qzpdlv4Wm"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "АВ-31, 071 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/98829848131?pwd=cFJwc3d5ak5heDdWMHVMdE05VVNpQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Програмування для систем реального часу",
+        "lecturer": "АВ-33, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/79135020962?pwd%3D8F5gqmYaZe3eZfwWiWob8DSIzQ6VMu.1&sa=D&source=calendar&ust=1678015950337814&usg=AOvVaw3QxDBGVnbLB_Upnk3943xb"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технічні засоби автоматизації",
+        "lecturer": "АВ-33, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77084723222?pwd%3DlM1n7NbNQ4yn68QnLQKAdX8PU5rbQr.1&sa=D&source=calendar&ust=1678016094322861&usg=AOvVaw3wY8jwgoyoy_XYfFTq8Xu_"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технічні засоби автоматизації",
+        "lecturer": "АВ-24, 209 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77084723222?pwd%3DlM1n7NbNQ4yn68QnLQKAdX8PU5rbQr.1&sa=D&source=calendar&ust=1678016094322861&usg=AOvVaw3wY8jwgoyoy_XYfFTq8Xu_"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Розподілені системи керування виробництвом",
+        "lecturer": "АВКВ-12, 082 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Програмування для систем реального часу",
+        "lecturer": "АВ-24, 209 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/79135020962?pwd%3D8F5gqmYaZe3eZfwWiWob8DSIzQ6VMu.1&sa=D&source=calendar&ust=1678015950337814&usg=AOvVaw3QxDBGVnbLB_Upnk3943xb"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Розподілені системи керування виробництвом",
+        "lecturer": "АВМ-12, 082 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "АВМ-21, АВМ-22, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72971666683?pwd=Z2mtRPPghQsBKJN4rPDpbLxbil4cvq.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Розподілені системи керування виробництвом",
+        "lecturer": "АВКВ-12, АВМ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77141881119?pwd%3DIMwft3mt4qEHrUPjg7w8rbBHCEqqnO.1&sa=D&source=calendar&ust=1678015469242870&usg=AOvVaw0pPDdvlfpF1H_qzpdlv4Wm"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "АВ-33, 071 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/98829848131?pwd=cFJwc3d5ak5heDdWMHVMdE05VVNpQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "АВ-24, 086 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технічні засоби автоматизації",
+        "lecturer": "АВ-24, 071 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77084723222?pwd%3DlM1n7NbNQ4yn68QnLQKAdX8PU5rbQr.1&sa=D&source=calendar&ust=1678016094322861&usg=AOvVaw3wY8jwgoyoy_XYfFTq8Xu_"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технічні засоби автоматизації",
+        "lecturer": "АВ-33, 071 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77084723222?pwd%3DlM1n7NbNQ4yn68QnLQKAdX8PU5rbQr.1&sa=D&source=calendar&ust=1678016094322861&usg=AOvVaw3wY8jwgoyoy_XYfFTq8Xu_"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

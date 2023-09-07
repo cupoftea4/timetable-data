@@ -1,0 +1,133 @@
+[
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "КБ-11, 405 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/8750148606?pwd=MkdrU1VKQkdVczFCUzV6OVY1bkVxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "КБ-17, 404 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/8750148606?pwd=MkdrU1VKQkdVczFCUzV6OVY1bkVxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "КІ-11, КІ-12, КІ-13, КІ-14, 411 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/8750148606?pwd=MkdrU1VKQkdVczFCUzV6OVY1bkVxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Наукова робота у музейній та пам`яткоохоронній діяльності",
+        "lecturer": "СТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/8750148606?pwd=MkdrU1VKQkdVczFCUzV6OVY1bkVxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проблемні питання новітньої історії та культури України",
+        "lecturer": "СМУС-12, 204 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/8750148606?pwd=MkdrU1VKQkdVczFCUzV6OVY1bkVxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "МК-15, 107 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/8750148606?pwd=MkdrU1VKQkdVczFCUzV6OVY1bkVxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Наукова робота у музейній та пам`яткоохоронній діяльності",
+        "lecturer": "СТ-31, 204 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/8750148606?pwd=MkdrU1VKQkdVczFCUzV6OVY1bkVxUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "ФБ-13, 106 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Ґенеза української музейної справи в контексті національного культурного розвитку",
+        "lecturer": "ІАа-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

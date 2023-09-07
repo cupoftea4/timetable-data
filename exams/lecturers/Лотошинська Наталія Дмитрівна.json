@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ВП-41, ВП-42,",
+        "subject": "3D графіка",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72910536799?pwd=zTIOXV8p334a4k8VbgwedHSXUHUwrz.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ВП-31, ВП-32,",
+        "subject": "Теорія кольору та кольороутворення",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72802252373?pwd=H0vp4a1qPg8SMj2XDMg9qnlaxsJbve.1"
+        ]
+    }
+]

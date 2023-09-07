@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Психологія конфліктів та їх розв`язання",
+        "lecturer": "ПС-44, ПС-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83568805703?pwd=WlY5aXFjY3BNenZ4Q0hGd1BSbmNVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Психологія конфліктів та їх розв`язання",
+        "lecturer": "ПС-44, ПС-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83568805703?pwd=WlY5aXFjY3BNenZ4Q0hGd1BSbmNVdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Загальна психологія , частина 2",
+        "lecturer": "ПС-16, 328 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83433073540?pwd=ZDBPYUNkdW5HTG9vWkNrY1lpQ3liZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Загальна психологія , частина 2",
+        "lecturer": "ПС-16, 328 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83433073540?pwd=ZDBPYUNkdW5HTG9vWkNrY1lpQ3liZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Загальна психологія , частина 2",
+        "lecturer": "ПС-17, 328 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83433073540?pwd=ZDBPYUNkdW5HTG9vWkNrY1lpQ3liZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Загальна психологія , частина 2",
+        "lecturer": "ПС-17, 328 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83433073540?pwd=ZDBPYUNkdW5HTG9vWkNrY1lpQ3liZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Загальна психологія , частина 2",
+        "lecturer": "ПС-15, 116 XX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83433073540?pwd=ZDBPYUNkdW5HTG9vWkNrY1lpQ3liZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Загальна психологія , частина 2",
+        "lecturer": "ПС-15, 116 XX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83433073540?pwd=ZDBPYUNkdW5HTG9vWkNrY1lpQ3liZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

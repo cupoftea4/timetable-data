@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Організація баз даних",
+        "lecturer": "КІ-206, 905 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/92593695474?pwd=WVFMTld0VHlYZlU0TjJlWnh1MTVyZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Організація баз даних",
+        "lecturer": "КІ-206, 505б1 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/92593695474?pwd=WVFMTld0VHlYZlU0TjJlWnh1MTVyZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "КІ-39, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/98749510385?pwd=THFQWUVVbGNTRWxXVXZhbTJ4THRzdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "КІ-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/98749510385?pwd=THFQWUVVbGNTRWxXVXZhbTJ4THRzdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "КІ-39, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/98749510385?pwd=THFQWUVVbGNTRWxXVXZhbTJ4THRzdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

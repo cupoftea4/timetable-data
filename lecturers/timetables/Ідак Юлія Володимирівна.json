@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "\nНаукові дослідження та семінари за їх тематикою",
+        "lecturer": " АРМ-24, практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nСпецкурс з наукових досліджень спеціальності",
+        "lecturer": " АРМ-24, практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nСпецкурс з наукових досліджень спеціальності",
+        "lecturer": " АРМ-24, лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "\nСпецкурс з наукових досліджень спеціальності",
+        "lecturer": " АРМ-24, лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "\nНаукові дослідження та семінари за їх тематикою",
+        "lecturer": " АРМ-24, лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "ПММ-21, 104 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Теорія керування",
+        "lecturer": "ПМ-41, ПМ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Квантові комп`ютери",
+        "lecturer": "КНІК-11, 221 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Квантові комп`ютери",
+        "lecturer": "КНІК-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Квантові комп`ютери",
+        "lecturer": "КНІК-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Квантові комп`ютери",
+        "lecturer": "КНІК-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теорія керування",
+        "lecturer": "ПМ-41, ПМ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Додаткові розділи обчислювальної математики",
+        "lecturer": "ПМа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Додаткові розділи обчислювальної математики",
+        "lecturer": "ПМа-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Додаткові розділи обчислювальної математики",
+        "lecturer": "ПМа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/5246753782?pwd=Mm0zWDhkYXVqRTZxYjR4aUxUeTJGQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

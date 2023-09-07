@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Психологія особистості",
+        "lecturer": "ПС-14, ПС-15, ПС-16, 025 XXXIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:HJH4Nr_GDX2-roVimT4pvBAm9B6brudvOdb7O8p2l6I1@thread.tacv2/1686809238188?groupId=7d2a917b-c7c5-43b1-8ff7-c9c33631f590"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Психологія особистості",
+        "lecturer": "ПС-14, ПС-15, ПС-16, 025 XXXIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:HJH4Nr_GDX2-roVimT4pvBAm9B6brudvOdb7O8p2l6I1@thread.tacv2/1686809238188?groupId=7d2a917b-c7c5-43b1-8ff7-c9c33631f590"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Психологія",
+        "lecturer": "УП-11, 401 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:9m7LkcbZ7DF5Ceh2_HwRdO2V4To7XFR3GXZka-7TKt01@thread.tacv2/1686809818960?groupId=5ad57198-168a-4689-8dca-ad18fec5bda0"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Психологія",
+        "lecturer": "УП-11, 401 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:9m7LkcbZ7DF5Ceh2_HwRdO2V4To7XFR3GXZka-7TKt01@thread.tacv2/1686809818960?groupId=5ad57198-168a-4689-8dca-ad18fec5bda0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Психологія особистості",
+        "lecturer": "ПС-11, ПС-12, ПС-13, 313 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:QA9nWxeC5hFJnYz0LipDdYL-VbX5I5GMGrFlzLJ1UHE1@thread.tacv2/1686811099176?groupId=96d25e0e-6e97-41b9-aaa4-44d16eeeeaaf"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Психологія особистості",
+        "lecturer": "ПС-11, ПС-12, ПС-13, 313 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:QA9nWxeC5hFJnYz0LipDdYL-VbX5I5GMGrFlzLJ1UHE1@thread.tacv2/1686811099176?groupId=96d25e0e-6e97-41b9-aaa4-44d16eeeeaaf"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Психологія особистості",
+        "lecturer": "ПС-17, ПС-18, ПС-19, 332 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:ZBf6IZOuImbam--rgiC2rAaWIAd27OjKScl2W8zV1Sc1@thread.tacv2/1686812276644?groupId=dee009fd-7382-463c-b237-94c4206cde81"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Психологія особистості",
+        "lecturer": "ПС-17, ПС-18, ПС-19, 332 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:ZBf6IZOuImbam--rgiC2rAaWIAd27OjKScl2W8zV1Sc1@thread.tacv2/1686812276644?groupId=dee009fd-7382-463c-b237-94c4206cde81"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Документування програмного забезпечення та шаблони проектування",
+        "lecturer": "ІР-31, ІР-32, ІР-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://softserveinc.zoom.us/j/98613229081"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Документування програмного забезпечення та шаблони проектування",
+        "lecturer": "ІР-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://softserveinc.zoom.us/j/92395571180?from=addon"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Документування програмного забезпечення та шаблони проектування",
+        "lecturer": "ІР-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://softserveinc.zoom.us/j/92395571180?from=addon"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Документування програмного забезпечення та шаблони проектування",
+        "lecturer": "ІР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://softserveinc.zoom.us/j/99230847561?from=addon"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Документування програмного забезпечення та шаблони проектування",
+        "lecturer": "ІР-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://softserveinc.zoom.us/j/98690588085?from=addon"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Документування програмного забезпечення та шаблони проектування",
+        "lecturer": "ІР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://softserveinc.zoom.us/j/99230847561?from=addon"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Документування програмного забезпечення та шаблони проектування",
+        "lecturer": "ІР-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://softserveinc.zoom.us/j/98690588085?from=addon"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

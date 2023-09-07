@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "СЕ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676878528955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "СЕ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676878528955?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "СЕ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676879758056?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи моделювання електромеханотронних перетворювачів",
+        "lecturer": "ЕЕ-42, 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aheyqjmkNDlQbZGGXKKLsHVdF6j2n0FH3uZeaGKsE1Hk1%40thread.tacv2/1676883002857?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Системи нагромадження електричної енергії",
+        "lecturer": "СЕ-31, 129 Гол. н.к., 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXAG7L2jO3ELlkcePhYXVW1pZmyI6iGjPB2lASHmjA7U1%40thread.tacv2/1676881599774?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Системи нагромадження електричної енергії",
+        "lecturer": "СЕ-31, 129 Гол. н.к., 148 Гол. н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXAG7L2jO3ELlkcePhYXVW1pZmyI6iGjPB2lASHmjA7U1%40thread.tacv2/1676881599774?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Системи нагромадження електричної енергії",
+        "lecturer": "СЕ-31, 129 Гол. н.к., 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXAG7L2jO3ELlkcePhYXVW1pZmyI6iGjPB2lASHmjA7U1%40thread.tacv2/1676881599774?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Системи нагромадження електричної енергії",
+        "lecturer": "СЕ-31, 129 Гол. н.к., 148 Гол. н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXAG7L2jO3ELlkcePhYXVW1pZmyI6iGjPB2lASHmjA7U1%40thread.tacv2/1676881599774?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи комп`ютерних технологій проектування",
+        "lecturer": "ЕЕ-25, 504 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQl3ZC1g6dTLYrUCY58gf9yXigB4xoZoUe8wblV-RcGc1%40thread.tacv2/1676883375270?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "СЕ-42, 148 Гол. н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676880190407?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "СЕ-42, 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676880190407?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "СЕ-42, 148 Гол. н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676880190407?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Системи керування рухом повних і гібридних електромобілів та міського електротранспорту",
+        "lecturer": "СЕ-42, 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBn3m9J8ETOs2TXsX2sX8Dk-VEn4RcHxCG__BhgvsqLw1%40thread.tacv2/1676880190407?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Системи нагромадження електричної енергії",
+        "lecturer": "СЕ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aXAG7L2jO3ELlkcePhYXVW1pZmyI6iGjPB2lASHmjA7U1%40thread.tacv2/1676881360026?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c20ee350-3dbc-4966-8d87-7c343de02f95%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

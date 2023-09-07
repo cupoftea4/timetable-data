@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-21T00:00:00.000Z",
+        "lecturer": "КБ-41, КБ-42,",
+        "subject": "Апаратна криптографія",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ]
+    },
+    {
+        "date": "2023-06-01T00:00:00.000Z",
+        "lecturer": "КБа-11,",
+        "subject": "Криптографічна інженерія",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ]
+    }
+]

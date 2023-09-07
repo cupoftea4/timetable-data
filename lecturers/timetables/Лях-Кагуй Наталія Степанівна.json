@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Мікро сенсори і актюатори",
+        "lecturer": "МНа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7822114762?pwd=NTB3bmsxVXQyQ0ttcWZaL0gxVWZpZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Мікро сенсори і актюатори",
+        "lecturer": "МНа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7822114762?pwd=NTB3bmsxVXQyQ0ttcWZaL0gxVWZpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління структурою і властивостями напівпровідникових матеріалів і приладів",
+        "lecturer": "МНМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7822114762?pwd=NTB3bmsxVXQyQ0ttcWZaL0gxVWZpZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Твердотільна електроніка, частина 2",
+        "lecturer": "МН-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7822114762?pwd=NTB3bmsxVXQyQ0ttcWZaL0gxVWZpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Управління структурою і властивостями напівпровідникових матеріалів і приладів",
+        "lecturer": "МНМ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7822114762?pwd=NTB3bmsxVXQyQ0ttcWZaL0gxVWZpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

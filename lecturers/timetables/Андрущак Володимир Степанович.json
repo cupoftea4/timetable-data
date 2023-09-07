@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Мобільні додатки інформаційно-комунікаційних систем",
+        "lecturer": "ІК-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/zhx-uprp-vcn"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Програмування вбудованих систем",
+        "lecturer": "ІК-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/tio-huwb-zsw"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Програмування вбудованих систем",
+        "lecturer": "ІК-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/wwd-fhyx-pnb"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Програмування вбудованих систем",
+        "lecturer": "ІК-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/wwd-fhyx-pnb"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Програмування вбудованих систем",
+        "lecturer": "ІК-32, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/whe-yobw-bny"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Програмування вбудованих систем",
+        "lecturer": "ІК-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/whe-yobw-bny"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Мобільні додатки інформаційно-комунікаційних систем",
+        "lecturer": "ІК-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/rtd-ixsh-gpy"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Мобільні додатки інформаційно-комунікаційних систем",
+        "lecturer": "ІК-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ydr-awxc-ouw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Правове регулювання державної служби в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ПВ-35, ПВ-36, ПВ-37, ПВ-38, ПВ-39, ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79189385539?pwd=TyqWkQtzDWmGyh2Z6zek9dqwMxOgHa.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Правове регулювання державної служби в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ПВ-35, ПВ-36, ПВ-37, ПВ-38, ПВ-39, ПВ-310, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71254158694?pwd=86bnn1ZxTTCa769MaQs2ocB8p3zbmN.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Правове регулювання державної служби в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ПВ-35, ПВ-36, ПВ-37, ПВ-38, ПВ-39, ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77283746432?pwd=UWHShW8PHfOXJWbhblEbUPzBLQeR0r.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

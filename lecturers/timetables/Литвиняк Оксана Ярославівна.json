@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "\nОхорона праці та безпека життєдіяльності",
+        "lecturer": " УЗ-31",
+        "location": " 303 III н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "\nОхорона праці та безпека життєдіяльності",
+        "lecturer": " УЗ-31",
+        "location": " 307 III н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "\nОснови охорони праці та безпека життєдіяльності",
+        "lecturer": " ФБ-31, ФБ-32, 137 III н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "\nОснови охорони праці та безпека життєдіяльності",
+        "lecturer": " БД-338",
+        "location": " 311 III н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nОснови охорони праці та безпека життєдіяльності",
+        "lecturer": " БД-338",
+        "location": " 303 III н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nОснови охорони праці та безпека життєдіяльності",
+        "lecturer": " БД-338",
+        "location": " 311 III н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nОснови охорони праці та безпека життєдіяльності",
+        "lecturer": " ФБ-31, ФБ-32, 302 III н.к., лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДПЦ-11, БДПЦ-12, БДПЦ-13, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTc4NTNkMmMtYWQzYS00M2FjLThmM2ItMWU1MDVmZDkyMTJh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДМБ-11, БДМБ-12, БДТК-11, БДТГ-11, БДТГ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjNkOGY3MWEtZGNkMC00ZmRmLWE5NGItM2U5ZGNkMmMyNGU1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Дослідницький семінар у галузі будівництва та цивільної інженерії",
+        "lecturer": "БДа-11, 003 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTNhMjhiYWItODFiZi00NTBlLWEwMWItNDkzNWM5ZDQ0MWUz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "БДМ-23, 003 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjRiZTkxNWYtNDg2Zi00ZGQzLWE3NGItN2ZkOWUwMDY2MWU4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДАД-11, БДАД-12, БДМТ-11, БДМТ-12, БДВВ-11, БДВВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTMzY2Q4NDAtOWViMi00OGQwLTk4MTAtMWY2N2JlZmRlZTE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

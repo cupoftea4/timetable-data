@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-06-15T00:00:00.000Z",
+        "lecturer": "Андрушків І.П.,",
+        "subject": "Управління інноваційно-інвестиційною діяльністю",
+        "number": 5,
+        "urls": [
+            "https://us05web.zoom.us/j/81098305522?pwd=Qnh6bnkvSFpESGpNNEpXSWFYWHBHQT09"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Гладун Т.М.,",
+        "subject": "Міжнародна економіка",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Сокіл О.Г.,",
+        "subject": "Розроблення цінової політики",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/78143265654?pwd=U3wga9j1GfOxfub01Gkut1y3EtpwkB.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Корчинська О.О.,",
+        "subject": "Національна система оподаткування",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73716024523?pwd=ECVICgFuwLoXPaGlMD36k2YCNUd7fu.1%20%20Meeting%20ID:%20737%201602%204523%20Passcode:%20frphE3"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Дзяний Р.Б.,",
+        "subject": "Публічна служба і управління персоналом",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75388024553?pwd=YKteaApVXxAD3bnyCQP6HHKjhMoq3f.1"
+        ]
+    }
+]

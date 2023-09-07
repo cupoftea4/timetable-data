@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Генерація випадкових і псевдовипадкових чисел",
+        "lecturer": "КБа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atKDvTwOvRDIIh-yk7J0NlP0hQ4AtBdcdWKckpZThAmI1%40thread.tacv2/conversations?groupId=0c414044-1d21-4df1-a7ed-b2c972349bfa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Генерація випадкових і псевдовипадкових чисел",
+        "lecturer": "КБа-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atKDvTwOvRDIIh-yk7J0NlP0hQ4AtBdcdWKckpZThAmI1%40thread.tacv2/conversations?groupId=0c414044-1d21-4df1-a7ed-b2c972349bfa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Генерація випадкових і псевдовипадкових чисел",
+        "lecturer": "КБа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atKDvTwOvRDIIh-yk7J0NlP0hQ4AtBdcdWKckpZThAmI1%40thread.tacv2/conversations?groupId=0c414044-1d21-4df1-a7ed-b2c972349bfa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Генерація випадкових і псевдовипадкових чисел",
+        "lecturer": "КБа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atKDvTwOvRDIIh-yk7J0NlP0hQ4AtBdcdWKckpZThAmI1%40thread.tacv2/conversations?groupId=0c414044-1d21-4df1-a7ed-b2c972349bfa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

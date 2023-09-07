@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "ФЛ-23, 008 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/95093445461?pwd=NFRnZjlUVHg4WlpMSVg3NFZROGtRZz09%20%20Meeting%20ID:%20950%209344%205461%20Passcode:%20gE8K6F"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "ФЛ-23, 008 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/95093445461?pwd=NFRnZjlUVHg4WlpMSVg3NFZROGtRZz09%20%20Meeting%20ID:%20950%209344%205461%20Passcode:%20gE8K6F"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "ФЛ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/94359130842?pwd=a3liOTRDaXI5cm4zbWR1ZlNUNHFtdz09%20%20Meeting%20ID:%20943%205913%200842%20Passcode:%209JdR8f"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "ФЛ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/94359130842?pwd=a3liOTRDaXI5cm4zbWR1ZlNUNHFtdz09%20%20Meeting%20ID:%20943%205913%200842%20Passcode:%209JdR8f"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 5",
+        "lecturer": "ФЛ-34, 008 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/92153236131?pwd=K0FCamthTzR0eHRpVVhHME1YNGtLZz09%20%20Meeting%20ID:%20921%205323%206131%20Passcode:%209NznCN"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 5",
+        "lecturer": "ФЛ-34, 008 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/92153236131?pwd=K0FCamthTzR0eHRpVVhHME1YNGtLZz09%20%20Meeting%20ID:%20921%205323%206131%20Passcode:%209NznCN"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 5",
+        "lecturer": "ФЛ-34, 008 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/92153236131?pwd=K0FCamthTzR0eHRpVVhHME1YNGtLZz09%20%20Meeting%20ID:%20921%205323%206131%20Passcode:%209NznCN"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "ФЛ-23, 008 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/95093445461?pwd=NFRnZjlUVHg4WlpMSVg3NFZROGtRZz09%20%20Meeting%20ID:%20950%209344%205461%20Passcode:%20gE8K6F"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 3",
+        "lecturer": "ФЛ-23, 008 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/95093445461?pwd=NFRnZjlUVHg4WlpMSVg3NFZROGtRZz09%20%20Meeting%20ID:%20950%209344%205461%20Passcode:%20gE8K6F"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

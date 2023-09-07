@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Технології та протоколи інформаційних систем",
+        "lecturer": "ІК-21, ІК-22, 108 XI н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технології та протоколи інформаційних систем",
+        "lecturer": "ІК-21, ІК-22, 108 XI н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

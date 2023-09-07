@@ -1,0 +1,174 @@
+[
+    {
+        "subject": "Програмування, частина 2 (Об`єктно-орієнтоване програмування)",
+        "lecturer": "КІ-11, КІ-12, КІ-13, КІ-14, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Програмування, частина 2 (Об`єктно-орієнтоване програмування)",
+        "lecturer": "КІ-15, КІ-16, КІ-17, 512 V н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Програмування, частина 2 (Об`єктно-орієнтоване програмування)",
+        "lecturer": "КІ-15, КІ-16, КІ-17, 512 V н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Програмування, частина 2 (Об`єктно-орієнтоване програмування)",
+        "lecturer": "КІ-11, КІ-12, КІ-13, КІ-14, 322 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "КІ-37, КІ-38, КІ-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76512095891?pwd=XF3Hy48A4w4Ce0pe2JpE3GqhiawbyP.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "КІ-37, КІ-38, КІ-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76512095891?pwd=XF3Hy48A4w4Ce0pe2JpE3GqhiawbyP.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інтернет-речей",
+        "lecturer": "КІа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78354341673?pwd=tmed5M78tLz3dIkHfM4ltK5Nll9VU3.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтернет-речей",
+        "lecturer": "КІа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78354341673?pwd=tmed5M78tLz3dIkHfM4ltK5Nll9VU3.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "КІ-31, КІ-32, КІ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72286827387?pwd=zAgZtfU60PSDfbbaiucUJ0XTgQIHbm.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "КІ-31, КІ-32, КІ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72286827387?pwd=zAgZtfU60PSDfbbaiucUJ0XTgQIHbm.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "КІ-34, КІ-35, КІ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76651026543?pwd=ZW8Nw8uyWCXiAC8hRr2qR8pciI6Isq.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "КІ-34, КІ-35, КІ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76651026543?pwd=ZW8Nw8uyWCXiAC8hRr2qR8pciI6Isq.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

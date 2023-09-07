@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "СА-41, СА-42,",
+        "subject": "Технології великих даних",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    },
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "СА-42,",
+        "subject": "Інновації аналізу даних",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "СА-33,",
+        "subject": "Нереляційні бази даних",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "СААД-11, САМ-11, 208 VIа н.к.,",
+        "subject": "Технології аналітики даних",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-24T00:00:00.000Z",
+        "lecturer": "КН-412, КН-413, КН-414,",
+        "subject": "Основи робототехніки",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/jvj-obwr-krn"
+        ]
+    },
+    {
+        "date": "2023-04-27T00:00:00.000Z",
+        "lecturer": "КН-417f,",
+        "subject": "Основи робототехніки",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/jvj-obwr-krn"
+        ]
+    }
+]

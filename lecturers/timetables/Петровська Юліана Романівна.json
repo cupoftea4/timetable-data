@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Проектування інтер`єрів, частина 2",
+        "lecturer": "ДС-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asY0dS64YydCZs7m8KbuU6EHQRBLPA2bGKVVbyuyxQHs1%40thread.tacv2/1677068038452?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dbe93c7e-83ba-4198-a8db-beb9051f76be%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Проектування інтер`єрів, частина 2",
+        "lecturer": "ДС-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asY0dS64YydCZs7m8KbuU6EHQRBLPA2bGKVVbyuyxQHs1%40thread.tacv2/1677068038452?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dbe93c7e-83ba-4198-a8db-beb9051f76be%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "ДС-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auLRNv749ASYWnwgbJGP0rRaA_Rx_45nYDON0dLV8hnM1%40thread.tacv2/1677067163055?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dbe93c7e-83ba-4198-a8db-beb9051f76be%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Проектування, частина 6",
+        "lecturer": "ДС-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3auLRNv749ASYWnwgbJGP0rRaA_Rx_45nYDON0dLV8hnM1%40thread.tacv2/1677067163055?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22dbe93c7e-83ba-4198-a8db-beb9051f76be%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

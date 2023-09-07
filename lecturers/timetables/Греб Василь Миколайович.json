@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Мікропроцесорні системи в техніці та медицині",
+        "lecturer": "МНМ-12, 331а III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Мікросхемотехніка,  частина 1",
+        "lecturer": "МН-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Мікросхемотехніка,  частина 1",
+        "lecturer": "МН-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Мікропроцесорні системи в техніці та медицині",
+        "lecturer": "МНМ-12, 331а III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Мікропроцесорні системи в техніці та медицині",
+        "lecturer": "МНМ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Давачі на основі напівпровідникових мікро та нанокристалів",
+        "lecturer": "МНМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Мікросхемотехніка,  частина 1",
+        "lecturer": "МН-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Мікросхемотехніка,  частина 1",
+        "lecturer": "МН-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Давачі на основі напівпровідникових мікро та нанокристалів",
+        "lecturer": "МНМ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7523706628?pwd=Hjs3aM7Tt6Zxa7cgGoOadTJQW8yQTW.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

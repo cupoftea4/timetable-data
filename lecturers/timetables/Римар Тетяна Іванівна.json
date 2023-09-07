@@ -1,0 +1,187 @@
+[
+    {
+        "subject": "Поводження з радіоактивними відходами",
+        "lecturer": "АЕ-41, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71458933042?pwd=syOeB9So1afIshErnpo0T1A0hvaMNz.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Поводження з радіоактивними відходами",
+        "lecturer": "АЕ-41, 209 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71458933042?pwd=syOeB9So1afIshErnpo0T1A0hvaMNz.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Захист від корозії та консервування обладнання атомних електричних станцій",
+        "lecturer": "АЕАЕ-11, ЗКК-ТТАЕ-101, 207 X н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Захист від корозії та консервування обладнання атомних електричних станцій",
+        "lecturer": "АЕАЕ-11, ЗКК-ТТАЕ-101, 057 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/95274173578?pwd=R3RCV2Yzbm5Hd3k5Um40L1VRRXJmQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Поводження з радіоактивними відходами",
+        "lecturer": "АЕ-31, 209 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71458933042?pwd=syOeB9So1afIshErnpo0T1A0hvaMNz.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Тепломасообмін",
+        "lecturer": "ТЕ-21, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Тепломасообмін",
+        "lecturer": "ТЕ-21, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Тепломасообмін в енергетичному обладнанні атомних електричних станцій",
+        "lecturer": "АЕ-21, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Тепломасообмін в енергетичному обладнанні атомних електричних станцій",
+        "lecturer": "АЕ-21, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Тепломасообмін",
+        "lecturer": "ТЕ-21, 211 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Тепломасообмін в енергетичному обладнанні атомних електричних станцій",
+        "lecturer": "АЕ-21, 211 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Тепломасообмін",
+        "lecturer": "ТЕ-21, 211 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Тепломасообмін в енергетичному обладнанні атомних електричних станцій",
+        "lecturer": "АЕ-21, 211 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/93877203239?pwd=dEFZWmQxOU9aamNHNGRFRWZvSGl4QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

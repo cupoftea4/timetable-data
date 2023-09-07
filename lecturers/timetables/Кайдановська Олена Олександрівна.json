@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Філософія професійної діяльності",
+        "lecturer": "ФІПД-АП-101, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71083694771?pwd=IFito0xez31IkCyxe1kdZJm75Djc9r.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Філософія професійної діяльності",
+        "lecturer": "ФІПД-АП-101, 333 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71083694771?pwd=IFito0xez31IkCyxe1kdZJm75Djc9r.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-11, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/87198161878?pwd=Oq3Ar89gzi8z3Hb8xaZbicwxifcTpR.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-11, 333 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/87198161878?pwd=Oq3Ar89gzi8z3Hb8xaZbicwxifcTpR.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методика архітектурного дослідження і проектування",
+        "lecturer": "АРБС-12, АРБС-13, 324б Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74622766628?pwd=tzfNx8FxWmxTRfjKaTNXJSGwHlLLqb.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методика архітектурного дослідження і проектування",
+        "lecturer": "АРБС-12, 324б Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74622766628?pwd=tzfNx8FxWmxTRfjKaTNXJSGwHlLLqb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Методика архітектурного дослідження і проектування",
+        "lecturer": "АРБС-13, 324б Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74622766628?pwd=tzfNx8FxWmxTRfjKaTNXJSGwHlLLqb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурна графіка та композиція, частина 2",
+        "lecturer": "АР-11, 313в Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/87198161878?pwd=Oq3Ar89gzi8z3Hb8xaZbicwxifcTpR.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Архітектурна графіка та композиція, частина 2",
+        "lecturer": "АР-11, 313в Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/87198161878?pwd=Oq3Ar89gzi8z3Hb8xaZbicwxifcTpR.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

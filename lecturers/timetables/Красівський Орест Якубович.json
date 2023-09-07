@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Публічне управління в ЄС",
+        "lecturer": "УАа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6360802429?pwd=c1VSRktJM0dZMzRlb0lDRURYMmpQUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Публічне управління в ЄС",
+        "lecturer": "УАа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6360802429?pwd=c1VSRktJM0dZMzRlb0lDRURYMmpQUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

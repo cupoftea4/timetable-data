@@ -1,0 +1,746 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, ДК-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76746947559?pwd=klk9SUfJ6AieYVMecKB3ORYsDT3B9Y.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Безпечна експлуатація інженерних систем і мереж",
+        "lecturer": "ЦБ-21, 132 III н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-41, СЗ-41, 236 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0e1a475a38a744df9fc935252be3c3a9@thread.tacv2/1676662165682?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=907005fd-47eb-47b0-9669-b68804551d99&parentMessageId=1676662165682&teamName=%D0%A1%D0%97-41%20%D1%96%20%D0%A1%D0%A0-41(%D0%9E%D0%9E%D0%9F%D1%96%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%97-%D0%A1%D0%A0&createdTime=1676662165682&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "МВ-35, МВ-36, СР-31, СР-32, 236 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77837129714?pwd=Crz5o9Oh0YJgqCkqsygstE3IuYs4Vn.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи  охорони праці та безпека життєдіяльності",
+        "lecturer": "СО-41, 236 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:b3656a02a8474a759c7a83642889d89d@thread.tacv2/1676660226605?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=12684caa-12cc-41fa-9688-c46bb4959960&parentMessageId=1676660226605&teamName=%D0%A1%D0%9E-41(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%20%D0%BF%D1%80%D0%B0%D1%86%D1%96%20%D1%82%D0%B0%20%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%9E-41&createdTime=1676660226605&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "МІ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:cd1ad0f0f8cf4e4eb6accdaa3b541bc2@thread.tacv2/1676661712079?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=d1f1e68a-841a-4a5e-9249-4ea007121227&parentMessageId=1676661712079&teamName=%D0%9C%D0%86-31&channelName=%D0%9C%D0%86&createdTime=1676661712079&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "МІ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:cd1ad0f0f8cf4e4eb6accdaa3b541bc2@thread.tacv2/1676661837408?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=d1f1e68a-841a-4a5e-9249-4ea007121227&parentMessageId=1676661837408&teamName=%D0%9C%D0%86-31&channelName=%D0%9C%D0%86&createdTime=1676661837408&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "МІ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:cd1ad0f0f8cf4e4eb6accdaa3b541bc2@thread.tacv2/1676661837408?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=d1f1e68a-841a-4a5e-9249-4ea007121227&parentMessageId=1676661837408&teamName=%D0%9C%D0%86-31&channelName=%D0%9C%D0%86&createdTime=1676661837408&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Безпечна експлуатація інженерних систем і мереж",
+        "lecturer": "ЦБ-21, 137 III н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Безпечна експлуатація інженерних систем і мереж",
+        "lecturer": "ЦБ-21, 313 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-41, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0e1a475a38a744df9fc935252be3c3a9@thread.tacv2/1676662506149?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=907005fd-47eb-47b0-9669-b68804551d99&parentMessageId=1676662506149&teamName=%D0%A1%D0%97-41%20%D1%96%20%D0%A1%D0%A0-41(%D0%9E%D0%9E%D0%9F%D1%96%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%97-%D0%A1%D0%A0&createdTime=1676662506149&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СЗ-41, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0e1a475a38a744df9fc935252be3c3a9@thread.tacv2/1676662331479?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=907005fd-47eb-47b0-9669-b68804551d99&parentMessageId=1676662331479&teamName=%D0%A1%D0%97-41%20%D1%96%20%D0%A1%D0%A0-41(%D0%9E%D0%9E%D0%9F%D1%96%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%97-%D0%A1%D0%A0&createdTime=1676662331479&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СЗ-41, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0e1a475a38a744df9fc935252be3c3a9@thread.tacv2/1676662331479?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=907005fd-47eb-47b0-9669-b68804551d99&parentMessageId=1676662331479&teamName=%D0%A1%D0%97-41%20%D1%96%20%D0%A1%D0%A0-41(%D0%9E%D0%9E%D0%9F%D1%96%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%97-%D0%A1%D0%A0&createdTime=1676662331479&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи  охорони праці та безпека життєдіяльності",
+        "lecturer": "СО-31, 236 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76979108849?pwd=s6N4CJGl4bLnbjTdpbU0AHqTe2HlEZ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "МВ-31, МВ-32, МВ-33, МВ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77006358030?pwd=pY1Pwax0KVOtqvX2bxDE6QZOwzitPi.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-32, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661223819?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661223819&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661223819&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:0e1a475a38a744df9fc935252be3c3a9@thread.tacv2/1676662655044?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=907005fd-47eb-47b0-9669-b68804551d99&parentMessageId=1676662655044&teamName=%D0%A1%D0%97-41%20%D1%96%20%D0%A1%D0%A0-41(%D0%9E%D0%9E%D0%9F%D1%96%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%97-%D0%A1%D0%A0&createdTime=1676662655044&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "СР-31, 302 III н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:fa8f76f15fd04a4aad88b06a809ecd0a@thread.tacv2/1676661064401?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=71a34704-9cf8-41ef-b1c8-763bb64177d0&parentMessageId=1676661064401&teamName=%D0%9B%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D1%96%2F%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%BD%D1%96%20%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8%20%D0%A1%D0%A0%2031-32&channelName=%D0%A1%D0%A0-3&createdTime=1676661064401&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи  охорони праці та безпека життєдіяльності",
+        "lecturer": "СО-41, 311 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:b3656a02a8474a759c7a83642889d89d@thread.tacv2/1676660469924?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=12684caa-12cc-41fa-9688-c46bb4959960&parentMessageId=1676660469924&teamName=%D0%A1%D0%9E-41(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%20%D0%BF%D1%80%D0%B0%D1%86%D1%96%20%D1%82%D0%B0%20%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%9E-41&createdTime=1676660469924&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Основи  охорони праці та безпека життєдіяльності",
+        "lecturer": "СО-41, 309 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:b3656a02a8474a759c7a83642889d89d@thread.tacv2/1676660469924?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=12684caa-12cc-41fa-9688-c46bb4959960&parentMessageId=1676660469924&teamName=%D0%A1%D0%9E-41(%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D0%B8%20%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8%20%D0%BF%D1%80%D0%B0%D1%86%D1%96%20%D1%82%D0%B0%20%D0%91%D0%96%D0%94)&channelName=%D0%A1%D0%9E-41&createdTime=1676660469924&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

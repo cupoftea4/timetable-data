@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "Столярчук Л.Б.,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09"
+        ]
+    },
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "Шевчук Г.Й.,",
+        "subject": "Розробка дисертаційного проєкту",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/78504363573?pwd=8Rf6bRmNghliNk5URd4UQxy1gSc9H8.1"
+        ]
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Управління інноваційно-інвестиційною діяльністю",
+        "lecturer": "УАі-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83078080244?pwd=cmREaUFDdHNIcGE5VUg3RE5ubzlPUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

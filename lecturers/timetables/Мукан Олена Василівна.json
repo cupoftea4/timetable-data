@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Документально-інформаційне забезпечення митної діяльності",
+        "lecturer": "МЕМД-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmVhMjEwNjYtOWYxYi00MTQ5LWJmYWUtYjM0NDUzNDVmZjFl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2256cb9c08-7470-451b-b8db-3650aaef489e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    }
+]

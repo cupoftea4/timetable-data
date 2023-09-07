@@ -1,0 +1,90 @@
+[
+    {
+        "subject": "Теорія масової комунікації",
+        "lecturer": "ЖР-31, ЖР-32, ЖР-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73459244251?pwd=P5TMSfU2XWVamfQag8UMEMt7JqcTx4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Екстремальна журналістика",
+        "lecturer": "ЖРЗВ-11, ЕЖУ-ЖЗМК-101, 108 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Екстремальна журналістика",
+        "lecturer": "ЖРЗВ-11, ЕЖУ-ЖЗМК-101, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79324214786?pwd=mgWCaWBTm7acR9RW1t0eoI2HLflk1M.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теорія масової комунікації",
+        "lecturer": "ЖР-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73459244251?pwd=P5TMSfU2XWVamfQag8UMEMt7JqcTx4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Теорія масової комунікації",
+        "lecturer": "ЖР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73459244251?pwd=P5TMSfU2XWVamfQag8UMEMt7JqcTx4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Теорія масової комунікації",
+        "lecturer": "ЖР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73459244251?pwd=P5TMSfU2XWVamfQag8UMEMt7JqcTx4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

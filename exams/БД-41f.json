@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-25T00:00:00.000Z",
+        "lecturer": "Хміль Р.Є.,",
+        "subject": "Реконструкція будівель і споруд",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/2480464688?pwd=M1h6bWZaaU5JNUphSk9wY2lqZ29Edz09"
+        ]
+    },
+    {
+        "date": "2023-04-27T00:00:00.000Z",
+        "lecturer": "Верба В.Б.,",
+        "subject": "Конструкції з дерева та пластмас",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/94533849929?pwd=Z1hmWnFFanQweURrNEdJKzEyb0MwQT09"
+        ]
+    }
+]

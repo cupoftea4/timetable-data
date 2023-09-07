@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Плесканка Н.М., 325 IV н.к.,",
+        "subject": "Комп`ютерні  мережі",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Керницький А.Б., 325 IV н.к.,",
+        "subject": "Системний аналіз",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGI5OThlOWUtOGQ2Ni00YmNmLTliMjctY2Y3YzFjOTA2Mjc2%40thread.v2/0?context=%7b%22Tid%22%3a%22b41b72d0-4e9f-4c26-8a69-f949f367c91d%22%2c%22Oid%22%3a%22929733e3-d520-4a9c-bce0-e6f533381bf1%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Марікуца У.Б., 325 IV н.к.,",
+        "subject": "Математичні методи дослідження операцій",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Кособуцький П.С., 325 IV н.к.,",
+        "subject": "Теорія інформації",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/3931947686?pwd=ZTlaMGdHZXhYQVRjSytGQ25GWFZyQT09"
+        ]
+    }
+]

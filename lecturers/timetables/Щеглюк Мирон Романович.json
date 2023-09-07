@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "ХТ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/87526391236?pwd=bEw2WS9ROVlRSW0yVmRsWDBoMnQvQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "ХТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82815975074?pwd=OFdyVjYrbzlsS3haNW9YQlArVW5XQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування хіміко-технологічними процесами",
+        "lecturer": "ХТ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/87674981037?pwd=TEdmZGdSTmFTanhtMzFaMkJDek1qZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

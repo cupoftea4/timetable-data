@@ -1,0 +1,210 @@
+[
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-31, МЕ-33, МЕ-35, МЕ-36, МЕ-37, МЕ-39, МЕ-311, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjk5Y2YxN2YtN2E2ZC00NmIzLThkYjUtYTU4MTI1NzYyNjYx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Циркулярна економіка: політика ЄС щодо сталого розвитку та конкурентоспроможності",
+        "lecturer": "МЕ-44, МЕ-45, МЕ-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjBmZmRiNGItYTk0Yy00MDJmLWJhYjQtZjg5NjgwNGMzMzVi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-35, МЕ-36, МЕ-37, МЕ-38, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjgzZjc1ZDktZWU1Mi00YWQ1LWExNDAtZDMxMDkwYWFiYWJl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Циркулярна економіка: політика ЄС щодо сталого розвитку та конкурентоспроможності",
+        "lecturer": "МЕ-44, МЕ-45, МЕ-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDE0NWUzYmEtOWFlYi00MWQzLTgzZGEtMTdjYzU2ODM3Y2I4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Циркулярна економіка: політика ЄС щодо сталого розвитку та конкурентоспроможності",
+        "lecturer": "МЕ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjRlYWMxNzQtZTI2YS00MzllLThmMDYtNzIwY2NhZDNiYTYy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Циркулярна економіка: політика ЄС щодо сталого розвитку та конкурентоспроможності",
+        "lecturer": "МЕ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjU3NGI2MDUtYTk3Ni00NTA4LWEzNGQtNDliYWVlNzJhYTcz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Циркулярна економіка: політика ЄС щодо сталого розвитку та конкурентоспроможності",
+        "lecturer": "МЕ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjlmM2M3YTEtNDVlYy00NzU5LWFiN2QtODdlZWExMGY0MDBl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Циркулярна економіка: політика ЄС щодо сталого розвитку та конкурентоспроможності",
+        "lecturer": "МЕ-44, МЕ-45, МЕ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmZmNTY2OGQtMGYzMC00MzZiLTlhNjItMjQ4YTJiZWNjNTMw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-44, МЕ-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDAxZDk1MmQtYTQxMy00MGU2LTkxYWEtYjAyMmNhMmZhMzEy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Офшорний бізнес",
+        "lecturer": "МЕ-44, МЕ-45, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDAxZDk1MmQtYTQxMy00MGU2LTkxYWEtYjAyMmNhMmZhMzEy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Зовнішньоекономічна діяльність підприємства",
+        "lecturer": "МЕ-25, МЕ-27, 116 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-31f, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWUyYmVkZjQtOTA4ZS00NDQ2LTk2N2QtMzRmYzEzYTM2YTBk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-31f, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWUyYmVkZjQtOTA4ZS00NDQ2LTk2N2QtMzRmYzEzYTM2YTBk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-31f, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWUyYmVkZjQtOTA4ZS00NDQ2LTk2N2QtMzRmYzEzYTM2YTBk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225484683b-d856-41e0-85ae-0645d513ccb8%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

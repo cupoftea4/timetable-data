@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "МТ-32,",
+        "subject": "Типові технологічні об`єкти і процеси",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/bhc-cydg-yxc"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "МТ-32,",
+        "subject": "Оцінювання відповідності продукції, послуг та персоналу",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/rjh-pmme-cvo"
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Правові норми журналістики України",
+        "lecturer": "ЖР-31, ЖР-32, ЖР-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76243073870?pwd=nkYwR7Fsv2KTnmlh3wmeaqVCfruBq3.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Правові норми журналістики України",
+        "lecturer": "ЖР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76243073870?pwd=nkYwR7Fsv2KTnmlh3wmeaqVCfruBq3.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Правові норми журналістики України",
+        "lecturer": "ЖР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76243073870?pwd=nkYwR7Fsv2KTnmlh3wmeaqVCfruBq3.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Правові норми журналістики України",
+        "lecturer": "ЖР-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76243073870?pwd=nkYwR7Fsv2KTnmlh3wmeaqVCfruBq3.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

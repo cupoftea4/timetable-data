@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "\nПрограмування скриптовими мовами",
+        "lecturer": " КБ-304",
+        "location": " 220 XX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "\nПрограмування скриптовими мовами",
+        "lecturer": " КБ-304",
+        "location": " 220 XX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "\nПрограмування скриптовими мовами",
+        "lecturer": " КБ-304",
+        "location": " 221 XX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "\nПрограмування скриптовими мовами",
+        "lecturer": " КБ-304",
+        "location": " 221 XX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

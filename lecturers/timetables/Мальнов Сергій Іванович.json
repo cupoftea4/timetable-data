@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Технічне діагностування автомобілів",
+        "lecturer": "АТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3983801872?pwd=Z2c5Z3RXVFIwZEVuREtkRm5sS0xlZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Засоби комп`ютерного діагностування автомобілів",
+        "lecturer": "АТ-23, 105 VI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3983801872?pwd=Z2c5Z3RXVFIwZEVuREtkRm5sS0xlZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Засоби комп`ютерного діагностування автомобілів",
+        "lecturer": "АТ-23, 105 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3983801872?pwd=Z2c5Z3RXVFIwZEVuREtkRm5sS0xlZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технічне діагностування автомобілів",
+        "lecturer": "АТ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3983801872?pwd=Z2c5Z3RXVFIwZEVuREtkRm5sS0xlZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,75 @@
+[
+    {
+        "subject": "Розробка технологій будівельних процесів, зведення будівель та споруд",
+        "lecturer": "БДПЦ-13, 413 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8890069079?pwd=ZGdRdWtTNnY0bWhnV0tIOTBZcnNDQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Розробка технологій будівельних процесів, зведення будівель та споруд",
+        "lecturer": "БДПЦ-12, 413 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8890069079?pwd=ZGdRdWtTNnY0bWhnV0tIOTBZcnNDQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-21, БД-22, БД-23, БД-24, 212 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8890069079?pwd=ZGdRdWtTNnY0bWhnV0tIOTBZcnNDQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Розробка технологій будівельних процесів, зведення будівель та споруд",
+        "lecturer": "БДПЦ-11, БДПЦ-12, БДПЦ-13, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8890069079?pwd=ZGdRdWtTNnY0bWhnV0tIOTBZcnNDQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-21, БД-22, БД-23, БД-24, 212 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

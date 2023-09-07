@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ІР-31, ІР-32, ІР-33,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9533396920?pwd=T2R5ZXhoeHQzNUhWb0d5T0x3UGxIQT09"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "СК-21, 526а IV н.к.,",
+        "subject": "Філософія",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "СК-22, 526а IV н.к.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "СТ-21, 309 V н.к.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": []
+    }
+]

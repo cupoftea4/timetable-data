@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Основи права Європейського Союзу",
+        "lecturer": "ПВ-41, ПВ-42, ПВ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/83120740535?pwd=WnBZQUJWcGdib0diblRrYURKL2p0QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи права Європейського Союзу",
+        "lecturer": "ПВ-44, ПВ-45, ПВ-47, ПВ-49, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/87598451092?pwd=dEJldzh2MWZSSWIyWUNmNS9ZbEdmUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи права Європейського Союзу",
+        "lecturer": "ПВ-49, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/89495108676?pwd=TTdyYVBReXlPYmloWE5ab29HNmJCQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи права Європейського Союзу",
+        "lecturer": "ПВ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/81347176227?pwd=emdIQnBFSVNXNXNYRGxSNUYyRVFDdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи права Європейського Союзу",
+        "lecturer": "ПВ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/83678869647?pwd=cUxFd1lqWHE3OXhydmhWRU5NWEI3Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи права Європейського Союзу",
+        "lecturer": "ПВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/86869631269?pwd=UER4TnlXRmtXNGJCeEdyZUdZaHZxdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи права Європейського Союзу",
+        "lecturer": "ПВ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/88298439863?pwd=RkZTUit1TTd2TUdhaGlyUnp6OERnQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи права Європейського Союзу",
+        "lecturer": "ПВ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/87896484480?pwd=UndIRWhjc1VtRzd3TTBzV3FKLzE2UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи права Європейського Союзу",
+        "lecturer": "ПВ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/84236268620?pwd=aFFtSGdLUm9MLzFJV1R1ZGl5cVhsdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

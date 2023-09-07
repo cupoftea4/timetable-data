@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Міжнародні фінанси",
+        "lecturer": "ПТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72689341217?pwd=aVwSk3Nd3lVpOJo5y8yPcDk5ZoZcEv.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

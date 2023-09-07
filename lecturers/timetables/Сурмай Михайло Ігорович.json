@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "БД-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "БД-338, 218 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "БД-338, 218 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "БД-41f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Будівельна механіка",
+        "lecturer": "БД-28, 112а II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Конструкції будівель та споруд, частина 4",
+        "lecturer": "ПБ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3661194960?pwd=VUhqS0dCZ1huT2RWZ29ZTjZNbXludz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

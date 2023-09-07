@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "КН-210, 408 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77406007955?pwd=GqJsxtUrkkUmHvbj8bRV75e6YrUbyb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "КН-210, 318 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77406007955?pwd=GqJsxtUrkkUmHvbj8bRV75e6YrUbyb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "КН-212, 318 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77406007955?pwd=GqJsxtUrkkUmHvbj8bRV75e6YrUbyb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "КН-212, 322 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77406007955?pwd=GqJsxtUrkkUmHvbj8bRV75e6YrUbyb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "КН-213, 327 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77406007955?pwd=GqJsxtUrkkUmHvbj8bRV75e6YrUbyb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні  мережі",
+        "lecturer": "КН-213, 327 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77406007955?pwd=GqJsxtUrkkUmHvbj8bRV75e6YrUbyb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    }
+]

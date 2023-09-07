@@ -1,0 +1,123 @@
+[
+    {
+        "subject": "\nДинамічна геодезія",
+        "lecturer": " Церклевич А.Л.",
+        "location": " 302 II н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nОрганізація та управління геодезичним виробництвом",
+        "lecturer": " Церклевич А.Л.",
+        "location": " 302 II н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nІнженерна геодезія, частина 1",
+        "lecturer": " Смірнова О.М.",
+        "location": " 507 II н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nІнженерна геодезія, частина 1",
+        "lecturer": " Смірнова О.М.",
+        "location": " 507 II н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nДинамічна геодезія",
+        "lecturer": " Церклевич А.Л.",
+        "location": " 507 II н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "\nІнженерна геодезія, частина 1",
+        "lecturer": " Смірнова О.М.",
+        "location": " 014 II н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nСучасні методи опрацювання інженерно-геодезичних спостережень",
+        "lecturer": " Віват А.Й., Смірнова О.М., 014 II н.к., Лабораторна ",
+        "location": "",
+        "urls": [
+            "https://classroom.google.com/c/MTg4MTcyMzI3Mzk1?cjc=rtpxnid"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nОрганізація та управління геодезичним виробництвом",
+        "lecturer": " Церклевич А.Л.",
+        "location": " 507 II н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "\nСучасні методи опрацювання інженерно-геодезичних спостережень",
+        "lecturer": " Віват А.Й.",
+        "location": " 302 II н.к.",
+        "urls": [
+            "https://classroom.google.com/c/MTg4MTcyMzI3Mzk1?cjc=rtpxnid"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

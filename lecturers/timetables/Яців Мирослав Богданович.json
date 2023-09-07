@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Світловий дизайн в архітектурі",
+        "lecturer": "СДАР-ДАС-102, 331 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGRiMTQ4NzctOGEwYy00ZTFhLWExZjAtMWY0NGY4MDdjYmQw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22003ab63f-3c14-4e1b-861e-31f087606b3e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "АР-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTgyNDI1NzUtZTAyZC00ZWEwLWJkNDQtNWEwYjljMTJhYjkz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22003ab63f-3c14-4e1b-861e-31f087606b3e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "АР-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTgyNDI1NzUtZTAyZC00ZWEwLWJkNDQtNWEwYjljMTJhYjkz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22003ab63f-3c14-4e1b-861e-31f087606b3e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "АР-45, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTRmYTQyMjMtYTQ4Yi00N2QwLTkzNzAtMmZiODY4MDgzNmM2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22003ab63f-3c14-4e1b-861e-31f087606b3e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "АР-45, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTRmYTQyMjMtYTQ4Yi00N2QwLTkzNzAtMmZiODY4MDgzNmM2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22003ab63f-3c14-4e1b-861e-31f087606b3e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Світловий дизайн в архітектурі",
+        "lecturer": "СДАР-ДАС-101, 331 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGQzYWNhMjktYTliNC00ZTgyLTk3OWMtYWEyNTAzZWQwZDc4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22003ab63f-3c14-4e1b-861e-31f087606b3e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,211 @@
+[
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "ХТХД-11, 218 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "ХТМ-11, 218 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Екологічні аспекти та технології переробки відходів харчових та косметичних виробництв",
+        "lecturer": "ХТХД-11, 202 VIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "ХТМ-11, 218 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "ХТХД-11, 218 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Екологічні аспекти та технології переробки відходів харчових та косметичних виробництв",
+        "lecturer": "ХТМ-11, (3-тя підгр.)",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Екологічні аспекти та технології переробки відходів харчових та косметичних виробництв",
+        "lecturer": "ХТХД-11, 202 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmNjYWViOWEtYzk1Yi00NzA0LThmY2QtZDUzNzIzYjcxOWNm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Екологічні аспекти та технології переробки відходів харчових та косметичних виробництв",
+        "lecturer": "ХТМ-11, (3-тя підгр.)",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Екологічні аспекти та технології переробки відходів харчових та косметичних виробництв",
+        "lecturer": "ХТХД-11, 202 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZmNjYWViOWEtYzk1Yi00NzA0LThmY2QtZDUzNzIzYjcxOWNm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "ХТХД-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTVlZTk1ZGEtOGMyNC00MjNjLTk1ZWMtNWQ5YTA4MGEwNTdl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія харчових виробництв, частина 2",
+        "lecturer": "ХТ-46, 202 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmRiYmQyOWYtMGI5Yi00ZDdmLTgyZDQtNjg0NjU5NmE4MDI5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія харчових виробництв, частина 2",
+        "lecturer": "ХТ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjBiMGYyNTUtNDlhOC00NzkxLTg4ZWEtZTQ0OTg4OWYzYTVm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія харчових виробництв, частина 2",
+        "lecturer": "ХТ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzM1M2QwM2QtMThhYi00YjVhLWJkNDgtY2MwNjI0MTc2ODcy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологія харчових виробництв, частина 2",
+        "lecturer": "ХТ-46, 202 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmE2ODI5M2YtNTZhOC00MDk0LWIzNjktZmFmMGM2NGIxN2Q0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b3b5023e-1d20-4162-a94b-9a56d26f31a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

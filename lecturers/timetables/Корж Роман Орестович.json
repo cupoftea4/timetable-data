@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Технології інформаційного менеджменту",
+        "lecturer": "ДКІБ-11, ДКІБ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6e3f9799e0b84319b6d6a8961b9e592f%40thread.tacv2/1677245425405?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Управління проектною діяльністю",
+        "lecturer": "ДКІБ-11, 521 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2efaf54801294530a08a30b77a154575%40thread.tacv2/1677148159658?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222ca787d9-5af2-4680-b536-ab81cc9a7850%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технології інформаційного менеджменту",
+        "lecturer": "ДКІБ-12, 520 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6e3f9799e0b84319b6d6a8961b9e592f%40thread.tacv2/1677245520398?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Управління проектною діяльністю",
+        "lecturer": "ДКІБ-12, 526 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2efaf54801294530a08a30b77a154575%40thread.tacv2/1677147903076?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222ca787d9-5af2-4680-b536-ab81cc9a7850%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технології інформаційного менеджменту",
+        "lecturer": "ДКІБ-11, 526 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6e3f9799e0b84319b6d6a8961b9e592f%40thread.tacv2/1677245584141?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22b316c11f-0ba2-486c-841c-0904d9675abe%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління проектною діяльністю",
+        "lecturer": "ДКІБ-11, ДКІБ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2efaf54801294530a08a30b77a154575%40thread.tacv2/1677147821437?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222ca787d9-5af2-4680-b536-ab81cc9a7850%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    }
+]

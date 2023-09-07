@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Кісь Я.П., 107 I н.к.,",
+        "subject": "Моделювання процесів аналізу даних",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/7359554324?pwd=eVc3aUo4UTdTQXo3aFJFZzIyQUg1UT09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Жежнич П.І., 525 IV н.к.,",
+        "subject": "Аналітика текстових та web-ресурсів",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Проданюк М.М., 208 VIа н.к.,",
+        "subject": "Технології оперативного аналізу даних",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3adgUs0JX65Lp8RE8cS48G5Zc_0r6A_i_xAPcTBtQy1mA1%40thread.tacv2/conversations?groupId=13ba3259-88d1-4f3a-bfd6-bd2e98a4a3d6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Берко А.Ю., 208 VIа н.к.,",
+        "subject": "Технології аналітики даних",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    }
+]

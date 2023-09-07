@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2023-06-15T00:00:00.000Z",
+        "lecturer": "Мичуда Л.З., 208 XIX н.к.,",
+        "subject": "Нормативно-правове забезпечення та міжнародні стандарти кібербезпеки",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ajr4Zo2JtvXjys0mSeaW11MvvFmnenArCAu_VkA5MROs1%40thread.tacv2/conversations?groupId=128044a3-0705-4c98-8e22-652d81184b30&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Семенюк С.А., 208 XIX н.к.,",
+        "subject": "Системи банківської безпеки",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Махоркін М.І., 208 XIX н.к.,",
+        "subject": "Дискретна математика",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Мороз Л.В., 202 XIX н.к.,",
+        "subject": "Програмування чисельних методів",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Войтусік С.С., 202 XIX н.к.,",
+        "subject": "Бази даних та знань",
+        "number": 4,
+        "urls": []
+    }
+]

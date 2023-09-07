@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Обладнання обробки тиском",
+        "lecturer": "МБ-21, МБ-22, 072 XIV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Обладнання обробки тиском",
+        "lecturer": "МП-22, 079 XIV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерне проектування технологічного оснащення",
+        "lecturer": "МБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерне проектування технологічного оснащення",
+        "lecturer": "МБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Обладнання обробки тиском",
+        "lecturer": "МП-21, МП-22, 111 VI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Обладнання обробки тиском",
+        "lecturer": "МБ-11сп, 081 XIV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерне проектування технологічного оснащення",
+        "lecturer": "МБ-31, МБ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерне проектування технологічного оснащення",
+        "lecturer": "МБ-31, МБ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/96050331774?pwd=azJvUFZ3eGNOZyswSVNUSTJQZkFHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

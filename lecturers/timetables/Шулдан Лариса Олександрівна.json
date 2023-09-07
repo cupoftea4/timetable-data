@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aiOkXiz9enAsBEzstOxRchTGM6Nq76NcNlspWCqf2Z941%40thread.tacv2/conversations?groupId=fb8780f0-e027-497f-ab10-30aca099743f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayX2FnSBqwGxRS_MQEsUAoAnQ94ai09YZWMF6kEHQhYI1%40thread.tacv2/conversations?groupId=cf8d8eb4-0752-49a1-b720-c9b20556cc35&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aROf5qoCJvMwE0Tz6jx4iQMsRwxivxaPa1XiDygdL6QU1%40thread.tacv2/conversations?groupId=15a98900-df45-4c14-aa14-479d01a65982&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-37, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3awNrucAzm9lMA7l0IBqmraz-6OyH4oQ2fv-Wx8xZZAe01%40thread.tacv2/conversations?groupId=5f6578fb-454e-49d3-bda0-4586c0224c35&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5iZcg8YGXl-rh7PMqXSz5_fLzcjFCzpGOBncshgb9fw1%40thread.tacv2/conversations?groupId=a5bdf914-c64f-4d34-befe-4e789f27221d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aAsITUd6ZmoWKL3XqsWZUcKRq64AONXXYj-2wpmtJIPM1%40thread.tacv2/conversations?groupId=32c5b925-ffbd-4996-bffa-68b8418bb840&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3an7tBKLasxdzzstIl_CsEBTBnlHHIHRK_nD8-OET0QNk1%40thread.tacv2/conversations?groupId=c2abcd49-d019-4532-b4bd-47ef0fe34ce6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aoFtVzClga1Pm-gGeSEcLuSLONEZfbc4ddhBpm3KCJis1%40thread.tacv2/conversations?groupId=aaf30aca-cb3e-4dbb-9245-19c87603c06a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9N8HbOkWk62NgzPONzD-_PsWGl-nE6h_w9QdmrKC-UQ1%40thread.tacv2/conversations?groupId=79262424-a571-415d-97c8-076e98fd846b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-31, АР-32, АР-33, АР-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afmChLFFOP6yEFyfxQOtUI61IJd3TR4dbblACwr3jYWk1%40thread.tacv2/conversations?groupId=ccb9a77b-3c8d-4645-a77c-06655151c486&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-35, АР-36, АР-37, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3azpOuYOVphg3PO7g-GVdqhbOHI9aCDrF_GiuEn71zZX41%40thread.tacv2/conversations?groupId=4ecdaab5-6f4c-4cc2-a7ee-52654900e3f1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурна фізика, частина 2",
+        "lecturer": "АР-38, АР-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a-Pcn51savmhuz9I_GUjY0JtEan9oYzMG83kZC8Qo4L81%40thread.tacv2/conversations?groupId=34a5f052-f0fa-4f49-8af6-726ebbb60529&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

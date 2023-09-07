@@ -1,0 +1,99 @@
+[
+    {
+        "subject": "Організація праці",
+        "lecturer": "ЕК-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa6609b10e2f74217ac41dd56fd84fa87%40thread.tacv2/1677083959132?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2235b39b72-71f2-40f5-ada0-72016b184c34%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Організація праці",
+        "lecturer": "ЕК-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa6609b10e2f74217ac41dd56fd84fa87%40thread.tacv2/1677084368431?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2235b39b72-71f2-40f5-ada0-72016b184c34%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "ІМЖ-МПА-203, 202 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "ІМЖ-МПА-204, 202 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "ІМЖ-МПА-202, 109 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "ІМЖ-МПА-201, ІМЖ-МПА-202, ІМЖ-МПА-203, ІМЖ-МПА-204, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aBTXo-6oprO433AmmumNVWeaTDuOCzDy2pRl8Qph6QXs1%40thread.tacv2/1677082947889?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2235b39b72-71f2-40f5-ada0-72016b184c34%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    },
+    {
+        "subject": "Іміджелогія",
+        "lecturer": "ІМЖ-МПА-201, 109 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

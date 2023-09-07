@@ -1,0 +1,125 @@
+[
+    {
+        "subject": "Міжнародне приватне право",
+        "lecturer": "ПВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85099751800?pwd=ZXo2WXJRZ0loY005KzVMejFKUEN3UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародне приватне право",
+        "lecturer": "ПВ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83041907687?pwd=dzNLYW9Qa0daY1E4VXBiQXVGVEtmQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародне приватне право",
+        "lecturer": "ПВ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84449665968?pwd=TWlab1BPUTZwdUwvelJvRDFUc3k0Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Конституційне право України",
+        "lecturer": "ПВ-17, 026 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конституційне право України",
+        "lecturer": "ПВ-15, 011 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Конституційне право України",
+        "lecturer": "ПВ-16, 027 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Конституційне право України",
+        "lecturer": "ПВ-16, 027 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Конституційне право України",
+        "lecturer": "ПВ-17, 036 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Конституційне право України",
+        "lecturer": "ПВ-15, 035 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

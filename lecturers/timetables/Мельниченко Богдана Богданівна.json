@@ -1,0 +1,269 @@
+[
+    {
+        "subject": "Конституційна юрисдикція",
+        "lecturer": "ПВ-310, ",
+        "location": ", практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Конституційна юрисдикція",
+        "lecturer": "ПВ-33, ПВ-37, ПВ-38, ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Конституційна юрисдикція",
+        "lecturer": "ПВ-33, ПВ-310, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Конституційна юрисдикція",
+        "lecturer": "ПВ-310, ",
+        "location": ", практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Конституційна юрисдикція",
+        "lecturer": "ПВ-33, ПВ-37, ПВ-38, ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Конституційна юрисдикція",
+        "lecturer": "ПВ-33, ПВ-37, ПВ-38, ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Конституційна юрисдикція",
+        "lecturer": "ПВ-310, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Конституційна юрисдикція",
+        "lecturer": "ПВ-33, ПВ-37, ПВ-38, ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Конституційна юрисдикція",
+        "lecturer": "ПВ-310, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Актуальні проблеми міжнародного приватного права",
+        "lecturer": "АПМП-ТПК-101, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Актуальні проблеми міжнародного приватного права",
+        "lecturer": "АПМП-ТПК-101, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "МЗПЛ-ТПК-101, МЗПЛ-ТПК-102, МЗПЛ-ТПК-103, МЗПЛ-ТПК-104, МЗПЛ-ТПК-105, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/3274173439?pwd=ZzRrSEtmTHBPS3VJRmpkOGdYL2FKUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "МЗПЛ-ТПК-105, 307 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "МЗПЛ-ТПК-104, 302 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "МЗПЛ-ТПК-103, 324а XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "МЗПЛ-ТПК-102, 324а XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "МЗПЛ-ТПК-101, 324а XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "ПВПР-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82225744017?pwd=TnFLaSt3eTBtT0ZyUG9oL2l5MEtiQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний захист прав людини",
+        "lecturer": "ПВПР-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82225744017?pwd=TnFLaSt3eTBtT0ZyUG9oL2l5MEtiQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

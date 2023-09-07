@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-24T00:00:00.000Z",
+        "lecturer": "Лашко О.Л.,",
+        "subject": "Технології опрацювання сигналів і зображень",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/79635291150?pwd=bpAtybXan6IzXrfOJntT5bnKaEYbUe.1"
+        ]
+    },
+    {
+        "date": "2023-04-27T00:00:00.000Z",
+        "lecturer": "Пуйда В.Я.,",
+        "subject": "Мікропроцесорні системи",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/83474471534?pwd=QjdJT3NyZFFQRitPYWxzSnJLcGw0Zz09"
+        ]
+    }
+]

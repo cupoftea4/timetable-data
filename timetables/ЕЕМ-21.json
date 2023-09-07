@@ -1,0 +1,108 @@
+[
+    {
+        "subject": "\nСпецкурс з наукових досліджень спеціальності, частина 2",
+        "lecturer": " Куцик А.С., Лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nСпецкурс з наукових досліджень спеціальності, частина 2",
+        "lecturer": " Куцик А.С.",
+        "location": " 119 Гол. н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nНаукові дослідження та семінари за їх тематикою",
+        "lecturer": " Гоголюк О.П.",
+        "location": " 115 Гол. н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nСпецкурс з наукових досліджень спеціальності, частина 1",
+        "lecturer": " Лозинський А.О.",
+        "location": " 141 Гол. н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nАнглійська мова у наукових дослідженнях",
+        "lecturer": " Білецький Ю.О.",
+        "location": " 121 Гол. н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nПрактикум з підготовки наукових публікацій, презентації результатів, проведення патентного пошуку та підготовки патентів",
+        "lecturer": " Білецький Ю.О.",
+        "location": " 121 Гол. н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nСпецкурс з наукових досліджень спеціальності, частина 1",
+        "lecturer": " Лозинський А.О., Лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "\nНаукові дослідження та семінари за їх тематикою",
+        "lecturer": " Гоголюк О.П., Лекція ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDUyMTFiYjAtMjRmOC00M2EyLTkyZDgtMjFkN2VlMWIzMTdh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ca6a9b25-b57f-4da2-9a61-39b014cd88e2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

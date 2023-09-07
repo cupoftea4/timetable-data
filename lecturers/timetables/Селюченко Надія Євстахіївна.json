@@ -1,0 +1,45 @@
+[
+    {
+        "subject": "Фінансовий менеджмент та оподаткування у будівництві",
+        "lecturer": "ЕКУБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "http://meet.google.com/par-hzmt-zig"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Фінансова діяльність суб`єктів підприємництва",
+        "lecturer": "ЕБ-21, 424 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фінансова діяльність суб`єктів підприємництва",
+        "lecturer": "ЕБ-21, ЕБ-22, ЕБ-23, 421 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "http://meet.google.com/trd-puhp-guu"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

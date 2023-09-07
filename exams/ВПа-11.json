@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "Рак Н.В.,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/79446606481?pwd=yPBgBQgP2vsV21WdIwu3g6Ea9FdVa3.1"
+        ]
+    },
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "Ткаченко Р.О.,",
+        "subject": "Системи штучного інтелекту у видавництві та поліграфії",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/cig-tumq-vkh"
+        ]
+    }
+]

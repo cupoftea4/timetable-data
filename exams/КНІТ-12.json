@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Корпильов Д.В., 325 IV н.к.,",
+        "subject": "Системи автоматизації конструкторського проектування",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/jxb-aiec-tgb?authuser=0"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Матвійків О.М., 325 IV н.к.,",
+        "subject": "Мультимасштабне проектування рідинних мікросистем",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/nfe-erhj-csg"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Качур О.Ю., 321 IV н.к.,",
+        "subject": "Розширене проектування мікросистемних пристроїв",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aNOuRSk6wnSddnS-pNURnXsbE--XnpOfCeRbQNdCnwQk1%40thread.tacv2/1687071891103?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2222258831-e2ae-4435-8f4a-7b83013d18c0%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "Кособуцький П.С., 325 IV н.к.,",
+        "subject": "Прогресивні методи проектування і виробництва наносистем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/77060533007?pwd=Kx3TLIZS4OoOm3gqLJznJpqCIIaCjG.1"
+        ]
+    }
+]

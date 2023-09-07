@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Проектування у виробництві тугоплавких неметалевих і силікатних матеріалів",
+        "lecturer": "ХТ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування у виробництві тугоплавких неметалевих і силікатних матеріалів",
+        "lecturer": "ХТ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Проектування у виробництві тугоплавких неметалевих і силікатних матеріалів",
+        "lecturer": "ХТ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Проектування у виробництві тугоплавких неметалевих і силікатних матеріалів",
+        "lecturer": "ХТ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Петрографія і прикладне матеріалознавство натурального каменю",
+        "lecturer": "РМ-21, 111 IX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Петрографія і прикладне матеріалознавство натурального каменю",
+        "lecturer": "РМ-21, 111 IX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Петрографія і прикладне матеріалознавство натурального каменю",
+        "lecturer": "РМ-21, 111 IX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/7303990778?pwd=RFNnQ3lWRWhwRzJQQ0tMRW1HMm5iUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

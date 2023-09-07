@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nМережні операційні системи",
+        "lecturer": " КІ-41, КІ-42, КІ-43, 512 V н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "\nМережні операційні системи",
+        "lecturer": " КІ-44, КІ-45, 512 V н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

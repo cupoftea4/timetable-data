@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Судова медицина",
+        "lecturer": "ПВ-49, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73180911070?pwd=89ZJlZsnrFbkS3sDEvWr8RhKugfFZF.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Судова медицина",
+        "lecturer": "ПВ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71889484863?pwd=rqvQQbV61KDsGEsg8R6qpIbz35z5U1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Судова медицина",
+        "lecturer": "ПВ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75881191940?pwd=ux57htSbS6H11b4Kaoa5hWURlxZUdp.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Судова медицина",
+        "lecturer": "ПВ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78622310183?pwd=AiKsQnX0LOUFWFgUklin0mtq6rV85a.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Судова медицина",
+        "lecturer": "ПВ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78380865028?pwd=YuwDeJj1sHSVTcjejVrpBjCFNDO7zj.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Судова медицина",
+        "lecturer": "ПВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74215928038?pwd=KjE4fPTIQeNexOxXGF1dbiWreBb9IX.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Судова медицина",
+        "lecturer": "ПВ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73228849241?pwd=nUatv7mSUfSh8HaZiplFi95zEeSFcM.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

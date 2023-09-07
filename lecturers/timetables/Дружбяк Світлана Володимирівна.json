@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "lecturer": "ФЛ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://softserveinc.zoom.us/j/98390284591?pwd=RUcwTWtTMmJwNk1aeC9Nd3RrWDA3QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "lecturer": "ФЛ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://softserveinc.zoom.us/j/96212488488?pwd=cGtBanpFc1hrMVVEYXJXeDRHcVUwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Теорія термінографії",
+        "lecturer": "ФЛа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://softserveinc.zoom.us/j/99941996246?pwd=K1UycEpZRXUzT1oxNXlBQ1BJaFpSZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Теорія термінографії",
+        "lecturer": "ФЛа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://softserveinc.zoom.us/j/99941996246?pwd=K1UycEpZRXUzT1oxNXlBQ1BJaFpSZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Теорія термінознавства",
+        "lecturer": "ФЛа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://softserveinc.zoom.us/j/99941996246?pwd=K1UycEpZRXUzT1oxNXlBQ1BJaFpSZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Теорія термінознавства",
+        "lecturer": "ФЛа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://softserveinc.zoom.us/j/99941996246?pwd=K1UycEpZRXUzT1oxNXlBQ1BJaFpSZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

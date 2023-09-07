@@ -1,0 +1,114 @@
+[
+    {
+        "subject": "Системне програмування та операційні системи",
+        "lecturer": "ВП-22, 803 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Системне програмування та операційні системи",
+        "lecturer": "ВП-22, 908 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Системне програмування та операційні системи",
+        "lecturer": "ВП-21, 912 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Системне програмування та операційні системи",
+        "lecturer": "ВП-21, 912 V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "КН-218, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "КН-301, КН-302, КН-303, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна графіка",
+        "lecturer": "КН-304, КН-305, 807 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/95251304334?pwd=Z0pKdFJnNFB3L2hMa1NzTXd4RUY3dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системне програмування та операційні системи",
+        "lecturer": "ВП-21, ВП-22, 908 V н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

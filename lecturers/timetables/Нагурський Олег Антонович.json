@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ІТ-23, 307 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3arFg8vommI3R_J37YUr5MCnmXNzq8fGsdbpeC0RgneSU1%40thread.tacv2/1677071198895?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228db82f74-5455-4fde-96f3-88dc4f17219e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПЗ-44, ПЗ-45, ПЗ-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2_diEEsdAFVueC41nIVsTEVq82l0CIM3VkvXJJlFa4c1%40thread.tacv2/1677074631176?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228db82f74-5455-4fde-96f3-88dc4f17219e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "ЦБПБ-11, 307 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aHCN5u5oT0KNFoQatadxQUim1c8d5_yMPC9R8fWIg-5Y1%40thread.tacv2/1677069151261?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228db82f74-5455-4fde-96f3-88dc4f17219e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методологія наукових досліджень",
+        "lecturer": "ЦБПБ-11, 307 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aHCN5u5oT0KNFoQatadxQUim1c8d5_yMPC9R8fWIg-5Y1%40thread.tacv2/1677069151261?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%228db82f74-5455-4fde-96f3-88dc4f17219e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи ергономіки",
+        "lecturer": "ЦБПБ-11, 313 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/5360975860?pwd=Nk14aE1sODdkaHRiN05OU1pnMGh1Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи ергономіки",
+        "lecturer": "ЦБПБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5360975860?pwd=Nk14aE1sODdkaHRiN05OU1pnMGh1Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

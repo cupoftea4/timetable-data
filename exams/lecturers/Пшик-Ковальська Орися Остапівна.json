@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "МЕБА-11, МЕБА-12, 525 IV н.к.,",
+        "subject": "Адміністрування міжнародних бізнес-структур",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a7Cyg9D0GFvpVDWVykAH6S1dqPIN1LquprASQHEar_sY1%40thread.tacv2/1686744708062?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c84fa7f6-33cd-42eb-b042-dc78d59cbd88%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ЕВ-11, ЕВ-12, ЕВ-13, 209 IV н.к.,",
+        "subject": "Менеджмент",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Мудрий В.Я.,",
+        "subject": "Машинне навчання",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Кравченко Г.В.,",
+        "subject": "Управління ІТ проектами",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Берко А.Ю.,",
+        "subject": "Нереляційні бази даних",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/4333573499?pwd=aWNPYW1iUzFlSkxlc2tIUHFvL3JOQT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Лозицький О.А.,",
+        "subject": "Web-технології та Web-дизайн",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/8947178091?pwd=Q0k2VkJ2MlhwNUU5Ym1SS3BIc3hxdz09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Тарасов Д.О.,",
+        "subject": "Хмарні технології",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a130fd327df584203bd15c8ea63477e26%40thread.tacv2/%25D0%2594%25D0%25B8%25D1%2581%25D1%2582%25D0%2597%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F2022-23?groupId=0df1874e-28cf-4116-b49d-7156db735e8a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

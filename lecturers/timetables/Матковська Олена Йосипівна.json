@@ -1,0 +1,129 @@
+[
+    {
+        "subject": "Сучасна англійська мова, частина 5",
+        "lecturer": "ФЛ-34, 118 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82167259445?pwd=SHozR0hUOS85RnVvVnhoRTZhbjg1Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 1",
+        "lecturer": "ФЛ-11, 118 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 1",
+        "lecturer": "ФЛ-11, 118 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "ФЛ-43, 406 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86136493293?pwd=eHJGNzl5c1BrdDJaNlRYeHgxUVlGZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "ФЛ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86136493293?pwd=eHJGNzl5c1BrdDJaNlRYeHgxUVlGZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 5",
+        "lecturer": "ФЛ-34, 129 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82167259445?pwd=SHozR0hUOS85RnVvVnhoRTZhbjg1Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 5",
+        "lecturer": "ФЛ-34, 129 IV н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82167259445?pwd=SHozR0hUOS85RnVvVnhoRTZhbjg1Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 1",
+        "lecturer": "ФЛ-11, 404 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 1",
+        "lecturer": "ФЛ-11, 404 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    }
+]

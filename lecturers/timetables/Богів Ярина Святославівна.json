@@ -1,0 +1,172 @@
+[
+    {
+        "subject": "Міжнародне право",
+        "lecturer": "ПВ-23, 328 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародне право",
+        "lecturer": "ПВ-24, 324а XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародне право",
+        "lecturer": "ПВ-25, 324а XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародне право",
+        "lecturer": "ПВа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/osn-gabp-zkm"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародне право",
+        "lecturer": "ПВ-27, 324а XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародне право",
+        "lecturer": "ПВ-26, 301 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Правове регулювання зовнішньо-економічної діяльності",
+        "lecturer": "ПВ-46, ПВ-48, ПВ-410, ПВ-411, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/zud-zbnr-gtd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародне право",
+        "lecturer": "ПВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/osn-gabp-zkm"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Правове регулювання зовнішньо-економічної діяльності",
+        "lecturer": "ПВ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/jwk-dqtb-qzt"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Правове регулювання зовнішньо-економічної діяльності",
+        "lecturer": "ПВ-48, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/vsp-fwmc-ptx"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Правове регулювання зовнішньо-економічної діяльності",
+        "lecturer": "ПВ-410, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjVhZTQ3MzItZDVkNy00ZWI0LWI1ZjEtNjgyOTZjODkwOGEz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225abe9398-488f-4176-8d0e-bf9e4b4c629b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Правове регулювання зовнішньо-економічної діяльності",
+        "lecturer": "ПВ-411, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/bvh-siwk-exp"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

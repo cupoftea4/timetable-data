@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Теорія і практика інформаційно-знаннєвого суспільства",
+        "lecturer": "МІ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86085713787?pwd=Njgra09GMlBzS1BDR2RHeWYxcUI5QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Теорія і практика інформаційно-знаннєвого суспільства",
+        "lecturer": "МІ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86085713787?pwd=Njgra09GMlBzS1BDR2RHeWYxcUI5QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

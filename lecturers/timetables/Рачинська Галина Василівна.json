@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Бізнес-планування діяльності підприємств",
+        "lecturer": "КІКС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інфраструктура малого та середнього бізнесу",
+        "lecturer": "МЕОА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/85643080499?pwd=dDhhWUJxcFJBOUhtbWExVFprbE90UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інфраструктура малого та середнього бізнесу",
+        "lecturer": "МЕОА-11, 420 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72243600457?pwd=qw29ge3AqNInvyau8enfSNSUrhlpKV.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-планування діяльності підприємств",
+        "lecturer": "КІКС-11, 512 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Соціальний менеджмент",
+        "lecturer": "МЕ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Соціальний менеджмент",
+        "lecturer": "МЕ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Соціальний менеджмент",
+        "lecturer": "МЕ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Соціальний менеджмент",
+        "lecturer": "МЕ-31, МЕ-32, МЕ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Бізнес-планування діяльності підприємства",
+        "lecturer": "БПП-МО-301, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Бізнес-планування діяльності підприємства",
+        "lecturer": "БПП-МО-301, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

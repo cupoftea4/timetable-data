@@ -1,0 +1,56 @@
+[
+    {
+        "subject": "Проектування програмного забезпечення комп`ютерно-інтегрованих систем керування",
+        "lecturer": "АВКВ-12, АВМ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83937780235?pwd=OVY2VTA3L1Q3Vkw5LzdUdGpUTTM5Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Системи і мережі передавання даних",
+        "lecturer": "АВ-11сп, 086 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Мікропроцесорна техніка",
+        "lecturer": "АВ-11сп, 086 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектування програмного забезпечення комп`ютерно-інтегрованих систем керування",
+        "lecturer": "АВКВ-12, АВМ-12, 082 X н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

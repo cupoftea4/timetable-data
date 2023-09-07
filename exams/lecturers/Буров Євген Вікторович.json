@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "КН-219f, 406 I н.к.,",
+        "subject": "Комп`ютерні мережі",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/87383843080?pwd=eXBIN3BxZFJRQW1wMHFMY1ZWd2RMdz09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "КН-216, КН-217, 114 I н.к.,",
+        "subject": "Комп`ютерні  мережі",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/81622398117?pwd=KzVtVkkyUVMvazJ6ekk0MHF6cmRDdz09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "КН-214, КН-215, 114 I н.к.,",
+        "subject": "Комп`ютерні  мережі",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/82147910376?pwd=MDAvK01DbDRKTWNZUGhyeG9jTzNoQT09"
+        ]
+    }
+]

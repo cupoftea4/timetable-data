@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Стасюк І.М.,",
+        "subject": "Атрибуція та експертиза історико-культурних пам`яток",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/3449405168?pwd=MnVEMmJqSmlXQ0lrMHNvaUxiZDdzUT09%20Meeting%20ID:%203449405168%20Passcode:%20362018"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Мельник Р.І.,",
+        "subject": "Архівознавство",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72372320909?pwd=NWhRbCtEc05Vb2IzUzZXdmxrdVIzQT09"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Банах В.М.,",
+        "subject": "Наукова робота у музейній та пам`яткоохоронній діяльності",
+        "number": 1,
+        "urls": [
+            "https://zoom.us/j/8750148606?pwd=MkdrU1VKQkdVczFCUzV6OVY1bkVxUT09"
+        ]
+    }
+]

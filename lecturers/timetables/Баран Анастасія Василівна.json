@@ -1,0 +1,183 @@
+[
+    {
+        "subject": "Кримінальне право, частина 2",
+        "lecturer": "ПВ-21, 307 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Кримінальне право, частина 2",
+        "lecturer": "ПВ-21, 307 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73793789732?pwd=2lfSOECkrYtUflL3AGaKBX59MjqE7l.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77495183536?pwd=prAhBKR0X9oI3OFMSfO1CFDyIyfvNj.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77495183536?pwd=prAhBKR0X9oI3OFMSfO1CFDyIyfvNj.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "lecturer": "ПВ-17, 329 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "lecturer": "ПВ-19, 307 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "lecturer": "ПВ-110, 307 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "lecturer": "ПВ-18, 026 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "lecturer": "ПВ-16, 035 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71724191407?pwd=bFJgZB4fS3C6C3RmldwWdOlW6xMD7I.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75089238821?pwd=UlNsGC8oeObtPsZxNqphO9k4lmVt8B.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74312609621?pwd=hWPVdWlr5d39zj3OBsagEVvZjsE2mS.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

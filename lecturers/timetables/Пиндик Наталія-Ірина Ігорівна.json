@@ -1,0 +1,88 @@
+[
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/NKKzHnd8Lug7"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Друга іноземна мова, частина 1",
+        "lecturer": "ТУ-21, 027 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Друга іноземна мова, частина 1",
+        "lecturer": "ТУ-21, 027 VII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/NKKzHnd8Lug7"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/LTL83qe7bNa4"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/LTL83qe7bNa4"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

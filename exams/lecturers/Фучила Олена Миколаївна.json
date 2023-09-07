@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "ГДа-11, БДа-11,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ae0e4f51-cd68-4b4b-bf85-6f8ae89ed1ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_ZsKF2qj8smj8Y0LTKle3hW4npJoLPYiE9q3O9KPfHck1@thread.tacv2&messageId=1683643430339&language=en-US"
+        ]
+    },
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "КНа-12,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ae0e4f51-cd68-4b4b-bf85-6f8ae89ed1ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_atUyfZlX1nsf4PxOgfb4auONpjZlkSuKVIDgFdaIIuo1@thread.tacv2&messageId=1683643613848&language=en-US"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ТТ-11, 015 VII н.к., 025 VII н.к.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "number": 2,
+        "urls": []
+    }
+]

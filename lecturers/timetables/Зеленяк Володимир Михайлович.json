@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ФР-11, 315 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77394389686?pwd=bJkm3MuXHGVEULZgaK445AZpa2nOe9.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "ХР-11, ХР-12, 315 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77394389686?pwd=bJkm3MuXHGVEULZgaK445AZpa2nOe9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ФР-11, 101 IX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73519282630?pwd=4KtgQV0d13mXn7wqu9PSON7qKNV2vU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ФР-11, 101 IX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77394389686?pwd=bJkm3MuXHGVEULZgaK445AZpa2nOe9.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "ХР-11, 315 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75527541785?pwd=0Uv6TmDENPwEh8hoTTg1hTMbU8SLFE.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Математика, частина 2",
+        "lecturer": "ХР-12, 315 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75527541785?pwd=0Uv6TmDENPwEh8hoTTg1hTMbU8SLFE.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ФР-11, 404 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75527541785?pwd=0Uv6TmDENPwEh8hoTTg1hTMbU8SLFE.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

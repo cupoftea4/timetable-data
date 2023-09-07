@@ -1,0 +1,80 @@
+[
+    {
+        "subject": "\nДіагностування електричного і електронного обладнання автомобіля",
+        "lecturer": " АТ-41, АТ-42, 214 VI н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nДіагностування та ремонт електричного і електронного обладнання автомобіля",
+        "lecturer": " АТ-34",
+        "location": " 302 VI н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nОснови комп`ютерного діагностування автомобілів",
+        "lecturer": " АТ-21сп",
+        "location": " 216 VI н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nОснови комп`ютерного діагностування автомобілів",
+        "lecturer": " АТ-21сп",
+        "location": " 216 VI н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nОснови комп`ютерного діагностування автомобілів",
+        "lecturer": " АТ-21сп",
+        "location": " 216 VI н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nРемонт електричного і електронного обладнання автомобіля",
+        "lecturer": " АТ-41, АТ-42, 214 VI н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

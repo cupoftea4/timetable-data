@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Управління бізнес-процесами",
+        "lecturer": "ЕКЕБ-12, ЕКЕБ-13, ЕКЕБ-14, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/rjw-egpt-ujd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління бізнес-процесами",
+        "lecturer": "ЕКЕБ-12, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/rvc-bonf-tba"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління бізнес-процесами",
+        "lecturer": "ЕКЕБ-13, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/rvc-bonf-tba"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління бізнес-процесами",
+        "lecturer": "ЕКЕБ-14, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/rvc-bonf-tba"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

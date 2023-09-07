@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-06-09T00:00:00.000Z",
+        "lecturer": "Шестакевич Т.В.,",
+        "subject": "Корпусна лінгвістика",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/twm-ushs-nhj"
+        ]
+    },
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "Бондарчук Н.І.,",
+        "subject": "Сучасна англійська мова, частина 8",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/94359130842?pwd=a3liOTRDaXI5cm4zbWR1ZlNUNHFtdz09"
+        ]
+    },
+    {
+        "date": "2023-06-12T00:00:00.000Z",
+        "lecturer": "Дужа-Задорожна М.П.,",
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/7952037891?pwd=NDUzRUpSYmxLVlJ0ZnErUE9UVlpOdz09"
+        ]
+    },
+    {
+        "date": "2023-06-15T00:00:00.000Z",
+        "lecturer": "Дужа-Задорожна М.П.,",
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/7952037891?pwd=NDUzRUpSYmxLVlJ0ZnErUE9UVlpOdz09"
+        ]
+    }
+]

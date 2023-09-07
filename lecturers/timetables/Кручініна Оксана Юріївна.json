@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Зовнішня політика України",
+        "lecturer": "МВ-21, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5802523838?pwd=OVBteUNRTDhmZGc2QlJCVDNpUlgrUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Зовнішня політика України",
+        "lecturer": "МВ-23, 312 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5802523838?pwd=OVBteUNRTDhmZGc2QlJCVDNpUlgrUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Зовнішня політика України",
+        "lecturer": "МВ-21, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5802523838?pwd=OVBteUNRTDhmZGc2QlJCVDNpUlgrUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Зовнішня політика України",
+        "lecturer": "МВ-23, 313 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5802523838?pwd=OVBteUNRTDhmZGc2QlJCVDNpUlgrUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

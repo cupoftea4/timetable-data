@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "ІТа-11, ВПа-11,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/79446606481?pwd=yPBgBQgP2vsV21WdIwu3g6Ea9FdVa3.1"
+        ]
+    },
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "ПЗа-11,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQ2jnu1F3EUw-aY3YhSBNtXX_iPyIo6NAU_jP0pTNVWc1%40thread.tacv2/1685643521041?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "МІ-31,",
+        "subject": "Іноземна мова І, частина 6",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3avkQ3shaZZIFWU9LIlo7Ff_O3KGgWM2spCMdr3-fQWas1%40thread.tacv2/1685643670090?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222e0f37d6-370d-499c-a1e5-417c3d53791a%22%7d"
+        ]
+    }
+]

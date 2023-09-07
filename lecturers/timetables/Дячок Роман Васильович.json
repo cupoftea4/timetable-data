@@ -1,0 +1,294 @@
+[
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "КІ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ab4c95dd7b7544bdfb6d2d80fdbead5e8%40thread.tacv2/1678621647527?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "КІ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ab4c95dd7b7544bdfb6d2d80fdbead5e8%40thread.tacv2/1678621726289?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "КІ-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae9ebf8f862bc483a850c0185259b6f1f%40thread.tacv2/1678734475593?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "КІ-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae9ebf8f862bc483a850c0185259b6f1f%40thread.tacv2/1678734550120?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "КІ-48, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ab5fe61b5143147af87f27107265dacdb%40thread.tacv2/1678734669466?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "КІ-48, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ab5fe61b5143147af87f27107265dacdb%40thread.tacv2/1678734782284?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-19, 904а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3awFbVC0-vaUPmkYTOSkM04xFTWXzv7D-NCjiUL7_MRyw1%40thread.tacv2/1678217121392?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-110, 904б V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3axtRBC46RFsUe2hjdg4rfxPomkfB4SQuB8GRmBx7ox_41%40thread.tacv2/1678217302536?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-110, 904б V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aibcgKhcGoSaOthMTr-ss-PrvnMdHlmLKw_XpHNIr_ak1%40thread.tacv2/1678346995665?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "КІ-46, КІ-47, КІ-48, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a1ad7bce1a6874741a6de9c096b453d01%40thread.tacv2/1678216894698?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційно-вимірювальні обчислювальні системи",
+        "lecturer": "КІ-46, КІ-47, КІ-48, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a1ad7bce1a6874741a6de9c096b453d01%40thread.tacv2/1678217000762?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-16, 904б V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-18, 904а V н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-18, 904а V н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-17, 907 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aibcgKhcGoSaOthMTr-ss-PrvnMdHlmLKw_XpHNIr_ak1%40thread.tacv2/1678346995665?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-17, 907 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aibcgKhcGoSaOthMTr-ss-PrvnMdHlmLKw_XpHNIr_ak1%40thread.tacv2/1678346995665?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-16, 904б V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQ3TMUKar28F3pzA1oNCblF772drSMgP8QXE4CsD1gaw1%40thread.tacv2/1678347498798?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-19, 904б V н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-15, 907 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQAZf9DNGJt5vHXWlZd1AdL1TR9zh35Hf3CYWycXgaqc1%40thread.tacv2/1678347803750?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи організації та функціонування комп`ютерів",
+        "lecturer": "КІ-15, 907 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQAZf9DNGJt5vHXWlZd1AdL1TR9zh35Hf3CYWycXgaqc1%40thread.tacv2/1678347803750?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290e893cf-ee0d-479f-911f-77e63e909bfc%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

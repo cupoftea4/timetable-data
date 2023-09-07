@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-04-22T00:00:00.000Z",
+        "lecturer": "Костів Ю.М.,",
+        "subject": "Комплексні системи захисту інформації",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-04-19T00:00:00.000Z",
+        "lecturer": "Русинко М.К.,",
+        "subject": "Методи та засоби криптоаналізу",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aVhd99B5V6eeaphRPp-mRbglExs16ZsP1JgERNt8pyzw1%40thread.tacv2/conversations?groupId=8e54dfe4-12de-4701-a31a-b1fb0f99ea41&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-04-21T00:00:00.000Z",
+        "lecturer": "Кухарська Н.П.,",
+        "subject": "Менеджмент інформаційної безпеки",
+        "number": 3,
+        "urls": []
+    }
+]

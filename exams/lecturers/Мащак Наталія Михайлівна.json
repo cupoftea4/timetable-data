@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-15T00:00:00.000Z",
+        "lecturer": "МЕ-21f,",
+        "subject": "Логістика",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/71952173322?pwd=ujQaV4QJg2QA3yuZAltj1Q16YrdwTp.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "МКМА-11, 429 IV н.к.,",
+        "subject": "Медіа-планування",
+        "number": 2,
+        "urls": []
+    }
+]

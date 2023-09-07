@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Менеджмент соціального забезпечення",
+        "lecturer": "СЗ-31, СЗ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84148027176?pwd=N1oxZmZTMEg0THpZTHpOQllGeGtXUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Менеджмент соціального забезпечення",
+        "lecturer": "СЗ-31, СЗ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84148027176?pwd=N1oxZmZTMEg0THpZTHpOQllGeGtXUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    }
+]

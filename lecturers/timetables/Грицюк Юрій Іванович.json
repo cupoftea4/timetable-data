@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "\nАналіз вимог до програмного забезпечення",
+        "lecturer": " ПЗ-34, ПЗ-35, ПЗ-36, 411 V н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "\nАналіз вимог до програмного забезпечення",
+        "lecturer": " ПЗ-31, ПЗ-32, ПЗ-33, 411 V н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "\nАналіз вимог до програмного забезпечення",
+        "lecturer": " ПЗ-35",
+        "location": " 809 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nАналіз вимог до програмного забезпечення",
+        "lecturer": " ПЗ-35",
+        "location": " 809 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

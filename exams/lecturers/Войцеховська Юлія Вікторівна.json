@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "МЕОА-11, 420 IV н.к.,",
+        "subject": "Прогнозування економічних процесів",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ЕБ-21, ЕБ-22, ЕБ-23, ОП-21, 514 IV н.к.,",
+        "subject": "Статистика",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "МЕ-21f,",
+        "subject": "Статистика",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/81798581543?pwd=NmFpcmJqRHJMOWZUditzOThnVUlJdz09"
+        ]
+    }
+]

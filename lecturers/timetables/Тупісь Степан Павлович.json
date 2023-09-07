@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Архітектурне проектування споруди",
+        "lecturer": "АР-49, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aRocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1%40thread.tacv2/1677508263773?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229cdcee8f-ac68-468f-9cc3-6cf818d34f46%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурне проектування споруди",
+        "lecturer": "АР-49, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aRocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1%40thread.tacv2/1677508263773?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229cdcee8f-ac68-468f-9cc3-6cf818d34f46%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування генплану території",
+        "lecturer": "АР-49, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/scheduling-form/?eventId=AQMkAGY3OTgyZjNhLWZhMTMtNDQBOC1hM2RlLWM2YzczYzM2NTBmNwBGAAAD0lLYKaVjd0_e4RWRJsnMDgcAj50wNONgNkairsAZ0bfGXQAAAgENAAAAj50wNONgNkairsAZ0bfGXQAAAg0uAAAA&conversationId=19:RocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1@thread.tacv2&opener=0&providerType=1&navCtx=channel"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Проектування генплану території",
+        "lecturer": "АР-49, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_?culture=uk-ua&country=ua#/scheduling-form/?eventId=AQMkAGY3OTgyZjNhLWZhMTMtNDQBOC1hM2RlLWM2YzczYzM2NTBmNwBGAAAD0lLYKaVjd0_e4RWRJsnMDgcAj50wNONgNkairsAZ0bfGXQAAAgENAAAAj50wNONgNkairsAZ0bfGXQAAAg0uAAAA&conversationId=19:RocheB4wUQvodSXTIn6wf2n0W2Vsz2kqgT2BDS1HFCI1@thread.tacv2&opener=0&providerType=1&navCtx=channel"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

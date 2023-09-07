@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Братичак М.М., 028 VIII н.к.,",
+        "subject": "Структура і властивості високомолекулярних сполук",
+        "number": 3,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/78273220040?pwd%3DQvmew0PnackNteeBzL6NXGUKVxMxvJ.1&sa=D&source=calendar&usd=2&usg=AOvVaw29-Ywh18Rez6MKLSEyGILJ"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Семенюк Н.Б., 028 VIII н.к.,",
+        "subject": "Основи хімії полімерів",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "Моравський В.С., 028 VIII н.к.,",
+        "subject": "Хімія мономерів",
+        "number": 2,
+        "urls": []
+    }
+]

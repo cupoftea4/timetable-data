@@ -1,0 +1,207 @@
+[
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "ХТХД-11, 218 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "ХТМ-11, 218 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "ХТМ-11, 218 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Експертиза та контроль якості продуктів харчування та косметичних засобів",
+        "lecturer": "ХТХД-11, 218 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Хімія і технологія харчових добавок",
+        "lecturer": "ХТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2x6e5RPAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAFj6rH4AAAEA%3D%3D&conversationId=19:meeting_ODM4M2FjNWQtY2U1MC00YmFmLWI5NTktM2Q4NWRlZDAzNTRl@thread.v2&opener=1&providerType=0&navCtx=navigateHybridContentRoute&calendarType=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Хімія і технологія харчових добавок",
+        "lecturer": "ХТ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2x6e5RPAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAFj6rH4AAAEA%3D%3D&conversationId=19:meeting_ODM4M2FjNWQtY2U1MC00YmFmLWI5NTktM2Q4NWRlZDAzNTRl@thread.v2&opener=1&providerType=0&navCtx=navigateHybridContentRoute&calendarType=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Хімія і технологія харчових добавок",
+        "lecturer": "ХТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2xnn5plAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAFj6rH3wAAEA%3D%3D&conversationId=19:meeting_YTkwZjc3NmEtYzJhYy00ZjczLWFmOTAtZmFmYjYyZjBhZjQ3@thread.v2&opener=1&providerType=0&navCtx=navigateHybridContentRoute&calendarType=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія харчових та біологічно активних добавок",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2xqxEQMAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAFj6rH4QAAEA%3D%3D&conversationId=19:meeting_YzA4YmFmYzUtZjcyNS00NTdlLWI4NTgtNzAyNTZiNjhhNjdk@thread.v2&opener=1&providerType=0&navCtx=navigateHybridContentRoute&calendarType=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія харчових та біологічно активних добавок",
+        "lecturer": "ХТХД-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія харчових та біологічно активних добавок",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=AAMkADM3ZWMzMjdmLTA3MjMtNGUzZi05NzAyLWRmYjY5ZDUyMWUxMAFRAAgI2xqxEQMAAEYAAAAALWbAr8vk10ycnguAdz14tQcAjgqF4TsbwEqPRYnu0zP0AwAAAAABDQAAjgqF4TsbwEqPRYnu0zP0AwAFj6rH4QAAEA%3D%3D&conversationId=19:meeting_YzA4YmFmYzUtZjcyNS00NTdlLWI4NTgtNzAyNTZiNjhhNjdk@thread.v2&opener=1&providerType=0&navCtx=navigateHybridContentRoute&calendarType=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія харчових та біологічно активних добавок",
+        "lecturer": "ХТХД-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія харчових та біологічно активних добавок",
+        "lecturer": "ХТМ-11, (3-тя підгр.)202 VIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія харчових та біологічно активних добавок",
+        "lecturer": "ХТХД-11, 202 VIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Органічна хімія,частина 1",
+        "lecturer": "ХТ-11, 218 VIII н.к., 219 VIII н.к., 220 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Органічна хімія,частина 1",
+        "lecturer": "ХТ-11, 218 VIII н.к., 219 VIII н.к., 220 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

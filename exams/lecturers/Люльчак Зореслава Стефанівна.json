@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "МЕЛГ-11, 401а IV н.к.,",
+        "subject": "Інформаційні системи і технології в логістиці",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "МЕ-310, МЕ-311,",
+        "subject": "Фінанси підприємства",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/89763270074?pwd=b1FMS0JjcnV4anc2bkVGQlFXZFo1QT09%20%20https://us05web.zoom.us/j/89763270074?pwd=b1FMS0JjcnV4anc2bkVGQlFXZFo1QT09"
+        ]
+    }
+]

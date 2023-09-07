@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "КН-307, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/icx-uufv-sxp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "КН-308, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/icx-uufv-sxp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "КН-308, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/icx-uufv-sxp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "КН-306, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/icx-uufv-sxp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "КН-306, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/icx-uufv-sxp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Геометричне моделювання у конструюванні інженерних об`єктів та систем",
+        "lecturer": "КН-307, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/icx-uufv-sxp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методи побудови інтелектуального інтерфейсу користувача в автоматизованому проектуванні",
+        "lecturer": "КНСП-11, 501 IV н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/xqg-daqf-quc"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Методи побудови інтелектуального інтерфейсу користувача в автоматизованому проектуванні",
+        "lecturer": "КНСП-11, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/xqg-daqf-quc"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    }
+]

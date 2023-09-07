@@ -1,0 +1,99 @@
+[
+    {
+        "subject": "Основи інженерної геодезії",
+        "lecturer": "ГД-21, 014 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3asdl8lJqcSAmDdfRIRLxPcKh5l0lBdSMmr1wLTfKPN4I1%40thread.tacv2/conversations?groupId=34de3026-0b07-4561-80a1-0e0a434f723d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи інженерної геодезії",
+        "lecturer": "ГД-21, 014 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи інженерної геодезії",
+        "lecturer": "ГД-22, 014 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи інженерної геодезії",
+        "lecturer": "ГД-22, 014 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інженерна геодезія, ч.2",
+        "lecturer": "ГД-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ahm-qwrn-dni?authuser=0"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інженерна геодезія, ч.2",
+        "lecturer": "ГД-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/nce-cdjr-zfi?authuser=0&pli=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи інженерної геодезії",
+        "lecturer": "ГД-21, ГД-22, 509 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

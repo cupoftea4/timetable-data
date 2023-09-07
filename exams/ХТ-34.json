@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-05-09T00:00:00.000Z",
+        "lecturer": "Братичак М.М.,",
+        "subject": "Обладнання заводів виробництва полімерів",
+        "number": 2,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/72198296986?pwd%3Dyd31aLpXDJYsJR6aEbcu9l1kFtjraK.1&sa=D&source=calendar&usd=2&usg=AOvVaw1j_iVwBOD9dOENYhGOQyw5"
+        ]
+    },
+    {
+        "date": "2023-05-12T00:00:00.000Z",
+        "lecturer": "Братичак М.М.,",
+        "subject": "Проектування та промислова екологія в технології синтезу високомолекулярних сполук",
+        "number": 2,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/72713430825?pwd%3DjaS4tBQnJaYkjH8DT9Eb9J0Ihm2FXg.1&sa=D&source=calendar&usd=2&usg=AOvVaw1Z6VoQxRPvgF6NybklSuqb"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "МЗ-22, 014 VIII н.к.,",
+        "subject": "Структурний аналіз матеріалів",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/78194664409?pwd=D26jfUpLkzJBnI1MXzpevxKh37XaPR.1"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "МЗ-31,",
+        "subject": "Діагностика та дефектоскопія виробів",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/75359034144?pwd=Sbj8t5iCSLulQo1keJRpXjWkL4MzRS.1"
+        ]
+    }
+]

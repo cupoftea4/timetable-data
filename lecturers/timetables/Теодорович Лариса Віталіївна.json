@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "ТУ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "ТУ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "ТУ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "ТУ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "ТУ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "ТУ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "ТУ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні туристичні протоколи",
+        "lecturer": "ТУ-42, ТУ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні туристичні протоколи",
+        "lecturer": "ТУ-42, ТУ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародні туристичні протоколи",
+        "lecturer": "ТУ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародні туристичні протоколи",
+        "lecturer": "ТУ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "ТУ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "ТУ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ac266c1c-33b2-4120-953c-493842c06ba9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_ZWY0YWFkYWYtMWU5OS00YjUxLTliYTgtMDdhNTc1YzQ2Y2Fm@thread.v2&messageId=0&language=en-US"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

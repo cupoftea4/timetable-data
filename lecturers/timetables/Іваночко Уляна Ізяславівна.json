@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "АР-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aXLjoE4c9OL706ORgHobN-V8M9tMvzBvng1PMKw5SIyM1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=52c5cf10-78d9-403d-b571-bca0fef9bd5f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурне проектування",
+        "lecturer": "АРБС-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2VhMjIzM2MtMGRlOS00NmQzLThjZTAtNjQ0NjRhNWY5NjBh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22940ae094-610b-4cf0-9321-96dfa3dd9d33%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурне проектування",
+        "lecturer": "АРБС-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Y2VhMjIzM2MtMGRlOS00NmQzLThjZTAtNjQ0NjRhNWY5NjBh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22940ae094-610b-4cf0-9321-96dfa3dd9d33%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "АР-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aeEfPGu6skEIxixIW3bdJro2nlbYCTs9YYBvwvvtl8KE1%40thread.tacv2/1677439425466?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221e35ff45-eb3b-4360-a4c7-960481e2da9b%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "АР-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9baC5BZBGLbe4MIoW5_9wsX7IBrL5Fd2yvK6BZhTaQg1%40thread.tacv2/1678087392001?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%221e35ff45-eb3b-4360-a4c7-960481e2da9b%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-25, БД-26, БД-27, БД-28, 212 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-25, БД-26, БД-27, БД-28, 212 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія будівельного виробництва",
+        "lecturer": "БД-23, 416 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія і механізація будівельного виробництва",
+        "lecturer": "БД-33, БД-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77946977445?pwd=AGIxVh327f79b3x4x4B2ptbkIYdKWU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технологія і механізація будівельного виробництва",
+        "lecturer": "БД-33, БД-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77946977445?pwd=AGIxVh327f79b3x4x4B2ptbkIYdKWU.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технологія і механізація будівельного виробництва",
+        "lecturer": "БД-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71431917456?pwd=NjVWOTU1MG9JK0IzS3JEaVJMYlVjZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія і механізація будівельного виробництва",
+        "lecturer": "БД-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75598759149?pwd=ZYlqtGIfFYUbaXSS7ZQFBebUgZEuth.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технологія і механізація будівельного виробництва",
+        "lecturer": "БД-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76881111869?pwd=dbzvldZNGrt4bu905mdyOaRLOf7wOH.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Технологія і механізація будівельного виробництва",
+        "lecturer": "БД-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78040814093?pwd=bmdQdzJaOXErcVZiQk56dWQzRDBEQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Інвестування",
+        "lecturer": "ФБ-31, ФБ-32, ФБ-33, ФБ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інвестування",
+        "lecturer": "ФБ-31, ФБ-32, ФБ-33, ФБ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Інвестування",
+        "lecturer": "ФБ-31, ФБ-32, ФБ-33, ФБ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Інвестування",
+        "lecturer": "ФБ-31, ФБ-32, ФБ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Інвестування",
+        "lecturer": "ФБ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Інвестування",
+        "lecturer": "ФБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Інвестування",
+        "lecturer": "ФБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/3814989924?pwd=Nm1FZmxiVndmWHlZQ1BoOHF1NVYyQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

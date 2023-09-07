@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Ідентифікація об`єктів автоматизації",
+        "lecturer": "АВ-31, АВ-32, АВ-33, 210 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77852231464?pwd=czFBMXZ6MTRwREt4ak4wU08vRUp6QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "АВ-31, АВ-32, АВ-33, 209 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79874120643?pwd=MHlJOEVSZ1VMZkt0cElPaDU1MndKUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Ідентифікація об`єктів автоматизації",
+        "lecturer": "АВ-24, 071 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77852231464?pwd=czFBMXZ6MTRwREt4ak4wU08vRUp6QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "lecturer": "АВ-24, 071 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79874120643?pwd=MHlJOEVSZ1VMZkt0cElPaDU1MndKUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

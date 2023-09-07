@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-05-29T00:00:00.000Z",
+        "lecturer": "Литвин В.В.,",
+        "subject": "Інтелектуальні системи підтримки прийняття рішень",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/8787416687?pwd=cmN3UFZLMkQvM051aEFNbjlCZEFqQT09"
+        ]
+    },
+    {
+        "date": "2023-06-07T00:00:00.000Z",
+        "lecturer": "Пасічник В.В.,",
+        "subject": "Моделювання, аналіз та синтез взаємодії складних інформаційних систем",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ]
+    }
+]

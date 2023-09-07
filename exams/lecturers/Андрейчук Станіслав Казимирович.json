@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "СЗ-11, 105 XXIX н.к.,",
+        "subject": "Правове регулювання соціального забезпечення",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "СЗ-31, СЗ-32,",
+        "subject": "Запобігання та протидія корупції в соціальному забезпеченні",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "СР-11, 105 XXIX н.к.,",
+        "subject": "Правове регулювання соціального забезпечення",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "СЗ-31, СЗ-32,",
+        "subject": "Ринок праці та зайнятості",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/3781982554?pwd=OEllTFdyWE1yUHZscjlxbTloNUZPQT09"
+        ]
+    }
+]

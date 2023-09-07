@@ -1,0 +1,193 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ГД-31, ГД-32, ГД-33, НЗ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78850815657?pwd=vXtfUwK0iiWHMP0f8F9ahk24Ylq9UD.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ГД-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73212038467?pwd=LbKAyabkPuf0z2w9aro3bHSpa9jxiP.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "ГДГТ-11, ГДЗК-11, ГДОЗ-11, ГДІГ-11, ГДФД-11, ГДКГ-11, ГДКГ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75861912454?pwd=KjH8P5KwsjbtmPLszt4w54YFL9MFPv.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ГД-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77682185821?pwd=RUP0ycmBpRdazQJrsFrLsadBaeCWl6.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ГД-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72886460419?pwd=AhuwbDWljmwzmtv87BamTLe5uaq2mt.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ГД-23, 132 III н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ГД-23, 132 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "ГДЗК-11, 236 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75540532091?pwd=f1aM6TrOkHpIuRMzqzRs8NntH89aii.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "ГДОЗ-11, ГДФД-11, 132 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74202654720?pwd=mjDynuzO89QDcXOLQTVu0n1vau3dOn.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ГД-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76514213137?pwd=7MKx5rg9zG4OFPLiihdadJKDf0adRs.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "ГДГТ-11, 137 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77985127260?pwd=oFVRsaSvgTv5JFhaWLIqUt0uId1anS.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "ГДІГ-11, 137 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74969247788?pwd=8x7TeHk14DvN1rPJyCEp1wr9MBYcuQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Професійна та цивільна безпека",
+        "lecturer": "ГДКГ-11, ГДКГ-12, 236 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79695248324?pwd=CXb9jq2Q36DVGRi23XvQnZqYK1la11.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,227 @@
+[
+    {
+        "subject": "Прикладне та Web-програмування",
+        "lecturer": "ПЦ-21, 503 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8947178091?pwd=Q0k2VkJ2MlhwNUU5Ym1SS3BIc3hxdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Прикладне та Web-програмування",
+        "lecturer": "ПЦ-21, 502 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8947178091?pwd=Q0k2VkJ2MlhwNUU5Ym1SS3BIc3hxdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІСМ-101, ІВЛ-ІСМ-102, ІВЛ-ІСМ-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІСМ-101, 128 IV н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІСМ-101, 128 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІСМ-102, 128 IV н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІСМ-102, 128 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Стандарти управління проектами",
+        "lecturer": "ІТУП-12, 207 VIа н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Стандарти управління проектами",
+        "lecturer": "ІТУП-13, 207 VIа н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Прикладне та Web-програмування",
+        "lecturer": "ПЦ-21, ПЦ-22, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8947178091?pwd=Q0k2VkJ2MlhwNUU5Ym1SS3BIc3hxdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Прикладне та Web-програмування",
+        "lecturer": "ПЦ-21, ПЦ-22, 117 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8947178091?pwd=Q0k2VkJ2MlhwNUU5Ym1SS3BIc3hxdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Web-технології",
+        "lecturer": "ІТ-11сп, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8947178091?pwd=Q0k2VkJ2MlhwNUU5Ym1SS3BIc3hxdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Web-технології та Web-дизайн",
+        "lecturer": "СА-31, СА-32, СА-33, 406 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8947178091?pwd=Q0k2VkJ2MlhwNUU5Ym1SS3BIc3hxdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІСМ-103, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІСМ-103, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71725163207?pwd=UelQ7NJC4FXitQn41tUuc4pyslgs2z.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

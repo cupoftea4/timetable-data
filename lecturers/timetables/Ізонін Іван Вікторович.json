@@ -1,0 +1,123 @@
+[
+    {
+        "subject": "Методи прогнозування на великих даних",
+        "lecturer": "КНа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Методи прогнозування на великих даних",
+        "lecturer": "КНа-21, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-СШІ-101, ОНД-СШІ-102, ОНД-СШІ-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6235066858?pwd=UlhTNXRHWkJYc3VUdDBQN2RDZmJmdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-СШІ-104, ОНД-СШІ-105, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6235066858?pwd=UlhTNXRHWkJYc3VUdDBQN2RDZmJmdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-СШІ-104, 120 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-СШІ-105, 231 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-СШІ-102, 231 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-СШІ-103, 231 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-СШІ-101, 231 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях",
+        "lecturer": "МІ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75399499124?pwd=anNGaTgrL0tObkpBR2ZHZlo1VDJkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційна безпека в Інтернеті",
+        "lecturer": "МІ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74675536009?pwd=XJyuJIqaszfO1m39wpFnpun0QGl4tG.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційна безпека в Інтернеті",
+        "lecturer": "МІ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74675536009?pwd=XJyuJIqaszfO1m39wpFnpun0QGl4tG.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Інформаційна безпека в Інтернеті",
+        "lecturer": "МІ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79241187101?pwd=QytuTnhXWmF3M2hrRWVIT1dQb2xVZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях",
+        "lecturer": "МІ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75399499124?pwd=anNGaTgrL0tObkpBR2ZHZlo1VDJkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях",
+        "lecturer": "МІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74908626783?pwd=U2haWERoS2lGc3Y1WDNnRVRPdmVoUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Індекси та рейтингові системи у міжнародних відносинах та суспільних комунікаціях",
+        "lecturer": "МІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/74908626783?pwd=U2haWERoS2lGc3Y1WDNnRVRPdmVoUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

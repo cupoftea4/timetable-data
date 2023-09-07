@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-12T00:00:00.000Z",
+        "lecturer": "ФЛ-45,",
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/7952037891?pwd=NDUzRUpSYmxLVlJ0ZnErUE9UVlpOdz09"
+        ]
+    },
+    {
+        "date": "2023-06-15T00:00:00.000Z",
+        "lecturer": "ФЛ-45,",
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/7952037891?pwd=NDUzRUpSYmxLVlJ0ZnErUE9UVlpOdz09"
+        ]
+    }
+]

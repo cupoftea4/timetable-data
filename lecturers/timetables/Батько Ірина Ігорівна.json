@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Проблеми правового забезпечення інформаційної безпеки",
+        "lecturer": "ПВПР-13, 301 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74363704409?pwd=HjfZvr4ALqB9obaiUaOJt2cyro78k7.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проблеми правового забезпечення інформаційної безпеки",
+        "lecturer": "ПВПР-13, 301 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74363704409?pwd=HjfZvr4ALqB9obaiUaOJt2cyro78k7.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Запобігання корупції у публічній сфері",
+        "lecturer": "ПВ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74703096400?pwd=Wx4bLNVy1CXaw95obJrK8oLQjnaO85.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Запобігання корупції у публічній сфері",
+        "lecturer": "ПВ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74703096400?pwd=Wx4bLNVy1CXaw95obJrK8oLQjnaO85.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Запобігання корупції у публічній сфері",
+        "lecturer": "ПВ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74703096400?pwd=Wx4bLNVy1CXaw95obJrK8oLQjnaO85.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Правове забезпечення інформаційної безпеки",
+        "lecturer": "ПВ-411, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71047824070?pwd=NbQ05NyQsYxPDcf2Kxj9v8TQQeLzC4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

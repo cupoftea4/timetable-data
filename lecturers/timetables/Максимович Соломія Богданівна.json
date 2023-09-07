@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "БД-338, 201 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/6345292497?pwd=NW9aSnRpZ3F6VXJkVnNVa2JYWU5kZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "БД-338, 209 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6345292497?pwd=NW9aSnRpZ3F6VXJkVnNVa2JYWU5kZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Конструкції з дерева та пластмас",
+        "lecturer": "БД-338, 209 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6345292497?pwd=NW9aSnRpZ3F6VXJkVnNVa2JYWU5kZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34,",
+        "subject": "Міжнародне приватне право",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/8613831236?pwd=c3FNUnlvbW04K2hkRWtrWFpQV0RWdz09"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ПВ-35, ПВ-36, ПВ-37,",
+        "subject": "Міжнародне приватне право",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/8613831236?pwd=c3FNUnlvbW04K2hkRWtrWFpQV0RWdz09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "ПВ-310, ПВ-38, ПВ-39,",
+        "subject": "Міжнародне приватне право",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/8613831236?pwd=c3FNUnlvbW04K2hkRWtrWFpQV0RWdz09"
+        ]
+    }
+]

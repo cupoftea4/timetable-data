@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "УАа-21,",
+        "subject": "Інституційне забезпечення публічного управління та адміністрування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72441672423?pwd=ufLONUVxwzzzBSd9BMUZbDt1vletRh.1"
+        ]
+    },
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "УАа-21,",
+        "subject": "Лідерство та ефективність в публічному управлінні",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72441672423?pwd=ufLONUVxwzzzBSd9BMUZbDt1vletRh.1"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "УААМі-11, УААМі-12, 110 I н.к.,",
+        "subject": "Публічний аудит",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/72441672423?pwd=ufLONUVxwzzzBSd9BMUZbDt1vletRh.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "МЕФБі-11, 022 IV н.к.,",
+        "subject": "Комплексне забезпечення фінансово-економічної безпеки",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72441672423?pwd=ufLONUVxwzzzBSd9BMUZbDt1vletRh.1"
+        ]
+    }
+]

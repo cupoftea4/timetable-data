@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Аналіз господарської діяльності",
+        "lecturer": "ОП-22, 326 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4479900973?pwd=ZXREZGZtSWYrYVBXK0h5UnV2Sys2QT09%20%20Meeting%20ID:%20447%20990%200973%20Passcode:%207MCjb5"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Аналіз господарської діяльності",
+        "lecturer": "ОП-31, ОП-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4479900973?pwd=ZXREZGZtSWYrYVBXK0h5UnV2Sys2QT09%20%20Meeting%20ID:%20447%20990%200973%20Passcode:%207MCjb5"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Аналіз господарської діяльності",
+        "lecturer": "ОП-31, ОП-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4479900973?pwd=ZXREZGZtSWYrYVBXK0h5UnV2Sys2QT09%20%20Meeting%20ID:%20447%20990%200973%20Passcode:%207MCjb5"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Аналіз господарської діяльності",
+        "lecturer": "ОП-31, ОП-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4479900973?pwd=ZXREZGZtSWYrYVBXK0h5UnV2Sys2QT09%20%20Meeting%20ID:%20447%20990%200973%20Passcode:%207MCjb5"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Аналіз господарської діяльності",
+        "lecturer": "ОП-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4479900973?pwd=ZXREZGZtSWYrYVBXK0h5UnV2Sys2QT09%20%20Meeting%20ID:%20447%20990%200973%20Passcode:%207MCjb5"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Аналіз господарської діяльності",
+        "lecturer": "ОП-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4479900973?pwd=ZXREZGZtSWYrYVBXK0h5UnV2Sys2QT09%20%20Meeting%20ID:%20447%20990%200973%20Passcode:%207MCjb5"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Аналіз господарської діяльності",
+        "lecturer": "ОП-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4479900973?pwd=ZXREZGZtSWYrYVBXK0h5UnV2Sys2QT09%20%20Meeting%20ID:%20447%20990%200973%20Passcode:%207MCjb5"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Аналіз господарської діяльності",
+        "lecturer": "ОП-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4479900973?pwd=ZXREZGZtSWYrYVBXK0h5UnV2Sys2QT09%20%20Meeting%20ID:%20447%20990%200973%20Passcode:%207MCjb5"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Аналіз господарської діяльності",
+        "lecturer": "ОП-31, ОП-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4479900973?pwd=ZXREZGZtSWYrYVBXK0h5UnV2Sys2QT09%20%20Meeting%20ID:%20447%20990%200973%20Passcode:%207MCjb5"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

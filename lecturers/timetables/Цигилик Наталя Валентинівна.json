@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Публічний маркетинг та маркетинг територій",
+        "lecturer": "УАі-21, 005 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76495993636?pwd=TTiZh8ToheJLwUKBaS3QsXoaufkfxB.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

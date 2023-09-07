@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "МП-31,",
+        "subject": "Математичні основи робототехніки",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3agl9n7fRlPS7FvvG1jVLPyaDKgQ64damx9TG8qdDnIDI1%40thread.tacv2/conversations?groupId=9cd72e3c-56e0-4ece-8514-ad8b64c00ac0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "МП-31f,",
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ad7FIfTCtbXEE0mL6XWstLjfxuFtYYUkq1CrlO-tiS7E1%40thread.tacv2/conversations?groupId=b47e3953-6610-4bc7-b124-cbae63ca99ef&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "МП-24, 011 XIV н.к.,",
+        "subject": "Математичні основи робототехніки",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aTv7h6ISDkE5Fefs_R2b3MNjSdIjNzqIif2wKmCXOzlY1%40thread.tacv2/conversations?groupId=a19778b2-2775-44fe-9f51-0b2dfa929448&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

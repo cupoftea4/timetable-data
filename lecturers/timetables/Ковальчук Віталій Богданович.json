@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Конституційне право України",
+        "lecturer": "ПВ-11, ПВ-12, ПВ-13, 322 XIX н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Конституційне право України",
+        "lecturer": "ПВ-11, ПВ-12, ПВ-13, 322 XIX н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теорія та практика конституціоналізму",
+        "lecturer": "ПВПР-15, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84105205818?pwd=Um1WOW5XdzJDV3p0Zzh6Zk13NTBOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Теорія та практика конституціоналізму",
+        "lecturer": "ПВПР-15, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84105205818?pwd=Um1WOW5XdzJDV3p0Zzh6Zk13NTBOdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

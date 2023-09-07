@@ -1,0 +1,180 @@
+[
+    {
+        "subject": "Типографіка і шрифти",
+        "lecturer": "ДС-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6686f176b2114b01bc0424164b48df61%40thread.tacv2/conversations?groupId=3545bd04-f251-4463-ba01-5356d61c1974&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Типографіка і шрифти",
+        "lecturer": "ДС-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6686f176b2114b01bc0424164b48df61%40thread.tacv2/conversations?groupId=3545bd04-f251-4463-ba01-5356d61c1974&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теорія комунікацій в масовій культурі",
+        "lecturer": "ДС-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aTn_1nN6wDPyyPlw-q9dvAus2EHFt3SgiG-JE_Dosad81%40thread.tacv2/conversations?groupId=736350f6-84b2-4881-921c-db0c81dc3cb9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теорія комунікацій в масовій культурі",
+        "lecturer": "ДС-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aTn_1nN6wDPyyPlw-q9dvAus2EHFt3SgiG-JE_Dosad81%40thread.tacv2/conversations?groupId=736350f6-84b2-4881-921c-db0c81dc3cb9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Рекламний дизайн і копірайтинг",
+        "lecturer": "ДС-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aknaeT0_vGvmar0PbpZ1DfZdaMn1e89VRKOtZGeXc2-M1%40thread.tacv2/conversations?groupId=83bdb014-5eeb-48bc-8937-96140c50db2d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Комплексне проектування",
+        "lecturer": "ДЗЗВ-11, 224 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3adBl98K3xyyrB9Tu2lg6MnsiuIQq9FJN6-Ce5M0VFXZQ1%40thread.tacv2/conversations?groupId=66f6caf7-60a9-441f-b57d-5a23c3c48708&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Екологічний дизайн",
+        "lecturer": "ДЗЗВ-11, ЕКД-ДОА-101, 224 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aknaeT0_vGvmar0PbpZ1DfZdaMn1e89VRKOtZGeXc2-M1%40thread.tacv2/conversations?groupId=83bdb014-5eeb-48bc-8937-96140c50db2d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Екологічний дизайн",
+        "lecturer": "ДЗЗВ-11, ЕКД-ДОА-101, ЕКД-ДОА-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aVRp7omveMm9DOcK2IJ2I2woQdTOuZ06WjJBqhp5FTTI1%40thread.tacv2/conversations?groupId=84e952da-ab92-41ef-bea3-d69cbce5d58f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Теорія комунікацій в масовій культурі",
+        "lecturer": "ДС-31, ДС-32, ДС-33, ДС-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aTn_1nN6wDPyyPlw-q9dvAus2EHFt3SgiG-JE_Dosad81%40thread.tacv2/conversations?groupId=736350f6-84b2-4881-921c-db0c81dc3cb9&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Рекламний дизайн і копірайтинг",
+        "lecturer": "ДС-31, ДС-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aknaeT0_vGvmar0PbpZ1DfZdaMn1e89VRKOtZGeXc2-M1%40thread.tacv2/conversations?groupId=83bdb014-5eeb-48bc-8937-96140c50db2d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Екологічний дизайн",
+        "lecturer": "ЕКД-ДОА-102, 333 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Типографіка і шрифти",
+        "lecturer": "ДС-31, ДС-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6686f176b2114b01bc0424164b48df61%40thread.tacv2/conversations?groupId=3545bd04-f251-4463-ba01-5356d61c1974&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

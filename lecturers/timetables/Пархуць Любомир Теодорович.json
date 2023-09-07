@@ -1,0 +1,332 @@
+[
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-41, КБ-42, КБ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Методи та засоби захисту інформації, частина 2",
+        "lecturer": "КБ-31, КБ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-41, КБ-42, КБ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проектування та супровід КСЗІ",
+        "lecturer": "КБУІ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Проектування комплексних систем захисту інформації",
+        "lecturer": "КБСТ-11, КБСТ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-45, КБ-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-45, КБ-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проектування та супровід КСЗІ",
+        "lecturer": "КБУІ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-45, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Проектування комплексних систем захисту інформації",
+        "lecturer": "КБСТ-12, 210 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Проектування комплексних систем захисту інформації",
+        "lecturer": "КБСТ-11, 210 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комплексні системи захисту інформації",
+        "lecturer": "КБ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

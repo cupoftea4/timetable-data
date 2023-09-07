@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Технології створення та застосування систем захисту інформаційно-комунікаційних систем",
+        "lecturer": "КББІ-11, КББІ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFtk_z0lDCCDm4jDgwvkCt7OZpD_bFiX0bHjTxE8LEq01%40thread.tacv2/conversations?groupId=1a133658-b4f1-4a35-b130-db0789d3776c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Криптографічні системи та протоколи",
+        "lecturer": "КБ-37, КБ-38, КБ-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aHhpswnIb1Il45Nea7vwgkNZ1ZFXXaavK2__jo7qQUfI1%40thread.tacv2/conversations?groupId=2e1c8727-6ed6-40a3-922a-63e9eb12752e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    }
+]

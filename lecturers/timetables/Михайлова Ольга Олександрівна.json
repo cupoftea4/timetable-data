@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3292023100?pwd=Z3F2WkVnUDhZR0R6RCsybjVHdVdyUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    }
+]

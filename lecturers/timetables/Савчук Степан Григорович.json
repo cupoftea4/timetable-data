@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Теоретична геодезія",
+        "lecturer": "ГДКГ-11, ГДКГ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/smf-rohp-zhy"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Геотектоніка",
+        "lecturer": "НЗКМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/ygo-zvtc-dsb"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Вибрані питання теоретичної геодезії",
+        "lecturer": "ГДа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/bdh-kfhx-vhb"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Вибрані питання теоретичної геодезії",
+        "lecturer": "ГДа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/bdh-kfhx-vhb"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

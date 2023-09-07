@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Ціноутворення",
+        "lecturer": "ЕК-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/89146739901?pwd=ZUtuOTdIZjB3bCtkWG13d1NKcHFTZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Планування і контроль діяльності економічних суб`єктів",
+        "lecturer": "ЕК-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84991783579?pwd=TzMxSFpETExzcGNlK3RjV1BwUlJ3UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Планування і контроль діяльності економічних суб`єктів",
+        "lecturer": "ЕК-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84991783579?pwd=TzMxSFpETExzcGNlK3RjV1BwUlJ3UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Планування і контроль діяльності економічних суб`єктів",
+        "lecturer": "ЕК-31, ЕК-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/84991783579?pwd=TzMxSFpETExzcGNlK3RjV1BwUlJ3UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

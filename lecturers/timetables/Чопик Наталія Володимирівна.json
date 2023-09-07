@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Сучасні технологічні процеси перероблення полімерних і композиційних матеріалів",
+        "lecturer": "ХТПК-11, 023 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Сучасні технологічні процеси перероблення полімерних і композиційних матеріалів",
+        "lecturer": "ХТПК-11, 023 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

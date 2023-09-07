@@ -1,0 +1,144 @@
+[
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "ЕВ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBOjBWkgoTex01d-JKcb8ISune5RjDkD7BqepyHbNh6A1%40thread.tacv2/conversations?groupId=cfe9fe0d-9103-47ae-bbed-e768a67c1e81&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "ЕВ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBOjBWkgoTex01d-JKcb8ISune5RjDkD7BqepyHbNh6A1%40thread.tacv2/conversations?groupId=cfe9fe0d-9103-47ae-bbed-e768a67c1e81&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "ЕВ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3akU4IpCAYR8RCaknBH1a_u-6wuHEyfGcM7HKwEmNC-1o1%40thread.tacv2/conversations?groupId=e8c676f1-5a21-43d2-8e06-6da670cfa7c3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "ЕВ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3akU4IpCAYR8RCaknBH1a_u-6wuHEyfGcM7HKwEmNC-1o1%40thread.tacv2/conversations?groupId=e8c676f1-5a21-43d2-8e06-6da670cfa7c3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "ЕВ-31, ЕВ-32, ЕВ-33, ЕВ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aj210E9KuQV2ulTOMPkoV-x3dY8y6Yr0Bn_9IKGl91481%40thread.tacv2/conversations?groupId=152be54d-6205-4a8c-93e4-36c39a42e036&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Комунікаційний менеджмент",
+        "lecturer": "КММ-ММП-101, КММ-ММП-102, КММ-ММП-103, КММ-ММП-104, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aZKJx9TSMW5TJXXa1-7DxK_vj6pzhx2RXj3f_chnVU0k1%40thread.tacv2/conversations?groupId=3bb978a0-7dc3-4d02-90d2-618acf307d55&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "Комунікаційний менеджмент",
+        "lecturer": "КММ-ММП-101, 425 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комунікаційний менеджмент",
+        "lecturer": "КММ-ММП-102, 515 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комунікаційний менеджмент",
+        "lecturer": "КММ-ММП-103, 515 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комунікаційний менеджмент",
+        "lecturer": "КММ-ММП-104, 515 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

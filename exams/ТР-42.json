@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-05-01T00:00:00.000Z",
+        "lecturer": "Лазько Л.В.,",
+        "subject": "Цифрова обробка сигналів",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/isx-adiv-crt"
+        ]
+    },
+    {
+        "date": "2023-05-04T00:00:00.000Z",
+        "lecturer": "Фабіровський С.Є.,",
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/xsk-cfky-onh"
+        ]
+    },
+    {
+        "date": "2023-05-08T00:00:00.000Z",
+        "lecturer": "Лазько Л.В.,",
+        "subject": "Цифрові методи реалізації радіотехнічних систем",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/qxk-rjoh-rkw"
+        ]
+    }
+]

@@ -1,0 +1,159 @@
+[
+    {
+        "subject": "Методика  навчання інформатики: контроль якості та тестування",
+        "lecturer": "НОПН-11, 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Методика  навчання інформатики: контроль якості та тестування",
+        "lecturer": "НОПН-12, 701 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методика  навчання інформатики: контроль якості та тестування",
+        "lecturer": "НОПН-11, НОПН-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Методика навчання і права: контроль якості та тестування",
+        "lecturer": "НОПН-13, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Методика навчання інформатики: дидактичне проектування та інноваційні технології",
+        "lecturer": "НОПН-11, 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методика навчання інформатики: дидактичне проектування та інноваційні технології",
+        "lecturer": "НОПН-11, 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Методика навчання інформатики: дидактичне проектування та інноваційні технології",
+        "lecturer": "НОПН-12, 705 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Методика навчання інформатики: дидактичне проектування та інноваційні технології",
+        "lecturer": "НОПН-12, 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Розвиток педагогічної креативності",
+        "lecturer": "ПД-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Розвиток педагогічної креативності",
+        "lecturer": "ПД-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5776972053?pwd=VkQwYVZQM3IvWGdFamRQd0JyUWRMZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Методика навчання і права: контроль якості та тестування",
+        "lecturer": "НОПН-13, 709 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

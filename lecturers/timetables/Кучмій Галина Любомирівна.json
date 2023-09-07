@@ -1,0 +1,163 @@
+[
+    {
+        "subject": "Фізико-хімічні процеси в мікроелектронній технології",
+        "lecturer": "ЕЛЕА-11, 108 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJIdS-85qRBlfTlFjHlFV-ydOcXFkAO5b-KgpQNefek01%40thread.tacv2/1685952312769?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "МНМ-12, ІВЛ-ЕЛІ-102, 108 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки і охорони",
+        "lecturer": "ЕЛЕА-11, 108 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4sMajWZwr4k4dYcwS7E7o0ZgL-a_ndGvuHs8aGWv7gA1%40thread.tacv2/1685365842924?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки і охорони",
+        "lecturer": "ЕЛЕА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4sMajWZwr4k4dYcwS7E7o0ZgL-a_ndGvuHs8aGWv7gA1%40thread.tacv2/1685952648464?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки і охорони",
+        "lecturer": "ЕЛЕА-11, 108 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4sMajWZwr4k4dYcwS7E7o0ZgL-a_ndGvuHs8aGWv7gA1%40thread.tacv2/1685365888211?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Електронні елементи та пристрої систем безпеки і охорони",
+        "lecturer": "ЕЛЕА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4sMajWZwr4k4dYcwS7E7o0ZgL-a_ndGvuHs8aGWv7gA1%40thread.tacv2/1685952723375?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Фізико-хімічні процеси в мікроелектронній технології",
+        "lecturer": "ЕЛЕА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aJIdS-85qRBlfTlFjHlFV-ydOcXFkAO5b-KgpQNefek01%40thread.tacv2/1685952806826?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Мікроелектронні сенсори фізичних величин",
+        "lecturer": "ЕЛа-21, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Мікроелектронні сенсори фізичних величин",
+        "lecturer": "ЕЛа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aq7v17Y5PJ0i6MFy8C9cIVvtnzP984NkVOPCZtzC8CsI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=6748956d-fe3f-4147-b43b-864397d8a3b2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "МНМ-11, ІВЛ-ЕЛІ-101, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3atOC4k4KNjiQMB9lfj5Aim2YbTVm7Dis7dwMjIfkz3wE1%40thread.tacv2/1685525122363?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "МНМ-11, МНМ-12, ІВЛ-ЕЛІ-101, ІВЛ-ЕЛІ-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3atOC4k4KNjiQMB9lfj5Aim2YbTVm7Dis7dwMjIfkz3wE1%40thread.tacv2/1684921342840?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2296a31207-bd36-4fe9-92ab-26ddee7ddad2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

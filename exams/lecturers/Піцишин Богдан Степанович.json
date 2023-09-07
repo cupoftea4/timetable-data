@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-04-27T00:00:00.000Z",
+        "lecturer": "БД-48,",
+        "subject": "Сільськогосподарське водопостачання",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ГБ-31,",
+        "subject": "Насосні станції",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "БД-310,",
+        "subject": "Насосні та повітродувні станції",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ]
+    }
+]

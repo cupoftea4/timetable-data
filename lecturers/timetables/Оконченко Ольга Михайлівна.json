@@ -1,0 +1,163 @@
+[
+    {
+        "subject": "Основи проектної та комп`ютерної графіки, частина 2",
+        "lecturer": "ДС-14, 105б Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDUrqQtDVoK2azhEQs36xcUBebvX5kJx9nESczKGcrQ41%40thread.tacv2/conversations?groupId=cb9776b2-a09e-4bc2-b17b-7b6006d30707&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи проектної та комп`ютерної графіки, частина 2",
+        "lecturer": "ДС-11, 105б Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDUrqQtDVoK2azhEQs36xcUBebvX5kJx9nESczKGcrQ41%40thread.tacv2/conversations?groupId=cb9776b2-a09e-4bc2-b17b-7b6006d30707&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології і матеріали в дизайні сучасного інтер`єру",
+        "lecturer": "ДЗЗВ-11, ТМД-ДОА-101, 105а Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1JCO77KLkCMU0hdX2La7YNuS1Jxx4HumQ-xXw9fShwM1%40thread.tacv2/conversations?groupId=eb12ed3f-1db5-4f7d-a0d1-1f4079cfa9af&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технології і матеріали в дизайні сучасного інтер`єру",
+        "lecturer": "ДЗЗВ-11, ТМД-ДОА-101, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1JCO77KLkCMU0hdX2La7YNuS1Jxx4HumQ-xXw9fShwM1%40thread.tacv2/conversations?groupId=eb12ed3f-1db5-4f7d-a0d1-1f4079cfa9af&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Матеріалознавство в проектуванні інтер`єрів",
+        "lecturer": "ДС-21, 108 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Матеріалознавство в проектуванні інтер`єрів",
+        "lecturer": "ДС-21, 108 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Передпроектний аналіз в інтер`єрі",
+        "lecturer": "ДС-43, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aToEdhk521e0WkeddrzKCqmFy1v6VzRRIckJOPkoD4481%40thread.tacv2/conversations?groupId=d470982f-78ab-4553-aea1-ba94c28a4cdb&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Передпроектний аналіз в інтер`єрі",
+        "lecturer": "ДС-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3az9nv64vpTvlf5EeYb521DDO5fN4lHKRhfi4CfS3i8101%40thread.tacv2/conversations?groupId=af29381e-cc6e-492d-b0e0-87230c31ca92&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи проектної та комп`ютерної графіки, частина 2",
+        "lecturer": "ДС-13, 105б Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDUrqQtDVoK2azhEQs36xcUBebvX5kJx9nESczKGcrQ41%40thread.tacv2/conversations?groupId=cb9776b2-a09e-4bc2-b17b-7b6006d30707&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи проектної та комп`ютерної графіки, частина 2",
+        "lecturer": "ДС-15, 105б Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDUrqQtDVoK2azhEQs36xcUBebvX5kJx9nESczKGcrQ41%40thread.tacv2/conversations?groupId=cb9776b2-a09e-4bc2-b17b-7b6006d30707&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи проектної та комп`ютерної графіки, частина 2",
+        "lecturer": "ДС-12, 211 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aDUrqQtDVoK2azhEQs36xcUBebvX5kJx9nESczKGcrQ41%40thread.tacv2/conversations?groupId=cb9776b2-a09e-4bc2-b17b-7b6006d30707&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

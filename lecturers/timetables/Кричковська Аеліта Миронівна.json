@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Менеджмент та маркетинг у фармації",
+        "lecturer": "ФР-41, ФР-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aG-EtDV2rlqZ0I0CzYp-XP3Ezu25xQa9-pvFNSoy6TYk1%40thread.tacv2/1678905156217?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Менеджмент та маркетинг у фармації",
+        "lecturer": "ФР-41, ФР-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aG-EtDV2rlqZ0I0CzYp-XP3Ezu25xQa9-pvFNSoy6TYk1%40thread.tacv2/1678905076977?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Нормативне забезпечення реєстрації нових лікарських засобів",
+        "lecturer": "ФРа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa3nJKSA7DUTrGddfqmbCNZs-nmE3nOjNfSrFu8AFQ6c1%40thread.tacv2/1676402254482?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Фармакологія",
+        "lecturer": "ФР-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_CUQKJL4hJ1fL-G6oFh8-hsbmgf8gPz06qZ9Q4Nv7Hw1%40thread.tacv2/1678554775425?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Фармакологія",
+        "lecturer": "ФР-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_CUQKJL4hJ1fL-G6oFh8-hsbmgf8gPz06qZ9Q4Nv7Hw1%40thread.tacv2/1678554841403?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Нормативне забезпечення реєстрації нових лікарських засобів",
+        "lecturer": "ФРа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aa3nJKSA7DUTrGddfqmbCNZs-nmE3nOjNfSrFu8AFQ6c1%40thread.tacv2/1676402423574?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент та маркетинг у фармації",
+        "lecturer": "ФР-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3amQMAeKfoB_Sn-CePZk7imfrUCq0godNyM_xZjf37FG01%40thread.tacv2/1678554005022?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент та маркетинг у фармації",
+        "lecturer": "ФР-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3amQMAeKfoB_Sn-CePZk7imfrUCq0godNyM_xZjf37FG01%40thread.tacv2/1678554128023?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

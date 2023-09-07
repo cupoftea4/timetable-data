@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Зарубіжна журналістика",
+        "lecturer": "ЖР-31, ЖР-32, ЖР-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71255442829?pwd=8QokLfIzsRJ4gqKHCdWJLTXTICCw9a.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Зарубіжна журналістика",
+        "lecturer": "ЖР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78211906736?pwd=0e8DY9svVAuGm3172zgFuEgj6WcvVF.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Зарубіжна журналістика",
+        "lecturer": "ЖР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79628564336?pwd=LORsQI7x0IOxVWvatUMbBbGzr1TDC4.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Зарубіжна журналістика",
+        "lecturer": "ЖР-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77605877673?pwd=8b8G0Dyuc8H07ugKWpbu1qg3R2m28j.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Журналістська етика",
+        "lecturer": "ЖР-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78190109844?pwd=SzyKtYQIQ0M2wNig8kmGwVap8eTwAC.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

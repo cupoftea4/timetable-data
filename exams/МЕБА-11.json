@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Одрехівський М.В., 525 IV н.к.,",
+        "subject": "Корпоративна аналітика",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aKTFmmfLMCJBiVoEiyp_LtDVdGv-j9s1Yf6bgcnBdHgs1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=591dbb72-4ffa-40f3-8696-555f783c8a26&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Пшик-Ковальська О.О., 525 IV н.к.,",
+        "subject": "Адміністрування міжнародних бізнес-структур",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "Дуляба Н.І., 514 IV н.к.,",
+        "subject": "Розвиток бізнес-структур",
+        "number": 2,
+        "urls": []
+    }
+]

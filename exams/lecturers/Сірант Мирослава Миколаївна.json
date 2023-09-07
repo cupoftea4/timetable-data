@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ПВ-24, ПВ-25, 332 XIX н.к.,",
+        "subject": "Міжнародне право",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/98432023817?pwd=MGp4Sy9td1dYY0cySFZ6Si9EdnJvdz09"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ПВ-26, ПВ-27, 322 XIX н.к.,",
+        "subject": "Міжнародне право",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/98432023817?pwd=MGp4Sy9td1dYY0cySFZ6Si9EdnJvdz09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ПВ-21, ПВ-22, ПВ-23, 313 XIX н.к.,",
+        "subject": "Міжнародне право",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/98432023817?pwd=MGp4Sy9td1dYY0cySFZ6Si9EdnJvdz09"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "ХТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azJWUwX_DL9xN6mMpD7cqnfbocT7PB7XuXVSKftZlDsE1%40thread.tacv2/1680047914570?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf2477fd-dac5-4fcf-bb92-fcbf43c7b57c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технологія переробки нафти і газу",
+        "lecturer": "ХТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3azJWUwX_DL9xN6mMpD7cqnfbocT7PB7XuXVSKftZlDsE1%40thread.tacv2/1680049322981?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bf2477fd-dac5-4fcf-bb92-fcbf43c7b57c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

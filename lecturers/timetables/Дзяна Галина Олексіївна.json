@@ -1,0 +1,120 @@
+[
+    {
+        "subject": "Особисті якості",
+        "lecturer": "ПУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Особисті якості",
+        "lecturer": "ПУ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Система публічного управління та адміністрування",
+        "lecturer": "УАПА-11, 220 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Комунікації в публічному управлінні",
+        "lecturer": "КМПУ-ПУС-101, 220 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комунікації в публічному управлінні",
+        "lecturer": "КМПУ-ПУС-101, КМПУ-ПУС-102, КМПУ-ПУС-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Система публічного управління та адміністрування",
+        "lecturer": "УАПА-11, УАПА-12, УАПА-13, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Особисті якості",
+        "lecturer": "ПУ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комунікації в науці та інтелектуальна власність у сфері публічного управління",
+        "lecturer": "УАа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

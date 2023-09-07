@@ -1,0 +1,69 @@
+[
+    {
+        "subject": "\nОпераційний менеджмент",
+        "lecturer": " МЕ-38",
+        "location": " 427(1) IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nОпераційний менеджмент",
+        "lecturer": " МЕ-310",
+        "location": " 427(1) IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "\nОпераційний менеджмент",
+        "lecturer": " МЕ-39",
+        "location": " 427(1) IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "\nСтратегічне управління інноваційним розвитком організації",
+        "lecturer": " МЕ-44",
+        "location": " 425 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nСтратегічне управління підприємством",
+        "lecturer": " МЕ-41f, практична ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTkyMzk2OTEtNjQxNy00YzgwLWJlZDItNjc4YmQ3MmYzMWJj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233e249d9-ea59-445a-be07-37c49957aef5%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

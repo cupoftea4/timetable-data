@@ -1,0 +1,343 @@
+[
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "КБ-204, 202 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGRkNzMxMjAtMmVhMy00YTg1LWIyNjgtODJmYjc4ZWIzNzMw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "КБ-201, 227 XX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2M2NGU1N2UtNjQ3YS00ZTQ2LTkyNjgtNmNjMjFjNGU0OTIw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmU2NmMyM2EtZmI2YS00MTA2LWI1ZjUtODNmZjAwOGJkMjlj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTA2ODQ3NzktMTY4NC00NDRlLTk1YmItMTQzNGNiMjUyNjc2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmE3YmMzYmEtNTA5OS00MTViLTgxZjItZWQ1OWM3YTBlNjAw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYyODBjNWYtYWE0Yi00YTMyLTkyOTYtOTg4OWU5YjkwOThj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODI2M2E3YmMtZmY2NC00Y2ZiLWJiMzQtYWU3NDIzYmIzMjk4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWQxZWJiMWEtNmFhZS00NmI2LWI3ZjAtODE1ZmQ4ZjIyMmM5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjM4YzYzMWEtZjBlNC00NDc0LWI2NjctY2M4MjJjZDk3YTMz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "КБ-202, 211 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "КБ-205, 211 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MmM2ZGRmMTItN2I4OC00M2M5LTg1ZjgtYTdkZmU3ZjA1Yjgy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "КБ-207, 220 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjBlMmY4OGEtMzYwMS00YTEzLWE0NTAtYzExNGM1MzFmNDdk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "КБ-203, 216а XX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjhlZTdlYWMtZTk1ZC00ZmFlLTk2ZTgtNDYwOTdjOWRkMzZl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Бази даних та знань",
+        "lecturer": "КБ-206, 214 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTYzZmE0MjgtZTMyNi00OTc5LThkYTgtNGQwNjlmYmQxNGQ4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzhlZGIyODYtMTYwZC00ZWMyLWI3OWEtODhkYjdmYTFkN2Yy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDQyZjhkZDgtYzdkOC00OGRjLTllM2MtNWI0OWE3N2M4M2Q2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTgxMGM3NDItNjE2YS00MDRjLWE4MmItZDAzZjRkYTljOTYy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWMyOTEwOWYtNDA1ZS00YjMzLWEwZDItMmRiYjcxMTczYjMx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjNkN2FiNzQtNTAzMi00OTdhLWFiNzEtNjQwZTdkNjhiMWQ4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI3ZTg5NjUtMTNkNC00MDVkLTlmNDctN2JlYjVmOWUyNTMx%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzBhNjMzNTAtZjIxMy00NzEzLTg0YjctNjk3ZTEzNjA0MDRj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент інформаційної безпеки",
+        "lecturer": "КБ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmFiNjQ4Y2EtZDAyZi00ZmE3LWI4OTktNzE2MDIwN2Q2YTAy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2231f26b1e-8cc2-4868-9c7a-60b74659cd4c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

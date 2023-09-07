@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "МЕОА-11f,",
+        "subject": "Електронна комерція",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/7208293138?pwd=TVF1SEFwdGJKTDNjNGxLVEhZZnZuZz09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "МЕОА-11, 420 IV н.к.,",
+        "subject": "Електронна комерція",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "МЕІД-11, 515 IV н.к.,",
+        "subject": "Управління ризиками інноваційної діяльності",
+        "number": 3,
+        "urls": []
+    }
+]

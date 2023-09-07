@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-13T00:00:00.000Z",
+        "lecturer": "Сибірна Р.І.,",
+        "subject": "Судова медицина",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Баїк О.І.,",
+        "subject": "Господарське право, частина 2",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/73950937259?pwd=odam3vGBYhCtob5gDEw4s3FxbWC3bh.1"
+        ]
+    }
+]

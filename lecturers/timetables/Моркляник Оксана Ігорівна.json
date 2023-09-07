@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "\nБагатофункціональний архітектурний комплекс",
+        "lecturer": " АР-41",
+        "location": " 333 Гол. н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "\nБагатофункціональний архітектурний комплекс",
+        "lecturer": " АР-41",
+        "location": " 333 Гол. н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nБагатофункціональний архітектурний комплекс",
+        "lecturer": " АР-46",
+        "location": " 333 Гол. н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nБагатофункціональний архітектурний комплекс",
+        "lecturer": " АР-46",
+        "location": " 333 Гол. н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

@@ -1,0 +1,257 @@
+[
+    {
+        "subject": "Електромагнітні перехідні процеси",
+        "lecturer": "ЕЕ-31, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aS5qgxoGC9xvn5eX80sXxj3P0OmjvTU7yWk_AmB33tIw1%40thread.tacv2/1674749727074?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електромагнітні перехідні процеси",
+        "lecturer": "ЕЕ-31, 305а V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aS5qgxoGC9xvn5eX80sXxj3P0OmjvTU7yWk_AmB33tIw1%40thread.tacv2/1674750242791?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Електромагнітні перехідні процеси",
+        "lecturer": "ЕЕ-32, 305а V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aS5qgxoGC9xvn5eX80sXxj3P0OmjvTU7yWk_AmB33tIw1%40thread.tacv2/1674750106411?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Електромагнітні перехідні процеси",
+        "lecturer": "ЕЕ-32, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aS5qgxoGC9xvn5eX80sXxj3P0OmjvTU7yWk_AmB33tIw1%40thread.tacv2/1674750299601?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Електромагнітні перехідні процеси",
+        "lecturer": "ЕЕ-31, 307 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aS5qgxoGC9xvn5eX80sXxj3P0OmjvTU7yWk_AmB33tIw1%40thread.tacv2/1674750457450?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Електромагнітні перехідні процеси",
+        "lecturer": "ЕЕ-32, 307 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aS5qgxoGC9xvn5eX80sXxj3P0OmjvTU7yWk_AmB33tIw1%40thread.tacv2/1674750608783?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "СЕ-41, СЕ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aWTIrojSx-gD19gqHp0b-39_rvD4OoSa-YbXph4ihb2o1%40thread.tacv2/1674750714507?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Електричні системи змінно-постійного струму",
+        "lecturer": "ЕЕМ-12, 305б V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6d0836c388f44282ad22ff8c7c978ee8%40thread.tacv2/1674751176643?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Електричні системи змінно-постійного струму",
+        "lecturer": "ЕЕЕЕ-14, 305б V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6d0836c388f44282ad22ff8c7c978ee8%40thread.tacv2/1674751100291?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Електричні системи змінно-постійного струму",
+        "lecturer": "ЕЕЕЕ-14, ЕЕМ-12, 305б V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6d0836c388f44282ad22ff8c7c978ee8%40thread.tacv2/1674751294852?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Режими електричних систем",
+        "lecturer": "ЕЕ-32, 307 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a88c2f9a6e95d435f9953940fa2d67f03%40thread.tacv2/1674750869587?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "СЕ-41, СЕ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aWTIrojSx-gD19gqHp0b-39_rvD4OoSa-YbXph4ihb2o1%40thread.tacv2/1674750791435?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Режими електричних систем",
+        "lecturer": "ЕЕ-32, 305а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a88c2f9a6e95d435f9953940fa2d67f03%40thread.tacv2/1674752055711?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Режими електричних систем",
+        "lecturer": "ЕЕ-32, 305а V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a88c2f9a6e95d435f9953940fa2d67f03%40thread.tacv2/1674751949020?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "СЕ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aWTIrojSx-gD19gqHp0b-39_rvD4OoSa-YbXph4ihb2o1%40thread.tacv2/1674751849722?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи електромагнітної сумісності",
+        "lecturer": "СЕ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aWTIrojSx-gD19gqHp0b-39_rvD4OoSa-YbXph4ihb2o1%40thread.tacv2/1674751789705?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Електричні системи змінно-постійного струму",
+        "lecturer": "ЕЕЕЕ-14, ЕЕМ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6d0836c388f44282ad22ff8c7c978ee8%40thread.tacv2/1674751689560?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

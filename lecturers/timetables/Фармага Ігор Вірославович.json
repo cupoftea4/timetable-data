@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-306, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-306, 501 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-309, 322 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-309, 322 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтегровані ієрархічні системи управління",
+        "lecturer": "КНМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-306, КН-307, КН-308, 217 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-309, КН-310, КН-311, 217 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-306, КН-307, КН-308, 217 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "lecturer": "КН-309, КН-310, КН-311, 217 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "ПЗ-21, ПЗ-22, 322 I н.к.,",
+        "subject": "Філософія",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ІТ-21, ІТ-22, 215 I н.к.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "УП-21, КН-218, 114 I н.к.,",
+        "subject": "Філософія",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ПЗ-23, ПЗ-24, 117 I н.к.,",
+        "subject": "Філософія",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1e38aaa502d4430ebdcd4ee5d39c6b73%40thread.tacv2/conversations?groupId=078de251-baa1-4b9d-b9ab-12bcc38161ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "ПЗ-25, ПЗ-26, 116 I н.к.,",
+        "subject": "Філософія",
+        "number": 1,
+        "urls": []
+    }
+]

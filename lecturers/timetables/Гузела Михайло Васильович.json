@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Антикорупційна діяльність в Україні",
+        "lecturer": "ПВ-410, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Антикорупційна діяльність в Україні",
+        "lecturer": "ПВ-411, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Діяльність прокуратури в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ПВ-38, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Діяльність прокуратури в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ПВ-35, ПВ-36, ПВ-37, ПВ-38, ПВ-39, ПВ-310, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Діяльність прокуратури в Україні",
+        "lecturer": "ПВ-35, ПВ-36, ПВ-37, ПВ-39, ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Діяльність прокуратури в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ПВ-38, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Діяльність прокуратури в Україні",
+        "lecturer": "ПВ-35, ПВ-36, ПВ-37, ПВ-39, ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Антикорупційна діяльність в Україні",
+        "lecturer": "ПВ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Антикорупційна діяльність в Україні",
+        "lecturer": "ПВ-48, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Кримінальне право, частина 2",
+        "lecturer": "ПВ-24, ПВ-25, ПВ-26, ПВ-27, 322 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Кримінальне право, частина 2",
+        "lecturer": "ПВ-24, ПВ-25, ПВ-26, ПВ-27, 322 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/6076423554?pwd=eU00T2Q1RDhZYks2Wm81ZW0wekpJUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

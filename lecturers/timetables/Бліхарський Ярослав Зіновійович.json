@@ -1,0 +1,75 @@
+[
+    {
+        "subject": "Використання ВІМ технологій в будівництві",
+        "lecturer": "БД-310, ВІМ-АДМ-301, ВІМ-АДМ-302, ВІМ-АДМ-303, 201 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzdkN2U5NjctZTI4Yi00ODQ4LTg3MDItNDgyMmNmYTJhMzg2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220376808f-06bd-49a9-a935-96e9b0bee760%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДМБ-11, БДМБ-12, БДТК-11, БДТГ-11, БДТГ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjNkOGY3MWEtZGNkMC00ZmRmLWE5NGItM2U5ZGNkMmMyNGU1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДПЦ-11, БДПЦ-12, БДПЦ-13, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTc4NTNkMmMtYWQzYS00M2FjLThmM2ItMWU1MDVmZDkyMTJh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "ВІМ технології для транспортних споруд (спецкурс)",
+        "lecturer": "БДМТ-11, БДМТ-12, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДВВ-11, БДВВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTMzY2Q4NDAtOWViMi00OGQwLTk4MTAtMWY2N2JlZmRlZTE1%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225c24b5f4-7aa0-4b1c-bf04-fc0c7e9a09c6%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

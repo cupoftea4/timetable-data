@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "\nПрикладне програмування",
+        "lecturer": " РІ-11сп",
+        "location": " 124 IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "\nПрикладне програмування",
+        "lecturer": " РІ-11сп",
+        "location": " 124 IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "\nПрикладне програмування",
+        "lecturer": " РІ-11сп",
+        "location": " 406 XXVIII н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "\nПрикладне програмування",
+        "lecturer": " РІ-11сп",
+        "location": " 123 IV н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

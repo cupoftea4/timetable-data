@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-05-09T00:00:00.000Z",
+        "lecturer": "ХТ-34,",
+        "subject": "Обладнання заводів виробництва полімерів",
+        "number": 2,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/72198296986?pwd%3Dyd31aLpXDJYsJR6aEbcu9l1kFtjraK.1&sa=D&source=calendar&usd=2&usg=AOvVaw1j_iVwBOD9dOENYhGOQyw5"
+        ]
+    },
+    {
+        "date": "2023-05-12T00:00:00.000Z",
+        "lecturer": "ХТ-34,",
+        "subject": "Проектування та промислова екологія в технології синтезу високомолекулярних сполук",
+        "number": 2,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/72713430825?pwd%3DjaS4tBQnJaYkjH8DT9Eb9J0Ihm2FXg.1&sa=D&source=calendar&usd=2&usg=AOvVaw1Z6VoQxRPvgF6NybklSuqb"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ХТ-24, 028 VIII н.к.,",
+        "subject": "Структура і властивості високомолекулярних сполук",
+        "number": 3,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/78273220040?pwd%3DQvmew0PnackNteeBzL6NXGUKVxMxvJ.1&sa=D&source=calendar&usd=2&usg=AOvVaw29-Ywh18Rez6MKLSEyGILJ"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ХТ-33,",
+        "subject": "Теоретичні основи виробництва і перероблення пластичних мас",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/73864277252?pwd=MBmROcbvWW6hycsVP9fwlfcbVaW2f5.1"
+        ]
+    }
+]

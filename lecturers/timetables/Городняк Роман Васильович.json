@@ -1,0 +1,168 @@
+[
+    {
+        "subject": "Експлуатація та обслуговування автомобільної техніки",
+        "lecturer": "МБ-33, 016 XV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86137615872?pwd=RW5OSnZLUStCeENvdDV6WWpwT2VkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Експлуатація та обслуговування автомобільної техніки",
+        "lecturer": "МБ-33, 016 XV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86137615872?pwd=RW5OSnZLUStCeENvdDV6WWpwT2VkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Обладнання обробки тиском",
+        "lecturer": "МБ-22, 80б XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Експлуатація та обслуговування автомобільної техніки",
+        "lecturer": "МБ-33, 016 XV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86137615872?pwd=RW5OSnZLUStCeENvdDV6WWpwT2VkZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Тривимірне комп`ютерне конструювання",
+        "lecturer": "МБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86503568297?pwd=cnMvbUVCNHhXYTFYcHY5ZmZUTUxWQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МБ-11сп, МП-11сп, 80б XIV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Експлуатація та обслуговування автомобільної техніки",
+        "lecturer": "МБ-33, 016 XV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86137615872?pwd=RW5OSnZLUStCeENvdDV6WWpwT2VkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МБ-11сп, 083 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МБ-11сп, 084 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Обладнання обробки тиском",
+        "lecturer": "МБ-22, 80б XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МБ-22, 084 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизоване проектування",
+        "lecturer": "МБ-22, 084 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "Лобур М.В.,",
+        "subject": "Сучасні методи проектування інтелектуальних систем",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/zcu-ytvs-mnq"
+        ]
+    },
+    {
+        "date": "2023-06-01T00:00:00.000Z",
+        "lecturer": "Гасько О.Л.,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9064294090?pwd=ZzViVjBwc052WURCYlozeXRnOWk0UT09"
+        ]
+    },
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "Фучила О.М.,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ae0e4f51-cd68-4b4b-bf85-6f8ae89ed1ad&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_atUyfZlX1nsf4PxOgfb4auONpjZlkSuKVIDgFdaIIuo1@thread.tacv2&messageId=1683643613848&language=en-US"
+        ]
+    }
+]

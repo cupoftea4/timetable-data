@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "АР-43, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Архітектурне проектування інтер`єру за темою дипломного проекту",
+        "lecturer": "АР-43, ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "МЕа-11,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ag3QA6VSNHNO2oWz6IU8Ma7hVeeaTl6Gr-5NSxmcpaVA1%40thread.tacv2/conversations?groupId=fae64f18-e5e6-46ef-9f26-bf2752c2c11d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "ЕЕа-11, МПа-11, ТТа-11, МБа-11,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aiWLAsuSQE8KxeWInTyB3z5EDxr2HBmJy8rjvpomSv4o1%40thread.tacv2/conversations?groupId=64f9b436-652c-4538-9adb-d34b6a2d2c67&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ЕВ-33,",
+        "subject": "Ділова іноземна мова, частина 3",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aRekHO74WSaee0uVy-rQuC7KM1xnEJZrUzQl8vbWBldk1%40thread.tacv2/conversations?groupId=b5f41a73-a0fa-4db0-a4c0-f0168e25f213&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ФБ-11, 042 VII н.к., 046 VII н.к.,",
+        "subject": "Іноземна мова за професійним спрямуванням, частина 2",
+        "number": 3,
+        "urls": []
+    }
+]

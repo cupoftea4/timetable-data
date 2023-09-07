@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "ІР-21, ІР-22, ІР-23, ІР-24, 609 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8638376107?pwd=Q2IrNWlyNHVhSnoxaU5NRzM0SGhOQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "ІР-24, 607а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8638376107?pwd=Q2IrNWlyNHVhSnoxaU5NRzM0SGhOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "ІР-22, 607а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8638376107?pwd=Q2IrNWlyNHVhSnoxaU5NRzM0SGhOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Операційні системи",
+        "lecturer": "ІР-23, 611д V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8638376107?pwd=Q2IrNWlyNHVhSnoxaU5NRzM0SGhOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "ІР-24, 607а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8638376107?pwd=Q2IrNWlyNHVhSnoxaU5NRzM0SGhOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "ІР-21, 607а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8638376107?pwd=Q2IrNWlyNHVhSnoxaU5NRzM0SGhOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Операційні системи",
+        "lecturer": "ІР-23, 611а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8638376107?pwd=Q2IrNWlyNHVhSnoxaU5NRzM0SGhOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "ІР-22, 611д V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8638376107?pwd=Q2IrNWlyNHVhSnoxaU5NRzM0SGhOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "ІР-21, 608 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8638376107?pwd=Q2IrNWlyNHVhSnoxaU5NRzM0SGhOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "ІР-23, 607а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8638376107?pwd=Q2IrNWlyNHVhSnoxaU5NRzM0SGhOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні мережі",
+        "lecturer": "ІР-23, 607а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8638376107?pwd=Q2IrNWlyNHVhSnoxaU5NRzM0SGhOQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    }
+]

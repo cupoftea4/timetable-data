@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-04-10T00:00:00.000Z",
+        "lecturer": "УАі-42,",
+        "subject": "Антимонопольне регулювання, частина 2",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a4b84d4f29ed240a28b230133e66ad8f3%40thread.tacv2/conversations?groupId=79f30cd7-133f-4971-b555-ae5d02b27824&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-01T00:00:00.000Z",
+        "lecturer": "УАа-21,",
+        "subject": "Стратегії конкурентного розвитку держави",
+        "number": 6,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9c608dd77b744a888457a23fe6f82ecd%40thread.tacv2/conversations?groupId=d32ff092-5aee-49ad-a615-52c50a18bfaa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "УАРАі-11, 504 IV н.к.,",
+        "subject": "Державний контроль за товарними ринками",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a17b8bba140de46c0ab5055688568d4ef%40thread.tacv2/conversations?groupId=ff26d55f-411b-4fc6-98c2-4594a6922736&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

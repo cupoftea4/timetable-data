@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "Павич Н.Я.,",
+        "subject": "Сховища даних",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTVlMzUyMjktZDcxNC00NWFjLTlhMmQtYjY2Y2Q3ODhkMTAz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229a605ba6-6917-411b-918f-084f4839c77f%22%7d"
+        ]
+    },
+    {
+        "date": "2023-05-26T00:00:00.000Z",
+        "lecturer": "Тушницький Р.Б.,",
+        "subject": "Хмарні обчислення",
+        "number": 1,
+        "urls": [
+            "https://us02web.zoom.us/j/81021569735?pwd=L05TUS9XZVFvdzhoeVo1ZXljZ0tHdz09"
+        ]
+    },
+    {
+        "date": "2023-05-22T00:00:00.000Z",
+        "lecturer": "Федорчук Є.Н.,",
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/zwd-yrdz-xeo"
+        ]
+    }
+]

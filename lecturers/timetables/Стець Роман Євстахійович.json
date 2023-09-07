@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "АВ-34, 307 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82465457334?pwd=c3ZVd1EwTm5iOHhzdmZteEZFcUt0QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "АВ-41, АВ-42, 302 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88383895217?pwd=WFVyempReUFMdVJzc1lwckczZFJMQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "АВ-34, 307 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82662290038?pwd=TjJ4WHA4Sk9jdEtVK21yczVESU8rZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "АВ-41, АВ-42, 307 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/88974931231?pwd=dzdJNkFaUU05VUp6S3NPWVovWlNwdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "АТ-31, АТ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85636149485?pwd=d3daZEVHNTJHNzI2b1hjS21jMGRTdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "АТ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83249005026?pwd=LzlpRG1XYzZpT1Y4NDRwVWhwT1h4Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    }
+]

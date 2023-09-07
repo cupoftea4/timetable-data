@@ -1,0 +1,230 @@
+[
+    {
+        "subject": "Анатомія та фізіологія центральної нервової системи",
+        "lecturer": "ПС-19, 027 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Соціальна психологія, частина 1",
+        "lecturer": "ПС-19, 027 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Психологія праці",
+        "lecturer": "ПС-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXdkXN1HHlNO7rXLdDYFqdvN45XNtBckF0_cLHurFpQg1%40thread.tacv2/conversations?groupId=1f9de758-c2d5-4bba-94f6-577cff1b6b7c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Психологія праці",
+        "lecturer": "ПС-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aIHwv0tX9FL1kyM-ix3Zpgw2UycEMWc3eqkINYnu4iD01%40thread.tacv2/conversations?groupId=025d673a-3674-49fa-ae92-1f143573db05&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Психологія праці",
+        "lecturer": "ПС-43, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0HbeJgG6zgibUp_0X7X6m5JjYMesIEWNRUE-gFOjdJE1%40thread.tacv2/conversations?groupId=8c6c8225-8f2e-495a-bd7a-d853e1a31387&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Психологія праці",
+        "lecturer": "ПС-43, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0HbeJgG6zgibUp_0X7X6m5JjYMesIEWNRUE-gFOjdJE1%40thread.tacv2/conversations?groupId=8c6c8225-8f2e-495a-bd7a-d853e1a31387&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Анатомія та фізіологія центральної нервової системи",
+        "lecturer": "ПС-17, 026 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Соціальна психологія, частина 1",
+        "lecturer": "ПС-17, 026 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Соціальна психологія, частина 1",
+        "lecturer": "ПС-18, 116 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Анатомія та фізіологія центральної нервової системи",
+        "lecturer": "ПС-18, 116 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Психологія праці",
+        "lecturer": "ПС-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5vQ5g1i5MpkVibPG03UsD28jkTLRjnSYu3a-r7SLsBg1%40thread.tacv2/conversations?groupId=41a9441d-ad6d-48ee-b95f-980909bb40c1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Психологія праці",
+        "lecturer": "ПС-45, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBWzhIEACatjH0taxNfHEhRNNhdSSof-SPGTK5oa6lv41%40thread.tacv2/conversations?groupId=f34e449c-9907-42bf-85b3-4259334a5bf3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Психологія праці",
+        "lecturer": "ПС-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5vQ5g1i5MpkVibPG03UsD28jkTLRjnSYu3a-r7SLsBg1%40thread.tacv2/conversations?groupId=41a9441d-ad6d-48ee-b95f-980909bb40c1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Психологія праці",
+        "lecturer": "ПС-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aXdkXN1HHlNO7rXLdDYFqdvN45XNtBckF0_cLHurFpQg1%40thread.tacv2/conversations?groupId=1f9de758-c2d5-4bba-94f6-577cff1b6b7c&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Психологія праці",
+        "lecturer": "ПС-45, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aBWzhIEACatjH0taxNfHEhRNNhdSSof-SPGTK5oa6lv41%40thread.tacv2/conversations?groupId=f34e449c-9907-42bf-85b3-4259334a5bf3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Психологія праці",
+        "lecturer": "ПС-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aIHwv0tX9FL1kyM-ix3Zpgw2UycEMWc3eqkINYnu4iD01%40thread.tacv2/conversations?groupId=025d673a-3674-49fa-ae92-1f143573db05&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

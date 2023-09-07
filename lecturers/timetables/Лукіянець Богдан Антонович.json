@@ -1,0 +1,191 @@
+[
+    {
+        "subject": "Філософія науки і техніки",
+        "lecturer": "ПФГВ-11, ФНТ-ПФН-101, 035 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/89402872372?pwd=ZDM5TmhGa0RNN29LYlBOZmVWemtvZz09%20%20Meeting%20ID:%20894%200287%202372%20Passcode:%20Jq3fcp"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Філософія науки і техніки",
+        "lecturer": "ПФГВ-11, ФНТ-ПФН-101, 035 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/89402872372?pwd=ZDM5TmhGa0RNN29LYlBOZmVWemtvZz09%20%20Meeting%20ID:%20894%200287%202372%20Passcode:%20Jq3fcp"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Теорія ядерних реакторів, частина 2",
+        "lecturer": "АЕ-31, 209 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/81869624170?pwd=eGZ3eTV1WkxtTUkxUjdIRG1nRWd0dz09%20%20Meeting%20ID:%20818%206962%204170%20Passcode:%20JR62MG"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Атомна фізика",
+        "lecturer": "АЕ-11, 207 X н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Фізика конденсованого стану і квантово-розмірних систем",
+        "lecturer": "ПФа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/88202495986?pwd=MTdLRTc2eVhXblZVWHFtWkYxNTYyUT09%20%20Meeting%20ID:%20882%200249%205986%20Passcode:%20y8LYCd"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Атомна фізика",
+        "lecturer": "АЕ-11, 207 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фізика конденсованого стану і квантово-розмірних систем",
+        "lecturer": "ПФа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/88202495986?pwd=MTdLRTc2eVhXblZVWHFtWkYxNTYyUT09%20%20Meeting%20ID:%20882%200249%205986%20Passcode:%20y8LYCd"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теорія ядерних реакторів, частина 2",
+        "lecturer": "АЕ-31, 115 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/81869624170?pwd=eGZ3eTV1WkxtTUkxUjdIRG1nRWd0dz09%20%20Meeting%20ID:%20818%206962%204170%20Passcode:%20JR62MG"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Фізика конденсованого стану і квантово-розмірних систем",
+        "lecturer": "ПФа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/88202495986?pwd=MTdLRTc2eVhXblZVWHFtWkYxNTYyUT09%20%20Meeting%20ID:%20882%200249%205986%20Passcode:%20y8LYCd"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Фізика структурно невпорядкованих систем",
+        "lecturer": "ПФ-41, 035 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/89524718695?pwd=VVIxY1p3UGZsUFlyaWM0YVYvd0Fhdz09%20%20Meeting%20ID:%20895%202471%208695%20Passcode:%20DCc1xH"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Фізика структурно невпорядкованих систем",
+        "lecturer": "ПФ-41, 035 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/89524718695?pwd=VVIxY1p3UGZsUFlyaWM0YVYvd0Fhdz09%20%20Meeting%20ID:%20895%202471%208695%20Passcode:%20DCc1xH"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Атомна фізика",
+        "lecturer": "АЕ-11, 115 X н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Фізика структурно невпорядкованих систем",
+        "lecturer": "ПФ-41, 035 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/89524718695?pwd=VVIxY1p3UGZsUFlyaWM0YVYvd0Fhdz09%20%20Meeting%20ID:%20895%202471%208695%20Passcode:%20DCc1xH"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

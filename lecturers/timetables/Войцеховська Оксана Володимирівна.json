@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Психологія особистості",
+        "lecturer": "ПС-11, 116 XX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    }
+]

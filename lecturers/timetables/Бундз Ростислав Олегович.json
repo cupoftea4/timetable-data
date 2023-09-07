@@ -1,0 +1,207 @@
+[
+    {
+        "subject": "Кримінальне право, частина 2",
+        "lecturer": "ПВ-22, 308 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Кримінальне право, частина 2",
+        "lecturer": "ПВ-22, 026 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Кримінальне право, частина 2",
+        "lecturer": "ПВ-22, 328 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність та ІТ-право",
+        "lecturer": "ПМ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79121070815?pwd=f1EbTbKxxGychlrZ1bMdJ1lhhkqazc.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Кримінальне право, частина 2",
+        "lecturer": "ПВ-23, 328 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Кримінальне право, частина 2",
+        "lecturer": "ПВ-23, 328 XIX н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "lecturer": "ПВ-13, 035 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ПВПР-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75496278685?pwd=LyB15SG9VwvrIivg20HE49asgSNYEd.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність та ІТ-право",
+        "lecturer": "ПМ-31, ПМ-32, ПМ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72002937360?pwd=APaednM0uwPjJOedWJtw0IRozkHwh7.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуальна власність та ІТ-право",
+        "lecturer": "ПМ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71344743093?pwd=9lRk2uazb8P5k6WlSUwoFqMjwFkHkb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність та ІТ-право",
+        "lecturer": "ПМ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78641812268?pwd=9badYNhM3jDufNzfankENcdeVogpd0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "lecturer": "ПВ-12, 011 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "lecturer": "ПВ-14, 036 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "lecturer": "ПВ-15, 035 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Організація діяльності судів та правоохоронних органів",
+        "lecturer": "ПВ-11, 012 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

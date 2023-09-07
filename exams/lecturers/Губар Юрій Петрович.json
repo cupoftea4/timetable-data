@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "ГДа-21,",
+        "subject": "Методологія реєстрації об`єктів нерухомого майна",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ]
+    },
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "ГДа-21,",
+        "subject": "Світові кадастрові системи",
+        "number": 5,
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ]
+    },
+    {
+        "date": "2023-06-13T00:00:00.000Z",
+        "lecturer": "ГД-42,",
+        "subject": "Основи  технічного забезпечення оцінки нерухомості",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ГДОЗ-11, 506 II н.к.,",
+        "subject": "Економіко-математичні методи і моделі в оцінці нерухомості",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ]
+    }
+]

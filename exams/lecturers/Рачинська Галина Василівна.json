@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "МЕОА-11, 420 IV н.к.,",
+        "subject": "Інфраструктура малого та середнього бізнесу",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "МЕ-31, МЕ-32, МЕ-33,",
+        "subject": "Соціальний менеджмент",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/2618150505?pwd=T1d6UEFHS3FlUEY2NWZ6THhoV3hPZz09"
+        ]
+    }
+]

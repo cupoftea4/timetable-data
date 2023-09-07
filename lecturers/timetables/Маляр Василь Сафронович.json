@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Загальна електротехніка",
+        "lecturer": "ТЕ-11, 011 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Загальна електротехніка",
+        "lecturer": "ТЕ-11, 115 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Електротехніка",
+        "lecturer": "НГ-11, 115 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Загальна електротехніка",
+        "lecturer": "АЕ-11, ТЕ-11, 114 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Електротехніка",
+        "lecturer": "НГ-11, 115 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Електротехніка",
+        "lecturer": "НГ-11, 115 Гол. н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/5656941336?pwd=WUlnazlnOXlqYVFSNzFQUDJmaytUdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

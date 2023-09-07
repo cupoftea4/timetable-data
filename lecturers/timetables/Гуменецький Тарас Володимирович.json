@@ -1,0 +1,163 @@
+[
+    {
+        "subject": "Основи хімії полімерів",
+        "lecturer": "ХТ-24, 319 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77332887053?pwd=3HaKiRBp8GWckdAiy34mo4zgXJJeJU.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи хімії полімерів",
+        "lecturer": "ХТ-24, 319 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75156239078?pwd=ecEzmQlvW93ptw6d0eHWu3TcTvpwOb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи хімії полімерів",
+        "lecturer": "ХТ-24, 319 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71689829687?pwd=XnLhCyu4519amNQYAGPwKofdYMbalW.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Спеціальні методи досліджень структури і властивостей високомолекулярних сполук",
+        "lecturer": "ХТМ-11, 301 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71265966837?pwd=GmsRR0e3rQonbiax070v0Lq7sjXRZf.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Спеціальні методи досліджень структури і властивостей високомолекулярних сполук",
+        "lecturer": "ХТВС-11, 301 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71265966837?pwd=GmsRR0e3rQonbiax070v0Lq7sjXRZf.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Хімічна технологія високомолекулярних сполук",
+        "lecturer": "ХТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72276570601?pwd=AIV45Iquap4t1pal3G0YMAokG8obon.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Хімічна технологія високомолекулярних сполук",
+        "lecturer": "ХТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/79288466193?pwd=TRL2sUI7SbNZOaCNwaM65QrOAvbApP.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Спеціальні методи досліджень структури і властивостей високомолекулярних сполук",
+        "lecturer": "ХТВС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77112924346?pwd=4jEebgwDnrywRgyXWTq3w0EP2qT35d.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Спеціальні методи досліджень структури і властивостей високомолекулярних сполук",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Спеціальні методи досліджень структури і властивостей високомолекулярних сполук",
+        "lecturer": "ХТВС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77112924346?pwd=4jEebgwDnrywRgyXWTq3w0EP2qT35d.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Спеціальні методи досліджень структури і властивостей високомолекулярних сполук",
+        "lecturer": "ХТМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    }
+]

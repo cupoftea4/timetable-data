@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Слов`янські мови",
+        "lecturer": "ЖР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/HE3XaLWayLZq"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Слов`янські мови",
+        "lecturer": "ЖР-31, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/HE3XaLWayLZq"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Слов`янські мови",
+        "lecturer": "ЖР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/NnDXThQgvQx6"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Слов`янські мови",
+        "lecturer": "ЖР-32, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/NnDXThQgvQx6"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/E8UoomXvjYSp"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/DVFmWmAaZLjf"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/E8UoomXvjYSp"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-33, ",
+        "location": ", практична",
+        "urls": [
+            "https://join.skype.com/KlxfULgvjLyM"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/KlxfULgvjLyM"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова II, частина 2",
+        "lecturer": "МВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://join.skype.com/DVFmWmAaZLjf"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Лясковська С.Є.,",
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Виклюк Я.І.,",
+        "subject": "Аналітичні сховища даних",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Карівець І.В.,",
+        "subject": "Філософія",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a1e38aaa502d4430ebdcd4ee5d39c6b73%40thread.tacv2/conversations?groupId=078de251-baa1-4b9d-b9ab-12bcc38161ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Виклюк Я.І.,",
+        "subject": "Машинне навчання",
+        "number": 2,
+        "urls": []
+    }
+]

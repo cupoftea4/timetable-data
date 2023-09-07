@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-24T00:00:00.000Z",
+        "lecturer": "КН-401, КН-402, КН-403,",
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71043765128?pwd=EGf3GmWvBn5iPkCwokaWdYBOdt0uCP.1"
+        ]
+    },
+    {
+        "date": "2023-04-27T00:00:00.000Z",
+        "lecturer": "КН-404, КН-405, КН-316,",
+        "subject": "Інформаційні телекомунікаційні технології управління",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71043765128?pwd=EGf3GmWvBn5iPkCwokaWdYBOdt0uCP.1"
+        ]
+    }
+]

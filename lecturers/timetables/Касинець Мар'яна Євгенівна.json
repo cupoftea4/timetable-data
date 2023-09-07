@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Технічна теплофізика",
+        "lecturer": "БД-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3alHDFk-puIKzen3-AyFYYdoroXUEFGxD51r6DLTAXq741%40thread.tacv2/1676402998484?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2261822e71-cb33-493f-b608-96546aa9a958%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технічна теплофізика",
+        "lecturer": "БД-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3alHDFk-puIKzen3-AyFYYdoroXUEFGxD51r6DLTAXq741%40thread.tacv2/1677659320770?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2261822e71-cb33-493f-b608-96546aa9a958%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

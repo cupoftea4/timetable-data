@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Гурей В.І.,",
+        "subject": "Системи ЧПК технологічного обладнання",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Ланець О.В.,",
+        "subject": "Деталі машин, частина 2",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Дмитерко П.Р.,",
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ad7FIfTCtbXEE0mL6XWstLjfxuFtYYUkq1CrlO-tiS7E1%40thread.tacv2/conversations?groupId=b47e3953-6610-4bc7-b124-cbae63ca99ef&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Кусий Я.М.,",
+        "subject": "Експлуатація та обслуговування машин",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Гурей В.І.,",
+        "subject": "Математичні основи робототехніки",
+        "number": 3,
+        "urls": []
+    }
+]

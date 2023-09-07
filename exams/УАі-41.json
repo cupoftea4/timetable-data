@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-04-10T00:00:00.000Z",
+        "lecturer": "Паска О.В.,",
+        "subject": "Планування територіального розвитку",
+        "number": 6,
+        "urls": []
+    },
+    {
+        "date": "2023-04-13T00:00:00.000Z",
+        "lecturer": "Дорош І.М.,",
+        "subject": "Стрес-менеджмент",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/5014200537?pwd=R095dzRtNXBOUXoyTjViWXd6TVpQZz09"
+        ]
+    }
+]

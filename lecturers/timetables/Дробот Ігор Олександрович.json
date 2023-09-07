@@ -1,0 +1,84 @@
+[
+    {
+        "subject": "Комунікації в публічному управлінні",
+        "lecturer": "КМПУ-ПУС-102, 231 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Керівник в системі державного управління",
+        "lecturer": "УАПА-12, 231 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Керівник в системі державного управління",
+        "lecturer": "УАПА-13, 237 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Керівник в системі державного управління",
+        "lecturer": "УАПА-11, 220 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Світовий досвід організації публічного управління та публічної служби",
+        "lecturer": "УАа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/6972344532?pwd=MnhnU1NUS291T0o2ZGxrVFpiRWpCdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Світовий досвід організації публічного управління та публічної служби",
+        "lecturer": "УАа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6972344532?pwd=MnhnU1NUS291T0o2ZGxrVFpiRWpCdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

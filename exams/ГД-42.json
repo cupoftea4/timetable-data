@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-13T00:00:00.000Z",
+        "lecturer": "Губар Ю.П.,",
+        "subject": "Основи  технічного забезпечення оцінки нерухомості",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/5372169610?pwd=YWdIbjJPTHp3VDYvcWNsWUlUdzVHQT09"
+        ]
+    },
+    {
+        "date": "2023-06-09T00:00:00.000Z",
+        "lecturer": "Хавар Ю.С.,",
+        "subject": "Реєстрація нерухомості",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ]
+    },
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "Хавар Ю.С.,",
+        "subject": "Техніко-нормативне забезпечення оцінки землі та нерухомого майна",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ]
+    }
+]

@@ -1,0 +1,174 @@
+[
+    {
+        "subject": "Філософія",
+        "lecturer": "КН-313, 406 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "ВП-21, 406 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "СА-23, 401 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "КН-314, 406 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "ВП-22, 201 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "КН-304, 407 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "КН-305, 407 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "ВП-21, ВП-22, СА-21, СА-22, СА-23, 205 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "КН-301, КН-302, КН-303, КН-304, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "КН-313, КН-314, КН-315, 525 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "КН-305, КН-306, КН-307, КН-308, 218 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Філософія",
+        "lecturer": "КН-307, 401 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ahVOEx-Ke3jX1x0t6tmWONqCSfoELlcMS0GMuJ3LoG5Y1%40thread.tacv2/conversations?groupId=1e482a42-09b8-4a35-9025-d002263b9e83&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

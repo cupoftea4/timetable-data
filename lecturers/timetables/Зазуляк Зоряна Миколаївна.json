@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Енергетична політика ЄС",
+        "lecturer": "ЕЕЕБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86751454775?pwd=LzkvRWdISWRVYlZIV1FjVGFLOG9TUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Енергетична політика ЄС",
+        "lecturer": "ЕЕЕБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83861338573?pwd=ZDNadGxKNVZMZkJJKzdBWnhJV05kZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Енергетична безпека",
+        "lecturer": "ЕНБ-ПМВ-102, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85613424149?pwd=d0RXYW1ycWNxb2gzYkYvUFlzRWhFUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Енергетична безпека",
+        "lecturer": "ЕНБ-ПМВ-101, ЕНБ-ПМВ-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82846050219?pwd=WUVxa09DUW1EazZTcmdTY0UxVlM2QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Енергетична безпека",
+        "lecturer": "ЕНБ-ПМВ-101, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86479537157?pwd=dkJyMy9CazVhYXFBOFJscm8zRWxJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

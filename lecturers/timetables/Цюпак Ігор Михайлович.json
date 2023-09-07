@@ -1,0 +1,225 @@
+[
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "ГД-23, 613 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:RGYPFjvE74McuW56i-ws2YIWnyh7kFtR2sO0hSooOwI1@thread.tacv2/1677155219306?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Сферична астрономія з основами координатно-часового забезпечення",
+        "lecturer": "НЗ-21, 605 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/yrh-voxv-qze"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Сферична астрономія з основами координатно-часового забезпечення",
+        "lecturer": "НЗ-21, 605 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/yrh-voxv-qze"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Космічна геодезія",
+        "lecturer": "ГД-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:kdZG-P71gAS9gnLxlxmuBRV6q0vxRF_B3IxxSZlRsao1@thread.tacv2/1677146760394?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Космічна геодезія",
+        "lecturer": "ГД-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:kdZG-P71gAS9gnLxlxmuBRV6q0vxRF_B3IxxSZlRsao1@thread.tacv2/1677146760394?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Космічна геодезія",
+        "lecturer": "ГД-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:kdZG-P71gAS9gnLxlxmuBRV6q0vxRF_B3IxxSZlRsao1@thread.tacv2/1677146760394?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Космічна геодезія",
+        "lecturer": "ГД-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:kdZG-P71gAS9gnLxlxmuBRV6q0vxRF_B3IxxSZlRsao1@thread.tacv2/1677146760394?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сферична астрономія з основами координатно-часового забезпечення",
+        "lecturer": "НЗ-21, 605 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/yrh-voxv-qze"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Сферична астрономія з основами координатно-часового забезпечення",
+        "lecturer": "НЗ-21, 605 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/yrh-voxv-qze"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методи наукових досліджень",
+        "lecturer": "ГДКГ-11, 346 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:dL5xl7f2FZd2ox62sBJJPRvSvOnwJ0CkWdnr__gSQu01@thread.tacv2/1677157372017?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "ГД-23, 605 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:RGYPFjvE74McuW56i-ws2YIWnyh7kFtR2sO0hSooOwI1@thread.tacv2/1677155219306?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Супутникова геодезія та сферична астрономія",
+        "lecturer": "ГД-23, 605 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:RGYPFjvE74McuW56i-ws2YIWnyh7kFtR2sO0hSooOwI1@thread.tacv2/1677155219306?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Методи наукових досліджень",
+        "lecturer": "ГДКГ-12, 346 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Системи позиціювання і навігації в геодезії",
+        "lecturer": "ГДа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:8-Sr1KxqBu8_sqAXV30OEMerj4BpCDZOVVWn_D4K4bY1@thread.tacv2/1677157783064?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Системи позиціювання і навігації в геодезії",
+        "lecturer": "ГДа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:8-Sr1KxqBu8_sqAXV30OEMerj4BpCDZOVVWn_D4K4bY1@thread.tacv2/1677157783064?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%22a5b0279f-50c7-4ef8-88c5-c48e9a7c145b%22%7D"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Інтелектуалізація та інформатизація світогосподарського розвитку",
+        "lecturer": "ЕВа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag1e2JK9sxSyUM9zpNsujQ-ctmRWZZKp2EBLC6gMeI4I1%40thread.tacv2/1676378266078?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e3e25230-d3c2-43cb-ae77-a2dc886edf9c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інтелектуалізація та інформатизація світогосподарського розвитку",
+        "lecturer": "ЕВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ag1e2JK9sxSyUM9zpNsujQ-ctmRWZZKp2EBLC6gMeI4I1%40thread.tacv2/1676378266078?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22e3e25230-d3c2-43cb-ae77-a2dc886edf9c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Глобальний розвиток економічних систем",
+        "lecturer": "ЕВа-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adc99bc948a804463a6e9a63f8a521a94%40thread.tacv2/1674846957516?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2277268260-be84-427d-b412-64a7f23110c5%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Глобальний розвиток економічних систем",
+        "lecturer": "ЕВа-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3adc99bc948a804463a6e9a63f8a521a94%40thread.tacv2/1674846722070?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2277268260-be84-427d-b412-64a7f23110c5%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Робототехніка, частина 2",
+        "lecturer": "МТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81070646521?pwd=aHJITjUwVHVEQUMwbWN6Umpuc3JkZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Робототехніка, частина 2",
+        "lecturer": "МТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86098083381?pwd=QXlNbng5bWpNYTBUenhIWFlFZlpnQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Вимірювальний контроль якості",
+        "lecturer": "МТЯС-11, 703 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86725233759?pwd=RDNMOGtXYUx5REI5Z1JGY09nRkdQdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Вимірювальний контроль якості",
+        "lecturer": "МТЯС-11, 712в V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83226624623?pwd=SGs2NDUrcVhrcS96SWhUcjVhTHN2Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Спеціалізовані системи управління",
+        "lecturer": "МТЯС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86524902976?pwd=eDE1OGNyc1FFUDdmV21PbzVGV3kxUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Робототехніка, частина 2",
+        "lecturer": "МТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83109062058?pwd=Sm0yeWE1SXFlUm5IMnhiVGlrYkRYdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Спеціалізовані системи управління",
+        "lecturer": "МТЯС-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82818361373?pwd=T05rMnUzM0VOU2xrNEF2ajl6QjhTQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Робототехніка, частина 2",
+        "lecturer": "МТ-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83109062058?pwd=Sm0yeWE1SXFlUm5IMnhiVGlrYkRYdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІВТ-106, 707 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83186891362?pwd=MGNpQmJuT0YwMWRTYWI3TjlJNDFKdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІВТ-105, 707 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83186891362?pwd=MGNpQmJuT0YwMWRTYWI3TjlJNDFKdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІВТ-107, 707 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83186891362?pwd=MGNpQmJuT0YwMWRTYWI3TjlJNDFKdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інтелектуальна власність",
+        "lecturer": "ІВЛ-ІВТ-104, 707 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/83186891362?pwd=MGNpQmJuT0YwMWRTYWI3TjlJNDFKdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Управління якістю в ІТ сфері",
+        "lecturer": "УЯІ-ІВТ-101, УЯІ-ІВТ-102, УЯІ-ІВТ-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19:fcd28c331a8d470fb096973677aa26ab@thread.tacv2/1677680901536?context=%7B%22Tid%22:%227631cd62-5187-4e15-8b8e-ef653e366e7a%22,%22Oid%22:%224dac45df-7f05-4e99-9b5c-bd3091b91718%22%7D"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nБезпека програм та даних",
+        "lecturer": " ПЗ-45",
+        "location": " 808 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "\nБезпека програм та даних",
+        "lecturer": " ПЗ-45",
+        "location": " 808 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    }
+]

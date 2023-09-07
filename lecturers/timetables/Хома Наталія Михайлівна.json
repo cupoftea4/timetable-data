@@ -1,0 +1,56 @@
+[
+    {
+        "subject": "Теорія і практика переговорів у міжнародних комунікаціях",
+        "lecturer": "МВМВ-12, 072 XIV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Теорія і практика переговорів у міжнародних комунікаціях",
+        "lecturer": "МВМВ-11, 510 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Історія ідей, концепцій і теорій міжнародних відносин",
+        "lecturer": "МВ-11, МВ-12, МВ-13, МВ-14, 209 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Теорія і практика переговорів у міжнародних комунікаціях",
+        "lecturer": "МВМВ-11, МВМВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71666543572?pwd=bqQ9vnW45I6x67yLVb1YlbAm4PCFO6.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

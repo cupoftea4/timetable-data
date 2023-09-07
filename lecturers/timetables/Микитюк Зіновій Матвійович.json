@@ -1,0 +1,249 @@
+[
+    {
+        "subject": "Дослідницький семінар в галузі електроніки та телекомунікацій",
+        "lecturer": "ЕЛа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3af5uRgwjvTCTM9BvJYYzGBdc1TT7oktvGGeRTm9r6u2Y1%40thread.tacv2/1676620941013?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Елементи та пристрої відображення інформації",
+        "lecturer": "ЕЛ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ayx1RClnVZGJKvHWkaWw9IBrdgWwOs7m5XdgEcovAvi81%40thread.tacv2/1676620198312?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Елементи та пристрої відображення інформації",
+        "lecturer": "ЕЛ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ayx1RClnVZGJKvHWkaWw9IBrdgWwOs7m5XdgEcovAvi81%40thread.tacv2/1676620299288?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Прилади та техніка НВЧ",
+        "lecturer": "ЕЛ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOGUtMFof2BVG8YF80kmhNCh9JAX0FJZrUujK0jK1WQc1%40thread.tacv2/1676621102723?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Прилади та техніка НВЧ",
+        "lecturer": "ЕЛ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOGUtMFof2BVG8YF80kmhNCh9JAX0FJZrUujK0jK1WQc1%40thread.tacv2/1676621190028?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Прилади та техніка НВЧ",
+        "lecturer": "ЕЛ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOGUtMFof2BVG8YF80kmhNCh9JAX0FJZrUujK0jK1WQc1%40thread.tacv2/1676621295246?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "ЕЛЕА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ah3nxAhnOYBY8vLCHkrsT0My984IsfUBPC29UBTcOSHk1%40thread.tacv2/1676621565941?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "ЛМБ-ЕЛІ-101, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "ЕЛЕА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ah3nxAhnOYBY8vLCHkrsT0My984IsfUBPC29UBTcOSHk1%40thread.tacv2/1676621565941?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "ЛМБ-ЕЛІ-101, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "ЛМБ-ЕЛІ-101, 110 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ah3nxAhnOYBY8vLCHkrsT0My984IsfUBPC29UBTcOSHk1%40thread.tacv2/1676621830771?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "ЕЛЕА-11, 110 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "ЛМБ-ЕЛІ-101, 110 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ah3nxAhnOYBY8vLCHkrsT0My984IsfUBPC29UBTcOSHk1%40thread.tacv2/1676621830771?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Лазери в медицині та біології",
+        "lecturer": "ЕЛЕА-11, 110 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Елементи та пристрої відображення інформації",
+        "lecturer": "ЕЛ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ayx1RClnVZGJKvHWkaWw9IBrdgWwOs7m5XdgEcovAvi81%40thread.tacv2/1676620555842?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Елементи та пристрої відображення інформації",
+        "lecturer": "ЕЛ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ayx1RClnVZGJKvHWkaWw9IBrdgWwOs7m5XdgEcovAvi81%40thread.tacv2/1676620664026?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Прилади та техніка НВЧ",
+        "lecturer": "ЕЛ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aOGUtMFof2BVG8YF80kmhNCh9JAX0FJZrUujK0jK1WQc1%40thread.tacv2/1676621441801?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bd703701-2c19-4474-b974-8310c359c0b3%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

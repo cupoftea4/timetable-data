@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Педагогічна ергономіка",
+        "lecturer": "ПЦ-11, 331 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Педагогічна ергономіка",
+        "lecturer": "ПЦ-11, 331 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Експертиза, контроль та планування освітнього процесу та освітніх систем",
+        "lecturer": "НОПН-11, НОПН-12, НОПН-13, НОПН-14, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84661701058?pwd=SFBVSjdweDRwbk1Wa1hySGEwZHJnZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Педагогічна ергономіка",
+        "lecturer": "ПР-11, ПЦ-11, 709 XXXVI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комунікативні процеси в педагогічній діяльності",
+        "lecturer": "ПК-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89185942693?pwd=YXNtWUpLeUpZR29nRWo2YUxzTXJudz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комунікативні процеси в педагогічній діяльності",
+        "lecturer": "ПК-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89185942693?pwd=YXNtWUpLeUpZR29nRWo2YUxzTXJudz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Педагогічна ергономіка",
+        "lecturer": "ПР-11, 705 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Педагогічна ергономіка",
+        "lecturer": "ПР-11, 705 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Експертиза, контроль та планування освітнього процесу та освітніх систем",
+        "lecturer": "НОПН-13, 402 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Експертиза, контроль та планування освітнього процесу та освітніх систем",
+        "lecturer": "НОПН-14, 705 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Експертиза, контроль та планування освітнього процесу та освітніх систем",
+        "lecturer": "НОПН-11, 402 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Експертиза, контроль та планування освітнього процесу та освітніх систем",
+        "lecturer": "НОПН-12, 705 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86801898305?pwd=OGt1L1h1V2NpVFhQb1ZNQUZ3MXFpZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

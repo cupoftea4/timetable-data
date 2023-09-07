@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Лучкевич М.М.,",
+        "subject": "Адміністрування інформаційних систем",
+        "number": 3,
+        "urls": [
+            "https://softserveinc.zoom.us/j/91594776705?pwd=UUNUd1A2Q0pmdFhBOUVIMlJnWkM2dz09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Микіч Х.І.,",
+        "subject": "Технології сховищ та просторів даних",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/3192493055?pwd=WGR3ZWpBRlRYUU1JelhlY3B2UGF1UT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Чухрай А.І.,",
+        "subject": "Управління ІТ проектами",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/tih-ymhy-bqd"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Гудь О.О.,",
+        "subject": "Інтеграція інформаційних систем",
+        "number": 3,
+        "urls": [
+            "https://softserveinc.zoom.us/j/91594776705?pwd=UUNUd1A2Q0pmdFhBOUVIMlJnWkM2dz09"
+        ]
+    }
+]

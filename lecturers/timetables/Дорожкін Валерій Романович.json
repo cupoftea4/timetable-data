@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Групова психотерапія та психокорекція",
+        "lecturer": "ПСПС-11, ПСПС-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/86936720309?pwd=OTROUUZHcXIxWnhmV2QwMmkrQUdmdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Групова психотерапія та психокорекція",
+        "lecturer": "ПСПС-11, 108 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/86936720309?pwd=OTROUUZHcXIxWnhmV2QwMmkrQUdmdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Групова психотерапія та психокорекція",
+        "lecturer": "ПСПС-12, 328 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/86936720309?pwd=OTROUUZHcXIxWnhmV2QwMmkrQUdmdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,144 @@
+[
+    {
+        "subject": "Публічна служба і управління персоналом",
+        "lecturer": "УАі-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76815576007?pwd=aZOBfy9InDRgGV8FAhBwa9UfMoeC5g.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Публічна служба і управління персоналом",
+        "lecturer": "УАі-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78395676286?pwd=wP3fDboRov5jq9eMVb2aaIWDihJQrb.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Публічна служба і управління персоналом",
+        "lecturer": "УАі-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75685966840?pwd=HX8rHsacHbPn68hJpMDorT9PTNHTKh.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Публічна служба і управління персоналом",
+        "lecturer": "УАі-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78395676286?pwd=wP3fDboRov5jq9eMVb2aaIWDihJQrb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління інноваційно-інвестиційною діяльністю",
+        "lecturer": "УАі-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72885346406?pwd=DHeNbKYMx95GanYcT0jRfca0g7VeGu.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління інноваційно-інвестиційною діяльністю",
+        "lecturer": "УАі-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72885346406?pwd=DHeNbKYMx95GanYcT0jRfca0g7VeGu.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комунікації в публічній системі, коучинг та переговори",
+        "lecturer": "УААМі-11, 022 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комунікації в публічній системі, коучинг та переговори",
+        "lecturer": "УААМі-12, 022 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Публічний аудит",
+        "lecturer": "УААМі-12, 013 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Публічний аудит",
+        "lecturer": "УААМі-11, 022 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

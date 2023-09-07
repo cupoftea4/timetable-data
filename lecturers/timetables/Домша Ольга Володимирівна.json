@@ -1,0 +1,43 @@
+[
+    {
+        "subject": "Електронний документообіг",
+        "lecturer": "МЕНД-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7422212312?pwd=SjZrOWJXMk9IS2lEU1RnbmlqR2Jkdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Управління розвитком територій",
+        "lecturer": "УАПА-13, 237 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Електронний документообіг",
+        "lecturer": "МЕНД-11, 315 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

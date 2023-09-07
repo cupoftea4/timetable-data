@@ -1,0 +1,80 @@
+[
+    {
+        "subject": "\nТехнології сховищ даних",
+        "lecturer": " ТСД-ЕОМ-401",
+        "location": " 508 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "\nТехнології сховищ даних",
+        "lecturer": " ТСД-ЕОМ-401",
+        "location": " 510 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nТехнології сховищ даних",
+        "lecturer": " ТСД-ЕОМ-402",
+        "location": " 510 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nТехнології сховищ даних",
+        "lecturer": " ТСД-ЕОМ-403",
+        "location": " 510 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "\nТехнології сховищ даних",
+        "lecturer": " ТСД-ЕОМ-402",
+        "location": " 509 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 7
+    },
+    {
+        "subject": "\nТехнології сховищ даних",
+        "lecturer": " ТСД-ЕОМ-403",
+        "location": " 510 V н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 7
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-05-02T00:00:00.000Z",
+        "lecturer": "Лазько Л.В.,",
+        "subject": "Цифрова обробка сигналів",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/jks-dngt-pvs"
+        ]
+    },
+    {
+        "date": "2023-05-05T00:00:00.000Z",
+        "lecturer": "Бенч А.Я.,",
+        "subject": "Тестування програмного забезпечення програмно-апаратних систем",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3akfusLktiG7VBZuLqv-G4ozvZ7WVnS59QbvLcU8RIqLk1%40thread.tacv2/1677592412561?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22838553d0-fe97-498e-9ee9-2967632c0f98%22%7d"
+        ]
+    },
+    {
+        "date": "2023-05-08T00:00:00.000Z",
+        "lecturer": "Николишин М.Й.,",
+        "subject": "Радіотехнічні системи",
+        "number": 4,
+        "urls": []
+    }
+]

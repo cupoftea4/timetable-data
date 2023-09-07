@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Програмні засоби бізнес-аналізу",
+        "lecturer": "СА-41, 522 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us06web.zoom.us/j/87356347604?pwd=SlM4eGZsSEtVcXJMYkZxMU94Y3JtZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Програмні засоби бізнес-аналізу",
+        "lecturer": "СА-41, 516 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us06web.zoom.us/j/87356347604?pwd=SlM4eGZsSEtVcXJMYkZxMU94Y3JtZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Відкрита наука у інформаційному менеджменті",
+        "lecturer": "ДКІБ-12, ВНІМ-СКІД-102, 520 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us06web.zoom.us/j/89034424151?pwd=U05JcU05dFl5ZHlSTWNobUpPV2pZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Відкрита наука у інформаційному менеджменті",
+        "lecturer": "ДКІБ-11, ВНІМ-СКІД-101, 520 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us06web.zoom.us/j/89034424151?pwd=U05JcU05dFl5ZHlSTWNobUpPV2pZdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Програмні засоби бізнес-аналізу",
+        "lecturer": "СА-41, 522 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us06web.zoom.us/j/87356347604?pwd=SlM4eGZsSEtVcXJMYkZxMU94Y3JtZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Відкрита наука у інформаційному менеджменті",
+        "lecturer": "ВНІМ-СКІД-101, ВНІМ-СКІД-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://us06web.zoom.us/j/89034424151?pwd=U05JcU05dFl5ZHlSTWNobUpPV2pZdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Відкрита наука у інформаційному менеджменті",
+        "lecturer": "ДКІБ-11, ДКІБ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us06web.zoom.us/j/89034424151?pwd=U05JcU05dFl5ZHlSTWNobUpPV2pZdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

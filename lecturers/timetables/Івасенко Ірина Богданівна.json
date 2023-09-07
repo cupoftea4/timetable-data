@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "\nМетоди машинного навчання в обробці зображень",
+        "lecturer": " ПЗа-11, лекція ",
+        "location": "",
+        "urls": [
+            "https://meet.google.com/exe-ubxw-kvz"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "\nМетоди машинного навчання в обробці зображень",
+        "lecturer": " ПЗа-11, практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    }
+]

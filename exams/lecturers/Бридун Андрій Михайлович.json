@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "НЗ-41,",
+        "subject": "Структурно-системне моделювання в картографії",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9135684222?pwd=4YBaVRLlq0CllYntfb5eV1rbVq3BIQ.1"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ГД-11, ГД-12, ГД-13, 510 II н.к.,",
+        "subject": "Вища математика. частина 2",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "НЗ-31,",
+        "subject": "Структурно-системне моделювання в картографії",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9135684222?pwd=4YBaVRLlq0CllYntfb5eV1rbVq3BIQ.1"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "НЗКА-11, 608 II н.к.,",
+        "subject": "Картографічне моделювання",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Металографія литих сплавів",
+        "lecturer": "МЛ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTc4MDEwYWUtMDI0ZS00ZjVhLWI2OGItYTAzNGUwZWU3ZmZk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Металографія литих сплавів",
+        "lecturer": "МЛ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MWNmN2E5Y2ItNWY3MS00NTk0LWFiMTUtOTRmODFjODg3OWM4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Металографія литих сплавів",
+        "lecturer": "МЛ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWUxOTUwMzAtZThiZi00MzA3LWJmNTgtZjkzNzllNDc1OWVi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "ФІзичні властивості й методи дослідження матеріалів",
+        "lecturer": "МЗ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTZhZjMyMTYtYzVlNC00YmIxLTg0ZTItNzI4Yzg1ZmY3NDk0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "ФІзичні властивості й методи дослідження матеріалів",
+        "lecturer": "МЗ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDk0MTBkYTEtY2Q1ZC00NTM1LTllNDEtNmFkYjYyNDFhMjVj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Методи дослідження структури і властивостей матеріалів та виробів",
+        "lecturer": "МЛ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGNjMzg4YWQtOTY4Zi00MTU0LTg2MzItZmE5OGU1YTEyNTRl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Методи дослідження структури і властивостей матеріалів та виробів",
+        "lecturer": "МЛ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzhmZTNhMDctMTM5NS00MmEwLThmMTAtOTZkOGNmMDVhMzJh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "ФІзичні властивості й методи дослідження матеріалів",
+        "lecturer": "МЗ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjE4M2ViMGUtMzFlMC00NTYzLTg2NzItZGEwMjM2N2M3ZTNm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "ФІзичні властивості й методи дослідження матеріалів",
+        "lecturer": "МЗ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YTE0MzVlNDctMGZjZC00NzY5LWJhZTMtMDZmOGRiZjFkMjQ4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22511ad7a3-7b72-42a3-b515-52b30030b561%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

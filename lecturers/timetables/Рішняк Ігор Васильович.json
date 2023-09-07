@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "\nІнноваційні інформаційні технології",
+        "lecturer": " ІТМ-11",
+        "location": " 208 VIа н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "\nТехнології підтримки процесів прийняття рішень",
+        "lecturer": " САМ-11",
+        "location": " 207 VIа н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nТехнології підтримки процесів прийняття рішень",
+        "lecturer": " САМ-11",
+        "location": " 208 VIа н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nІнформаційний маркетинг та менеджмент",
+        "lecturer": " ІТМ-11, ІТУП-11, ІТІС-11, лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "\nІнформаційний маркетинг та менеджмент",
+        "lecturer": " ІТМ-11",
+        "location": " 208 VIа н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

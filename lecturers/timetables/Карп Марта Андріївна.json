@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Прикладна морфологія і синтаксис",
+        "lecturer": "ФЛ-37, ФЛ-38, 403 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/88642619343?pwd=MStpSC9xYTk5QlBIRzA3dENDbU10dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Прикладна морфологія і синтаксис",
+        "lecturer": "ФЛ-37, 404 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84059832543?pwd=ZTFGRDBxZDdrdHNvQkJxWEtrUVZMZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Прикладна морфологія і синтаксис",
+        "lecturer": "ФЛ-38, 404 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/81484093871?pwd=aHlhZ2x6OGdHc0dhMXROVVg4b1NSdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "ФЛ-44, 404 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/83012298210?pwd=RnM5Uk5vVjFaVFVUUEVQalBxZVVtdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Контрастивна лінгвістика, частина 2",
+        "lecturer": "ФЛ-37, 406 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74078381464?pwd=2gpZ2h4mAuZaQy5CjTMKXq7ddhwUeG.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Контрастивна лінгвістика, частина 2",
+        "lecturer": "ФЛ-38, 406 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/89710222715?pwd=VEsxN1lvSThjVlVYQUN0bWpjOFNSZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна англійська мова, частина 8",
+        "lecturer": "ФЛ-44, 406 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/81075698643?pwd=Q1E4ZkoyTlc3aVNqRE1EUEE5WlpkQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

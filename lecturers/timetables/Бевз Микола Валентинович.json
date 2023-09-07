@@ -1,0 +1,67 @@
+[
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "АР-35, АР-36, АР-37, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний досвід охорони та збереження пам`яток історії та культури і пам`яткоохоронне законодавство України",
+        "lecturer": "АРа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний досвід охорони та збереження пам`яток історії та культури і пам`яткоохоронне законодавство України",
+        "lecturer": "АРа-21, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "АР-31, АР-32, АР-33, АР-34, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Реконструкція та реставрація архітектурних об`єктів, охорона пам`яток архітектури",
+        "lecturer": "АР-38, АР-39, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

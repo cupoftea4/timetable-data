@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "ПТа-11, ФБа-11,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/78598096491?pwd=XyokzLloa0SIXa2S3CopsRb9ltnwT0.1"
+        ]
+    },
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "УАа-11,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/78598096491?pwd=XyokzLloa0SIXa2S3CopsRb9ltnwT0.1"
+        ]
+    }
+]

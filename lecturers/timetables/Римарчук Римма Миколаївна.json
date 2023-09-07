@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Цивільний процес",
+        "lecturer": "ПВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5228396225?pwd=Rnh1QzVzTmcyL0QwQzNKZVc5SnEvQT09%20%20Meeting%20ID:%20522%20839%206225%20Passcode:%20Lb2juE"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

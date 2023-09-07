@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "СОа-11,",
+        "subject": "Стратегії досліджень контенту медіа",
+        "number": 5,
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "СО-21, 005 XXIX н.к.,",
+        "subject": "Соціальне проектування і оцінювання",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "СР-11, 105 XXIX н.к.,",
+        "subject": "Громадська думка і поведінка людини в соціальному оточенні",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "СО-31,",
+        "subject": "Кількісний і якісний аналіз документів в соціології",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "СЗУУ-11, 205а XXIX н.к.,",
+        "subject": "Супервізія в установах соціальної сфери",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Журналістська етика",
+        "lecturer": "ЖР-31, ЖР-32, ЖР-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5702243579?pwd=ZURLWFprR0ZzajRkUktKK3Q1MTQxZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Теорія і методика журналістської творчості, частина 4",
+        "lecturer": "ЖР-21, ЖР-22, ЖР-23, 034 XXXIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/5702243579?pwd=ZURLWFprR0ZzajRkUktKK3Q1MTQxZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

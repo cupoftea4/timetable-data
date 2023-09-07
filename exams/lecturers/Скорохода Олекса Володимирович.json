@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "КН-301, КН-302, КН-303,",
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFK3foHwbz5eOR9un0-NiiXWP6LwEHKKKvKKRUV6szc1%40thread.tacv2/conversations?groupId=dd914bfc-be4d-449e-bdd8-e4efce2bd6d8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "КН-304, КН-305,",
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUFK3foHwbz5eOR9un0-NiiXWP6LwEHKKKvKKRUV6szc1%40thread.tacv2/conversations?groupId=dd914bfc-be4d-449e-bdd8-e4efce2bd6d8&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Мікропроцесори, частина 2",
+        "lecturer": "МТ-21, МТ-22, МТ-23, 711 V н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    }
+]

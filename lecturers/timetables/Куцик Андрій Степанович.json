@@ -1,0 +1,232 @@
+[
+    {
+        "subject": "Технічні засоби автоматизації електромеханічних систем",
+        "lecturer": "ЕЕЕЕ-11, ЕЕМ-11, 119 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація типових технологічних процесів",
+        "lecturer": "ЕЕЕЕ-11, ЕЕМ-11, 119 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація типових технологічних процесів",
+        "lecturer": "ЕЕЕЕ-11, ЕЕМ-11, 119 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технічні засоби автоматизації електромеханічних систем",
+        "lecturer": "ЕЕЕЕ-11, ЕЕМ-11, 119 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи цифрового керування та програмування мікроконтролерів",
+        "lecturer": "ЕЕ-32, 121 Гол. н.к., 141 Гол. н.к., 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8Lqym0QLFk6cN-dVw8aNg38qZ9qhUJ8k25HpCLYlHD41%40thread.tacv2/General?groupId=617d38ad-6458-4354-9e5a-a616296c8a29&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи цифрового керування та програмування мікроконтролерів",
+        "lecturer": "ЕЕ-33, 121 Гол. н.к., 141 Гол. н.к., 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8Lqym0QLFk6cN-dVw8aNg38qZ9qhUJ8k25HpCLYlHD41%40thread.tacv2/General?groupId=617d38ad-6458-4354-9e5a-a616296c8a29&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Основи цифрового керування та програмування мікроконтролерів",
+        "lecturer": "ЕЕ-25, 119 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи цифрового керування та програмування мікроконтролерів",
+        "lecturer": "ЕЕ-31, 121 Гол. н.к., 141 Гол. н.к., 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8Lqym0QLFk6cN-dVw8aNg38qZ9qhUJ8k25HpCLYlHD41%40thread.tacv2/General?groupId=617d38ad-6458-4354-9e5a-a616296c8a29&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи цифрового керування та програмування мікроконтролерів",
+        "lecturer": "ЕЕ-34, 121 Гол. н.к., 141 Гол. н.к., 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8Lqym0QLFk6cN-dVw8aNg38qZ9qhUJ8k25HpCLYlHD41%40thread.tacv2/General?groupId=617d38ad-6458-4354-9e5a-a616296c8a29&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи цифрового керування та програмування мікроконтролерів",
+        "lecturer": "ЕЕ-32, 121 Гол. н.к., 141 Гол. н.к., 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8Lqym0QLFk6cN-dVw8aNg38qZ9qhUJ8k25HpCLYlHD41%40thread.tacv2/General?groupId=617d38ad-6458-4354-9e5a-a616296c8a29&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Основи цифрового керування та програмування мікроконтролерів",
+        "lecturer": "ЕЕ-33, 121 Гол. н.к., 141 Гол. н.к., 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8Lqym0QLFk6cN-dVw8aNg38qZ9qhUJ8k25HpCLYlHD41%40thread.tacv2/General?groupId=617d38ad-6458-4354-9e5a-a616296c8a29&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Основи цифрового керування та програмування мікроконтролерів",
+        "lecturer": "ЕЕ-25, 121 Гол. н.к., 141 Гол. н.к., 148 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8Lqym0QLFk6cN-dVw8aNg38qZ9qhUJ8k25HpCLYlHD41%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=617d38ad-6458-4354-9e5a-a616296c8a29&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Основи цифрового керування та програмування мікроконтролерів",
+        "lecturer": "ЕЕ-31, ЕЕ-32, ЕЕ-33, ЕЕ-34, 209 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a8Lqym0QLFk6cN-dVw8aNg38qZ9qhUJ8k25HpCLYlHD41%40thread.tacv2/General?groupId=617d38ad-6458-4354-9e5a-a616296c8a29&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація типових технологічних процесів",
+        "lecturer": "ЕЕЕЕ-11, ЕЕМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6Ta03IgMVvHqh7fmHA1qRuXlOpvcSJu9OXVy1HWe6BE1%40thread.tacv2/General?groupId=71adeef5-5768-4988-9c1f-7f898ff25131&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технічні засоби автоматизації електромеханічних систем",
+        "lecturer": "ЕЕЕЕ-11, ЕЕМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQkG_sR5DBOd0FNm_1Ozke5ePwrYuZovz1OtKf4mF4ys1%40thread.tacv2/General?groupId=af9109cd-8f79-4279-a6e7-aa19c759094d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація типових технологічних процесів",
+        "lecturer": "ЕЕЕЕ-11, ЕЕМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6Ta03IgMVvHqh7fmHA1qRuXlOpvcSJu9OXVy1HWe6BE1%40thread.tacv2/General?groupId=71adeef5-5768-4988-9c1f-7f898ff25131&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

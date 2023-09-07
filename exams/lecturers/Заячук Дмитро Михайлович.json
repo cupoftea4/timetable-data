@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-05-03T00:00:00.000Z",
+        "lecturer": "БІ-41,",
+        "subject": "Нанотехнології в медицині та біології",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a93IG7EKIliyH9D_wrXUdrl4GvouAviW_0w0fYiWs2sc1%40thread.tacv2/conversations?groupId=aab34691-1530-4784-8ae4-3a03c09204fc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-05-05T00:00:00.000Z",
+        "lecturer": "ТР-43,",
+        "subject": "Основи мікро- та нанотехнологій",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3agYOWblWVqSpgf6vyDkqlm7KrImtcO4AFWlHJBFb8uf81%40thread.tacv2/conversations?groupId=73e8d4ca-d435-4632-8db8-10e6998ace37&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ЛМБ-ЕЗІКТ-101, 312 XI н.к.,",
+        "subject": "Лазери в медицині та біології",
+        "number": 2,
+        "urls": []
+    }
+]

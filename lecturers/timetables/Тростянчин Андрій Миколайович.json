@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Основи наукових досліджень",
+        "lecturer": "МЗ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_M2ZiZWYzZTMtY2FkZS00MGNmLWI1NzEtN2FiY2E4YzhhYTBk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Ливарна гідравліка",
+        "lecturer": "ТЛ-21, 014 VIII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzFmMzkyZWItOGE0Yi00YTcyLTg0YjctNjkxMzBhYTFjMzI2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи наукових досліджень",
+        "lecturer": "МЗ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzcyOWJhZTEtZGVlYS00YzU0LThkNWUtMzc4ODM0MTdiZTRl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи наукових досліджень",
+        "lecturer": "МЗ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGY4ZGQ0MTQtNjVkYS00MDNlLWIyOTQtNDIzZmVkZDA5MzE5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання виробів та оптимізація їх властивостей",
+        "lecturer": "МЗа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjQ4NzBmZDUtNzQzYS00ZTg1LWJjMDgtMGQyNDAyNzNlNTBl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання виробів та оптимізація їх властивостей",
+        "lecturer": "МЗа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjQ4NzBmZDUtNzQzYS00ZTg1LWJjMDgtMGQyNDAyNzNlNTBl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Ливарна гідравліка",
+        "lecturer": "ТЛ-21, 014 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2E2MzY4MWMtOTQyMi00MDliLTkwM2UtNjlkZWVkMWU5NzVi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%222973ca87-8900-4110-9cd9-18ef3d929c8b%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ВП-21, ВП-22, 908 V н.к.,",
+        "subject": "Дизайн інтерфейсів",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ВП-31, ВП-32,",
+        "subject": "Цифровий друк",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/ofn-sean-hdm"
+        ]
+    }
+]

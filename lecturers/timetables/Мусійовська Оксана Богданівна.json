@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Підприємництво та управління бізнес-проектами з використанням IT",
+        "lecturer": "ЕК-31, ЕК-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3557524745?pwd=bkpkbDh6RGw1L2NZWGJPc0hDYTBDUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    }
+]

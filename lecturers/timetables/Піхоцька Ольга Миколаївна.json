@@ -1,0 +1,144 @@
+[
+    {
+        "subject": "Фінанси, гроші і кредит",
+        "lecturer": "МК-21, 206 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Фінанси, гроші і кредит",
+        "lecturer": "МК-21, 418 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Фінанси, гроші і кредит",
+        "lecturer": "МК-21, 418 IV н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Фінанси, гроші і кредит",
+        "lecturer": "МК-21, МК-22, МК-23, 417 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Публічні фінанси",
+        "lecturer": "ФБ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e703010bffc386ff44d901000000000000000010000000eeb7634cd915fb4c93e49f971a132739&conversationId=19:6175c34f0d5a4d2394743717315b618c@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Публічні фінанси",
+        "lecturer": "ФБ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e70301526c66c80145d901000000000000000010000000cb07c23005cdb94da74bc35af289c4b7&conversationId=19:6175c34f0d5a4d2394743717315b618c@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Публічні фінанси",
+        "lecturer": "ФБ-31, ФБ-32, ФБ-33, ФБ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e7050b671723596e47d9010000000000000000100000000a6cdf3587bbb14899c7ce1cbc2f6b44&conversationId=19:6175c34f0d5a4d2394743717315b618c@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Публічні фінанси",
+        "lecturer": "ФБ-31, ФБ-32, ФБ-33, ФБ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e7050bc47076ec6e47d901000000000000000010000000f07ebf5dc758c14aac0dd23f8b335839&conversationId=19:6175c34f0d5a4d2394743717315b618c@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Публічні фінанси",
+        "lecturer": "ФБ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e703032da835bb0045d901000000000000000010000000e3adc7d3be5ec445ae19ba5bde6acd74&conversationId=19:6175c34f0d5a4d2394743717315b618c@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Публічні фінанси",
+        "lecturer": "ФБ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/_#/scheduling-form/?isBroadcast=false&eventId=040000008200e00074c5b7101a82e00807e70303e0ff1e350145d9010000000000000000100000001f8ca87395a9c84d882883568e856554&conversationId=19:6175c34f0d5a4d2394743717315b618c@thread.tacv2&opener=1&providerType=3&navCtx=navigateHybridContentRoute&eventType=Occurrence&calendarType=1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

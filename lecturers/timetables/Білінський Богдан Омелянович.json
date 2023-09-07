@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Пожежна профілактика в будівництві",
+        "lecturer": "ПБ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87059371994?pwd=K25PK0oyeHpXb2dUUG1neHJhaHVwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Пожежна профілактика в будівництві",
+        "lecturer": "ПБ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89868019181?pwd=a2RwT0R5T0Q0WGw0NjlSUStHZDN6UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

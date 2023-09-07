@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Методика викладання соціальної роботи",
+        "lecturer": "СРСО-11, СРСО-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzg2YjJlZTgtOWE5OC00MzUwLWJkZDItZmNhMDU0MTJjMWI3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Здоров`єзбережувальна діяльність в соціальній роботі",
+        "lecturer": "СРСО-11, СРСО-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzg2YjJlZTgtOWE5OC00MzUwLWJkZDItZmNhMDU0MTJjMWI3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Клінічна соціальна робота",
+        "lecturer": "СРа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_Nzg2NGU4MWItNGZkMS00NDM5LTgzMDgtNDk2NjMxMzgzOGRm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Клінічна соціальна робота",
+        "lecturer": "СРа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGNmZjkxZDYtMDllOS00ZDE2LWI1NmEtZGNhNzc4MzU3NWE5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

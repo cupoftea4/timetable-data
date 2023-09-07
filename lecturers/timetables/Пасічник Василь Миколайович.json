@@ -1,0 +1,56 @@
+[
+    {
+        "subject": "Публічне управління у сфері забезпечення національної безпеки України",
+        "lecturer": "УАПА-11, УАПА-12, УАПА-13, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4907397832?pwd=eTJKSXlBMkxhczRONWhBNUxSWWRUQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Публічне управління у сфері забезпечення національної безпеки України",
+        "lecturer": "УАПА-12, 231 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Публічне управління у сфері забезпечення національної безпеки України",
+        "lecturer": "УАПА-13, 237 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Публічне управління у сфері забезпечення національної безпеки України",
+        "lecturer": "УАПА-11, 220 смт.Брюховичі, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

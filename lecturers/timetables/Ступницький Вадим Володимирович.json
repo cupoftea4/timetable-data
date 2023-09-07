@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Дослідницький семінар в галузі механічної інженерії",
+        "lecturer": "МПа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2zMU_lFSpSk9qUJQsqqWensSNXR-AroAGgr80IOVPM01%40thread.tacv2/1676627010563?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22577614f4-ecca-4310-98c9-3a7f43241906%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Імітаційні методи інженерного аналізу функціонування та виготовлення виробів машинобудування",
+        "lecturer": "МПа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2zMU_lFSpSk9qUJQsqqWensSNXR-AroAGgr80IOVPM01%40thread.tacv2/1676627108377?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22577614f4-ecca-4310-98c9-3a7f43241906%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Імітаційні методи інженерного аналізу функціонування та виготовлення виробів машинобудування",
+        "lecturer": "МПа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2zMU_lFSpSk9qUJQsqqWensSNXR-AroAGgr80IOVPM01%40thread.tacv2/1676627108377?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22577614f4-ecca-4310-98c9-3a7f43241906%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теоретичні та прикладні проблеми сучасних методів формоутворення виробів",
+        "lecturer": "МПа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2zMU_lFSpSk9qUJQsqqWensSNXR-AroAGgr80IOVPM01%40thread.tacv2/1676627466779?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22577614f4-ecca-4310-98c9-3a7f43241906%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Теоретичні та прикладні проблеми сучасних методів формоутворення виробів",
+        "lecturer": "МПа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2zMU_lFSpSk9qUJQsqqWensSNXR-AroAGgr80IOVPM01%40thread.tacv2/1676627466779?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22577614f4-ecca-4310-98c9-3a7f43241906%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Програмування і комп`ютерні технології в виробництві",
+        "lecturer": "МПа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2zMU_lFSpSk9qUJQsqqWensSNXR-AroAGgr80IOVPM01%40thread.tacv2/1680070309791?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22577614f4-ecca-4310-98c9-3a7f43241906%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Програмування і комп`ютерні технології в виробництві",
+        "lecturer": "МПа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a2zMU_lFSpSk9qUJQsqqWensSNXR-AroAGgr80IOVPM01%40thread.tacv2/1680070309791?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22577614f4-ecca-4310-98c9-3a7f43241906%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

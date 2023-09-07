@@ -1,0 +1,213 @@
+[
+    {
+        "subject": "Розвиток міжнародного науково-технічного співробітництва",
+        "lecturer": "ЕВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a1874132665174dc2bd856e947e5c29c1%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F?groupId=c55c336e-3272-4cfc-b3cc-fb3c43640942&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Управління транснаціональними корпораціями",
+        "lecturer": "МЕа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3adb553f8e5f254c3498aa6f4fd563afb8%40thread.tacv2/%25D0%259F%25D1%2580%25D0%25B0%25D0%25BA%25D1%2582%25D0%25B8%25D1%2587%25D0%25BD%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F?groupId=091099e4-767c-47c9-9d21-1ceb7fab94de&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-12, 502 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-12, 502 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "ЕВМЕ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atYK0fmgHSFiWKWmr6tnfzaVTfQhwsqxYy6wjwMOrhuQ1%40thread.tacv2/conversations?groupId=f9bfe284-ba32-42a9-82e3-9e2e9bfdc072&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "ЕВМЕ-11, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atYK0fmgHSFiWKWmr6tnfzaVTfQhwsqxYy6wjwMOrhuQ1%40thread.tacv2/conversations?groupId=f9bfe284-ba32-42a9-82e3-9e2e9bfdc072&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "ЕВМЕ-12, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atYK0fmgHSFiWKWmr6tnfzaVTfQhwsqxYy6wjwMOrhuQ1%40thread.tacv2/conversations?groupId=f9bfe284-ba32-42a9-82e3-9e2e9bfdc072&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна венчурна діяльність",
+        "lecturer": "ЕВМЕ-12, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3atYK0fmgHSFiWKWmr6tnfzaVTfQhwsqxYy6wjwMOrhuQ1%40thread.tacv2/conversations?groupId=f9bfe284-ba32-42a9-82e3-9e2e9bfdc072&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Державне управління митною діяльністю",
+        "lecturer": "ЕВМЕ-12, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a21af683c7e544125884750bdabe40c76%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F?groupId=2a423fc9-34a1-4f29-9b92-92b7284e405d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Державне управління митною діяльністю",
+        "lecturer": "ЕВМЕ-12, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a21af683c7e544125884750bdabe40c76%40thread.tacv2/%25D0%259B%25D0%25B0%25D0%25B1%25D0%25BE%25D1%2580%25D0%25B0%25D1%2582%25D0%25BE%25D1%2580%25D0%25BD%25D1%2596%2520%25D0%25B7%25D0%25B0%25D0%25BD%25D1%258F%25D1%2582%25D1%2582%25D1%258F?groupId=2a423fc9-34a1-4f29-9b92-92b7284e405d&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародне підприємництво",
+        "lecturer": "МІП-ММП-202, 310 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-15, 306 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-15, 306 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-14, 306 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Менеджмент",
+        "lecturer": "МК-14, 306 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

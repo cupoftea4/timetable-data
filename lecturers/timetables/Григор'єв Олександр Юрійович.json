@@ -1,0 +1,45 @@
+[
+    {
+        "subject": "Ефективне лідерство",
+        "lecturer": "ЕФЛ-ЗМД-217, 527 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Нетарифне регулювання зовнішньоекономічної діяльності",
+        "lecturer": "МЕЗД-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aosFzTzCn9oATzKNcQrafpmcQjLrM9XykmqUQz_tbYM81%40thread.tacv2/conversations?groupId=3bc64568-cf2e-4a81-b577-3bcd9f0782ba&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Нетарифне регулювання зовнішньоекономічної діяльності",
+        "lecturer": "МЕЗД-11, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aosFzTzCn9oATzKNcQrafpmcQjLrM9XykmqUQz_tbYM81%40thread.tacv2/conversations?groupId=3bc64568-cf2e-4a81-b577-3bcd9f0782ba&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

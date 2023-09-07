@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "БД-14, БД-15, БД-16, 212 II н.к.,",
+        "subject": "Теоретична механіка та технічна механіка рідин і газів",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "АЕ-21, 213 X н.к.,",
+        "subject": "Гідрогазодинаміка",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "БД-17, БД-18, БД-19, 212 II н.к.,",
+        "subject": "Теоретична механіка та технічна механіка рідин і газів",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "БД-11, БД-12, БД-13, 212 II н.к.,",
+        "subject": "Теоретична механіка та технічна механіка рідин і газів",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ТЕ-21, 213 X н.к.,",
+        "subject": "Гідрогазодинаміка",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/2858464647?pwd=RWx5L0x5L1owZEczakJNajlKT2hzQT09"
+        ]
+    }
+]

@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Спеціалізовані мікро-нанопроцесорні системи",
+        "lecturer": "КІ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Спеціалізовані мікро-нанопроцесорні системи",
+        "lecturer": "КІ-46, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Спеціалізовані мікро-нанопроцесорні системи",
+        "lecturer": "КІ-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "КІСК-11, КІСК-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "КІСК-12, 904а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "КІСК-12, 904б V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "КІСК-11, 905 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Дослідження і проектування програмних систем",
+        "lecturer": "КІСК-11, 904б V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Спеціалізовані мікро-нанопроцесорні системи",
+        "lecturer": "КІ-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Спеціалізовані мікро-нанопроцесорні системи",
+        "lecturer": "КІ-48, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Спеціалізовані мікро-нанопроцесорні системи",
+        "lecturer": "КІ-48, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3913959388?pwd=R3RaZldzZUVuOENVbDh5NnNXbmUzQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    }
+]

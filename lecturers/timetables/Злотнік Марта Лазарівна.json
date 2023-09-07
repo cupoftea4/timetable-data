@@ -1,0 +1,165 @@
+[
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-38, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aoYhVGqkVLotZH6Qo5Y6SqbgtQzwpg8tIiNUzfmixolc1%40thread.tacv2/1677618600593?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c8f0965e-6238-439c-8477-d944b84a2802%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-35, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ajRnrnQ5djoiHc93YeOATyWZimB7OJMF65xuM0tQ4a741%40thread.tacv2/1677619143752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c8f0965e-6238-439c-8477-d944b84a2802%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ajRnrnQ5djoiHc93YeOATyWZimB7OJMF65xuM0tQ4a741%40thread.tacv2/1677619143752?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c8f0965e-6238-439c-8477-d944b84a2802%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aFtmObPeW_Mj9AECKRJ2xwWtR7SvZRu23P4hLY7L9Ri01%40thread.tacv2/1677619630722?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c8f0965e-6238-439c-8477-d944b84a2802%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Управління експортно-імпортними операціями в умовах євроінтеграції",
+        "lecturer": "МЕ-36, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aFtmObPeW_Mj9AECKRJ2xwWtR7SvZRu23P4hLY7L9Ri01%40thread.tacv2/1677619630722?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c8f0965e-6238-439c-8477-d944b84a2802%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aImVhnFjfTrqf26B1Fg0A_FBSK4KNoQgVlcLJax65omg1%40thread.tacv2/1677618160291?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c8f0965e-6238-439c-8477-d944b84a2802%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-37, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aImVhnFjfTrqf26B1Fg0A_FBSK4KNoQgVlcLJax65omg1%40thread.tacv2/1677618252889?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c8f0965e-6238-439c-8477-d944b84a2802%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-37, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aImVhnFjfTrqf26B1Fg0A_FBSK4KNoQgVlcLJax65omg1%40thread.tacv2/1677618252889?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c8f0965e-6238-439c-8477-d944b84a2802%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-38, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aoYhVGqkVLotZH6Qo5Y6SqbgtQzwpg8tIiNUzfmixolc1%40thread.tacv2/1677618690787?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c8f0965e-6238-439c-8477-d944b84a2802%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародний бізнес",
+        "lecturer": "МЕ-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aoYhVGqkVLotZH6Qo5Y6SqbgtQzwpg8tIiNUzfmixolc1%40thread.tacv2/1677618690787?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c8f0965e-6238-439c-8477-d944b84a2802%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Зовнішньоекономічна діяльність підприємства",
+        "lecturer": "МЕ-25, МЕ-27, 201 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 2
+    }
+]

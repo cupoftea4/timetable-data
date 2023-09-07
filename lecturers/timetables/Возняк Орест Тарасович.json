@@ -1,0 +1,103 @@
+[
+    {
+        "subject": "Теплопостачання",
+        "lecturer": "БД-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a88amkXw6QX1G2vns59HCvirosPHTmsjYEJrm8eK2RiQ1%40thread.tacv2/conversations?groupId=f6d8d255-2a37-4c5f-a000-22d392274b8f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Теплопостачання",
+        "lecturer": "БД-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFF_GQdwUjRsGB_Vktt17DuSZgISr_QoFhfD0FkYV6RM1%40thread.tacv2/conversations?groupId=8a29bebb-0818-4d79-bc82-bc3533f47bee&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "БДМ-24, 401 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3afr6SgbU87SYBeDOsJ_jMKFV4xL71cYY3Zd2MtIEbXcU1%40thread.tacv2/conversations?groupId=3c57fce4-c5bf-4bce-b76d-d7c25fd7e117&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Вентиляція",
+        "lecturer": "БД-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aFF_GQdwUjRsGB_Vktt17DuSZgISr_QoFhfD0FkYV6RM1%40thread.tacv2/conversations?groupId=8a29bebb-0818-4d79-bc82-bc3533f47bee&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Вентиляція",
+        "lecturer": "БД-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a88amkXw6QX1G2vns59HCvirosPHTmsjYEJrm8eK2RiQ1%40thread.tacv2/conversations?groupId=f6d8d255-2a37-4c5f-a000-22d392274b8f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Проектування систем газопостачання",
+        "lecturer": "БДТГ-11, 408 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Проектування систем газопостачання",
+        "lecturer": "БДТГ-12, 408 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

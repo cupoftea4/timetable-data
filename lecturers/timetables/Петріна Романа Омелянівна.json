@@ -1,0 +1,118 @@
+[
+    {
+        "subject": "Біотехнологія агро- та вет препаратів",
+        "lecturer": "БТа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjdlM2M0NDYtYTBlMC00YmZhLTg1ZTMtODAxODU3MDIyMWFj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b958511-9997-4b64-a98d-974e8df6a4ba%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Біотехнологія та біоінженерія рослин",
+        "lecturer": "БТа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDA2MzQ2OTAtMzE2Yi00MDc2LTlkNTAtYTU1OTI0OGU0ZTg4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b958511-9997-4b64-a98d-974e8df6a4ba%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Біотехнологія агро- та вет препаратів",
+        "lecturer": "БТБТ-11, 226 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Біотехнологія агро- та вет препаратів",
+        "lecturer": "БТа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDE5NmRmMTEtOTAzNi00OTdiLThhMGMtYmQ0MTRjZTQ2Njli%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b958511-9997-4b64-a98d-974e8df6a4ba%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Біотехнологія та біоінженерія рослин",
+        "lecturer": "БТа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjgyNjJmNGQtZDRmOS00NjRiLThlYzYtZTU2ZDhlNDM5Zjc5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b958511-9997-4b64-a98d-974e8df6a4ba%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Біотехнологія імунопрепаратів та пробіотиків",
+        "lecturer": "БТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aK5Ids8zh6fb43LG-kcUsUD3MvLx16VD-AhysKIUGTMc1%40thread.tacv2/1677663915579?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b958511-9997-4b64-a98d-974e8df6a4ba%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Біотехнологія агро- та вет препаратів",
+        "lecturer": "БТБТ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3agBk6XrAqMfYhT1hzY6nOZD0wG8zqfFeuUX3fsEWoSp81%40thread.tacv2/1677751853697?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%224b958511-9997-4b64-a98d-974e8df6a4ba%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Біотехнологія імунопрепаратів та пробіотиків",
+        "lecturer": "БТМ-11, 227 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

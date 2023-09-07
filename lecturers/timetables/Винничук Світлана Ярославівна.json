@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "\nСучасна німецька/японська/чеська/польська мова, частина 1",
+        "lecturer": " ФЛ-11",
+        "location": " 117 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nСучасна німецька/японська/чеська/польська мова, частина 1",
+        "lecturer": " ФЛ-11",
+        "location": " 115 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nСучасна німецька/японська/чеська/польська мова, частина 1",
+        "lecturer": " ФЛ-12",
+        "location": " 131 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "\nСучасна німецька/японська/чеська/польська мова, частина 1",
+        "lecturer": " ФЛ-12",
+        "location": " 131 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    }
+]

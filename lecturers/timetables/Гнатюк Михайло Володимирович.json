@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Методика викладання у вищій школі: дидактичне проектування та іноваційні технології",
+        "lecturer": "НОПН-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методика викладання у вищій школі: дидактичне проектування та іноваційні технології",
+        "lecturer": "НОПН-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Методика викладання у вищій школі: дидактичне проектування та іноваційні технології",
+        "lecturer": "НОПН-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Методика викладання у вищій школі: контроль якості та тестування",
+        "lecturer": "НОПН-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методика викладання у вищій школі: контроль якості та тестування",
+        "lecturer": "НОПН-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методика викладання у вищій школі: контроль якості та тестування",
+        "lecturer": "НОПН-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Стратегії наукових педагогічних досліджень",
+        "lecturer": "НОа-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Стратегії наукових педагогічних досліджень",
+        "lecturer": "НОа-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "НОПН-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "НОПН-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Основи діяльності викладача дистанційного навчання",
+        "lecturer": "НОПН-11f, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3520058509?pwd=VWpjQXRVLzhsekRBekdGRCs1bkNRZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

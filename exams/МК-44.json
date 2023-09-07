@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-05-01T00:00:00.000Z",
+        "lecturer": "Білик І.І.,",
+        "subject": "SRM-системи",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3avLZ2JInDlQ7etYU3jd-zWXG-5xP6Ds2lUd4y5awztOc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=fb42d639-174c-4162-9d9e-1ddcbb9858ab&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-05-05T00:00:00.000Z",
+        "lecturer": "Михайлик Н.І.,",
+        "subject": "Економіка логістики",
+        "number": 3,
+        "urls": []
+    }
+]

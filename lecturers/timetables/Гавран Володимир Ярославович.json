@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Мотиваційний менеджмент",
+        "lecturer": "МЕ-312, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/2053243306?pwd=NjVuUVpUNkJNWkY5WENKWGIvZmtnQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Мотиваційний менеджмент",
+        "lecturer": "МЕ-312, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/2053243306?pwd=NjVuUVpUNkJNWkY5WENKWGIvZmtnQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Мотиваційний менеджмент",
+        "lecturer": "МЕ-312, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/2053243306?pwd=NjVuUVpUNkJNWkY5WENKWGIvZmtnQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Мотиваційний менеджмент",
+        "lecturer": "МЕ-312, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/2053243306?pwd=NjVuUVpUNkJNWkY5WENKWGIvZmtnQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

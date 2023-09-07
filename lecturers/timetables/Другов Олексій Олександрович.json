@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Статистика",
+        "lecturer": "МЕ-23, 427(1) IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82240909840?pwd=U04zU2NERE8wZjVIV2R6TmZkdDdUdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МЕ-26, 515 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82240909840?pwd=U04zU2NERE8wZjVIV2R6TmZkdDdUdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МЕ-25, 515 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82240909840?pwd=U04zU2NERE8wZjVIV2R6TmZkdDdUdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Моделювання інноваційних бізнес-процесів",
+        "lecturer": "МЕ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81431005311?pwd=Q3JSY0ZYRGoydVRLQktMcCsxTUJWQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Моделювання інноваційних бізнес-процесів",
+        "lecturer": "МЕ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81431005311?pwd=Q3JSY0ZYRGoydVRLQktMcCsxTUJWQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Моделювання інноваційних бізнес-процесів",
+        "lecturer": "МЕ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81431005311?pwd=Q3JSY0ZYRGoydVRLQktMcCsxTUJWQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

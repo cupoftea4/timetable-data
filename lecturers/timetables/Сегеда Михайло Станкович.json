@@ -1,0 +1,30 @@
+[
+    {
+        "subject": "Математичні задачі електроенергетики",
+        "lecturer": "ЕЕ-31, ЕЕ-32, ЕЕ-33, 307 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3anDYHrU5zxKq6sppTjQuxv3ijtqGIRhbB1FrhRac9t5o1%40thread.tacv2/1677491495504?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2290cb336a-9f3c-4f8c-b10e-6314ba19841e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Електричні мережі",
+        "lecturer": "ЕЕ-21, ЕЕ-22, ЕЕ-23, ЕЕ-24, 210 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

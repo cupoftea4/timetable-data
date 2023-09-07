@@ -1,0 +1,25 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ІТ-11сп, 406 II н.к.,",
+        "subject": "Web-технології",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "ПЦ-21, ПЦ-22, 026 XXXIII н.к.,",
+        "subject": "Прикладне та Web-програмування",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "СА-31, СА-32, СА-33,",
+        "subject": "Web-технології та Web-дизайн",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/8947178091?pwd=Q0k2VkJ2MlhwNUU5Ym1SS3BIc3hxdz09"
+        ]
+    }
+]

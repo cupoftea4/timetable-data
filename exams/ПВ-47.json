@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-12T00:00:00.000Z",
+        "lecturer": "Тарнавська М.І.,",
+        "subject": "Господарське право, частина 2",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9059834880?pwd=eHRoemJJSCs2eWVKbzlBd2x5eFd1dz09"
+        ]
+    },
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Сибірна Р.І.,",
+        "subject": "Судова медицина",
+        "number": 1,
+        "urls": []
+    }
+]

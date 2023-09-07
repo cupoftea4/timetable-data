@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Інтеграція інформаційних систем",
+        "lecturer": "ІТ-23, ІТ-31, ІТ-32, 406 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://softserveinc.zoom.us/j/91594776705?pwd=UUNUd1A2Q0pmdFhBOUVIMlJnWkM2dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інтеграція інформаційних систем",
+        "lecturer": "ІТ-32, 123 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8432530863?pwd=bFkyZGszbUUra0hqbXlIVldaTGR5dz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

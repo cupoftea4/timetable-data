@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Бритковський В.М.,",
+        "subject": "Електронне та електричне обладнання автомобілів",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/81625956164?pwd=S2JSanp0WElVM0MzeGFob1JPclczdz09"
+        ]
+    },
+    {
+        "date": "2023-06-24T00:00:00.000Z",
+        "lecturer": "Пельо Р.А.,",
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "Кіндрацький Б.І.,",
+        "subject": "Мехатроніка автомобілів",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/7142409738?pwd=eXNQSWNKMU9leXJ4dFhrUDVCMjJXUT09"
+        ]
+    },
+    {
+        "date": "2023-06-30T00:00:00.000Z",
+        "lecturer": "Дмитрів І.В.,",
+        "subject": "Засоби комп`ютерного діагностування автомобілів",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/83058922009?pwd=UW15dGhpNzM4ZkFaWjFUaDJUZXppdz09"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Системи радіозв`язку та передавання інформації",
+        "lecturer": "ТРРП-11, 114 XI н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Системи радіозв`язку та передавання інформації",
+        "lecturer": "ТРРП-11, 114 XI н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

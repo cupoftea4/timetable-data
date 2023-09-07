@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Проектний аналіз",
+        "lecturer": "ТТОР-11, 206 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проектний аналіз",
+        "lecturer": "ТТОП-12, 206 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Проектний аналіз",
+        "lecturer": "ТТОП-13, 206 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Проектний аналіз",
+        "lecturer": "ТТОР-12, 218 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Проектний аналіз",
+        "lecturer": "ТТОП-11, 218 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Проектний аналіз",
+        "lecturer": "ТТОП-11, ТТОП-12, ТТОП-13, ТТОР-11, ТТОР-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

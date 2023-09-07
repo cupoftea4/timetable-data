@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "КН-306, КН-307, КН-308,",
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "КН-309, КН-310, КН-311,",
+        "subject": "Технології розподілених систем та паралельних обчислень",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ]
+    },
+    {
+        "date": "2023-06-24T00:00:00.000Z",
+        "lecturer": "КНМ-11, 325 IV н.к.,",
+        "subject": "Інтегровані ієрархічні системи управління",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ]
+    }
+]

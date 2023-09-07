@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Технології блокчейну",
+        "lecturer": "ТЕБЛ-БІТ-103, 210 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/82941424866?pwd=RHlaSHdPcHRaUUZoUXMraG1jOTFqUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технології блокчейну",
+        "lecturer": "ТЕБЛ-БІТ-103, 210 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/82941424866?pwd=RHlaSHdPcHRaUUZoUXMraG1jOTFqUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679388782984?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-39, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679388944970?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679388326461?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679388326461?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-37, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679388463040?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-37, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679388463040?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-38, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/89763367043?pwd=SXh4WHA5MmgxcVRSRkVxVEg2YUNodz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679388463040?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679388463040?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "Безпека інфраструктури комп`ютерних мереж",
+        "lecturer": "КБ-37, КБ-38, КБ-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ahNkvNbqhpjXpsuuHQJuW77a7rB8oHiy3OR46JY4Zpxc1%40thread.tacv2/1679387894338?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22540de1ce-49cd-46b5-b7e3-c2c0b38f5cde%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційно-комунікаційні системи",
+        "lecturer": "КБ-37, КБ-38, КБ-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ank9ORgBua7JTpEhXs08c-0nxss_NJYGHpOzHlZGDvjA1%40thread.tacv2/1677007767666?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22559c4e16-55d9-43c6-a1be-e7fa85e14587%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

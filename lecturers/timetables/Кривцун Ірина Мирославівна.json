@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Проектне фінансування",
+        "lecturer": "ЕКЕБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/nvo-hkjb-qob"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Управління бізнес-процесами",
+        "lecturer": "ЕКЕБ-12, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/faw-fzuk-tqu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління бізнес-процесами",
+        "lecturer": "ЕКЕБ-13, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/faw-fzuk-tqu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Управління бізнес-процесами",
+        "lecturer": "ЕКЕБ-14, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/faw-fzuk-tqu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Проектне фінансування",
+        "lecturer": "ЕКЕБ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/jcd-wcuc-wgm"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

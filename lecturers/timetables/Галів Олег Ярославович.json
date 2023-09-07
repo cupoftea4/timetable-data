@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "ЖР-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9407205893?pwd=OGMvVWNUR2xGSXQ5RExpdVRXUG1xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "ЖР-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9407205893?pwd=OGMvVWNUR2xGSXQ5RExpdVRXUG1xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "ЖР-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/9407205893?pwd=OGMvVWNUR2xGSXQ5RExpdVRXUG1xUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "ЖР-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75003119963?pwd=qEEa8DzU1hws9TRO9s8w2G0XWnr2l1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "ЖР-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75003119963?pwd=qEEa8DzU1hws9TRO9s8w2G0XWnr2l1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Журналістська майстерність, частина 4",
+        "lecturer": "ЖР-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75003119963?pwd=qEEa8DzU1hws9TRO9s8w2G0XWnr2l1.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

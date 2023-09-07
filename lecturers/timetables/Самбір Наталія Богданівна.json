@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "ПЗ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/dpb-ruvp-xzf?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "ПЗ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/dpb-ruvp-xzf?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "ПЗ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "ПЗ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "ПЗ-43, ПЗ-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "ПЗ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "ПЗ-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "ПЗ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Людино-машинна взаємодія",
+        "lecturer": "ПЗ-43, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/cen-qjaq-xsu?authuser=1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

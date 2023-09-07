@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Психологія комунікацій",
+        "lecturer": "МК-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao%20%20Meeting%20ID:%20677%20580%202056%20Passcode:%20949115"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Психологія комунікацій",
+        "lecturer": "МК-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-101, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Логістика та управління ланцюгами поставок: поширення європейського досвіду",
+        "lecturer": "ЛУЛ-МЛ-101, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Психологія комунікацій",
+        "lecturer": "МК-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Медіа-планування",
+        "lecturer": "МКМА-11, 510 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Медіа-планування",
+        "lecturer": "МКМА-11, 510 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Фінанси підприємства",
+        "lecturer": "МЕ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Фінанси підприємства",
+        "lecturer": "МЕ-311, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6775802056?pwd=hcMgvN-3Uao"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

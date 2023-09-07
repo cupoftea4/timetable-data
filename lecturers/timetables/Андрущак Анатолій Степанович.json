@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Вибрані розділи фізики і технології напівпровідників та діелектриків",
+        "lecturer": "ПФа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGM1ODYxNDQtYTZlNS00NDllLWE2NjktNGVmNzA3MDRiMzdm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233cc5d7d-51b6-437f-a05e-e4ba0fed21b1%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Науково-дослідний практикум",
+        "lecturer": "ПФГВ-11, 233 XX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTQ2OGM2NGUtOGUyOC00ZTIwLTlmYjItMTQ5ZDU1YzYzYTVi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233cc5d7d-51b6-437f-a05e-e4ba0fed21b1%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Вибрані розділи фізики і технології напівпровідників та діелектриків",
+        "lecturer": "ПФа-21, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGM1ODYxNDQtYTZlNS00NDllLWE2NjktNGVmNzA3MDRiMzdm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233cc5d7d-51b6-437f-a05e-e4ba0fed21b1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Вибрані розділи фізики і технології напівпровідників та діелектриків",
+        "lecturer": "ПФа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OGM1ODYxNDQtYTZlNS00NDllLWE2NjktNGVmNzA3MDRiMzdm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2233cc5d7d-51b6-437f-a05e-e4ba0fed21b1%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

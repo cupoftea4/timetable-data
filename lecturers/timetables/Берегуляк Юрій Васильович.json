@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "\nСистемне програмування, частина 2",
+        "lecturer": " КІ-301, КІ-302, КІ-303, КІ-304, 906 V н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nСистемне програмування, частина 2",
+        "lecturer": " КІ-308, КІ-309, КІ-310, 512 V н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "\nСистемне програмування, частина 2",
+        "lecturer": " КІ-305, КІ-306, КІ-307, 902 V н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Організація промислового виробництва",
+        "lecturer": "БД-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQs0M1TDkDIhA-UKugbGdkWeC4kkiKO6TWIaS7YQmkbo1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0c66c3a6-8391-4523-ac72-3060c14055c1&tenantId=731cd62-5187-4e15-8b8e-ef653e36e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Організація промислового виробництва",
+        "lecturer": "БД-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQs0M1TDkDIhA-UKugbGdkWeC4kkiKO6TWIaS7YQmkbo1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0c66c3a6-8391-4523-ac72-3060c14055c1&tenantId=731cd62-5187-4e15-8b8e-ef653e36e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Організація промислового виробництва",
+        "lecturer": "БД-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQs0M1TDkDIhA-UKugbGdkWeC4kkiKO6TWIaS7YQmkbo1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0c66c3a6-8391-4523-ac72-3060c14055c1&tenantId=731cd62-5187-4e15-8b8e-ef653e36e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація промислового виробництва",
+        "lecturer": "БД-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQs0M1TDkDIhA-UKugbGdkWeC4kkiKO6TWIaS7YQmkbo1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0c66c3a6-8391-4523-ac72-3060c14055c1&tenantId=731cd62-5187-4e15-8b8e-ef653e36e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Організація промислового виробництва",
+        "lecturer": "БД-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQs0M1TDkDIhA-UKugbGdkWeC4kkiKO6TWIaS7YQmkbo1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0c66c3a6-8391-4523-ac72-3060c14055c1&tenantId=731cd62-5187-4e15-8b8e-ef653e36e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Організація промислового виробництва",
+        "lecturer": "БД-44, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aQs0M1TDkDIhA-UKugbGdkWeC4kkiKO6TWIaS7YQmkbo1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=0c66c3a6-8391-4523-ac72-3060c14055c1&tenantId=731cd62-5187-4e15-8b8e-ef653e36e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

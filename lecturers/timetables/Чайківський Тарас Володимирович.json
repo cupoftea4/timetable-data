@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Основи інформаційних технологій і моделювання в галузі",
+        "lecturer": "ХР-22, 337 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9f6d6cf3a5bf40238bac06555cf184a5%40thread.tacv2/1676198293066?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Основи інформаційних технологій і моделювання в галузі",
+        "lecturer": "ХР-21, 337 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9f6d6cf3a5bf40238bac06555cf184a5%40thread.tacv2/1676198500947?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи інформаційних технологій і моделювання в галузі",
+        "lecturer": "ХР-21, ХР-22, 339 VIII н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6abe52fd65074f25a7f7b151a3fc4ccd%40thread.tacv2/1676197999022?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи інформаційних технологій і моделювання в галузі",
+        "lecturer": "ХР-21, 337 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9f6d6cf3a5bf40238bac06555cf184a5%40thread.tacv2/1676198293066?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи інформаційних технологій і моделювання в галузі",
+        "lecturer": "ХР-22, 337 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9f6d6cf3a5bf40238bac06555cf184a5%40thread.tacv2/1676198500947?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Харчові технології, частина 1",
+        "lecturer": "ХР-22, (3-тя підгр.)323 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4Vu1_4wyQ86JtlnKaWcxkxscRmqITEplfeAZ5WD04qI1%40thread.tacv2/1676199113122?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Харчові технології, частина 1",
+        "lecturer": "ХР-22, (3-тя підгр.)323 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4Vu1_4wyQ86JtlnKaWcxkxscRmqITEplfeAZ5WD04qI1%40thread.tacv2/1676199113122?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи інформаційних технологій і моделювання в галузі",
+        "lecturer": "ХР-22, (3-тя підгр.)337 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a9f6d6cf3a5bf40238bac06555cf184a5%40thread.tacv2/1676198877339?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bc7c9412-11a1-4514-a6ef-68cf857be05f%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 4
+    }
+]

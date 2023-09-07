@@ -1,0 +1,80 @@
+[
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " КБ-102",
+        "location": " 405 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " ЕБ-12",
+        "location": " 107 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " ЕБ-12",
+        "location": " 107 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " КБ-108",
+        "location": " 901 V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " МЕ-103",
+        "location": " 307 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "\nУкраїнська мова за професійним спрямуванням",
+        "lecturer": " МЕ-101",
+        "location": " 201 IV н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

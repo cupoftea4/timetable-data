@@ -1,0 +1,15 @@
+[
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-41, ІТ-42, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

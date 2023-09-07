@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-201, практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-203, практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-204, практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-201, БПУ-УП-202, БПУ-УП-203, БПУ-УП-204, лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-202, практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 7
+    },
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-211, практична ",
+        "location": "",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-211, БПУ-УП-212, БПУ-УП-213, лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 7
+    }
+]

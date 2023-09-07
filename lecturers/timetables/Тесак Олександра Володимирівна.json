@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Формування та реалізація облікової політики підприємства",
+        "lecturer": "ОП-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86373168281?pwd=bE5IU3ZLd1ZjdTdHNk42Ump3UVltUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Формування та реалізація облікової політики підприємства",
+        "lecturer": "ОП-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86373168281?pwd=bE5IU3ZLd1ZjdTdHNk42Ump3UVltUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Аналіз господарської діяльності",
+        "lecturer": "ОП-22, 326б IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86810585752?pwd=VXI1UXpvYjJ3TkxsQXhML3VaRGhHQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Формування та реалізація облікової політики підприємства",
+        "lecturer": "ОП-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85293836722?pwd=bEo3UFNVWEwxMUpKbCsrYXNLclhQQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Формування та реалізація облікової політики підприємства",
+        "lecturer": "ОП-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85293836722?pwd=bEo3UFNVWEwxMUpKbCsrYXNLclhQQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Гідрологія урбанізованих територій",
+        "lecturer": "БДа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/85038593573?pwd=TXpTVFJjbzdGUVV1Y3h1bWFnQ1VTdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Будівельне водопониження та дренаж",
+        "lecturer": "ГБ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/87900372998?pwd=WWc1NzQ5ZXNvTGpvV0xZazZyRTJWUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Будівельне водопониження та дренаж",
+        "lecturer": "ГБ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/87900372998?pwd=WWc1NzQ5ZXNvTGpvV0xZazZyRTJWUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Тепломасообмін у водопостачанні та водовідведенні",
+        "lecturer": "БД-310, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/82015676801?pwd=eHFMRmlsNnZjSVNtb1d0K0VuWGdpQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Керування поверхневим стоком",
+        "lecturer": "ГБВІ-11, 411 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/89737304118?pwd=Y2U4Zzd3V1duTTBkeGxlL3FqQ3REUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Керування поверхневим стоком",
+        "lecturer": "ГБВІ-11, 411 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/89737304118?pwd=Y2U4Zzd3V1duTTBkeGxlL3FqQ3REUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Тепломасообмін у водопостачанні та водовідведенні",
+        "lecturer": "БД-310, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/82015676801?pwd=eHFMRmlsNnZjSVNtb1d0K0VuWGdpQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

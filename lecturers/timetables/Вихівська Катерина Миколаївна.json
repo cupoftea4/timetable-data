@@ -1,0 +1,630 @@
+[
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-33, ПВ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-42, 302 III н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ДК-41, 302 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи охорони праці та безпека життєдіяльності",
+        "lecturer": "ПВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/4178398809?pwd=QWNWL3ZkbTNKaEhjUjIyT01MQ1VIUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Гігієна праці та виробнича санітарія",
+        "lecturer": "ЦБ-21, 236 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

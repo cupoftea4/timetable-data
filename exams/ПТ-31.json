@@ -1,0 +1,43 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Попович Н.І.,",
+        "subject": "Міжнародні організації з акредитації харчових лабораторій",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/81077115588?pwd=c1hVMDFqVCt6UW5QUEdPUWtXOE1CZz09"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Ємченко І.В.,",
+        "subject": "Митна справа",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Шевченко С.Г.,",
+        "subject": "Кваліметрія",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a-QKWG75pKieoxPaZLgc2FETZQpBQHecqSwb807-luoI1%40thread.tacv2/1685952627620?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22869e768b-b961-4ec4-bfa9-b5636ef82229%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Князь С.В.,",
+        "subject": "Міжнародні фінанси",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Шайда О.Є.,",
+        "subject": "Міжнародна торгівля",
+        "number": 1,
+        "urls": [
+            "https://zoom.us/j/8205281409?pwd=NnRqcFhoNUxKRTFtWWJRRVBGaEVzUT09%20%20Meeting%20ID:%20820%20528%201409%20Passcode:%206fZ1fb#success"
+        ]
+    }
+]

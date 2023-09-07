@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Товарознавство та експертиза якості послуг",
+        "lecturer": "ПТ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Товарознавство та експертиза якості послуг",
+        "lecturer": "ПТ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Митна справа",
+        "lecturer": "ПТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Організація та техніка міжнародного трансферу товарів",
+        "lecturer": "ПТПБ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Митна справа",
+        "lecturer": "ПТ-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Митна справа",
+        "lecturer": "ПТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Захист прав споживачів",
+        "lecturer": "ПТ-21, 132 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Захист прав споживачів",
+        "lecturer": "ПТ-21, 315 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Товарознавство та експертиза якості послуг",
+        "lecturer": "ПТ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Експертиза тари і пакувальних матеріалів",
+        "lecturer": "ПТ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Експертиза тари і пакувальних матеріалів",
+        "lecturer": "ПТ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72058799757?pwd=NkMrxbBqlHPoaUxpBvRtpC6b4o87I0.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

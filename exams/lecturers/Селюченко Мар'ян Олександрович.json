@@ -1,0 +1,36 @@
+[
+    {
+        "date": "2023-03-27T00:00:00.000Z",
+        "lecturer": "ІК-41,",
+        "subject": "Системи керування проектами",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-05-01T00:00:00.000Z",
+        "lecturer": "ТР-41,",
+        "subject": "Розподілені інформаційні системи",
+        "number": 1,
+        "urls": [
+            "https://meet.google.com/ohj-zkfj-cdm"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ІК-31,",
+        "subject": "Розподілені інформаційно-комунікаційні мережі",
+        "number": 1,
+        "urls": [
+            "http://meet.google.com/tnm-zvfx-xyc"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ТРІМ-11, 305 XI н.к.,",
+        "subject": "Розподілені сервісні системи та cloud-технології",
+        "number": 1,
+        "urls": [
+            "http://meet.google.com/xtt-enro-qdr"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Кримінальний процес",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76525314500?pwd=jxeaGm3zna2SrfhkrIxqzHEEeevdV9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Антикорупційна діяльність в Україні",
+        "lecturer": "ПВ-46, ПВ-48, ПВ-410, ПВ-411, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73136832695?pwd=AEPUiEu0lltY4xIb42buHthbqVITal.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

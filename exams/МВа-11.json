@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "Матвіїв-Лозинська Ю.О.,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "Демчишак Р.Б.,",
+        "subject": "Демократична трансформація у країнах Центральної та Східної Європи",
+        "number": 6,
+        "urls": [
+            "https://us04web.zoom.us/j/6387359124?pwd=NlZIc09jS25MZFlpMnJjZlZJMVBOdz09"
+        ]
+    },
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "Дорош Л.О.,",
+        "subject": "Зовнішньополітичні пріоритети України у сучасній системі міжнародних відносин",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/99812762410?pwd=N25IWkJZRU53NDlnOGJBSVpYN0F5QT09%20%20https://us05web.zoom.us/j/99812762410?pwd=N25IWkJZRU53NDlnOGJBSVpYN0F5QT09"
+        ]
+    }
+]

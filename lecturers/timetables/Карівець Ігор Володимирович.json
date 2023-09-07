@@ -1,0 +1,332 @@
+[
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " МПа-11, МЗа-11, МБа-11, ТТа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ЕЕа-11, АВа-11, УАа-11, ПОа-11, ЕКа-11, ПМа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ЕКа-12, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ФБа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ПТа-11",
+        "location": " ПФа-11",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " КІа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " КБа-11",
+        "location": " ІВа-11",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ЕЛа-11",
+        "location": " МНа-11",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSdcDg-0dwCyVVYRxwifMSXCp_ZrwN0Z_ArI0u8-FmEQ1%40thread.tacv2/conversations?groupId=569f1300-0faf-4504-8534-99aa85890b47&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ТРа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSdcDg-0dwCyVVYRxwifMSXCp_ZrwN0Z_ArI0u8-FmEQ1%40thread.tacv2/conversations?groupId=569f1300-0faf-4504-8534-99aa85890b47&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 7
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ЕВа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ЕВа-12, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " МЕа-12, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " МЕа-13, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " МЕа-14, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " МЕа-15, практична ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSdcDg-0dwCyVVYRxwifMSXCp_ZrwN0Z_ArI0u8-FmEQ1%40thread.tacv2/conversations?groupId=569f1300-0faf-4504-8534-99aa85890b47&amp;tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nАктуальні проблеми філософії XX-XXI",
+        "lecturer": " ФСа-11, лекція ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/85445941005?pwd=Wk9MYSs5Y1JNMERTN2ovQlZNTE8rZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "\nАктуальні проблеми філософії XX-XXI",
+        "lecturer": " ФСа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/85445941005?pwd=Wk9MYSs5Y1JNMERTN2ovQlZNTE8rZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " КБа-11, КІа-11, ТТа-11, ІВа-11, лекція ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " МВа-11, МЕа-11, МЕа-12, МЕа-13, ОПа-11, ФБа-11, ЕВа-11, ЕВа-12, ТЗа-11, ПЛа-11, ДКа-11, ФСа-11, 205 IV н.к., лекція ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ЕЛа-11, ІТа-11, МНа-11, МПа-11, ПФа-11, ТРа-11, МКа-11, ЕЕа-11, АВа-11, ПМа-11, МЗа-11, МБа-11, лекція ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " МЕа-11, ОПа-11, МКа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " МЕа-14, МЕа-15, ЕКа-11, ЕКа-12, лекція ",
+        "location": "",
+        "urls": [
+            "https://us06web.zoom.us/j/3420544303?pwd=bVpHU00zd0FiN3NkTmt4UUZsTXo4dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    }
+]

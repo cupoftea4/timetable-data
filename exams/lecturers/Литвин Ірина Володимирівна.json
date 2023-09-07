@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-06-02T00:00:00.000Z",
+        "lecturer": "МЕа-21,",
+        "subject": "Управління венчурними проектами",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/79592932810?pwd=PaT23mZ2xxB4mHqqf9oMhAlkx7sCSq.1%20%20Meeting%20ID:%20795%209293%202810%20Passcode:%209xeCs3"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ЕВМЕ-11f,",
+        "subject": "Міжнародна венчурна діяльність",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/76456017748?pwd=rMrL3fI4DZGybn9g3nn8eCABPuJWux.1%20%20Meeting%20ID:%20764%205601%207748%20Passcode:%202023"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ЕВМЕ-11, ЕВМЕ-12, 310 IV н.к.,",
+        "subject": "Міжнародна венчурна діяльність",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/79463160733?pwd=QYZ9hTaCxReoatXbxGHrB2V7HksHo9.1%20%20Meeting%20ID:%20794%206316%200733%20Passcode:%20EsPp3G"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "МЕУІ-11, 514 IV н.к.,",
+        "subject": "Управління інвестиційним та венчурним бізнесом",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/75390756824?pwd=EuQjsLhIFD5bq7DqNHXGe2L8krWsta.1%20%20Meeting%20ID:%20753%209075%206824%20Passcode:%20Pp4b3j"
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Логістика експлуатації автомобілів",
+        "lecturer": "АТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/634486685?pwd=UndLRFJLK2NMU0lSUmFvVFd1K1NsZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-23, 115 VI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/634486685?pwd=UndLRFJLK2NMU0lSUmFvVFd1K1NsZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-23, 214 VI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/634486685?pwd=UndLRFJLK2NMU0lSUmFvVFd1K1NsZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технічна експлуатація автомобілів, частина 1",
+        "lecturer": "АТ-23, 214 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/634486685?pwd=UndLRFJLK2NMU0lSUmFvVFd1K1NsZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Логістика експлуатації автомобілів",
+        "lecturer": "АТ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/634486685?pwd=UndLRFJLK2NMU0lSUmFvVFd1K1NsZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Технології утилізації відходів у будівництві",
+        "lecturer": "ТУВ-БВ-101, 403 II н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2b625125776b4096a64cacab0093f39a%40thread.tacv2/conversations?groupId=48b6583d-0d41-4cc2-84e0-36ad97c7aae6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології утилізації відходів у будівництві",
+        "lecturer": "ТУВ-БВ-101, 403 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2b625125776b4096a64cacab0093f39a%40thread.tacv2/conversations?groupId=48b6583d-0d41-4cc2-84e0-36ad97c7aae6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології утилізації відходів у будівництві",
+        "lecturer": "ТУВ-БВ-103, 403 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2b625125776b4096a64cacab0093f39a%40thread.tacv2/conversations?groupId=48b6583d-0d41-4cc2-84e0-36ad97c7aae6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології утилізації відходів у будівництві",
+        "lecturer": "ТУВ-БВ-103, 403 II н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2b625125776b4096a64cacab0093f39a%40thread.tacv2/conversations?groupId=48b6583d-0d41-4cc2-84e0-36ad97c7aae6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології утилізації відходів у будівництві",
+        "lecturer": "ТУВ-БВ-102, 403 II н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2b625125776b4096a64cacab0093f39a%40thread.tacv2/conversations?groupId=48b6583d-0d41-4cc2-84e0-36ad97c7aae6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технології утилізації відходів у будівництві",
+        "lecturer": "ТУВ-БВ-102, 403 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2b625125776b4096a64cacab0093f39a%40thread.tacv2/conversations?groupId=48b6583d-0d41-4cc2-84e0-36ad97c7aae6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Контроль якості та експертиза виконаних робіт у будівництві",
+        "lecturer": "БД-35, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aR9VyOqGGjcccPnVgXsL-xwd5VreaoPcKkhm_XCok9hE1%40thread.tacv2/conversations?groupId=0ddd233c-9988-4390-a3c6-5d7953cd2a73&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи технології ремонтно-будівельних робіт",
+        "lecturer": "БД-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSiSMn8XG3UMxQn0XSlajtwoAc7QXVzAJmWNRwcIGE2s1%40thread.tacv2/conversations?groupId=c766569c-70ad-4c5f-8b92-858964b77fa6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи технології ремонтно-будівельних робіт",
+        "lecturer": "БД-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSiSMn8XG3UMxQn0XSlajtwoAc7QXVzAJmWNRwcIGE2s1%40thread.tacv2/conversations?groupId=c766569c-70ad-4c5f-8b92-858964b77fa6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Наукові дослідження в будівництві",
+        "lecturer": "БДАД-11, БДАД-12, БДМТ-11, БДМТ-12, БДВВ-11, БДВВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2d723bc07b4845748d3508a91be42154%40thread.tacv2/conversations?groupId=55bf4826-0522-4ed2-9a2e-28edf97b42aa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Методи дослідження будівельних матеріалів",
+        "lecturer": "БД-35, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a5c6eb64d545348d5a5011fdfed518228%40thread.tacv2/conversations?groupId=d0cc3c40-baae-4ede-92e1-94ddfe0c30c7&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Основи технології ремонтно-будівельних робіт",
+        "lecturer": "БД-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aSiSMn8XG3UMxQn0XSlajtwoAc7QXVzAJmWNRwcIGE2s1%40thread.tacv2/conversations?groupId=c766569c-70ad-4c5f-8b92-858964b77fa6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технології утилізації відходів у будівництві",
+        "lecturer": "БДМБ-11, БДМБ-12, ТУВ-БВ-101, ТУВ-БВ-102, ТУВ-БВ-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2b625125776b4096a64cacab0093f39a%40thread.tacv2/conversations?groupId=48b6583d-0d41-4cc2-84e0-36ad97c7aae6&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

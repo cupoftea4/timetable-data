@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Мишок Р.Р.,",
+        "subject": "Новітні інформаційні технології в соціології",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/81978110671?pwd=N3BYRFVIT2V5aEViYVhRRTFlczFzZz09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Савка В.Є.,",
+        "subject": "Уявні та реальні соціальні спільноти",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "Климанська Л.Д.,",
+        "subject": "Кількісний і якісний аналіз документів в соціології",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/2420475150?pwd=Mjd1SHhVTldUYmNicVNuckJuZjhkdz09"
+        ]
+    }
+]

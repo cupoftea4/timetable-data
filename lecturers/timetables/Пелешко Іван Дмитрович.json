@@ -1,0 +1,223 @@
+[
+    {
+        "subject": "Розрахункові методи в технології зведення будівель та споруд",
+        "lecturer": "БДМБ-12, 224а II н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72053024775?pwd=TGRFVVQ1aUh2dStmSkVSSHVwMmtQUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Розрахункові методи в технології зведення будівель та споруд",
+        "lecturer": "БДМБ-12, 224а II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Розрахункові методи в технології зведення будівель та споруд",
+        "lecturer": "БДМБ-12, 224а II н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72053024775?pwd=TGRFVVQ1aUh2dStmSkVSSHVwMmtQUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Розрахункові методи в технології зведення будівель та споруд",
+        "lecturer": "БДМБ-12, 224а II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Розробка технологій будівельних процесів, зведення будівель та споруд",
+        "lecturer": "БДПЦ-11, 313 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77538038911?pwd=UEdxNUJTZFJJU0szcmM4RVhaNk56QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерні технології у містобудуванні",
+        "lecturer": "БД-33, БД-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71431917456?pwd=NjVWOTU1MG9JK0IzS3JEaVJMYlVjZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні технології у містобудуванні",
+        "lecturer": "БД-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71431917456?pwd=NjVWOTU1MG9JK0IzS3JEaVJMYlVjZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Розрахункові методи в технології зведення будівель та споруд",
+        "lecturer": "БДМБ-11, БДМБ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72053024775?pwd=TGRFVVQ1aUh2dStmSkVSSHVwMmtQUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерні технології у містобудуванні",
+        "lecturer": "БД-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75598759149?pwd=ZYlqtGIfFYUbaXSS7ZQFBebUgZEuth.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерні технології у містобудуванні",
+        "lecturer": "БД-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/76881111869?pwd=dbzvldZNGrt4bu905mdyOaRLOf7wOH.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерні технології у містобудуванні",
+        "lecturer": "БД-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71431917456?pwd=NjVWOTU1MG9JK0IzS3JEaVJMYlVjZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Розрахункові методи в технології зведення будівель та споруд",
+        "lecturer": "БДМБ-11, 224а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72053024775?pwd=TGRFVVQ1aUh2dStmSkVSSHVwMmtQUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Розрахункові методи в технології зведення будівель та споруд",
+        "lecturer": "БДМБ-11, 224а II н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72053024775?pwd=TGRFVVQ1aUh2dStmSkVSSHVwMmtQUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Розрахункові методи в технології зведення будівель та споруд",
+        "lecturer": "БДМБ-11, 224а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72053024775?pwd=TGRFVVQ1aUh2dStmSkVSSHVwMmtQUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Розрахункові методи в технології зведення будівель та споруд",
+        "lecturer": "БДМБ-11, 224а II н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72053024775?pwd=TGRFVVQ1aUh2dStmSkVSSHVwMmtQUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

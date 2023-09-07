@@ -1,0 +1,317 @@
+[
+    {
+        "subject": "Комп`ютеризовані технології мехатронних систем",
+        "lecturer": "МТ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aee37839a6608474d9f30d30d13a1c69a%40thread.tacv2/1676210681548?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційне забезпечення проектування, виготовлення і тестування виробів",
+        "lecturer": "МТІТ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a396bacfdc1794f4786ca8bdb50dfe1e9%40thread.tacv2/1676215463937?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Моделювання гетерогенних комп`ютерних систем",
+        "lecturer": "МТІТ-11, 119 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac244f1cb50c94956821cc042c528ae9e%40thread.tacv2/1676216290803?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання гетерогенних комп`ютерних систем",
+        "lecturer": "МТІТ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac244f1cb50c94956821cc042c528ae9e%40thread.tacv2/1676216098266?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційне забезпечення проектування, виготовлення і тестування виробів",
+        "lecturer": "МТІТ-11, 119 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a396bacfdc1794f4786ca8bdb50dfe1e9%40thread.tacv2/1676215651544?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютеризовані технології мехатронних систем",
+        "lecturer": "МТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aee37839a6608474d9f30d30d13a1c69a%40thread.tacv2/1676211179051?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютеризовані технології мехатронних систем",
+        "lecturer": "МТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aee37839a6608474d9f30d30d13a1c69a%40thread.tacv2/1676211426532?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "МТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676216639558?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "МТ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676217014692?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання гетерогенних комп`ютерних систем",
+        "lecturer": "МТІТ-11, 119 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac244f1cb50c94956821cc042c528ae9e%40thread.tacv2/1676217324930?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційне забезпечення проектування, виготовлення і тестування виробів",
+        "lecturer": "МТІТ-11, 119 XIX н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a396bacfdc1794f4786ca8bdb50dfe1e9%40thread.tacv2/1676216806953?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютеризовані технології мехатронних систем",
+        "lecturer": "МТ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aee37839a6608474d9f30d30d13a1c69a%40thread.tacv2/1676211849486?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютеризовані технології мехатронних систем",
+        "lecturer": "МТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aee37839a6608474d9f30d30d13a1c69a%40thread.tacv2/1676212058058?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютеризовані технології мехатронних систем",
+        "lecturer": "МТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aee37839a6608474d9f30d30d13a1c69a%40thread.tacv2/1676212221083?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Моделювання гетерогенних комп`ютерних систем",
+        "lecturer": "МТІТ-11, 119 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac244f1cb50c94956821cc042c528ae9e%40thread.tacv2/1676217629507?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютеризовані технології мехатронних систем",
+        "lecturer": "МТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aee37839a6608474d9f30d30d13a1c69a%40thread.tacv2/1676212656989?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютеризовані технології мехатронних систем",
+        "lecturer": "МТ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aee37839a6608474d9f30d30d13a1c69a%40thread.tacv2/1676212816044?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "МТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676217994680?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "МТ-33, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676218113622?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "МТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676218426112?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "lecturer": "МТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1676218538301?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    }
+]

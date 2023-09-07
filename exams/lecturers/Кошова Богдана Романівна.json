@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ТУ-31,",
+        "subject": "Інфраструктура туризму",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "ТУ-32,",
+        "subject": "Інфраструктура міжнародного туризму",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/2446509008?pwd=UzJ2b1ZHOFB1Yyt0VVgxODJpSHZZQT09"
+        ]
+    }
+]

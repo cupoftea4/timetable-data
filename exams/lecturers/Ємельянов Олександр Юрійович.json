@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "ЕКа-21,",
+        "subject": "Проблеми економіки сталого розвитку",
+        "number": 5,
+        "urls": [
+            "https://us02web.zoom.us/j/9916920499?pwd=cXFUWGZRL016YXNjTnp2dzcvTWFUZz09"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ЕК-31, ЕК-32,",
+        "subject": "Економіка та організація інноваційної діяльності",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/9916920499?pwd=cXFUWGZRL016YXNjTnp2dzcvTWFUZz09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ЕКЕБ-11, 424 IV н.к.,",
+        "subject": "Інноваційний розвиток бізнесу",
+        "number": 3,
+        "urls": [
+            "https://us02web.zoom.us/j/9916920499?pwd=cXFUWGZRL016YXNjTnp2dzcvTWFUZz09"
+        ]
+    }
+]

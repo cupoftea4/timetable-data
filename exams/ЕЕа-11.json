@@ -1,0 +1,45 @@
+[
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "Гаврилюк М.В.,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aiWLAsuSQE8KxeWInTyB3z5EDxr2HBmJy8rjvpomSv4o1%40thread.tacv2/conversations?groupId=64f9b436-652c-4538-9adb-d34b6a2d2c67&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-01T00:00:00.000Z",
+        "lecturer": "Варецький Ю.О.,",
+        "subject": "Методи аналізу та керування інтелектуальних електроенергетичних систем",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQycmkUED9wBqVjJgb2QoooBdqrJZ9RTjpohMhABFCKs1%40thread.tacv2/conversations?groupId=bfe40649-629f-49c4-a2da-3d8721f42399&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "Паранчук Я.С.,",
+        "subject": "Системний аналіз та методи ідентифікації електротехнічних об`єктів",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-06-09T00:00:00.000Z",
+        "lecturer": "Варецький Ю.О.,",
+        "subject": "Перехідні процеси та перенапруги в електроенергетичних системах",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQycmkUED9wBqVjJgb2QoooBdqrJZ9RTjpohMhABFCKs1%40thread.tacv2/conversations?groupId=bfe40649-629f-49c4-a2da-3d8721f42399&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-07T00:00:00.000Z",
+        "lecturer": "Лозинський А.О.,",
+        "subject": "Сучасні методи керування та їх застосування в електротехнічних системах",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a6jkI7R2yu1RDP0V1j9UnFBu4NVGYg1qD5mN1TYTmQfI1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=044a05e2-274b-49a1-ab49-379c17ffaba0&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

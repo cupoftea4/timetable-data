@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Біобезпека та методи контролю в біотехнології",
+        "lecturer": "БТБТ-11, БТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/vad-yqnt-aqw"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технологія біологічно-активних добавок",
+        "lecturer": "БТМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/nhc-whhc-wzt"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

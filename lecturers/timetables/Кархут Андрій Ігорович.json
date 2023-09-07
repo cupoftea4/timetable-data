@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Процеси та апарати біотехнологічних виробництв",
+        "lecturer": "БТ-31, БТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQqUWiYh2et_WCsTOG8HsVuPceCdzSEytz0VRVsKU8K41%40thread.tacv2/conversations?groupId=d4cb0b1e-5114-4cb1-ba81-7e6a003ddf24&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Процеси та апарати біотехнологічних виробництв",
+        "lecturer": "БТ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQqUWiYh2et_WCsTOG8HsVuPceCdzSEytz0VRVsKU8K41%40thread.tacv2/conversations?groupId=d4cb0b1e-5114-4cb1-ba81-7e6a003ddf24&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Процеси та апарати біотехнологічних виробництв",
+        "lecturer": "БТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQqUWiYh2et_WCsTOG8HsVuPceCdzSEytz0VRVsKU8K41%40thread.tacv2/conversations?groupId=d4cb0b1e-5114-4cb1-ba81-7e6a003ddf24&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-18T00:00:00.000Z",
+        "lecturer": "Білозерська С.І.,",
+        "subject": "Психологія праці",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/meetingOptions/?organizerId=ec2e3c3d-8db3-4920-bc6a-a53932b7b148&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&threadId=19_meeting_Y2EyMmQwMzUtMTNhMC00YTc0LThjNTQtMTg2NjRjMGJiYTY5@thread.v2&messageId=0&language=uk-UA"
+        ]
+    },
+    {
+        "date": "2023-04-20T00:00:00.000Z",
+        "lecturer": "Партико Н.В.,",
+        "subject": "Психологія конфліктів та їх розв`язання",
+        "number": 1,
+        "urls": [
+            "https://zoom.us/j/9253215885?pwd=R2p0eXNWVDloZmhsS3QwY0hRRXFNUT09%20%20Meeting%20ID:%20925%20321%205885%20Passcode:%20w2Lk8f"
+        ]
+    }
+]

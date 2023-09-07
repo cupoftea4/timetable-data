@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-204, ВВО-ЕПІ-205, ВВО-ЕПІ-206, 406 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85084390037?pwd=TGhTQUNmU3BFc2NuQWVRSU9naUl3dz09%20%20Meeting%20ID:%20850%208439%200037%20Passcode:%205X1eTH"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-205, 404 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85084390037?pwd=TGhTQUNmU3BFc2NuQWVRSU9naUl3dz09%20%20Meeting%20ID:%20850%208439%200037%20Passcode:%205X1eTH"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Економіка та організація інноваційної діяльності",
+        "lecturer": "ЕК-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71637058690?pwd=AJN8oPScAJknQ7gspnQv18CKrKTT9c.1%20%20Meeting%20ID:%20716%203705%208690%20Passcode:%205rUJMF"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Економіка та організація інноваційної діяльності",
+        "lecturer": "ЕК-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76872975212?pwd=ak1WWUdKNDFZRmV2WVpNb20valhxdz09%20%20Meeting%20ID:%20768%207297%205212%20Passcode:%20Zccf3m"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-101, 214 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/85084390037?pwd=TGhTQUNmU3BFc2NuQWVRSU9naUl3dz09%20%20Meeting%20ID:%20850%208439%200037%20Passcode:%205X1eTH"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-101, 214 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85084390037?pwd=TGhTQUNmU3BFc2NuQWVRSU9naUl3dz09%20%20Meeting%20ID:%20850%208439%200037%20Passcode:%205X1eTH"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інноваційний розвиток бізнесу",
+        "lecturer": "ЕКЕБ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72905977459?pwd=UEo3aS9uRzA1MThEVXY0NHdYRFp4dz09%20%20Meeting%20ID:%20729%200597%207459%20Passcode:%208vgvde"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-204, 202 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85084390037?pwd=TGhTQUNmU3BFc2NuQWVRSU9naUl3dz09%20%20Meeting%20ID:%20850%208439%200037%20Passcode:%205X1eTH"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-206, 406 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85084390037?pwd=TGhTQUNmU3BFc2NuQWVRSU9naUl3dz09%20%20Meeting%20ID:%20850%208439%200037%20Passcode:%205X1eTH"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

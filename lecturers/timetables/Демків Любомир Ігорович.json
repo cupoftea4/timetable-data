@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "Рекомендаційні системи",
+        "lecturer": "САСМ-11, САСМ-12, 109 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79386410908?pwd=Z5ZtlWHrwoVpYqE3btkY2ua7BCWlGj.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

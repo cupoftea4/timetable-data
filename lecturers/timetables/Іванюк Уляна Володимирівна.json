@@ -1,0 +1,182 @@
+[
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "МЕ-21f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/85914858762?pwd=bUZyQWxzOW4xUlh2dnVpUEczVkx1QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Соціальний менеджмент",
+        "lecturer": "МЕ-31f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88398424132?pwd=UDdibGFkOWQ1ZG5wQUxVVzU5WUh1UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Контролінг інноваційної діяльності",
+        "lecturer": "МЕІД-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/83965992808?pwd=VWxUNGQ5Z2hoUjZmTExXNm4zSCs0dz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Контролінг інноваційної діяльності",
+        "lecturer": "МЕІД-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/84534521584?pwd=Ull3cGJXS0RxQ2RtY1RTdDdHdDVnQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Контролінг інноваційної діяльності",
+        "lecturer": "МЕІД-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/84534521584?pwd=Ull3cGJXS0RxQ2RtY1RTdDdHdDVnQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "МЕОА-11f, УКЗ-МО-101f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81606944976?pwd=NzBxemF5aWdpUmNOUmRmSXhWT1Q0Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "ОП-21, 003 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/83814938115?pwd=RTdVekFlamgvbHJPbWxNZnhWWE9ZUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "МЕ-21, МЕ-22, МЕ-24, 420 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86728354595?pwd=cGUrV1BtOTVkcXMyTjZRVFN6a2Y0QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Інвестиційний менеджмент",
+        "lecturer": "МЕ-312, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85603621161?pwd=UWxIVms2ZkVnN2xEdU5peFBIbGtzZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інвестиційний менеджмент",
+        "lecturer": "МЕ-312, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/86054550264?pwd=b2EzWmhwdkRmWitPQXNybkU5SjdSQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Соціальний менеджмент",
+        "lecturer": "МЕ-31, МЕ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84995415525?pwd=N0tzb0tYc3lvZlYwWGNYMG93WVpkZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Управління корпоративними змінами",
+        "lecturer": "МЕОА-11f, УКЗ-МО-101f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82298176283?pwd=TFhKMUw1QTRyTmkxbmt5bGdReFdZdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

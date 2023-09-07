@@ -1,0 +1,204 @@
+[
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-21, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-21, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-11сп, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-11сп, 616а II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-11сп, 616а II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-22, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-22, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-21, ГД-22, 619в II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Аерокосмічні знімальні системи",
+        "lecturer": "ГДФД-11, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Аерокосмічні знімальні системи і ДЗЗ",
+        "lecturer": "НЗКМ-11, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Нормативно-правове забезпечення професійної діяльності 1",
+        "lecturer": "НПД-ФГІ-101, 616а II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Геоінформаційний аналіз",
+        "lecturer": "ГДГТ-11, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-11сп, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-11сп, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78036772178?pwd=VHRxT2l2ZGNPQXF4aHlPVDgraWxHZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

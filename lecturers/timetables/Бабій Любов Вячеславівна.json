@@ -1,0 +1,159 @@
+[
+    {
+        "subject": "Програмне забезпечення задач геоматики",
+        "lecturer": "ГД-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aVZX4vyP1SlP5RezzZb84rzOUJcOVaRTEbQ_7XRunz0c1%40thread.tacv2/conversations?groupId=bdd82ded-9381-496a-b478-011e6a82d8fb&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-21, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-21, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Програмне забезпечення задач геоматики",
+        "lecturer": "ГД-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aVZX4vyP1SlP5RezzZb84rzOUJcOVaRTEbQ_7XRunz0c1%40thread.tacv2/conversations?groupId=bdd82ded-9381-496a-b478-011e6a82d8fb&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Фотограмметричні технології в геодезії та землеустрої",
+        "lecturer": "ГД-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ae9478c7ff3f64f6398bdca91364c1167%40thread.tacv2/conversations?groupId=328c8c04-8f8e-41fc-a710-43f46c5f9710&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Програмне забезпечення задач геоматики",
+        "lecturer": "ГД-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aVZX4vyP1SlP5RezzZb84rzOUJcOVaRTEbQ_7XRunz0c1%40thread.tacv2/conversations?groupId=bdd82ded-9381-496a-b478-011e6a82d8fb&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Фотограмметричні технології в геодезії та землеустрої",
+        "lecturer": "ГД-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ae9478c7ff3f64f6398bdca91364c1167%40thread.tacv2/conversations?groupId=328c8c04-8f8e-41fc-a710-43f46c5f9710&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-22, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "ГІС і бази даних",
+        "lecturer": "ГД-22, 619а II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Нормативно-правове забезпечення професійної діяльності 1",
+        "lecturer": "НПД-ФГІ-101, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayD5aHSU2j1Rx_NN_mbO_qaxJjae4cqM6clR-pNjuCJA1%40thread.tacv2/conversations?groupId=810bc8d3-dc0d-45aa-8828-3890647fadfc&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Аерокосмічні знімальні системи",
+        "lecturer": "ГДГТ-11, 616б II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ay1kxHEd2xOuXY9akot9rxtIEw6oYsnf9wqg-wcb4iEg1%40thread.tacv2/conversations?groupId=e274211d-b495-4212-9965-4b404a786e76&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

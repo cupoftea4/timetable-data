@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ТТОР-11, ТТОР-12, 202 VI н.к., 210 VI н.к.,",
+        "subject": "Проектний аналіз",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "ТТОП-11, ТТОП-12, ТТОП-13, 202 VI н.к.,",
+        "subject": "Проектний аналіз",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/4395905494?pwd=Mi9vWWN1R3g0V0tqL3NzeDlOZkhzUT09"
+        ]
+    }
+]

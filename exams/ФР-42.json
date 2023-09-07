@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-05-01T00:00:00.000Z",
+        "lecturer": "Болібрух Л.Д.,",
+        "subject": "Фармакологія",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-05-04T00:00:00.000Z",
+        "lecturer": "Кричковська А.М.,",
+        "subject": "Менеджмент та маркетинг у фармації",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aG-EtDV2rlqZ0I0CzYp-XP3Ezu25xQa9-pvFNSoy6TYk1%40thread.tacv2/1682962514126?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22cab39b98-eab7-4817-b8f6-c764840b150e%22%7d"
+        ]
+    }
+]

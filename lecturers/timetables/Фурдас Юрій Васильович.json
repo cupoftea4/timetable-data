@@ -1,0 +1,142 @@
+[
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "ЕАУ-ТГВ-103, 411 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Газопостачання, частина 2",
+        "lecturer": "БД-47, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:vt8wK9pA3E5x9WQdLSVqvvjdCj1ujFiJzV7BaHAr3ko1@thread.tacv2/1677063335666?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=3e39a94b-3b99-4d3f-9fbe-b94fa6e01088&parentMessageId=1677063335666&teamName=%D0%91%D0%94%20-%2047%20(2023)&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677063335666&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Газопостачання, частина 2",
+        "lecturer": "БД-47, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:vt8wK9pA3E5x9WQdLSVqvvjdCj1ujFiJzV7BaHAr3ko1@thread.tacv2/1677063452414?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=3e39a94b-3b99-4d3f-9fbe-b94fa6e01088&parentMessageId=1677063452414&teamName=%D0%91%D0%94%20-%2047%20(2023)&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677063452414&allowXTenantAccess=false"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Газопостачання, частина 2",
+        "lecturer": "БД-47, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:vt8wK9pA3E5x9WQdLSVqvvjdCj1ujFiJzV7BaHAr3ko1@thread.tacv2/1677063568700?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=3e39a94b-3b99-4d3f-9fbe-b94fa6e01088&parentMessageId=1677063568700&teamName=%D0%91%D0%94%20-%2047%20(2023)&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677063568700&allowXTenantAccess=false"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Газопостачання, частина 2",
+        "lecturer": "БД-47, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:vt8wK9pA3E5x9WQdLSVqvvjdCj1ujFiJzV7BaHAr3ko1@thread.tacv2/1677063644974?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=3e39a94b-3b99-4d3f-9fbe-b94fa6e01088&parentMessageId=1677063644974&teamName=%D0%91%D0%94%20-%2047%20(2023)&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677063644974&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Проектування систем газопостачання",
+        "lecturer": "БДТГ-11, 408 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Проектування систем газопостачання",
+        "lecturer": "БДТГ-12, 408 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "ЕАУ-ТГВ-102, БДТГ-12, 409 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Енергетичний аудит будівель та споруд",
+        "lecturer": "ЕАУ-ТГВ-101, БДТГ-11, 409 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Проектування систем газопостачання",
+        "lecturer": "БДТГ-11, БДТГ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:jW-6c2bUIHOrdilEHh44VkG8jr0OZ3N4s0jjBkXLc741@thread.tacv2/1677065057993?tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a&groupId=5673056e-07db-4154-a3e7-59f484de2e3c&parentMessageId=1677065057993&teamName=%D0%91%D0%94%D0%A2%D0%93%20-%2011%2C%20%D0%91%D0%94%D0%A2%D0%93%20-12%20(2023)&channelName=%D0%97%D0%B0%D0%B3%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5&createdTime=1677065057993&allowXTenantAccess=false"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

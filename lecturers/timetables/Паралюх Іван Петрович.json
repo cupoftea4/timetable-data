@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nКомп`ютерна логіка",
+        "lecturer": " КІ-202",
+        "location": " 508 V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nКомп`ютерна логіка",
+        "lecturer": " КІ-201",
+        "location": " 905 V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

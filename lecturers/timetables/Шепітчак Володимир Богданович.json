@@ -1,0 +1,150 @@
+[
+    {
+        "subject": "Методи підготовки води на теплових електростанціях та водний режим теплогенеруючих установок",
+        "lecturer": "ТЕ-31, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTM5ZWYxOTAtOWUxOC00OTM0LWJlYTItNTQwYWI5YWYxZDk4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Методи підготовки води на теплових електростанціях та водний режим теплогенеруючих установок",
+        "lecturer": "ТЕ-31, 207 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTM5ZWYxOTAtOWUxOC00OTM0LWJlYTItNTQwYWI5YWYxZDk4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управління строком служби та зняття з експлуатації атомних електричних станцій",
+        "lecturer": "АЕАЕ-11, 115 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YjRhMDc1M2ItODUwMi00MTE0LTgyOTctNDVjYWNiMmU5MjQ5%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи реконструкції та модернізації об`єктів теплоенергетики",
+        "lecturer": "ТЕТЕ-11, 115 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ4ODc3MTItMDVhMC00Y2E2LWE3ZTMtNTdmMWVmZTAwYzE4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Експлуатація атомних електричних станцій",
+        "lecturer": "АЕАЕ-11, 115 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ4ODc3MTItMDVhMC00Y2E2LWE3ZTMtNTdmMWVmZTAwYzE4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи реконструкції та модернізації об`єктів теплоенергетики",
+        "lecturer": "ТЕТЕ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWQ4ODc3MTItMDVhMC00Y2E2LWE3ZTMtNTdmMWVmZTAwYzE4%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Теоретичні основи теплотехніки",
+        "lecturer": "ТЕ-11, 213 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методи підготовки води на теплових електростанціях та водний режим теплогенеруючих установок",
+        "lecturer": "ТЕ-31, 209 X н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI1YmQ0YWUtMWQwYS00ZmQ4LTk2MzAtYTNkYTg0NGJjYmI2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Методи підготовки води на теплових електростанціях та водний режим теплогенеруючих установок",
+        "lecturer": "ТЕ-31, 209 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZGI1YmQ0YWUtMWQwYS00ZmQ4LTk2MzAtYTNkYTg0NGJjYmI2%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Парогенератори атомних електричних станцій, частина 2",
+        "lecturer": "АЕ-31, 209 X н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YmZjNDNkOTYtNDZiZC00MDdiLWI4ZDgtOTNhMDA1YWFiYTdl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22231d4a82-8b49-48a6-9154-bfa9c596f0f2%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

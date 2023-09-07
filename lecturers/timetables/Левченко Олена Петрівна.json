@@ -1,0 +1,84 @@
+[
+    {
+        "subject": "Соціолінгвістика",
+        "lecturer": "СЦЛ-ПЛ-101, СЦЛ-ПЛ-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/tbv-jupr-fdp"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Когнітивна лінгвістика",
+        "lecturer": "ФЛПЛ-11, 117 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/cxz-sckq-rev"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Методи когнітивної лінгвістики у прикладних дослідженнях",
+        "lecturer": "ФЛа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Методи когнітивної лінгвістики у прикладних дослідженнях",
+        "lecturer": "ФЛа-21, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Корпусні лінгвістичні технології",
+        "lecturer": "ФЛа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Корпусні лінгвістичні технології",
+        "lecturer": "ФЛа-21, ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    }
+]

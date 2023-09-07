@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Візуалізація даних",
+        "lecturer": "КНСШ-13, КНСШ-14, 127а, XX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Семантичний аналіз даних",
+        "lecturer": "САД-СШІ-101, САД-СШІ-102, САД-СШІ-103, САД-СШІ-104, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "On-line методи машинного навчання",
+        "lecturer": "КНа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "On-line методи машинного навчання",
+        "lecturer": "КНа-21, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системний аналіз",
+        "lecturer": "КН-214, КН-215, КН-216, КН-217, 218 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4795464323?pwd=M2hxVmh0VDFDOVVCU0xPMlpTdUtwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

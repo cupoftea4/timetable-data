@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Спеціалізований туризм",
+        "lecturer": "ТУ-41, ТУ-42, ТУ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWNhNTU4YjQtYzcyZC00ZDAxLThlMWEtOTAxMjdhYzQzODFl%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Інноваційні технології в туризмі",
+        "lecturer": "ТУТД-11, 313 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjBhZmQ3YzMtMDk2Mi00YjY1LThiZjQtNTkzM2ZhNWE1NTMz%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інноваційні технології в туризмі",
+        "lecturer": "ТУТД-11, 313 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjYzODMyYjgtNjk0OS00OThiLWFlY2UtODQ2NTQxZWUzMWI3%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасні глобалізаційні трансформації в туризмі",
+        "lecturer": "ТУТД-11, 313 III н.к., ",
+        "location": ", практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZWEzYmRiNTgtYjRlNi00Y2E5LWI5NmEtMTcxYTkxYTQ3YTJm%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасні глобалізаційні трансформації в туризмі",
+        "lecturer": "ТУТД-11, 313 III н.к., ",
+        "location": ", лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzVlNjViMmQtNjliZi00ZGQ0LWE2YWUtMjU1OWE5ZmRlN2Mw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f0e37bb3-6e30-4edf-abb0-f6deb9e3343d%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

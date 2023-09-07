@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Основи організаційного коучингу",
+        "lecturer": "ПС-35, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82635796504?pwd=bUxhL3NSMlhPSGlpL0hSSGU4NEEwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи коучингової практики",
+        "lecturer": "ПС-31, ПС-32, ПС-33, ПС-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82635796504?pwd=bUxhL3NSMlhPSGlpL0hSSGU4NEEwQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Основи організаційного коучингу",
+        "lecturer": "ПС-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/82635796504?pwd=bUxhL3NSMlhPSGlpL0hSSGU4NEEwQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

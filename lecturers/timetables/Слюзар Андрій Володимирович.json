@@ -1,0 +1,133 @@
+[
+    {
+        "subject": "Устаткування галузі з основами проектування",
+        "lecturer": "ХТ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/96027068887?pwd=YzNvQ1RMY3prWllDcE1wRDgxNm9jdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи технічної електрохімії",
+        "lecturer": "ХТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82337387217?pwd=bnBrTnUxdUdCYjFjY2FyRExrWWNFZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Загальна хімічна технологія",
+        "lecturer": "ХТ-23, 317 IX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Загальна хімічна технологія",
+        "lecturer": "ХТ-23, 317 IX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Устаткування галузі з основами проектування",
+        "lecturer": "ХТ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/96027068887?pwd=YzNvQ1RMY3prWllDcE1wRDgxNm9jdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Устаткування галузі з основами проектування",
+        "lecturer": "ХТ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/96027068887?pwd=YzNvQ1RMY3prWllDcE1wRDgxNm9jdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Устаткування галузі з основами проектування",
+        "lecturer": "ХТ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/96027068887?pwd=YzNvQ1RMY3prWllDcE1wRDgxNm9jdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Основи технічної електрохімії",
+        "lecturer": "ХТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82337387217?pwd=bnBrTnUxdUdCYjFjY2FyRExrWWNFZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи технічної електрохімії",
+        "lecturer": "ХТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/82337387217?pwd=bnBrTnUxdUdCYjFjY2FyRExrWWNFZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Кинаш Ю.Є.,",
+        "subject": "Об`єктно-орієнтоване програмування",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/kzh-fvwh-soh"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Ткаченко Р.О.,",
+        "subject": "Системи штучного інтелекту",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/mak-mmkr-mfs"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Рашкевич Ю.М.,",
+        "subject": "Основи цифрової обробки сигналів",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/tgx-tpkr-wtw?authuser=1&hs=122&ijlm=1686754353589"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Лотошинська Н.Д.,",
+        "subject": "Теорія кольору та кольороутворення",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72802252373?pwd=H0vp4a1qPg8SMj2XDMg9qnlaxsJbve.1"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Логойда М.М.,",
+        "subject": "Цифровий друк",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/ofn-sean-hdm"
+        ]
+    }
+]

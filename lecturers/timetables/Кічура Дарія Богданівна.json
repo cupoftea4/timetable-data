@@ -1,0 +1,163 @@
+[
+    {
+        "subject": "Технологія вина",
+        "lecturer": "ХРБВ-11, 117 VIII н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://zoom.us/meeting#/pmi/6848862999"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технологія вина",
+        "lecturer": "ХРБВ-11, 117 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технологія вина",
+        "lecturer": "ХРБВ-12, 117 VIII н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://zoom.us/meeting#/pmi/6848862999"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія вина",
+        "lecturer": "ХРБВ-12, 117 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технології оздоровчих харчових продуктів",
+        "lecturer": "ХР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технології оздоровчих харчових продуктів",
+        "lecturer": "ХР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології оздоровчих харчових продуктів",
+        "lecturer": "ХР-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Біосинтез органічних речовин",
+        "lecturer": "БОР-ТОП-101, ХТОР-11, 117 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Біосинтез органічних речовин",
+        "lecturer": "БОР-ТОП-101, ХТОР-11, 117 VIII н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Біосинтез органічних речовин",
+        "lecturer": "БОР-ТОП-101, ХТОР-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології оздоровчих харчових продуктів",
+        "lecturer": "ХР-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6848862999?pwd=NTN0b2lMVUhLb2NFNzF4R1h6d0ljdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

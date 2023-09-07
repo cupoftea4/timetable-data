@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-06-15T00:00:00.000Z",
+        "lecturer": "Мащак Н.М.,",
+        "subject": "Логістика",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/71952173322?pwd=ujQaV4QJg2QA3yuZAltj1Q16YrdwTp.1"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Моторнюк У.І.,",
+        "subject": "Зовнішньоекономічна діяльність підприємства",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNJLnewbaSWPVobM3KDaJciu4hd9CX6N-t-BrUqhF1jI1%40thread.tacv2/conversations?groupId=76eaa5f1-f842-4af4-aee3-2dc0f575b555&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Двуліт З.П.,",
+        "subject": "Митна справа",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6gnAOya_U8WV1Syw7m7IfMbahgJwkscbheIUu5GfLiw1%40thread.tacv2/1686735590733?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%2282e1bac1-a5d7-4228-88f6-8f1e272d4de9%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Адамовський О.М.,",
+        "subject": "Управління бізнесом",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/dru-vofh-njj"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Войцеховська Ю.В.,",
+        "subject": "Статистика",
+        "number": 4,
+        "urls": [
+            "https://us05web.zoom.us/j/81798581543?pwd=NmFpcmJqRHJMOWZUditzOThnVUlJdz09"
+        ]
+    }
+]

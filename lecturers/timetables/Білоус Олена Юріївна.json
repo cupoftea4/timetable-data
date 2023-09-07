@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-18, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayR3G-VqGDid2uu87vGZoT-2l1rAZXpMX8XQqp2b74mY1%40thread.tacv2/conversations?groupId=9d7ddc41-bb3f-47cc-8b2d-dc281221f3b1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-18, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ayR3G-VqGDid2uu87vGZoT-2l1rAZXpMX8XQqp2b74mY1%40thread.tacv2/conversations?groupId=9d7ddc41-bb3f-47cc-8b2d-dc281221f3b1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-19, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNtLPq8fSt-i_PYyhbkjaqWADmLhScUtZr-PoU-pfeBU1%40thread.tacv2/conversations?groupId=453b7cbb-2d41-48f2-820e-265ee158b2e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7ahttps://teams.microsoft.com/l/team/19%3aNtLPq8fSt-i_PYyhbkjaqWADmLhScUtZr-PoU-pfeBU1%40thread.tacv2/conversations?groupId=453b7cbb-2d41-48f2-820e-265ee158b2e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Основи архітектурного проектування, частина 2",
+        "lecturer": "АР-19, 324а Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aNtLPq8fSt-i_PYyhbkjaqWADmLhScUtZr-PoU-pfeBU1%40thread.tacv2/conversations?groupId=453b7cbb-2d41-48f2-820e-265ee158b2e5&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-301, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/91370702200?pwd=Q3MxSnRJaWpsb0VackdXUTNGMnZpQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-301, ВВО-ЕПІ-302, ВВО-ЕПІ-303, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/91370702200?pwd=Q3MxSnRJaWpsb0VackdXUTNGMnZpQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-303, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/91370702200?pwd=Q3MxSnRJaWpsb0VackdXUTNGMnZpQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Визначення вартості об`єктів будівництва, проектів і робіт з використанням IT",
+        "lecturer": "ВВО-ЕПІ-302, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/91370702200?pwd=Q3MxSnRJaWpsb0VackdXUTNGMnZpQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

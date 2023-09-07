@@ -1,0 +1,86 @@
+[
+    {
+        "subject": "Зовнішньоекономічна діяльність підприємства",
+        "lecturer": "МЕ-21, МЕ-22, МЕ-23, МЕ-24, 116 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Зовнішньоекономічна діяльність підприємства",
+        "lecturer": "МЕ-25, МЕ-26, МЕ-27, 319 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Управління витратами підприємства",
+        "lecturer": "УВП-ЗМД-109, УВП-ЗМД-110, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3ave8KdLNH18WpmpoLXSj0PPsnHmOUXprY4an3LhTRTGw1%40thread.tacv2/conversations?groupId=0f22efd1-4bb3-4285-a694-adcb56e82635&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Управління витратами підприємства",
+        "lecturer": "УВП-ЗМД-104, УВП-ЗМД-105, УВП-ЗМД-106, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aCrmSPOJ50kK2q2ZZcw5bGEAgabQ_VdHRj94dwUwqtxg1%40thread.tacv2/conversations?groupId=b5d28601-4536-4187-9e88-bc5a312d1def&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Управління витратами підприємства",
+        "lecturer": "УВП-ЗМД-107, УВП-ЗМД-108, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a6HduKbG003jaaAiMNvirkXIEHMKhmZ8xrHi1Yw7FjT01%40thread.tacv2/conversations?groupId=3d517c0e-4e48-4911-b616-4c1c9ed732d1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Управління витратами підприємства",
+        "lecturer": "УВП-ЗМД-101, УВП-ЗМД-102, УВП-ЗМД-103, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

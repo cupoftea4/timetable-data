@@ -1,0 +1,193 @@
+[
+    {
+        "subject": "Комп`ютерні технології проектування систем керування",
+        "lecturer": "АВ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ajD4qAntH9xF0al8ttk09XUMAP1S0qFvEgi2wct-ponk1%40thread.tacv2/1677328167531?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи автоматики та автоматизації",
+        "lecturer": "АВ-12, 318 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Основи автоматики та автоматизації",
+        "lecturer": "АВ-12, 318 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Багаторівневі системи керування технологічними процесами",
+        "lecturer": "АВ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVaokOWriUoMldCsVtjAy148_0VlWLFuDqcNbKA66kDM1%40thread.tacv2/1677334746415?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація проектування комп`ютерно-інтегрованих технологій",
+        "lecturer": "АВа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aP5J4Abttqotq-r8Ip9RSXeVMPrJLyeJAzbycUIC1aXw1%40thread.tacv2/1677335874621?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація проектування комп`ютерно-інтегрованих технологій",
+        "lecturer": "АВа-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aP5J4Abttqotq-r8Ip9RSXeVMPrJLyeJAzbycUIC1aXw1%40thread.tacv2/1677335874621?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютерні технології проектування систем керування",
+        "lecturer": "АВ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ajD4qAntH9xF0al8ttk09XUMAP1S0qFvEgi2wct-ponk1%40thread.tacv2/1677328167531?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Багаторівневі системи керування технологічними процесами",
+        "lecturer": "АВ-41, АВ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVaokOWriUoMldCsVtjAy148_0VlWLFuDqcNbKA66kDM1%40thread.tacv2/1677334746415?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Системи і мережі передавання даних",
+        "lecturer": "АВ-21, АВ-22, АВ-23, 051 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8e7a3575c4bd4efbad5456783ab8f225%40thread.tacv2/1677337036590?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Системи і мережі передавання даних",
+        "lecturer": "АВ-11сп, 082 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8e7a3575c4bd4efbad5456783ab8f225%40thread.tacv2/1677337036590?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Багаторівневі системи керування технологічними процесами",
+        "lecturer": "АВ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVaokOWriUoMldCsVtjAy148_0VlWLFuDqcNbKA66kDM1%40thread.tacv2/1677334746415?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Багаторівневі системи керування технологічними процесами",
+        "lecturer": "АВ-41, АВ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aVaokOWriUoMldCsVtjAy148_0VlWLFuDqcNbKA66kDM1%40thread.tacv2/1677334746415?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Інтеграційні технології в автоматизованих системах керування",
+        "lecturer": "АВКВ-11, АВКВ-12, АВМ-11, АВМ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ae3aa1da9c02d43d59572d5b7aec4327c%40thread.tacv2/1677327401005?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229c1c005d-d579-4961-b1f8-a3ab5086d1be%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

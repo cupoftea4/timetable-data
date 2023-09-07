@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Державний фінансовий контроль в секторі загального державного управління",
+        "lecturer": "ОПМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81400424820?pwd=VDJWd3BMMC8vUHlTUVNqM0o0blhDUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Державний фінансовий контроль в секторі загального державного управління",
+        "lecturer": "ОПМ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89270107310?pwd=dzNWalVGSW9YckkzZ3FnL3ZENExqUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Податковий облік і звітність",
+        "lecturer": "ОП-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89735457735?pwd=bGQ1RHdNWHRjZ3R6ZFpRSmJXYXk5Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Податковий облік і звітність",
+        "lecturer": "ОП-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84441280603?pwd=bERxVFJCUEtGak5zSkJFWE91bTZlQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Податковий облік і звітність",
+        "lecturer": "ОП-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81971499174?pwd=SGlmaGg5MjVEWmJuRWNtczQvRGNVZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

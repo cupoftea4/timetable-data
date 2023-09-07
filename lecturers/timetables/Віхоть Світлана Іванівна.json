@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Технологія та організація будівництва транспортних споруд",
+        "lecturer": "БД-37, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av42msnv5DDLOwAYSNHzAhM3BFG6VF7YrIIpMUlrPGpY1%40thread.tacv2/1677152537091?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Технологія та організація будівництва транспортних споруд",
+        "lecturer": "БД-37, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av42msnv5DDLOwAYSNHzAhM3BFG6VF7YrIIpMUlrPGpY1%40thread.tacv2/1677152626858?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "АР-41, АР-42, АР-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYVo5E1V1thorHoLOazPBRsp0zMcgBQ2TCU2eMebF_mA1%40thread.tacv2/1677152716351?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технологічні рішення виробничих будівель і споруд",
+        "lecturer": "БД-310, ТРВ-БВ-301, ТРВ-БВ-302, 217 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCrMBT2rv0MqXSYJPPWZrl5OtB_Zrpv8pt7LyzjywPHw1%40thread.tacv2/1677152845420?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Технологія будівництва",
+        "lecturer": "АР-44, АР-45, АР-46, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a97ZvVOV3-u_o6vpv0y88GLCQD-XmLBjnRNMpvqOfTfc1%40thread.tacv2/1677152924788?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Технологія та організація будівництва транспортних споруд",
+        "lecturer": "БД-37, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av42msnv5DDLOwAYSNHzAhM3BFG6VF7YrIIpMUlrPGpY1%40thread.tacv2/1677153063200?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технологія та організація будівництва транспортних споруд",
+        "lecturer": "БД-37, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3av42msnv5DDLOwAYSNHzAhM3BFG6VF7YrIIpMUlrPGpY1%40thread.tacv2/1677153063200?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Технологічні рішення виробничих будівель і споруд",
+        "lecturer": "БД-31, БД-32, БД-33, БД-34, ТРВ-БВ-301, 308 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCrMBT2rv0MqXSYJPPWZrl5OtB_Zrpv8pt7LyzjywPHw1%40thread.tacv2/1677153141254?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Технологічні рішення виробничих будівель і споруд",
+        "lecturer": "БД-35, БД-36, БД-37, БД-38, ТРВ-БВ-302, 308 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aCrMBT2rv0MqXSYJPPWZrl5OtB_Zrpv8pt7LyzjywPHw1%40thread.tacv2/1677153206066?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%227c2fccd9-f4af-4add-a442-0060f534c69e%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

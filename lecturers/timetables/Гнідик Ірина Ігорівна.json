@@ -1,0 +1,58 @@
+[
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "КБ-110, 405 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Культурний ландшафт та ідея інтегрованого захисту",
+        "lecturer": "СМУС-11, СМУС-12, 207 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/97349837196?pwd=QlZVa0NLTnI1NDlNU2hXZXd6V0o1UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "ФБ-11, 410 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Культурний ландшафт та ідея інтегрованого захисту",
+        "lecturer": "СМУС-11, СМУС-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/97349837196?pwd=QlZVa0NLTnI1NDlNU2hXZXd6V0o1UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

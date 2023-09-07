@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Новітні медіа і журналістика",
+        "lecturer": "ЖР-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Новітні медіа і журналістика",
+        "lecturer": "ЖР-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Новітні медіа і журналістика",
+        "lecturer": "ЖР-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Новітні медіа і журналістика",
+        "lecturer": "ЖР-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8499767881?pwd=eUVvWTgwcU16RTVvM0lWNURnQU1Pdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

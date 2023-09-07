@@ -1,0 +1,86 @@
+[
+    {
+        "subject": "Організація і моніторинг дистрибуції на транспорті",
+        "lecturer": "ОМД-АТ-101, 001а VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Організація і моніторинг дистрибуції на транспорті",
+        "lecturer": "ОМД-АТ-102, 001а VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Організація і моніторинг дистрибуції на транспорті",
+        "lecturer": "ОМД-АТ-103, 001а VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Альтернативні джерела енергії автомобілів",
+        "lecturer": "АДЕ-АТ-401, АДЕ-АТ-402, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/8940852137?pwd=d1Uxb3lOWUh5MGR1aElWdDBFcURkQT09%20%20Meeting%20ID:%20894%20085%202137%20Passcode:%202020"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Альтернативні джерела енергії автомобілів",
+        "lecturer": "АДЕ-АТ-401, АДЕ-АТ-402, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/8940852137?pwd=d1Uxb3lOWUh5MGR1aElWdDBFcURkQT09%20%20Meeting%20ID:%20894%20085%202137%20Passcode:%202020"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Альтернативні джерела енергії автомобілів",
+        "lecturer": "АДЕ-АТ-401, АДЕ-АТ-402, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/8940852137?pwd=d1Uxb3lOWUh5MGR1aElWdDBFcURkQT09%20%20Meeting%20ID:%20894%20085%202137%20Passcode:%202020"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

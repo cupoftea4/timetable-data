@@ -1,0 +1,422 @@
+[
+    {
+        "subject": "Професійний етикет",
+        "lecturer": "ТУ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76817881232?pwd=pxPqhDvJ9t6a2eFd6MZjr4EHQo4Pcu.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78767788038?pwd=Zk0fKmJ6TA4lITvsq76QqkYUF1LfUp.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71697067810?pwd=LK1qaq7dRO6Qlaj423oPcWOlHFXotp.1%20%20https://us04web.zoom.us/j/71697067810?pwd=LK1qaq7dRO6Qlaj423oPcWOlHFXotp.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71697067810?pwd=LK1qaq7dRO6Qlaj423oPcWOlHFXotp.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75645024919?pwd=SX1SyWywrCEXbGzlgtrqqCnR5aaBIR.1%20%20https://us04web.zoom.us/j/75645024919?pwd=SX1SyWywrCEXbGzlgtrqqCnR5aaBIR.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технологія гостинності в туризмі",
+        "lecturer": "ТУ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71188469881?pwd=Vpj1lvPD9qptTAGp4JL2CjqRSIyE73.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія гостинності в туризмі",
+        "lecturer": "ТУ-31, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/71188469881?pwd=Vpj1lvPD9qptTAGp4JL2CjqRSIyE73.1%20%20https://us04web.zoom.us/j/71188469881?pwd=Vpj1lvPD9qptTAGp4JL2CjqRSIyE73.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78897321313?pwd=bY8XVYbh3hV3RwQyISTjiXUx1tqvTQ.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/75187511747?pwd=oy6wMID2ih4UEan0xtNzrqkjvrcrRS.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технологія гостинності в туризмі",
+        "lecturer": "ТУ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77714794243?pwd=argAUGp5xLv7DJIqrcDV5Uvsk0COVJ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Технологія гостинності в туризмі",
+        "lecturer": "ТУ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71814747629?pwd=0NWyVbS2N1J0lbYHPZfrdmfobYFpyR.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Професійний етикет",
+        "lecturer": "ТУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78075193776?pwd=MmzhD1Tk4XY3NUeaW6Gx7wmXYktwdQ.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Професійний етикет",
+        "lecturer": "ТУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72482573655?pwd=RZfb13t8Rz4kpq0jFJ2utkmeP6cUml.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Професійний етикет",
+        "lecturer": "ТУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72482573655?pwd=RZfb13t8Rz4kpq0jFJ2utkmeP6cUml.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-31, ТУ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78198731900?pwd=Ws3eTpirRVbpvuv2kPHNZ9UF9v0nS4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Професійний етикет",
+        "lecturer": "ТУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72482573655?pwd=RZfb13t8Rz4kpq0jFJ2utkmeP6cUml.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-31, ТУ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78198731900?pwd=Ws3eTpirRVbpvuv2kPHNZ9UF9v0nS4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-31, ТУ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78198731900?pwd=Ws3eTpirRVbpvuv2kPHNZ9UF9v0nS4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Професійний етикет",
+        "lecturer": "ТУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72482573655?pwd=RZfb13t8Rz4kpq0jFJ2utkmeP6cUml.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-31, ТУ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78198731900?pwd=Ws3eTpirRVbpvuv2kPHNZ9UF9v0nS4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Професійний етикет",
+        "lecturer": "ТУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72482573655?pwd=RZfb13t8Rz4kpq0jFJ2utkmeP6cUml.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Професійний етикет",
+        "lecturer": "ТУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72482573655?pwd=RZfb13t8Rz4kpq0jFJ2utkmeP6cUml.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-31, ТУ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78198731900?pwd=Ws3eTpirRVbpvuv2kPHNZ9UF9v0nS4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Професійний етикет",
+        "lecturer": "ТУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72482573655?pwd=RZfb13t8Rz4kpq0jFJ2utkmeP6cUml.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-31, ТУ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78198731900?pwd=Ws3eTpirRVbpvuv2kPHNZ9UF9v0nS4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-31, ТУ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78198731900?pwd=Ws3eTpirRVbpvuv2kPHNZ9UF9v0nS4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Організація туризму (Організація анімаційної діяльності)",
+        "lecturer": "ТУ-31, ТУ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78198731900?pwd=Ws3eTpirRVbpvuv2kPHNZ9UF9v0nS4.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Професійний етикет",
+        "lecturer": "ТУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72482573655?pwd=RZfb13t8Rz4kpq0jFJ2utkmeP6cUml.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

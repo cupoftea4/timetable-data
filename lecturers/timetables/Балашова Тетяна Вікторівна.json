@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Практика перекладу (німецька/японська мова), частина 2",
+        "lecturer": "ФЛ-44, 129 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82229238365?pwd=VDE1Q1lLQ1VueDd4TURRNFZXeXNTdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Практика перекладу (німецька/японська мова), частина 2",
+        "lecturer": "ФЛ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/82229238365?pwd=VDE1Q1lLQ1VueDd4TURRNFZXeXNTdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-31, 208а V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/84800104181?pwd=eEdkcHZGelcwRDZWc205ZDRkSzI5Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-31, 208а V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/84800104181?pwd=eEdkcHZGelcwRDZWc205ZDRkSzI5Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Практика мовлення (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-31, 208а V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/84800104181?pwd=eEdkcHZGelcwRDZWc205ZDRkSzI5Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

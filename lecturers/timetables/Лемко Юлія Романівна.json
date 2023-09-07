@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Зовнішня політика України",
+        "lecturer": "МВ-22, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6100425148?pwd=0jZIPZXCeIBsSwcdHnaGb66yXGCL3C.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Європейський Союз у міжнародних відносинах",
+        "lecturer": "МВ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6100425148?pwd=0jZIPZXCeIBsSwcdHnaGb66yXGCL3C.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Зовнішня політика України",
+        "lecturer": "МВ-22, 312 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6100425148?pwd=0jZIPZXCeIBsSwcdHnaGb66yXGCL3C.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Зовнішня політика України",
+        "lecturer": "МВ-24, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6100425148?pwd=0jZIPZXCeIBsSwcdHnaGb66yXGCL3C.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Зовнішня політика України",
+        "lecturer": "МВ-24, 311 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6100425148?pwd=0jZIPZXCeIBsSwcdHnaGb66yXGCL3C.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

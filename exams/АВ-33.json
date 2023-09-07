@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Федоришин Р.М.,",
+        "subject": "Технічні засоби автоматизації",
+        "number": 2,
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/77418567466?pwd%3DDZqFM39NSRwNzIT3lPsav17yvgbvlb.1&sa=D&source=calendar&ust=1687625356757298&usg=AOvVaw2eNW281-XK-KwT-c8Shx8N"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Крих Г.Б.,",
+        "subject": "Ідентифікація об`єктів автоматизації",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Крих Г.Б.,",
+        "subject": "Теорія нелінійних і цифрових систем керування",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Химко О.М.,",
+        "subject": "Автоматизація технологічних процесів",
+        "number": 2,
+        "urls": []
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "БДПЦ-11f, 213 II н.к.,",
+        "subject": "Проектування в сейсмічних районах",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/82610900881?pwd=VmI0RG84cUhWQ2lQVk8rTW84b1JWQT09"
+        ]
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "БД-29, 209 II н.к.,",
+        "subject": "Металеві конструкції",
+        "number": 1,
+        "urls": []
+    }
+]

@@ -1,0 +1,148 @@
+[
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "МЕМ-11, ",
+        "location": ", лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "МЕЗД-11, МЕЗД-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3admZqyTDXQhwk7s30kQssVuf8-LR1gfrHwokdEr-g4NI1%40thread.tacv2/conversations?groupId=e8f455e2-6d65-4a99-90e7-5894cdfc721a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "МЕМ-11, ",
+        "location": ", лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "МЕЗД-11, МЕЗД-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3admZqyTDXQhwk7s30kQssVuf8-LR1gfrHwokdEr-g4NI1%40thread.tacv2/conversations?groupId=e8f455e2-6d65-4a99-90e7-5894cdfc721a&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "МЕЗД-12, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aomrhX2KhVvN-3JS3WLgZFs2igf-pLEQQi7ZftASyo7o1%40thread.tacv2/conversations?groupId=0232840a-3972-4659-af46-01f1e0575045&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "МЕЗД-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUxCEDsFrU0YV8l_PA9pnZZCUHWBJWDxZOJGJyG94N4k1%40thread.tacv2/conversations?groupId=75361681-c4f6-45ea-973e-b307bcdd9232&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "МЕЗД-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUxCEDsFrU0YV8l_PA9pnZZCUHWBJWDxZOJGJyG94N4k1%40thread.tacv2/conversations?groupId=75361681-c4f6-45ea-973e-b307bcdd9232&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "МЕЗД-12, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aomrhX2KhVvN-3JS3WLgZFs2igf-pLEQQi7ZftASyo7o1%40thread.tacv2/conversations?groupId=0232840a-3972-4659-af46-01f1e0575045&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "МЕМ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aH6ZnAjwo0jIngDykyr0tUvW90RzqppuWiczsIKM5eJc1%40thread.tacv2/conversations?groupId=2c735a10-4432-4a4e-be47-8862b15ce2a3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна електронна комерція",
+        "lecturer": "МЕМ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aH6ZnAjwo0jIngDykyr0tUvW90RzqppuWiczsIKM5eJc1%40thread.tacv2/conversations?groupId=2c735a10-4432-4a4e-be47-8862b15ce2a3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

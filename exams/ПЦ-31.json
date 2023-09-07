@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Гузій І.С.,",
+        "subject": "Теорія та методика професійного навчання",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73311879895?pwd=nXrtURulm8Pf0SfFhLZg7MtCqMUgIG.1"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Шевчук Г.Й.,",
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72370610129?pwd=zoAmXlpmk5nuT2WyyBjVMlRSuisRbV.1"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Шестакевич Т.В.,",
+        "subject": "Інформаційні системи прийняття рішень",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/8376475013?pwd=ZDJNS0k3VDU2Z2xQZ1Z1SzlQZEd1Zz09"
+        ]
+    }
+]

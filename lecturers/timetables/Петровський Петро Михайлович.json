@@ -1,0 +1,45 @@
+[
+    {
+        "subject": "Дослідницький семінар у галузі публічного управління та адміністрування",
+        "lecturer": "УАа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/5480397541?pwd=Y3YxeU1oNTJkZ3BMSXM5em9CMU9GZz09%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%83%20JmUa2t"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Дослідницький семінар у галузі публічного управління та адміністрування",
+        "lecturer": "УАа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/5480397541?pwd=Y3YxeU1oNTJkZ3BMSXM5em9CMU9GZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Керівник в системі державного управління",
+        "lecturer": "УАПА-11, УАПА-12, УАПА-13, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

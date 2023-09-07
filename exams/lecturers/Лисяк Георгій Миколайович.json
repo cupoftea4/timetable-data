@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-05-09T00:00:00.000Z",
+        "lecturer": "СЕ-41, СЕ-42,",
+        "subject": "Основи електромагнітної сумісності",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aWTIrojSx-gD19gqHp0b-39_rvD4OoSa-YbXph4ihb2o1%40thread.tacv2/1681367772386?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ЕЕЕЕ-14, ЕЕМ-12, 307 V н.к.,",
+        "subject": "Електричні системи змінно-постійного струму",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a6d0836c388f44282ad22ff8c7c978ee8%40thread.tacv2/1683528196866?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ЕЕ-32,",
+        "subject": "Режими електричних систем",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a88c2f9a6e95d435f9953940fa2d67f03%40thread.tacv2/1681368350633?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%225ec6b1ac-8b5e-457c-ba83-c42aa2e0d4a2%22%7d"
+        ]
+    }
+]

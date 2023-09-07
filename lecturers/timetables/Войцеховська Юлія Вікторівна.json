@@ -1,0 +1,185 @@
+[
+    {
+        "subject": "Статистика",
+        "lecturer": "ЕБ-21, 425 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Прогнозування економічних процесів",
+        "lecturer": "МЕОА-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81512452510?pwd=M04vb2w3MEQ4d0xpLy9Kd2k0UUxYUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МЕ-21f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86281405321?pwd=YlRMUUtBNmxsZjlyQWxPOFBxL0l2Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МЕ-21f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81366288376?pwd=aEc4czR3S3NUa20zSTA3dURzVS91QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Прогнозування економічних процесів",
+        "lecturer": "МЕОА-11, 515 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/85226296882?pwd=UmZ6VVNZcHZBei9kRThISkxsOWF2QT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Прогнозування економічних процесів",
+        "lecturer": "МЕОА-11f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82864911415?pwd=Rk04STh0Uk5LZFhlTlB1c2ZxNlFKQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МЕ-21, МЕ-22, МЕ-23, МЕ-24, МЕ-25, МЕ-26, МЕ-27, 116 I н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "ЕБ-23, 427(1) IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "ЕБ-22, 427(1) IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "ЕБ-21, ЕБ-22, ЕБ-23, ОП-21, 416 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародна статистика",
+        "lecturer": "ЕВ-21f, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86262558903?pwd=bGdtdjloSmQ0eFJPNXJqcWhnOVlEUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Міжнародна статистика",
+        "lecturer": "ЕВ-21f, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/89820879982?pwd=Z2oyaXRKRm4rOGlyTlliRkh0dUYwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МЕ-21, МЕ-22, МЕ-23, МЕ-24, МЕ-25, МЕ-26, МЕ-27, 420 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 6,
+        "number": 2
+    }
+]

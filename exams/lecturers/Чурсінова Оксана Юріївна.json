@@ -1,0 +1,52 @@
+[
+    {
+        "date": "2023-06-15T00:00:00.000Z",
+        "lecturer": "КН-313, КН-314, КН-315,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "ВП-21, ВП-22, 215 I н.к.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "КН-301, КН-302, КН-303,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "КН-304, КН-305,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "КН-306, КН-307, КН-308,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": [
+            "https://vns.lpnu.ua/course/view.php?id=7691"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "СА-21, СА-22, СА-23, 322 I н.к.,",
+        "subject": "Філософія",
+        "number": 2,
+        "urls": []
+    }
+]

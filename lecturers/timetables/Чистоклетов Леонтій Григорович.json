@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Проблеми правового забезпечення інформаційної безпеки",
+        "lecturer": "ПВПР-13, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/whc-wzsd-ket?authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Проблеми правового забезпечення інформаційної безпеки",
+        "lecturer": "ПВПР-13, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/whc-wzsd-ket?authuser=0"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    }
+]

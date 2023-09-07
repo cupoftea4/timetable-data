@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Парогенератори атомних електричних станцій, частина 2",
+        "lecturer": "АЕ-31, 209 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/93378560178?pwd=ek9mRHlXWGU0TmVvTVRKWGlUY09wUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Парогенератори атомних електричних станцій, частина 2",
+        "lecturer": "АЕ-31, 209 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/93378560178?pwd=ek9mRHlXWGU0TmVvTVRKWGlUY09wUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Котельні установки об`єктів теплоенергетики, частина 2",
+        "lecturer": "ТЕ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/99065444876?pwd=Y2JMdVpDTlNKTU01clhGWndNay9tZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Котельні установки об`єктів теплоенергетики, частина 2",
+        "lecturer": "ТЕ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/99065444876?pwd=Y2JMdVpDTlNKTU01clhGWndNay9tZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Котельні установки об`єктів теплоенергетики, частина 2",
+        "lecturer": "ТЕ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/99065444876?pwd=Y2JMdVpDTlNKTU01clhGWndNay9tZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

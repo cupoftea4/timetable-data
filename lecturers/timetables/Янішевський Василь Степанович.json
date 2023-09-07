@@ -1,0 +1,155 @@
+[
+    {
+        "subject": "Програмування для мобільних пристроїв",
+        "lecturer": "КНІК-11, 225а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73492426806?pwd=sLVJfMPoMdD11aTRnTSFgk4ZpUaXbS.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Програмування для мобільних пристроїв",
+        "lecturer": "КНІК-11, 225c IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73492426806?pwd=sLVJfMPoMdD11aTRnTSFgk4ZpUaXbS.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Теорія ризику",
+        "lecturer": "ФІ-21, 511 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Програмування для мобільних пристроїв",
+        "lecturer": "КНІК-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73492426806?pwd=sLVJfMPoMdD11aTRnTSFgk4ZpUaXbS.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Програмування для мобільних пристроїв",
+        "lecturer": "КНІК-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73492426806?pwd=sLVJfMPoMdD11aTRnTSFgk4ZpUaXbS.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Архітектура комп`ютерів та операційні системи",
+        "lecturer": "ПМ-23, 225а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Теорія ризику",
+        "lecturer": "ФІ-21, 225c IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теорія ризику",
+        "lecturer": "ФІ-21, 225c IV н.к., ",
+        "location": ", лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Архітектура комп`ютерів та операційні системи",
+        "lecturer": "ПМ-22, 225а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Теорія ризику",
+        "lecturer": "ФІ-21, 213 II н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Архітектура комп`ютерів та операційні системи",
+        "lecturer": "ПМ-22, ПМ-23, 214 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://www.google.com/url?q=https://us04web.zoom.us/j/71041548413?pwd%3DInva8S0w5lp2q9CyWa5P8GNrlnrZ8f.1&sa=D&source=calendar&ust=1681793771460415&usg=AOvVaw1K9gC6MQ_386_Q41BGoki_"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

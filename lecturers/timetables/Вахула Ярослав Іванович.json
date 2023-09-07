@@ -1,0 +1,146 @@
+[
+    {
+        "subject": "Теплові процеси і агрегати в силікатних технологіях",
+        "lecturer": "ХТ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Теплові процеси і агрегати в силікатних технологіях",
+        "lecturer": "ХТ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технологія скляних виробів",
+        "lecturer": "ХТТС-11, 010 IX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технологія скляних виробів",
+        "lecturer": "ХТТС-11, 010 IX н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технологія і обладнання виробництва скла",
+        "lecturer": "ХТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технологія і обладнання виробництва скла",
+        "lecturer": "ХТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Теплові процеси і агрегати в силікатних технологіях",
+        "lecturer": "ХТ-43, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Технологія скляних виробів",
+        "lecturer": "ХТТС-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Технологія скляних виробів",
+        "lecturer": "ХТТС-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Дослідницький семінар в галузі хімічної технології та інженерії",
+        "lecturer": "ХТа-11, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/5076966699?pwd=c1F1emJHNC9jR0JROTVLM0JJbHBtUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

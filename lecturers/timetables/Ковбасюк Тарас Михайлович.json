@@ -1,0 +1,292 @@
+[
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "МЗ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677262218073?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "МЗ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677262218073?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Термічне оброблення металів",
+        "lecturer": "МЗ-21, 029 X н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Матеріалознавство і технології художнього та ювелірного литва",
+        "lecturer": "МЛ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8ZttG0J3d9vevT3qYmqBseeesWxEd0eC8VMTKXDhA0M1%40thread.tacv2/1677332015489?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Матеріалознавство і технології художнього та ювелірного литва",
+        "lecturer": "МЛ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8ZttG0J3d9vevT3qYmqBseeesWxEd0eC8VMTKXDhA0M1%40thread.tacv2/1677332015489?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Матеріалознавство і технології художнього та ювелірного литва",
+        "lecturer": "МЛ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8ZttG0J3d9vevT3qYmqBseeesWxEd0eC8VMTKXDhA0M1%40thread.tacv2/1677332153439?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Матеріалознавство і технології художнього та ювелірного литва",
+        "lecturer": "МЛ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8ZttG0J3d9vevT3qYmqBseeesWxEd0eC8VMTKXDhA0M1%40thread.tacv2/1677332274744?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "МЗ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677262468281?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Термічне оброблення металів",
+        "lecturer": "МЗ-21, 029 X н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "МЗ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677262679720?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "МЗ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677262679720?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Матеріалознавство і технології художнього та ювелірного литва",
+        "lecturer": "МЛ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8ZttG0J3d9vevT3qYmqBseeesWxEd0eC8VMTKXDhA0M1%40thread.tacv2/1677332453103?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Матеріалознавство і технології художнього та ювелірного литва",
+        "lecturer": "МЛ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a8ZttG0J3d9vevT3qYmqBseeesWxEd0eC8VMTKXDhA0M1%40thread.tacv2/1677332623397?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Термічне оброблення металів",
+        "lecturer": "МЗ-21, 014 VIII н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "МЗ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677262935200?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "МЗ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677262935200?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Авіаматеріалознавство",
+        "lecturer": "АН-21, 029 X н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "МЗ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677263325233?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Авіаматеріалознавство",
+        "lecturer": "АН-21, 014 VIII н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Стандартизація й сертифікація матеріалів та акредитація випробувальних лабораторій",
+        "lecturer": "МЗ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLwLw2o2NPNJrH6yM7pPw-fpkwth7dP8mgYWm2u_HLX41%40thread.tacv2/1677263325233?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d80f8d03-25f4-439d-9c88-22216d6e8f35%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Програмування, частина 2",
+        "lecturer": "ТР-12, 406 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/mpp-rqpf-nxd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Програмування, частина 2",
+        "lecturer": "ТР-12, 406 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/mpp-rqpf-nxd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Програмування, частина 2",
+        "lecturer": "ТР-11, 406 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/mpp-rqpf-nxd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Програмування, частина 2",
+        "lecturer": "ТР-11, 406 XXVIII н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/mpp-rqpf-nxd"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Програмування, частина 2",
+        "lecturer": "ТР-14, ТР-15, 218 XI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Програмування, частина 2",
+        "lecturer": "ТР-11, ТР-12, ТР-13, 218 XI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

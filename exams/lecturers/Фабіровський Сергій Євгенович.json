@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-05-04T00:00:00.000Z",
+        "lecturer": "ТР-42,",
+        "subject": "Основи теорії радіотехнічних систем, частина 2",
+        "number": 4,
+        "urls": [
+            "https://meet.google.com/xsk-cfky-onh"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "АН-31,",
+        "subject": "Системи та засоби радіозв`язку в авіації",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/cpg-qtfb-ofx"
+        ]
+    }
+]

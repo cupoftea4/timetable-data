@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-05-06T00:00:00.000Z",
+        "lecturer": "МК-43,",
+        "subject": "Маркетинг фінансових послуг",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "МК-31, МК-32, МК-33, МК-34,",
+        "subject": "Поведінка споживача",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/5281221496?pwd=alNTT3NCOWo2bldwbG5tUE9aN25jQT09"
+        ]
+    }
+]

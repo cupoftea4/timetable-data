@@ -1,0 +1,92 @@
+[
+    {
+        "subject": "Господарський процес",
+        "lecturer": "ПВ-44, ПВ-45, ПВ-47, ПВ-49, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFhMmY4MTMtNDE3MC00Y2RiLThjZjktYzM1Mzc5NmFhZTA0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ebe79ef4-f803-40e5-b652-0d3b16db2810%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Господарський процес",
+        "lecturer": "ПВ-46, ПВ-48, ПВ-410, ПВ-411, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTFhMmY4MTMtNDE3MC00Y2RiLThjZjktYzM1Mzc5NmFhZTA0%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ebe79ef4-f803-40e5-b652-0d3b16db2810%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Господарський процес",
+        "lecturer": "ПВ-47, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzMzNmRkZTMtNWI0ZS00MjMxLWE1YjctNjZiNGE1MTFmODhk%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ebe79ef4-f803-40e5-b652-0d3b16db2810%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Господарський процес",
+        "lecturer": "ПВ-48, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTkyMjBhNTMtNzM3Zi00MjhjLWE1MTktMzJiZDg4ZjVlNjZi%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ebe79ef4-f803-40e5-b652-0d3b16db2810%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Господарський процес",
+        "lecturer": "ПВ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjA4NWU0NzMtMWZlNy00M2I0LWIxYzAtNDEwMDczMWNjNzJj%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ebe79ef4-f803-40e5-b652-0d3b16db2810%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Господарський процес",
+        "lecturer": "ПВ-49, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZDM5YzU1NjEtMzJmMi00OWExLWI1NDgtOWNiNzNlZjE2MDli%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ebe79ef4-f803-40e5-b652-0d3b16db2810%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

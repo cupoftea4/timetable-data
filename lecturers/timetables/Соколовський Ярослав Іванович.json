@@ -1,0 +1,197 @@
+[
+    {
+        "subject": "Математичне моделювання в системному проектуванні",
+        "lecturer": "КН-411, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3gxnteRrOioromrj6r74y00nifvx2raSR82xxpzrPVw1%40thread.tacv2/1681066377805?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Математичне моделювання в системному проектуванні",
+        "lecturer": "КН-411, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3gxnteRrOioromrj6r74y00nifvx2raSR82xxpzrPVw1%40thread.tacv2/1681066377805?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-САП-101, ОНД-САП-102, ОНД-САП-103, ОНД-САП-104, ОНД-САП-105, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a4hwrtyD30GTMG7j5OtXG8GaVzef-FFSOyIYn0tNBqnQ1%40thread.tacv2/1685334047252?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Математичне моделювання в САПР",
+        "lecturer": "КН-408, 319 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asYwyNMFCapr9tgLI6R_YvMmfUPro9uN95Vxd85ETPN01%40thread.tacv2/1681796968073?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання в САПР",
+        "lecturer": "КН-408, 319 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3asYwyNMFCapr9tgLI6R_YvMmfUPro9uN95Vxd85ETPN01%40thread.tacv2/1681796968073?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Математичне моделювання в системному проектуванні",
+        "lecturer": "КН-411, 327 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3gxnteRrOioromrj6r74y00nifvx2raSR82xxpzrPVw1%40thread.tacv2/1681066537103?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Математичне моделювання в системному проектуванні",
+        "lecturer": "КН-411, 327 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a3gxnteRrOioromrj6r74y00nifvx2raSR82xxpzrPVw1%40thread.tacv2/1681066537103?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Математичні моделі синтезу та оптимізації систем",
+        "lecturer": "КНМ-11, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSN6GLtxg-5B8eUTFdpPRDzgBu5aM-P60LPmKKW7MRB81%40thread.tacv2/1685334113637?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Математичні моделі синтезу та оптимізації систем",
+        "lecturer": "КНМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aSN6GLtxg-5B8eUTFdpPRDzgBu5aM-P60LPmKKW7MRB81%40thread.tacv2/1685939047219?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання в САПР",
+        "lecturer": "КН-409, КН-410, 325 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ap_acWXVob_QID3rfuWcXCWw-THiJZwyUkAgkSA6-SbA1%40thread.tacv2/1681067733600?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичне моделювання в САПР",
+        "lecturer": "КН-409, КН-410, 327 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ap_acWXVob_QID3rfuWcXCWw-THiJZwyUkAgkSA6-SbA1%40thread.tacv2/1681067733600?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Математичне моделювання в САПР",
+        "lecturer": "КН-406, КН-407, КН-408, 325 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ap_acWXVob_QID3rfuWcXCWw-THiJZwyUkAgkSA6-SbA1%40thread.tacv2/1681067805266?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання в САПР",
+        "lecturer": "КН-406, КН-407, КН-408, 325 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ap_acWXVob_QID3rfuWcXCWw-THiJZwyUkAgkSA6-SbA1%40thread.tacv2/1681067805266?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22affd6ce6-dbb8-4e11-bf2c-e7d49e6c121c%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

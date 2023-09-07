@@ -1,0 +1,189 @@
+[
+    {
+        "subject": "Практикум з підготовки наукових публікацій, матеріалів конференцій та презентацій наукових доповідей",
+        "lecturer": "КНМ-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютеризовані системи цифрової обробки сигналів і зображень",
+        "lecturer": "КНУС-13, КНУС-14, 807 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютеризовані системи цифрової обробки сигналів і зображень",
+        "lecturer": "КНУС-14, 803 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютеризовані системи цифрової обробки сигналів і зображень",
+        "lecturer": "КНУС-14, 803 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютеризовані системи цифрової обробки сигналів і зображень",
+        "lecturer": "КНУС-13, 804а V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Комп`ютеризовані системи цифрової обробки сигналів і зображень",
+        "lecturer": "КНУС-13, 804а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні технології управління соціально-економічними та технічними системами",
+        "lecturer": "КНа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні технології управління соціально-економічними та технічними системами",
+        "lecturer": "КНа-21, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-АСУ-101, 802б V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-АСУ-101, ОНД-АСУ-102, ОНД-АСУ-103, ОНД-АСУ-104, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/8255238114?pwd=b2Y5RDBWaHJVMTBraXRFRjE5T28xdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-АСУ-102, 807 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-АСУ-103, 807 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Організація наукових досліджень",
+        "lecturer": "ОНД-АСУ-104, 807 V н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

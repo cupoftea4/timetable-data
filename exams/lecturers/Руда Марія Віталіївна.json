@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ТЗ-31,",
+        "subject": "Екологія міських систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71511945464?pwd=ga6rHNNYgu0A6ZHXfAdVWlOyRefBfb.1"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ТЗ-21, 111 I н.к.,",
+        "subject": "Екологічна безпека",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71698811746?pwd=Mw6TIcUcn4aAT8ViCCYXJDc5YkjUud.1"
+        ]
+    }
+]

@@ -1,0 +1,129 @@
+[
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "МЕ-21, 003 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Управління товарним асортиментом",
+        "lecturer": "УТА-МО-301, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/72896096854?pwd=25Y94ZaNbxMmzKDMTHKWEgP8w1jyKt.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "МЕ-24, 427(1) IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "МЕ-22, 427(1) IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Управління бізнесом",
+        "lecturer": "МЕ-23, 427(1) IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Основи інвентики та дизайн-мислення",
+        "lecturer": "МЕ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77534122452?pwd=3GAoYhapA9wnqboXgNWDZj1SJKBzGq.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Управління товарним асортиментом",
+        "lecturer": "УТА-МО-301, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72896096854?pwd=25Y94ZaNbxMmzKDMTHKWEgP8w1jyKt.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Сучасна інвентика у науково-дослідній діяльності",
+        "lecturer": "МЕа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/77534122452?pwd=3GAoYhapA9wnqboXgNWDZj1SJKBzGq.1%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20775%203412%202452%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%20eUNVL5"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Основи інвентики та дизайн-мислення",
+        "lecturer": "МЕ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/77534122452?pwd=3GAoYhapA9wnqboXgNWDZj1SJKBzGq.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

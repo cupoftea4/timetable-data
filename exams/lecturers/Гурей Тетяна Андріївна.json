@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "РТМ-11, РТМ-12, 206 VI н.к.,",
+        "subject": "Інтелектуальні транспортні системи",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac98WfJ0XIWpgiZewM2tzhtJDBtw4P5DpLmngtkRW35Y1%40thread.tacv2/1687120033498?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22d08ab15a-6b33-44e0-87dc-8ecc7e53b9e9%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "ТТ-21, ТТ-22, ТТ-23, 210 VI н.к.,",
+        "subject": "Транспортна географія",
+        "number": 1,
+        "urls": []
+    }
+]

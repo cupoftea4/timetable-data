@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ІТ-23, ІТ-31, ІТ-32,",
+        "subject": "Управління ІТ проектами",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/tih-ymhy-bqd"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ІК-31, ІК-32,",
+        "subject": "Управління IT-проектами",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/wwe-bekz-boj"
+        ]
+    }
+]

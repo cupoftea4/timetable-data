@@ -1,0 +1,242 @@
+[
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-41, 127 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/fau-diao-hzu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-41, 126а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/fau-diao-hzu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-41, 122в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/fau-diao-hzu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-41, 122в IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/fau-diao-hzu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-42, 127 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/agp-rndc-cxr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-42, 127 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/agp-rndc-cxr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-42, 127 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/agp-rndc-cxr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-42, 127 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/agp-rndc-cxr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/epo-zrks-iku"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/epo-zrks-iku"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-41, ІТ-42, ІТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/fvd-xqbd-skh"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-33, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/fcw-qcny-hfj"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Мультимедійні технології",
+        "lecturer": "МЛТ-ІСМ-301, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/wgc-ddfd-ewz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Мультимедійні технології",
+        "lecturer": "МЛТ-ІСМ-301, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/wgc-ddfd-ewz"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/jkw-vaom-yqx"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Технології захисту інформації",
+        "lecturer": "ІТ-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/rvh-mwsg-tuu"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

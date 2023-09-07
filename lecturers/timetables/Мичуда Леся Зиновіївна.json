@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nТехнології програмування, частина 1",
+        "lecturer": " КБ-109, КБ-110, КБ-111, 208 XIX н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nТехнології програмування, частина 1",
+        "lecturer": " КБ-109, КБ-110, КБ-111, 208 XIX н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "subject": "\nОрганічна хімія, частина 2",
+        "lecturer": " ХТ-21, 218 VIII н.к., 219 VIII н.к., 220 VIII н.к., лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nОрганічна хімія, частина 2",
+        "lecturer": " ХТ-21, 218 VIII н.к., 219 VIII н.к., 220 VIII н.к., лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nОрганічна хімія, частина 2",
+        "lecturer": " ХТ-21, ХТ-22, 202 VIII н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

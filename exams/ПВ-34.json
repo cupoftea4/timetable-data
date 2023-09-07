@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Ортинська Н.В.,",
+        "subject": "Міжнародне приватне право",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/8613831236?pwd=c3FNUnlvbW04K2hkRWtrWFpQV0RWdz09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Василів С.С.,",
+        "subject": "Цивільний процес",
+        "number": 2,
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ]
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "Канцір В.С.,",
+        "subject": "Кримінальний процес",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/74702480831?pwd=X2B26MDXDk4cn2Ql13EGDNCxboP7t4.1"
+        ]
+    }
+]

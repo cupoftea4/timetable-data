@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Моделі сучасної комунікації (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/83331653002?pwd=Y1B2UGM5UUVHdkFnREFDc1NHL2RSQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/88352487509?pwd=c0JCYjlsVzlveTR0bXk1OHgrUGkwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/83811524799?pwd=R2x4R0dCNTJaVHFha012REJVenFHQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/83811524799?pwd=R2x4R0dCNTJaVHFha012REJVenFHQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/88352487509?pwd=c0JCYjlsVzlveTR0bXk1OHgrUGkwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Сучасна німецька/японська мова, частина 8",
+        "lecturer": "ФЛ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/83543314222?pwd=a2FOaXdlcWNZQ1puVFhIQ2gxOUkxZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/83331653002?pwd=Y1B2UGM5UUVHdkFnREFDc1NHL2RSQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Моделі сучасної комунікації (німецька/японська/чеська/польська мова), частина 3",
+        "lecturer": "ФЛ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/83331653002?pwd=Y1B2UGM5UUVHdkFnREFDc1NHL2RSQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    }
+]

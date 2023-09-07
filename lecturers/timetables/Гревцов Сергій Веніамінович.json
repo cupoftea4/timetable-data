@@ -1,0 +1,93 @@
+[
+    {
+        "subject": "\nВантажні перевезення та комерційна робота",
+        "lecturer": " УЗ-21сп",
+        "location": " 404 XXXVIII н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "\nВантажні перевезення та комерційна робота",
+        "lecturer": " УЗ-21сп",
+        "location": " 404 XXXVIII н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "\nВантажні перевезення та комерційна робота",
+        "lecturer": " УЗ-21сп",
+        "location": " 404 XXXVIII н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "\nПасажирські перевезення на залізничному транспорті",
+        "lecturer": " УЗ-31сп",
+        "location": " 305 XXXVIII н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "\nВантажні перевезення та комерційна робота",
+        "lecturer": " УЗ-31",
+        "location": " 407 XXXVIII н.к.",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "\nВантажні перевезення та комерційна робота",
+        "lecturer": " УЗ-31",
+        "location": " 311 XXXVIII н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "\nВантажні перевезення та комерційна робота",
+        "lecturer": " УЗ-31",
+        "location": " 311 XXXVIII н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

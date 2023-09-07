@@ -1,0 +1,332 @@
+[
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "КБ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "КБ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "КБ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "КБ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "КБ-37, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "КБ-39, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "КБ-39, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "КБ-38, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "КБ-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "КБ-37, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "КБ-37, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "КБ-41, КБ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "КБ-41, КБ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Криптографічна інженерія",
+        "lecturer": "КБа-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Криптографічна інженерія",
+        "lecturer": "КБа-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "КБ-38, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "КБ-39, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Мікропроцесори в системах технічного захисту інформації",
+        "lecturer": "КБ-37, КБ-38, КБ-39, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "КБ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "КБ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "КБ-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Апаратна криптографія",
+        "lecturer": "КБ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/7480306546?pwd=VGlzM2FOZ05uTUlVc2lUTTlSNWt1UT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86957048696?pwd=Q3dDTDNlSHdqTjRVdVlaOHZveWU4Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86957048696?pwd=Q3dDTDNlSHdqTjRVdVlaOHZveWU4Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86957048696?pwd=Q3dDTDNlSHdqTjRVdVlaOHZveWU4Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86957048696?pwd=Q3dDTDNlSHdqTjRVdVlaOHZveWU4Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86957048696?pwd=Q3dDTDNlSHdqTjRVdVlaOHZveWU4Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-44, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86957048696?pwd=Q3dDTDNlSHdqTjRVdVlaOHZveWU4Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86957048696?pwd=Q3dDTDNlSHdqTjRVdVlaOHZveWU4Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86957048696?pwd=Q3dDTDNlSHdqTjRVdVlaOHZveWU4Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-41, МВ-42, МВ-43, МВ-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86957048696?pwd=Q3dDTDNlSHdqTjRVdVlaOHZveWU4Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Комунікативна діяльність у міжнародних відносинах",
+        "lecturer": "МВ-45, МВ-46, МВ-47, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/86957048696?pwd=Q3dDTDNlSHdqTjRVdVlaOHZveWU4Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

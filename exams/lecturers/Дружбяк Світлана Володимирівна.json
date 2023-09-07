@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "ФЛа-21,",
+        "subject": "Теорія термінографії",
+        "number": 4,
+        "urls": [
+            "https://softserveinc.zoom.us/j/93986226065?pwd=ek9UVStnVGtPZUpuZzZmYjlMaGdFUT09"
+        ]
+    },
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "ФЛа-21,",
+        "subject": "Теорія термінознавства",
+        "number": 2,
+        "urls": [
+            "https://softserveinc.zoom.us/j/93986226065?pwd=ek9UVStnVGtPZUpuZzZmYjlMaGdFUT09"
+        ]
+    },
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "ФЛ-46,",
+        "subject": "Перекладацький практикум (німецька/японська мова), частина 2",
+        "number": 2,
+        "urls": [
+            "https://softserveinc.zoom.us/j/93986226065?pwd=ek9UVStnVGtPZUpuZzZmYjlMaGdFUT09"
+        ]
+    }
+]

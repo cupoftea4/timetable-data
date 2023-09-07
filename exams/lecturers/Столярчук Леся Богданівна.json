@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "ПОа-11,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "МВ-35,",
+        "subject": "Іноземна мова І, частина 6",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/2403311012?pwd=a2ZUZkJ0bXNNSXFlU21jS08veFl3dz09"
+        ]
+    }
+]

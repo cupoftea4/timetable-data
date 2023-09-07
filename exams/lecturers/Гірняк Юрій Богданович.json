@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-04-27T00:00:00.000Z",
+        "lecturer": "МТ-42,",
+        "subject": "Комп`ютеризовані технології мехатронних систем",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aee37839a6608474d9f30d30d13a1c69a%40thread.tacv2/1682323817715?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "МТ-33,",
+        "subject": "Програмне забезпечення мехатронних засобів",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a0f7d068ad4c24f338eaf297dcfaa891b%40thread.tacv2/1682324055518?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "МТІТ-11, 115 XIX н.к.,",
+        "subject": "Інформаційне забезпечення проектування, виготовлення і тестування виробів",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a396bacfdc1794f4786ca8bdb50dfe1e9%40thread.tacv2/1686382937987?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "МТІТ-11, 115 XIX н.к.,",
+        "subject": "Моделювання гетерогенних комп`ютерних систем",
+        "number": 2,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ac244f1cb50c94956821cc042c528ae9e%40thread.tacv2/1686383048846?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22c38c99ae-7d76-4876-bda3-b8cbef2355f4%22%7d"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Костюченко Є.А., 313 XIX н.к.,",
+        "subject": "Соціальна психологія, частина 1",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Олійник А.В., 313 XIX н.к.,",
+        "subject": "Психологія особистості",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/message/19:HJH4Nr_GDX2-roVimT4pvBAm9B6brudvOdb7O8p2l6I1@thread.tacv2/1686809238188?groupId=7d2a917b-c7c5-43b1-8ff7-c9c33631f590"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Мащак С.О., 322 XIX н.к.,",
+        "subject": "Загальна психологія , частина 2",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Пура Я.С., 011 XXXIII н.к.,",
+        "subject": "Українська мова (за професійним спрямуванням)",
+        "number": 1,
+        "urls": []
+    }
+]

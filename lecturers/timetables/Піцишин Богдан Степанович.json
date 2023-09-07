@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Сільськогосподарське водопостачання",
+        "lecturer": "БД-48, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Сільськогосподарське водопостачання",
+        "lecturer": "БД-48, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Сільськогосподарське водопостачання",
+        "lecturer": "БД-48, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Насосні станції",
+        "lecturer": "ГБ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Насосні та повітродувні станції",
+        "lecturer": "БД-310, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Насосні та повітродувні станції",
+        "lecturer": "БД-310, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Сільськогосподарське водопостачання",
+        "lecturer": "БД-48, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

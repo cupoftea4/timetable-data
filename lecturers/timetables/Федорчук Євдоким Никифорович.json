@@ -1,0 +1,285 @@
+[
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "ПЗ-34, ПЗ-35, ПЗ-36, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "ПЗ-34, ПЗ-35, ПЗ-36, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/pxv-rqaa-zuk"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Людино-машинна взаємодія (вбудовані системи)",
+        "lecturer": "ПЗ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/tsp-gjbv-iip"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Людино-машинна взаємодія (вбудовані системи)",
+        "lecturer": "ПЗ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/eag-qjmx-wuc"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Людино-машинна взаємодія (вбудовані системи)",
+        "lecturer": "ПЗ-41, ПЗ-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/oik-wxzz-afu"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "ПЗ-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/ehu-eccf-gbp"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "ПЗ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/qne-tsar-gfo"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "ПЗ-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/mqj-mbmy-xwm"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 6
+    },
+    {
+        "subject": "Впровадження та супровід програмного забезпечення",
+        "lecturer": "ВСП-ПЗ-101, ВСП-ПЗ-102, ВСП-ПЗ-103, ПЗІП-11, ПЗІП-12, ПЗМ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/uwi-cnyi-mrb"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Впровадження та супровід програмного забезпечення",
+        "lecturer": "ВСП-ПЗ-101, 411 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/uwi-cnyi-mrb"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Впровадження та супровід програмного забезпечення",
+        "lecturer": "ВСП-ПЗ-101, 411 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/hst-znhe-yvw"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Людино-машинна взаємодія (вбудовані системи)",
+        "lecturer": "ПЗ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/vgw-wasd-vcs"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Людино-машинна взаємодія (вбудовані системи)",
+        "lecturer": "ПЗ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/zgo-gajk-qjr"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Впровадження та супровід програмного забезпечення",
+        "lecturer": "ВСП-ПЗ-102, 808 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https:// meet.google.com/hst-znhe-yvw"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Впровадження та супровід програмного забезпечення",
+        "lecturer": "ВСП-ПЗ-102, 808 V н.к., ",
+        "location": ", лабораторна",
+        "urls": [
+            "https:// meet.google.com/hst-znhe-yvw"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "ПЗ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/snh-wsfn-gif"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "ПЗ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https:// meet.google.com/vgw-wasd-vcs"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Штучний інтелект та методи машинного навчання",
+        "lecturer": "ПЗ-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/bah-qypf-qrb"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Впровадження та супровід програмного забезпечення",
+        "lecturer": "ВСП-ПЗ-103, 809 V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/yvh-dbpp-byu"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

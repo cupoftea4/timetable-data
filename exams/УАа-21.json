@@ -1,0 +1,97 @@
+[
+    {
+        "date": "2023-05-29T00:00:00.000Z",
+        "lecturer": "Поплавська Ж.В.,",
+        "subject": "Інноваційний процес в публічних інституціях",
+        "number": 6,
+        "urls": []
+    },
+    {
+        "date": "2023-05-30T00:00:00.000Z",
+        "lecturer": "Карковська В.Я.,",
+        "subject": "Інституційне забезпечення публічного управління та адміністрування",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72441672423?pwd=ufLONUVxwzzzBSd9BMUZbDt1vletRh.1"
+        ]
+    },
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "Мартинюк В.П.,",
+        "subject": "Публічне управління смарт-сіті",
+        "number": 6,
+        "urls": [
+            "https://meet.google.com/nct-srtd-dqj"
+        ]
+    },
+    {
+        "date": "2023-06-01T00:00:00.000Z",
+        "lecturer": "Михальчишин Н.Л.,",
+        "subject": "Стратегії конкурентного розвитку держави",
+        "number": 6,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a9c608dd77b744a888457a23fe6f82ecd%40thread.tacv2/conversations?groupId=d32ff092-5aee-49ad-a615-52c50a18bfaa&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-02T00:00:00.000Z",
+        "lecturer": "Дзяна Г.О.,",
+        "subject": "Комунікації в науці та інтелектуальна власність у сфері публічного управління",
+        "number": 3,
+        "urls": [
+            "https://zoom.us/j/2533571478?pwd=b0JLMGkvM1IxempOMHNhVlJqZjZDUT09"
+        ]
+    },
+    {
+        "date": "2023-06-03T00:00:00.000Z",
+        "lecturer": "Красівський Д.О., Мартинюк В.П.,",
+        "subject": "Публічне управління в ЄС",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/xda-uqtf-qit"
+        ]
+    },
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "Данилович-Кропивницька М.Л.,",
+        "subject": "Національна безпека в контексті сучасних європейських геополітичних трансформацій",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/9023672108?pwd=VkVzRHBYY1UvdmhGTy84Y0o5SXBrUT09"
+        ]
+    },
+    {
+        "date": "2023-06-06T00:00:00.000Z",
+        "lecturer": "Карковська В.Я.,",
+        "subject": "Лідерство та ефективність в публічному управлінні",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/72441672423?pwd=ufLONUVxwzzzBSd9BMUZbDt1vletRh.1"
+        ]
+    },
+    {
+        "date": "2023-06-07T00:00:00.000Z",
+        "lecturer": "Білик О.І.,",
+        "subject": "Реформування публічного сектору",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/71447601269?pwd=s4KM16cWRIVDjIsa69gKmrt3N8dsP0.1"
+        ]
+    },
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "Буник М.З.,",
+        "subject": "Публічна політика як управління суспільними процесами",
+        "number": 5,
+        "urls": [
+            "https://us05web.zoom.us/j/4570066252?pwd=UTNKVVkzb1JOSGxaRkVESzRhYnFlUT09"
+        ]
+    },
+    {
+        "date": "2023-06-09T00:00:00.000Z",
+        "lecturer": "Дробот І.О.,",
+        "subject": "Світовий досвід організації публічного управління та публічної служби",
+        "number": 5,
+        "urls": []
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-18T00:00:00.000Z",
+        "lecturer": "Павлюх М.В.,",
+        "subject": "Інформаційно-комунікаційні технології в інтернет-просторі",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/71451633073?pwd=VUvhM20k9DwnHrMPOJ4liWQ9nDTnIv.1"
+        ]
+    },
+    {
+        "date": "2023-04-20T00:00:00.000Z",
+        "lecturer": "Гулай В.В.,",
+        "subject": "Основи проектування інформаційних потоків",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/73222242498?pwd=4X43QvzMGB9wwgRbhLXIhPrtzVfOJb.1"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Андруник В.А.,",
+        "subject": "Комп`ютерна графіка та технології віртуальної реальності",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/83533705251?pwd=VGpPT051djlLZkhZSXFFN1p0bEhCQT09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Чухрай А.І.,",
+        "subject": "Управління IT-проектами",
+        "number": 2,
+        "urls": [
+            "https://meet.google.com/wwe-bekz-boj"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Андрущак В.С.,",
+        "subject": "Мобільні додатки інформаційно-комунікаційних систем",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/eax-nrtq-siy"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Кирик М.І.,",
+        "subject": "Безпека інформаційно-комунікаційних систем",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/cgg-rmif-tjh"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Андрущак В.С.,",
+        "subject": "Програмування вбудованих систем",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/maa-uixo-ese"
+        ]
+    }
+]

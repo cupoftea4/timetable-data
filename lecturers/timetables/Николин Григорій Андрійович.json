@@ -1,0 +1,129 @@
+[
+    {
+        "subject": "Автоматизація процесів життєзабезпечення",
+        "lecturer": "АВ-31, 072 XIV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Монтаж та налагодження систем автоматизації",
+        "lecturer": "МНС-АВКТ-101, АВКВ-11, 209 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація процесів життєзабезпечення",
+        "lecturer": "АВ-32, 407 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Монтаж та налагодження систем автоматизації",
+        "lecturer": "МНС-АВКТ-102, 071 X н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Основи автоматики та автоматизації",
+        "lecturer": "АВ-13, 318 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Основи автоматики та автоматизації",
+        "lecturer": "АВ-13, 318 II н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Автоматизація процесів життєзабезпечення",
+        "lecturer": "АВ-31, АВ-32, 051 X н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація процесів життєзабезпечення",
+        "lecturer": "АВ-31, АВ-32, 209 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Монтаж та налагодження систем автоматизації",
+        "lecturer": "МНС-АВКТ-101, МНС-АВКТ-102, АВКВ-11, АВКВ-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3700022521?pwd=aWh5T2UzaVF4Nm14S1FEdFNJejJSUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

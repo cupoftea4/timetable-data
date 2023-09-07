@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-04-27T00:00:00.000Z",
+        "lecturer": "БД-41f,",
+        "subject": "Конструкції з дерева та пластмас",
+        "number": 3,
+        "urls": [
+            "https://us05web.zoom.us/j/94533849929?pwd=Z1hmWnFFanQweURrNEdJKzEyb0MwQT09"
+        ]
+    },
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "ПБ-31,",
+        "subject": "Термодинаміка і теплопередача",
+        "number": 1,
+        "urls": [
+            "https://us05web.zoom.us/j/85328095799?pwd=TUVjL1lSRGZWaXJ4bTBjNCs3QkNTdz09"
+        ]
+    }
+]

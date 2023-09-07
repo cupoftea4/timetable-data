@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-05-05T00:00:00.000Z",
+        "lecturer": "Матвій І.Є.,",
+        "subject": "Моделювання динаміки бізнес-процесів",
+        "number": 2,
+        "urls": []
+    },
+    {
+        "date": "2023-05-02T00:00:00.000Z",
+        "lecturer": "Гвоздь М.Я.,",
+        "subject": "Дослідження ринків",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/6058613984?pwd=RW5ldWxLSko0VlFMVy9wTGdTSmQrUT09%20%20Meeting%20ID:%20605%20861%203984%20Passcode:%207777"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Наукові основи створення полімерних композитів та нанокомпозитів",
+        "lecturer": "ХТа-21, 028 VIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Наукові основи створення полімерних композитів та нанокомпозитів",
+        "lecturer": "ХТа-21, 028 VIII н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

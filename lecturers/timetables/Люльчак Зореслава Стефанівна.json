@@ -1,0 +1,73 @@
+[
+    {
+        "subject": "Фінанси підприємства",
+        "lecturer": "МЕ-310, МЕ-311, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89024149198?pwd=MGNPU21qTkRXcHpJUUEwYVVka0wrZz09%20https://us05web.zoom.us/j/89024149198?pwd=MGNPU21qTkRXcHpJUUEwYVVka0wrZz09%20%20https://us05web.zoom.us/j/89024149198?pwd=MGNPU21qTkRXcHpJUUEwYVVka0wrZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕЛГ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82607633016?pwd=SUdpRG16NnVRdkNtKzVkNFpyWXlKdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕЛГ-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/82607633016?pwd=SUdpRG16NnVRdkNtKzVkNFpyWXlKdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Інформаційні системи і технології в логістиці",
+        "lecturer": "МЕМ-11, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    }
+]

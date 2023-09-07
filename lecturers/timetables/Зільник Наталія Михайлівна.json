@@ -1,0 +1,107 @@
+[
+    {
+        "subject": "Цивільний процес",
+        "lecturer": "ПВ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Цивільний процес",
+        "lecturer": "ПВ-39, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "ПВ-48, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Господарське право, частина 2",
+        "lecturer": "ПВ-46, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Цивільний процес",
+        "lecturer": "ПВ-38, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Цивільний процес",
+        "lecturer": "ПВ-310, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Цивільний процес",
+        "lecturer": "ПВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/5288901502?pwd=L08rK3J0WHJ2MEwyRS81aHQzaVVBUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

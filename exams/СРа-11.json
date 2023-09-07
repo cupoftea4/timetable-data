@@ -1,0 +1,27 @@
+[
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "Матвіїв-Лозинська Ю.О.,",
+        "subject": "Іноземна мова для академічних цілей, частина 2",
+        "number": 5,
+        "urls": []
+    },
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "Шаповалова Т.В.,",
+        "subject": "Система соціального захисту та соціального забезпечення",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_5fUwxKk8leKCPcyyL0mHDiSmmDQSNvGdxbP3pj9E3w1%40thread.tacv2/1684168153607?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%220fd8302f-f91e-4273-92c4-7456fb115d80%22%7d"
+        ]
+    },
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "Клос Л.Є.,",
+        "subject": "Клінічна соціальна робота",
+        "number": 5,
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_YWFhMWRlYmItMTE0NC00ZWRjLWJmNGUtMzBkMTVlMDIwNTQw%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22f3b0255a-4c67-4c7e-9d12-628202c6d37c%22%7d"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Педагогічний експеримент та методи математичної статистики",
+        "lecturer": "ПОа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81267192281?pwd=YlllVkNmWW56OGtIdUtJWEFkSWR1Zz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Педагогічний експеримент та методи математичної статистики",
+        "lecturer": "ПОа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/81267192281?pwd=YlllVkNmWW56OGtIdUtJWEFkSWR1Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    }
+]

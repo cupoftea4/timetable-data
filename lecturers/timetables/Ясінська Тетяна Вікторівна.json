@@ -1,0 +1,219 @@
+[
+    {
+        "subject": "Міжнародне підприємництво",
+        "lecturer": "МІП-ММП-301, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3aUicrErCgdass5dYDBMGk7WV3tm3bI4AE8sgGoaa3ubw1%40thread.tacv2/General?groupId=0bbe4fde-30d4-49ce-92fe-f121bc14d9a1&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Міжнародні економічні відносини",
+        "lecturer": "ЕВ-21, ЕВ-22, 310 IV н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Соціальна відповідальність",
+        "lecturer": "ЕВМЕ-12, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aIn9AJejiNGS2zHxbZ-xrL2tZN6Nhs7KGGq_DJ_Y02EY1%40thread.tacv2/conversations?groupId=672b32cd-3ce7-4d0c-bf36-9bcff4a4356f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Соціальна відповідальність",
+        "lecturer": "ЕВМЕ-12, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aIn9AJejiNGS2zHxbZ-xrL2tZN6Nhs7KGGq_DJ_Y02EY1%40thread.tacv2/conversations?groupId=672b32cd-3ce7-4d0c-bf36-9bcff4a4356f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Соціальна відповідальність",
+        "lecturer": "ЕВМЕ-11, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a84B4Z0AkgAWzVRqPoSJ6BWAmjTCpSi3_toPA-ZchW681%40thread.tacv2/conversations?groupId=1ae536a9-0500-429d-881b-d48a51d3e533&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Соціальна відповідальність",
+        "lecturer": "ЕВМЕ-11, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a84B4Z0AkgAWzVRqPoSJ6BWAmjTCpSi3_toPA-ZchW681%40thread.tacv2/conversations?groupId=1ae536a9-0500-429d-881b-d48a51d3e533&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Міжнародні економічні відносини",
+        "lecturer": "ЕВ-22, 306 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Міжнародні економічні відносини",
+        "lecturer": "ЕВ-22, 306 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Економіка ЄС",
+        "lecturer": "ЕЄС-ММП-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a-7nMprbLSnWg0wxsQz_YKivzAzijJmihB9PhQXsJFQY1%40thread.tacv2/General?groupId=ceae169f-8160-447c-8594-0857e515c1c3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Економіка ЄС",
+        "lecturer": "ЕЄС-ММП-301, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a-7nMprbLSnWg0wxsQz_YKivzAzijJmihB9PhQXsJFQY1%40thread.tacv2/General?groupId=ceae169f-8160-447c-8594-0857e515c1c3&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Міжнародне підприємництво",
+        "lecturer": "МІП-ММП-201, МІП-ММП-202, МІП-ММП-203, 217 II н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Економіка ЄС",
+        "lecturer": "ЕЄС-ММП-303, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_l2ViGLykzT3I8O6_5tEGTMEJMiVa1nWJhF5CAyuILQ1%40thread.tacv2/General?groupId=42835d25-3be4-4d1c-8ff5-fd4f7f22853f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Економіка ЄС",
+        "lecturer": "ЕЄС-ММП-303, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a_l2ViGLykzT3I8O6_5tEGTMEJMiVa1nWJhF5CAyuILQ1%40thread.tacv2/General?groupId=42835d25-3be4-4d1c-8ff5-fd4f7f22853f&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Економіка ЄС",
+        "lecturer": "ЕЄС-ММП-302, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a5clTjMQ41VMNBWSgXosrwleEmkB_LK9lXJXhTuEfH0o1%40thread.tacv2/General?groupId=623a3cee-e280-44b9-8085-e98e5e051f91&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Економіка ЄС",
+        "lecturer": "ЕЄС-ММП-302, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3a5clTjMQ41VMNBWSgXosrwleEmkB_LK9lXJXhTuEfH0o1%40thread.tacv2/General?groupId=623a3cee-e280-44b9-8085-e98e5e051f91&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

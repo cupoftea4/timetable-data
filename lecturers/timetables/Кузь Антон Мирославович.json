@@ -1,0 +1,99 @@
+[
+    {
+        "subject": "Дискретна математика",
+        "lecturer": "ФІ-11, 509 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a2Cb4PrRoaHTUZifnBXpTEbb3H7tjR_q7OOJBkk11tMU1%40thread.tacv2/conversations?groupId=e1c9fb05-e824-444a-962d-e6b7d3ddaf56&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Теорія керування",
+        "lecturer": "ПМ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0gs6EnlWo-P24WU5U2E51DNBIBduJVgH7989eKsPgMU1%40thread.tacv2/conversations?groupId=cdc98f2e-d2e8-47a0-9c9a-68118a02ccc2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Теорія керування",
+        "lecturer": "ПМ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a0gs6EnlWo-P24WU5U2E51DNBIBduJVgH7989eKsPgMU1%40thread.tacv2/conversations?groupId=cdc98f2e-d2e8-47a0-9c9a-68118a02ccc2&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Математичний аналіз, частина 2",
+        "lecturer": "ПМ-11, 225а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Математичний аналіз, частина 2",
+        "lecturer": "ПМ-12, 225а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Математичний аналіз, частина 2",
+        "lecturer": "ПМ-14, 225а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичний аналіз, частина 2",
+        "lecturer": "ФІ-11, 225а IV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    }
+]

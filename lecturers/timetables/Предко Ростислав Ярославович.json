@@ -1,0 +1,183 @@
+[
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "МП-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75865082037?pwd=d4CClTaIFwsgpCwP2u6dbgtAbj3WRZ.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "МП-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/77375157146?pwd=DviLSljywSNXXsc55jrg7My3Bod8TN.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "МП-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/72304125460?pwd=OV8WZSbKCbUEYaHItouk8qArI91cz9.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "МП-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78412511006?pwd=38kfL8xz7GhsfhxfnMRTBdFPyra3by.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Теоретична механіка",
+        "lecturer": "АТ-13, 308 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Технічна механіка, частина 3",
+        "lecturer": "НГ-21, 310 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Технічна механіка, частина 3",
+        "lecturer": "НГ-21, 310 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Технічна механіка, частина 1",
+        "lecturer": "МЗ-11, 311 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Технічна механіка, частина 3",
+        "lecturer": "НГ-21, 310 VI н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "МП-24, 310 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "МП-24, 310 VI н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "МБ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/78517523315?pwd=bjb6mkUwmKOa8tZ07MbHKnWoCn8Bfp.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Деталі машин, частина 2",
+        "lecturer": "МБ-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73233822148?pwd=67hfZJSnltrbWdKhvwgAanuvA3ZZIb.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

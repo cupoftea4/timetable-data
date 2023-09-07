@@ -1,0 +1,17 @@
+[
+    {
+        "subject": "\nБізнес-планування та управління проектами",
+        "lecturer": " БПУ-УП-208, БПУ-УП-209, БПУ-УП-210, лекція ",
+        "location": "",
+        "urls": [
+            "https://us02web.zoom.us/j/86513340758"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

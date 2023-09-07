@@ -1,0 +1,120 @@
+[
+    {
+        "subject": "Методологія та організація наукових досліджень в обліку й аудиті",
+        "lecturer": "МОО-ОА-101, МОО-ОА-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Методика викладання обліково-економічних дисциплін: дидактичне проектування та інноваційні технології",
+        "lecturer": "НОПН-14, 326б IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Методика викладання обліково-економічних дисциплін: дидактичне проектування та інноваційні технології",
+        "lecturer": "НОПН-14, 326б IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Історія обліку, аналізу та аудиту",
+        "lecturer": "ОП-21, 406 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Методика викладання обліково-економічних дисциплін: дидактичне проектування та інноваційні технології",
+        "lecturer": "НОПН-14, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Історія обліку, аналізу та аудиту",
+        "lecturer": "ОП-21, 326б IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Методологія та організація наукових досліджень в обліку й аудиті",
+        "lecturer": "МОО-ОА-101, 326 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/6045788081?pwd=dExOL2k4cnRHSXZJLzIwUXFZb2EvUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Методологія та організація наукових досліджень в обліку й аудиті",
+        "lecturer": "МОО-ОА-102, 326 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    }
+]

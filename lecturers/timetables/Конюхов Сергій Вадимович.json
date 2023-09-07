@@ -1,0 +1,140 @@
+[
+    {
+        "subject": "Історія державності, науки та культури України",
+        "lecturer": "ТЕ-11, 105 IV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Історія державності, науки та культури України",
+        "lecturer": "ЕЕ-13, 114 Гол. н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Історія державності, науки та культури України",
+        "lecturer": "АЕ-11, 115 X н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "АТ-12, 302 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Соціологія культурної спадщини",
+        "lecturer": "СМУС-11, СМУС-12, 207 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/6139139505?pwd=U0ZBTGllNStuZU9iL2NCSEhueE1TZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "УАі-11, 110 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6139139505?pwd=U0ZBTGllNStuZU9iL2NCSEhueE1TZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Історія державності, науки та культури України",
+        "lecturer": "СЕ-11, СЕ-12, ТЕ-11, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6139139505?pwd=U0ZBTGllNStuZU9iL2NCSEhueE1TZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Соціологія культурної спадщини",
+        "lecturer": "СМУС-11, СМУС-12, ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/6139139505?pwd=U0ZBTGllNStuZU9iL2NCSEhueE1TZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "ТТ-13, 206 VI н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Історія державності та культури України",
+        "lecturer": "УАі-11, 110 I н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

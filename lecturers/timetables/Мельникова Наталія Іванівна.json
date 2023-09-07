@@ -1,0 +1,80 @@
+[
+    {
+        "subject": "\nОрганізація баз даних та знань",
+        "lecturer": " ШІ-21",
+        "location": " 124 XX н.к.",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "\nОрганізація баз даних та знань",
+        "lecturer": " ШІ-21, ШІ-21, 124 XX н.к., лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nОрганізація баз даних та знань",
+        "lecturer": " ШІ-21, ШІ-21, 124 XX н.к., лабораторна ",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "\nОрганізація баз даних та знань",
+        "lecturer": " ШІ-21, ШІ-21, 124 XX н.к., лабораторна  \n\n\n",
+        "location": "",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nОрганізація баз даних та знань",
+        "lecturer": " ШІ-21, ШІ-22, ШІ-23, ШІ-24, 114 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "\nОрганізація баз даних та знань",
+        "lecturer": " ШІ-21, ШІ-22, ШІ-23, ШІ-24, ШІ-21, ШІ-22, ШІ-23, ШІ-24, 114 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

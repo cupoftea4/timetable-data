@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Машинний інтелект в робототехніці, частина 2",
+        "lecturer": "МТ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/89014226080"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Машинний інтелект в робототехніці, частина 2",
+        "lecturer": "МТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/89014226080"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Машинний інтелект в робототехніці, частина 2",
+        "lecturer": "МТ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/89014226080"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

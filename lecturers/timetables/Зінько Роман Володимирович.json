@@ -1,0 +1,135 @@
+[
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "МБ-33, 016 XV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76733557437?pwd=_MfWEvi1CR0C9iEjj2ex8q_5ff8Zf9.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "МБ-33, 016 XV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/3927121462?pwd=WVM1LytMRHRuQmJZSWlSSVV5RVE3UT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Динаміка колісних і гусеничних машин",
+        "lecturer": "МБа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/78979436756?pwd=J97IZ0tlXlHfDulIXaQVQyhWxRyiHc.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Динаміка колісних і гусеничних машин",
+        "lecturer": "МБа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78063114714?pwd=62OYrkbTmeMpzMfHbbOVabKUFadP3K.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Прикладна теорія оптимальних процесів та параметрична оптимізація колісних і гусеничних машин",
+        "lecturer": "МБа-21, ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Прикладна теорія оптимальних процесів та параметрична оптимізація колісних і гусеничних машин",
+        "lecturer": "МБа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/72209462122?pwd=O9NyKxWVyRA4PRRXNJZaeAmB1HpNak.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "МБ-33, 016 XV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79025969666?pwd=iG7GvTxMwJR9wGRhMmhjZnGbgoXYGX.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "МБ-33, 002 XV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/76134992038?pwd=5zeVv5mOKCkjpLWVwkYBKGgXX9vKTi.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Конструювання і розрахунок автомобілів, частина 2",
+        "lecturer": "МБ-33, 002 XV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75914444527?pwd=JJb7aqM7qYdvqngYiyPdojFMU9aSHm.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

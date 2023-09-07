@@ -1,0 +1,21 @@
+[
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "ПОа-11,",
+        "subject": "Розробка дисертаційного проєкту",
+        "number": 5,
+        "urls": [
+            "https://us04web.zoom.us/j/78504363573?pwd=8Rf6bRmNghliNk5URd4UQxy1gSc9H8.1"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ПД-31,",
+        "subject": "Комп`ютерні технології в освітньому процесі",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/72370610129?pwd=zoAmXlpmk5nuT2WyyBjVMlRSuisRbV.1",
+            "https://us04web.zoom.us/j/72370610129?pwd=zoAmXlpmk5nuT2WyyBjVMlRSuisRbV.1"
+        ]
+    }
+]

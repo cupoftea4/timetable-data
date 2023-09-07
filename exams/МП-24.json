@@ -1,0 +1,39 @@
+[
+    {
+        "date": "2023-06-16T00:00:00.000Z",
+        "lecturer": "Гаврильченко О.В., 049 XIV н.к.,",
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Малащенко В.О., 302 VI н.к.,",
+        "subject": "Деталі машин, частина 2",
+        "number": 3,
+        "urls": []
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Кусий Я.М., 011 XIV н.к.,",
+        "subject": "Експлуатація та обслуговування машин",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Гурей В.І., 011 XIV н.к.,",
+        "subject": "Системи ЧПК технологічного обладнання",
+        "number": 1,
+        "urls": []
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "Дмитерко П.Р., 011 XIV н.к.,",
+        "subject": "Математичні основи робототехніки",
+        "number": 1,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aTv7h6ISDkE5Fefs_R2b3MNjSdIjNzqIif2wKmCXOzlY1%40thread.tacv2/conversations?groupId=a19778b2-2775-44fe-9f51-0b2dfa929448&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

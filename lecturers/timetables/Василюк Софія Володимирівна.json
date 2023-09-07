@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "ФГР-ТУ-101, ФГР-ТУ-102, ФГР-ТУ-103, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "ФГР-ТУ-104, ФГР-ТУ-105, ФГР-ТУ-106, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "Математичне моделювання мікробіологічних процесів",
+        "lecturer": "БТ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aP45k0UyG116xkhB0LhKm3tecFXonOKX-sPdcWsYlzpM1%40thread.tacv2/1677674258154?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bb156214-abaa-4040-9424-e082a3518b18%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Математичне моделювання мікробіологічних процесів",
+        "lecturer": "БТ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aQKQC8jV0C1YvcwnfAFKtrUrGD_zmQXEzneJ9ROF5xFc1%40thread.tacv2/1677670730578?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bb156214-abaa-4040-9424-e082a3518b18%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Математичне моделювання мікробіологічних процесів",
+        "lecturer": "БТ-31, БТ-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3a_w808EscjuhzFduCKCb_Tr_aZ-T_4izbXgjwytTVElc1%40thread.tacv2/1677671868743?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22bb156214-abaa-4040-9424-e082a3518b18%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "ФГР-ТУ-101, 004 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "ФГР-ТУ-102, 004 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "ФГР-ТУ-103, 004 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "ФГР-ТУ-104, 004 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "ФГР-ТУ-105, 004 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Фінансова грамотність",
+        "lecturer": "ФГР-ТУ-106, 004 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/84772238548?pwd=dTVreXJLQXFzdVNrTUp0aVpZUzdJUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

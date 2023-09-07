@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ПЦ-11, 405 XXXVI н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6447540548?pwd=WTFXZHZHd2xkS0Z3RWorK2lPcWpydz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Вища математика, частина 2",
+        "lecturer": "ПЦ-11, 405 XXXVI н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6447540548?pwd=WTFXZHZHd2xkS0Z3RWorK2lPcWpydz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Математика для економістів, частина 2",
+        "lecturer": "МЕ-16, 105 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6447540548?pwd=WTFXZHZHd2xkS0Z3RWorK2lPcWpydz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Математика для економістів, частина 2",
+        "lecturer": "МЕ-16, 104 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6447540548?pwd=WTFXZHZHd2xkS0Z3RWorK2lPcWpydz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

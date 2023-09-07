@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "Опотяк Ю.В., 802а V н.к.,",
+        "subject": "Промисловий інтернет речей",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Казимира І.Я., 802а V н.к.,",
+        "subject": "Технології обчислювального інтелекту",
+        "number": 3,
+        "urls": [
+            "https://meet.google.com/gbm-ucii-jfi"
+        ]
+    },
+    {
+        "date": "2023-06-24T00:00:00.000Z",
+        "lecturer": "Фармага І.В., 325 IV н.к.,",
+        "subject": "Інтегровані ієрархічні системи управління",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/9275151056?pwd=S2dSNEQrdFBUODNoeGkzT09JREN4QT09"
+        ]
+    }
+]

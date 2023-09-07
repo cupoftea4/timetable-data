@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Системи керування електроприводами",
+        "lecturer": "ЕЕ-34, 129 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGRkMjJiY2YtODFiMi00NTVjLWI0YzUtMGJlODVhMTQ2MjZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b6a90c2-37b4-46cf-8de6-139d1f7fdce1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Системи керування електроприводами",
+        "lecturer": "ЕЕ-34, 129 Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGRkMjJiY2YtODFiMi00NTVjLWI0YzUtMGJlODVhMTQ2MjZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b6a90c2-37b4-46cf-8de6-139d1f7fdce1%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Системи керування електроприводами",
+        "lecturer": "ЕЕ-34, 121 Гол. н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGRkMjJiY2YtODFiMi00NTVjLWI0YzUtMGJlODVhMTQ2MjZh%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%229b6a90c2-37b4-46cf-8de6-139d1f7fdce1%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    }
+]

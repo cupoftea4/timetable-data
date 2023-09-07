@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "Історія світової культури та літератури",
+        "lecturer": "ЖР-11, ЖР-12, ЖР-13, 032 XXXIII н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Історія світової культури та літератури",
+        "lecturer": "ЖР-11, ЖР-12, ЖР-13, 032 XXXIII н.к., ",
+        "location": " лекція",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

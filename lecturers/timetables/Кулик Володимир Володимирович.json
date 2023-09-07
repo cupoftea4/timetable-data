@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Ливарне виробництво",
+        "lecturer": "МЗ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYJ-N288dLsssq-wXGpSgjPJQWzPOHyF8tULhar0LYrw1%40thread.tacv2/1676134015974?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Ливарне виробництво",
+        "lecturer": "МЗ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aYJ-N288dLsssq-wXGpSgjPJQWzPOHyF8tULhar0LYrw1%40thread.tacv2/1676134106767?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Виробництво виливків спеціальними способами лиття",
+        "lecturer": "МЛ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLVa8App4PgdfpxrW1wVF-T-5JUGyY-_dG6s1TFyEFkk1%40thread.tacv2/1676133124902?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Виробництво виливків спеціальними способами лиття",
+        "lecturer": "МЛ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLVa8App4PgdfpxrW1wVF-T-5JUGyY-_dG6s1TFyEFkk1%40thread.tacv2/1676133235146?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Виробництво виливків із сталей та чавунів",
+        "lecturer": "МЛ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLVa8App4PgdfpxrW1wVF-T-5JUGyY-_dG6s1TFyEFkk1%40thread.tacv2/1676293868112?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Прогностичне моделювання деградації матеріалів",
+        "lecturer": "МЗа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NmM2NmVmYzQtM2VhNi00MTMwLTk1YjAtOTVlMGU3MGJiNWEy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Прогностичне моделювання деградації матеріалів",
+        "lecturer": "МЗа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDIzOTVjMTgtNWE2ZS00ODQ4LWE3ZjUtNzA5OWYyNjNmNjIy%40thread.v2/0?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Виробництво виливків із сталей та чавунів",
+        "lecturer": "МЛ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLVa8App4PgdfpxrW1wVF-T-5JUGyY-_dG6s1TFyEFkk1%40thread.tacv2/1676133334479?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Виробництво виливків із сталей та чавунів",
+        "lecturer": "МЛ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLVa8App4PgdfpxrW1wVF-T-5JUGyY-_dG6s1TFyEFkk1%40thread.tacv2/1676133370282?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Виробництво виливків із сталей та чавунів",
+        "lecturer": "МЛ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLVa8App4PgdfpxrW1wVF-T-5JUGyY-_dG6s1TFyEFkk1%40thread.tacv2/1676133427810?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Виробництво виливків із сталей та чавунів",
+        "lecturer": "МЛ-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/meetup-join/19%3aLVa8App4PgdfpxrW1wVF-T-5JUGyY-_dG6s1TFyEFkk1%40thread.tacv2/1676133482872?context=%7b%22Tid%22%3a%227631cd62-5187-4e15-8b8e-ef653e366e7a%22%2c%22Oid%22%3a%22ef8b2b4a-5340-42bc-8c3d-62be3dee12ea%22%7d"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,137 @@
+[
+    {
+        "subject": "Техніко-нормативне забезпечення оцінки землі та нерухомого майна",
+        "lecturer": "ГД-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Реєстрація нерухомості",
+        "lecturer": "ГД-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Реєстрація нерухомості",
+        "lecturer": "ГД-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Реєстрація нерухомості",
+        "lecturer": "ГД-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Методи технічного регулювання земельних відносин та інвестицій",
+        "lecturer": "ГДЗК-11, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Техніко-нормативне забезпечення оцінки землі та нерухомого майна",
+        "lecturer": "ГД-42, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Методологія реєстрації об`єктів нерухомого майна",
+        "lecturer": "ГДа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Методи технічного регулювання земельних відносин та інвестицій",
+        "lecturer": "ГДЗК-11, 504 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методи технічного регулювання земельних відносин та інвестицій",
+        "lecturer": "ГДЗК-11, 506 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/6557472534?pwd=SVluYTVCUk43RFd5Ym5KQ1kvbnFBdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "date": "2023-06-05T00:00:00.000Z",
+        "lecturer": "Ідак Ю.В.,",
+        "subject": "Спеціальні методи дослідження в галузі архітектури, містобудування, мистецтва та дизайну",
+        "number": 4,
+        "urls": []
+    },
+    {
+        "date": "2023-05-31T00:00:00.000Z",
+        "lecturer": "Дида І.А.,",
+        "subject": "Візуальна культура сучасного дизайну",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aQTcmqRgLfrrQXbod60qxvWhcz4JY7wSK1G-_PqKu9HY1%40thread.tacv2/conversations?groupId=26a10ca3-bf83-4e0b-b900-4621b73c9004&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    }
+]

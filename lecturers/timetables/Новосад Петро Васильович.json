@@ -1,0 +1,167 @@
+[
+    {
+        "subject": "Хіміко-технологічні процеси і явища в реставрації",
+        "lecturer": "РММ-11, 102 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Хіміко-технологічні процеси і явища в реставрації",
+        "lecturer": "РММ-11, 102 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Основи хіміко-технологічних процесів в реставрації, частина 1",
+        "lecturer": "РМ-21, 105 XIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Основи хіміко-технологічних процесів в реставрації, частина 1",
+        "lecturer": "РМ-21, 105 XIX н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Будівельне матеріалознавство",
+        "lecturer": "БД-25, 319 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Будівельне матеріалознавство",
+        "lecturer": "БД-11сп, 319 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Методи дослідження будівельних матеріалів",
+        "lecturer": "БД-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Будівельне матеріалознавство",
+        "lecturer": "БД-28, 319 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Будівельне матеріалознавство",
+        "lecturer": "БД-11сп, 319 II н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Будівельне матеріалознавство",
+        "lecturer": "БД-11сп, 319 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Будівельне матеріалознавство",
+        "lecturer": "БД-11сп, 319 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/8906747962?pwd=aDNJMGI3Qi94SUxhemltUnBKeDNPdz09%20%20%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8:%20890%20674%207962%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%B0:%205NvqvZ"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "subject": "\nПрогнозування та моделювання в соціальній сфері та забезпечення неперервності ІБ бізнесу",
+        "lecturer": " КБ-304",
+        "location": " 220 XX н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "\nПрогнозування та моделювання в соціальній сфері та забезпечення неперервності ІБ бізнесу",
+        "lecturer": " КБ-303, КБ-304, 221 XIX н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "\nПрогнозування та моделювання в соціальній сфері та забезпечення неперервності ІБ бізнесу",
+        "lecturer": " КБ-304",
+        "location": " 202 XIX н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "\nПрогнозування та моделювання в соціальній сфері та забезпечення неперервності ІБ бізнесу",
+        "lecturer": " КБ-303",
+        "location": " 212 XIX н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    }
+]

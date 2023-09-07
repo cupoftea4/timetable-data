@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Містобудівний кадастр",
+        "lecturer": "ГДа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/87831746354?pwd=WGw3dXJmWVNkeFdKRHUyRTRRQmU3QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Містобудівний кадастр",
+        "lecturer": "ГДа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/87831746354?pwd=WGw3dXJmWVNkeFdKRHUyRTRRQmU3QT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Містобудівний кадастр",
+        "lecturer": "ГД-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/87831746354?pwd=WGw3dXJmWVNkeFdKRHUyRTRRQmU3QT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

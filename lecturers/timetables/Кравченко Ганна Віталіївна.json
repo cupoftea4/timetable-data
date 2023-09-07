@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "СА-31, СА-32, СА-33, 406 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Управління ІТ проектами",
+        "lecturer": "СА-32, 124 IV н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://zoom.us/j/3616876012?pwd=ZlVNSWc4dUdRd005R0o4MmRCUndjUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    }
+]

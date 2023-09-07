@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "УАі-21, 003 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-218, 404 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-217, 404 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-219, 404 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-220, 404 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "Економіко-математичні методи і моделі",
+        "lecturer": "УАі-21, 003 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Закупівлі і контракти в проектах",
+        "lecturer": "ЗКП-ТУ-101, ЗКП-ТУ-102, ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-217, БПУ-ТУ-218, БПУ-ТУ-219, БПУ-ТУ-220, 116 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-303, ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Закупівлі і контракти в проектах",
+        "lecturer": "ЗКП-ТУ-102, 023 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Закупівлі і контракти в проектах",
+        "lecturer": "ЗКП-ТУ-101, 023 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-102, 217 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-101, БПУ-ТУ-102, 217 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Бізнес-планування та управління проектами",
+        "lecturer": "БПУ-ТУ-101, 217 II н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://zoom.us/j/9617433823?pwd=VjRQUnB4Qk53UzYzTGpUamdENkxPQT09%20%D0%9F%D0%B0%D1%80%D0%BE%D0%BB%D1%8C:%20884256"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    }
+]

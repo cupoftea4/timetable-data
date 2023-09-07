@@ -1,0 +1,208 @@
+[
+    {
+        "subject": "Нотаріальна діяльність в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ПВ-35, ПВ-36, ПВ-37, ПВ-38, ПВ-39, ПВ-310, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/79866860278?pwd=zk4FameYqSiwej9XlVs03lgLr6GjIJ.1%20%20Meeting%20ID:%20798%206686%200278%20Passcode:%20X8NY5k"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Нотаріальний процес",
+        "lecturer": "ПВПР-16, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/75853642393?pwd=3f1sWLTnGZX049gBbKPFyHfpU04S9y.1%20%20Meeting%20ID:%20758%205364%202393%20Passcode:%20a2gaZi"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Нотаріальний процес",
+        "lecturer": "ПВПР-16, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/74114607221?pwd=YW3VrvAZyP1Hnu2hi8qEblIGxxrRiP.1%20%20Meeting%20ID:%20741%201460%207221%20Passcode:%20CQ4yB0"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Аграрне право",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/76364231748?pwd=gcSl5ZdNb2swd1a7FmeQM8wlfGyK6t.1%20%20Meeting%20ID:%20763%206423%201748%20Passcode:%209nJpFD"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Нотаріальний процес",
+        "lecturer": "ПВПР-16, 035 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Нотаріальний процес",
+        "lecturer": "ПВПР-16, 035 XXXIII н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Аграрне право",
+        "lecturer": "ПВ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75115294842?pwd=jdmgglWJGwDnqGWgZ0lF8BFIEzHm7A.1%20%20Meeting%20ID:%20751%201529%204842%20Passcode:%201QKjMJ"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Аграрне право",
+        "lecturer": "ПВ-32, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74823822845?pwd=Uke5VlSaDu0l1UynlDF1Tkr0jusXyx.1%20%20Meeting%20ID:%20748%202382%202845%20Passcode:%20q79zm4"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Нотаріальна діяльність в Україні",
+        "lecturer": "ПВ-36, ПВ-37, ПВ-38, ПВ-39, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79788993204?pwd=GpYUb6K1ytxw5fZz86Ukq6dVR9um0S.1%20%20Meeting%20ID:%20797%208899%203204%20Passcode:%200sttYE"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Нотаріальна діяльність в Україні",
+        "lecturer": "ПВ-36, ПВ-37, ПВ-38, ПВ-39, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/79511880195?pwd=AvxdUiIczqvTytaDDntLeIiMvqzYpm.1%20%20Meeting%20ID:%20795%201188%200195%20Passcode:%20jK65u0"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    },
+    {
+        "subject": "Аграрне право",
+        "lecturer": "ПВ-34, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/71845144352?pwd=lACLE4w205coanbCK4XPQzPlA2nsmP.1%20%20Meeting%20ID:%20718%204514%204352%20Passcode:%20G91tCY"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Аграрне право",
+        "lecturer": "ПВ-33, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/73702996395?pwd=NHaa3Mm39bVvbqPWRJIVu685OZE81x.1%20%20Meeting%20ID:%20737%200299%206395%20Passcode:%208eiqTd"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    },
+    {
+        "subject": "Нотаріальна діяльність в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ПВ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/78190937426?pwd=WCyoCX9onKzmZtijETDu2bvPndpSU1.1%20%20Meeting%20ID:%20781%209093%207426%20Passcode:%20LPsh1i"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 5
+    },
+    {
+        "subject": "Нотаріальна діяльність в Україні",
+        "lecturer": "ПВ-31, ПВ-32, ПВ-33, ПВ-34, ПВ-35, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/75263017465?pwd=n8sKJXA1lU2PsR0GeSpxaBYLOaRHyy.1%20%20Meeting%20ID:%20752%206301%207465%20Passcode:%209qcxL8"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 6
+    }
+]

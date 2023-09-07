@@ -1,0 +1,212 @@
+[
+    {
+        "subject": "Комп`ютерна схемотехніка",
+        "lecturer": "ОІ-15, 107a V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Інформаційні технології смарт-систем",
+        "lecturer": "КН-305, 802а V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні технології смарт-систем",
+        "lecturer": "КН-304, 807 V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Промисловий інтернет речей",
+        "lecturer": "КНМ-11, 802б V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Промисловий інтернет речей",
+        "lecturer": "КНМ-11, 804а V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Промисловий інтернет речей",
+        "lecturer": "КНМ-11, 802б V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "Інформаційні технології смарт-систем",
+        "lecturer": "КН-304, КН-305, 807 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71971254807?pwd=7Roy7KnHkJmYm9LKLbvsCwpGhLQT15.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Інформаційні технології смарт-систем",
+        "lecturer": "КН-304, КН-305, 807 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/71971254807?pwd=7Roy7KnHkJmYm9LKLbvsCwpGhLQT15.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна схемотехніка",
+        "lecturer": "ОІ-14, 804б V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна схемотехніка",
+        "lecturer": "ОІ-16, 802а V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерна схемотехніка",
+        "lecturer": "ОІ-16, 804б V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Комп`ютерна схемотехніка",
+        "lecturer": "ОІ-16, 107a V н.к., ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерна схемотехніка",
+        "lecturer": "ОІ-11, 802а V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерна схемотехніка",
+        "lecturer": "ОІ-12, 802а V н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

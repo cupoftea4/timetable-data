@@ -1,0 +1,133 @@
+[
+    {
+        "subject": "Правове регулювання готельно-ресторанного бізнесу",
+        "lecturer": "ГО-11, 111 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Правове регулювання готельно-ресторанного бізнесу",
+        "lecturer": "ГО-11, 215 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Геотуризм",
+        "lecturer": "ТУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Геотуризм",
+        "lecturer": "ТУ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Іміджелогія та PR у туризмі",
+        "lecturer": "ІPТ-ТУР-101, 311 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    },
+    {
+        "subject": "Іміджелогія та PR у туризмі",
+        "lecturer": "ІPТ-ТУР-102, 311 III н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "Геотуризм",
+        "lecturer": "ТУ-41, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Правове регулювання готельно-ресторанного бізнесу",
+        "lecturer": "ГО-11, 215 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Правове регулювання готельно-ресторанного бізнесу",
+        "lecturer": "ГО-11, 215 I н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/3652731689?pwd=MTFEOEcxKzBGNGlYb051RGJtb2Iydz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

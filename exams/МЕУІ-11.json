@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Шуляр Р.В., 525 IV н.к.,",
+        "subject": "Системне управління інноваційною діяльністю",
+        "number": 4,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3acb94793b1d2442c89a9be4b1ceccc2cb%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=4689cdc7-cd4a-4808-8b7c-c91a051fb1b4&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "Харчук В.Ю., 417 IV н.к.,",
+        "subject": "Ризик-менеджмент в інноваційній діяльності",
+        "number": 3,
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3ajdw9Agtonr2-0qqGPFTaAiLOdk3UOoe0pGEKjpplaKM1%40thread.tacv2/General?groupId=f4bf1e64-d069-4467-82a1-6b9ab9aba279&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ]
+    },
+    {
+        "date": "2023-06-27T00:00:00.000Z",
+        "lecturer": "Литвин І.В., 514 IV н.к.,",
+        "subject": "Управління інвестиційним та венчурним бізнесом",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/75390756824?pwd=EuQjsLhIFD5bq7DqNHXGe2L8krWsta.1%20%20Meeting%20ID:%20753%209075%206824%20Passcode:%20Pp4b3j"
+        ]
+    }
+]

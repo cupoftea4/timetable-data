@@ -1,0 +1,28 @@
+[
+    {
+        "subject": "\nНаукові дослідження та семінари за їх тематикою",
+        "lecturer": " ПЗМ-21, лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "\nНаукові дослідження та семінари за їх тематикою",
+        "lecturer": " ПЗМ-21",
+        "location": " 302 XXIX н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

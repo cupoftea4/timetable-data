@@ -1,0 +1,256 @@
+[
+    {
+        "subject": "\nФілософія",
+        "lecturer": " ПІ-21, ПТ-21, ПТ-22, 111 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ФЛа-11, ПЗа-11, ІТа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3arm9U1p5nhlN_H-iD84cXoC1eslWwr58XNRoBldbP6Vc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=82d6bca4-0d7d-47d5-9428-63a2eabbaf19&amp;tenantId=7631cd62-5187-4e1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " АРа-11, ДЗа-11, РМа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3arm9U1p5nhlN_H-iD84cXoC1eslWwr58XNRoBldbP6Vc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=82d6bca4-0d7d-47d5-9428-63a2eabbaf19&amp;tenantId=7631cd62-5187-4e1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " НОа-11, ПСа-11, ПВа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3arm9U1p5nhlN_H-iD84cXoC1eslWwr58XNRoBldbP6Vc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=82d6bca4-0d7d-47d5-9428-63a2eabbaf19&amp;tenantId=7631cd62-5187-4e1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ЕОа-11, БТа-11, ХРа-11, ФРа-11, ТЗа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3arm9U1p5nhlN_H-iD84cXoC1eslWwr58XNRoBldbP6Vc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=82d6bca4-0d7d-47d5-9428-63a2eabbaf19&amp;tenantId=7631cd62-5187-4e1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ХТа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3arm9U1p5nhlN_H-iD84cXoC1eslWwr58XNRoBldbP6Vc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=82d6bca4-0d7d-47d5-9428-63a2eabbaf19&amp;tenantId=7631cd62-5187-4e1"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 6
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ХІа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3arm9U1p5nhlN_H-iD84cXoC1eslWwr58XNRoBldbP6Vc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=82d6bca4-0d7d-47d5-9428-63a2eabbaf19&amp;tenantId=7631cd62-5187-4e1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 7
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " ПТ-21",
+        "location": " 137 III н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " ПТ-22",
+        "location": " 137 III н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " СРа-11, ПЛа-11, ФСа-11, МВа-11, ДКа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3arm9U1p5nhlN_H-iD84cXoC1eslWwr58XNRoBldbP6Vc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=82d6bca4-0d7d-47d5-9428-63a2eabbaf19&amp;tenantId=7631cd62-5187-4e1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 6
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " ПЗа-11, НОа-11, ПОа-11, ПСа-11, ПВа-11, СРа-11, ФЛа-11, лекція ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3arm9U1p5nhlN_H-iD84cXoC1eslWwr58XNRoBldbP6Vc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=82d6bca4-0d7d-47d5-9428-63a2eabbaf19&amp;tenantId=7631cd62-5187-4e1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " НЗа-11, БДа-11, ГДа-11, практична ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3arm9U1p5nhlN_H-iD84cXoC1eslWwr58XNRoBldbP6Vc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=82d6bca4-0d7d-47d5-9428-63a2eabbaf19&amp;tenantId=7631cd62-5187-4e1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 6
+    },
+    {
+        "subject": "\nФілософія і методологія науки",
+        "lecturer": " АРа-11, БДа-11, ДЗа-11, ЕОа-11, ХІа-11, НЗа-11, ГДа-11, ХРа-11, БТа-11, ФРа-11, ХТа-11, РМа-11, ПТа-11, лекція ",
+        "location": "",
+        "urls": [
+            "https://teams.microsoft.com/l/channel/19%3arm9U1p5nhlN_H-iD84cXoC1eslWwr58XNRoBldbP6Vc1%40thread.tacv2/%25D0%2597%25D0%25B0%25D0%25B3%25D0%25B0%25D0%25BB%25D1%258C%25D0%25BD%25D0%25B5?groupId=82d6bca4-0d7d-47d5-9428-63a2eabbaf19&amp;tenantId=7631cd62-5187-4e1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 7
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " ПІ-21",
+        "location": " 231 III н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " КБ-203",
+        "location": " 106 I н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " КБ-201, КБ-202, КБ-203, 411 I н.к., лекція ",
+        "location": "",
+        "urls": [],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " КБ-201",
+        "location": " 901 V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "\nФілософія",
+        "lecturer": " КБ-202",
+        "location": " 901 V н.к.",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    }
+]

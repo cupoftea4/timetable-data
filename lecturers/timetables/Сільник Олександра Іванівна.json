@@ -1,0 +1,174 @@
+[
+    {
+        "subject": "Архітектурне проектування громадських будівель та споруд",
+        "lecturer": "АР-24, 313б Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурне проектування громадських будівель та споруд",
+        "lecturer": "АР-24, 313б Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурне проектування громадських будівель та споруд",
+        "lecturer": "АР-23, 313б Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Архітектурне проектування громадських будівель та споруд",
+        "lecturer": "АР-23, 313б Гол. н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "АР-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3av-tgghkbGIxsxx-Cb9K_9CsoJ1bjP9gc_POYR7qz4cw1%40thread.tacv2/conversations?groupId=afad7c8f-0a76-4fa0-b699-94e41f77bf36&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "АР-35, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aOIVSx_y8tympirxpsquN6zxAgQSXjSFTPLDV_mXu_141%40thread.tacv2/conversations?groupId=deb9ae87-4f00-4765-9963-68b74c155757&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "АР-38, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3a_gDaMsQYIb6XYOV3efSsW79CJjptsWAVmb-eGnIlfT81%40thread.tacv2/conversations?groupId=018e0d3f-50b7-4159-adab-d1b319b9c260&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Архітектурне проектування за темою дипломного проекту",
+        "lecturer": "АР-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYDj1UIStFC-Py03q_OQExBiO8H30jh1G2Qb4WdZU18s1%40thread.tacv2/conversations?groupId=65d4c16c-ff93-4389-98de-455c45145355&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Архітектурне проектування за темою дипломного проекту",
+        "lecturer": "АР-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aYDj1UIStFC-Py03q_OQExBiO8H30jh1G2Qb4WdZU18s1%40thread.tacv2/conversations?groupId=65d4c16c-ff93-4389-98de-455c45145355&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "АР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3akEJZv1jH-J972Gd_Lh8KizNBLR0kPsmIs2ViuyaLC4E1%40thread.tacv2/conversations?groupId=083b562e-0b16-4918-b017-cc7f79193f1b&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 1
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "АР-33, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aUHV0BJJFLF9ldQWmCZR3MKrtww9zw60xHGFPcdI5-bQ1%40thread.tacv2/conversations?groupId=d1821a64-73cd-48a0-b9fe-2dceabc6bd7e&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Еволюція житла",
+        "lecturer": "АР-36, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3apdS6a-pofoqsQJ2jxx2QKupvlj2t7BCgI90qMwxmw0g1%40thread.tacv2/conversations?groupId=cb120ca4-0386-4592-8c68-c1a2af6d8635&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

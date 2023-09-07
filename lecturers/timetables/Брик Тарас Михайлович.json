@@ -1,0 +1,62 @@
+[
+    {
+        "subject": "Комп`ютерне моделювання фізичних процесів, частина 2",
+        "lecturer": "ПФ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 1
+    },
+    {
+        "subject": "Комп`ютерне моделювання фізичних процесів, частина 2",
+        "lecturer": "ПФ-41, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Комп`ютерне моделювання фізичних процесів, частина 2",
+        "lecturer": "ПФ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Комп`ютерне моделювання фізичних процесів, частина 2",
+        "lecturer": "ПФ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/9113102483?pwd=MjZZNFdtNWVhYjkvMEtBS2llUUJZUT09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    }
+]

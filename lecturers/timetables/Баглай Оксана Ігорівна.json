@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 4",
+        "lecturer": "СТ-21, 032 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/vqm-ieam-zhv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Іноземна мова за професійним спрямуванням, частина 4",
+        "lecturer": "СТ-21, 032 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/vqm-ieam-zhv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова І, частина 8",
+        "lecturer": "МВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/vqm-ieam-zhv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова І, частина 8",
+        "lecturer": "МВ-43, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/vqm-ieam-zhv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Іноземна мова І, частина 4",
+        "lecturer": "МВ-23, 031 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/vqm-ieam-zhv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова І, частина 4",
+        "lecturer": "МВ-23, 031 VII н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/vqm-ieam-zhv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Іноземна мова І, частина 6",
+        "lecturer": "МВ-36, ",
+        "location": ", практична",
+        "urls": [
+            "https://meet.google.com/vqm-ieam-zhv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 3
+    },
+    {
+        "subject": "Іноземна мова І, частина 6",
+        "lecturer": "МВ-36, ",
+        "location": " практична",
+        "urls": [
+            "https://meet.google.com/vqm-ieam-zhv"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 4
+    }
+]

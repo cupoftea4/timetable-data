@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-08T00:00:00.000Z",
+        "lecturer": "СА-42,",
+        "subject": "Розпізнавання мови",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/75297402607?pwd=yflrN0XW7BVgQPtr8UrbTg177UDimb.1"
+        ]
+    },
+    {
+        "date": "2023-06-13T00:00:00.000Z",
+        "lecturer": "СА-42,",
+        "subject": "Комп`ютерна лінгвістика",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/76707138817?pwd=VcF3hXfzIUf6CUqRVTyn7LW9H7r9aW.1"
+        ]
+    }
+]

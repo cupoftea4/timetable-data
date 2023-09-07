@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Електронні та квантові прилади надвисоких частот",
+        "lecturer": "ТР-34, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://meet.google.com/kgm-dsde-yqj"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Електронні та квантові прилади надвисоких частот",
+        "lecturer": "ТР-34, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/jmq-huuf-sun"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Радіотехнічні системи",
+        "lecturer": "ТР-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/fgd-bzik-rff"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Основи радіолокації",
+        "lecturer": "АН-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/syx-ixzt-bru"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 5
+    },
+    {
+        "subject": "Радіотехнічні системи",
+        "lecturer": "ТР-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/jon-gvkt-xfv"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Радіотехнічні системи",
+        "lecturer": "ТР-44, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/kwa-ikcz-rgy"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Основи радіолокації",
+        "lecturer": "АН-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/fgy-trbm-jti"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Радіотехнічні системи",
+        "lecturer": "ТР-44, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://meet.google.com/gmw-mcjb-fsj"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 3,
+        "number": 4
+    }
+]

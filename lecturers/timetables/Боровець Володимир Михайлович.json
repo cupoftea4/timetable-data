@@ -1,0 +1,88 @@
+[
+    {
+        "subject": "Автоматизація процесу пакування",
+        "lecturer": "МП-42, ",
+        "location": " практична",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aHYzKb8wrW3_rknhD4_EC6mEyi6YyfdjZqS_zcEq80W01%40thread.tacv2/conversations?groupId=8b491766-807b-4ef7-8f76-ad2174ad9228&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МБ-23, 056 XIV н.к., ",
+        "location": " лабораторна",
+        "urls": [],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Гідропневмопривод та гідропневмоавтоматика",
+        "lecturer": "МБ-23, 056 XIV н.к., ",
+        "location": " практична",
+        "urls": [],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 2
+    },
+    {
+        "subject": "Автоматизація процесу пакування",
+        "lecturer": "МП-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aHYzKb8wrW3_rknhD4_EC6mEyi6YyfdjZqS_zcEq80W01%40thread.tacv2/conversations?groupId=8b491766-807b-4ef7-8f76-ad2174ad9228&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Автоматизація процесу пакування",
+        "lecturer": "МП-42, ",
+        "location": " лекція",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aHYzKb8wrW3_rknhD4_EC6mEyi6YyfdjZqS_zcEq80W01%40thread.tacv2/conversations?groupId=8b491766-807b-4ef7-8f76-ad2174ad9228&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Автоматизація процесу пакування",
+        "lecturer": "МП-42, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://teams.microsoft.com/l/team/19%3aHYzKb8wrW3_rknhD4_EC6mEyi6YyfdjZqS_zcEq80W01%40thread.tacv2/conversations?groupId=8b491766-807b-4ef7-8f76-ad2174ad9228&tenantId=7631cd62-5187-4e15-8b8e-ef653e366e7a"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 5
+    }
+]

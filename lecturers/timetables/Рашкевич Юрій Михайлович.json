@@ -1,0 +1,32 @@
+[
+    {
+        "subject": "Основи цифрової обробки сигналів",
+        "lecturer": "ВП-31, ВП-32, 908 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/xry-wcsr-ddx?authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Цифрова фотографія",
+        "lecturer": "ВП-41, ВП-42, 908 V н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://meet.google.com/tgx-tpkr-wtw?authuser=1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    }
+]

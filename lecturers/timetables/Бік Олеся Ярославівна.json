@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Соціальна робота з різними групами клієнтів",
+        "lecturer": "СР-31, СР-32, ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/83694336904?pwd=SGQ5SnNCNWhaOW1VL3lDZkNhL0M5Zz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Практика дорадництва в соціальній роботі",
+        "lecturer": "СР-21, СР-22, 407 II н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us02web.zoom.us/j/81934906098?pwd=U2IyUmdlblN6V0tyWkxwQjlsbE9WUT09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 4
+    },
+    {
+        "subject": "Практика дорадництва в соціальній роботі",
+        "lecturer": "СР-21, 205а XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/81934906098?pwd=U2IyUmdlblN6V0tyWkxwQjlsbE9WUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 2
+    },
+    {
+        "subject": "Практика дорадництва в соціальній роботі",
+        "lecturer": "СР-22, 205а XXIX н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us02web.zoom.us/j/81934906098?pwd=U2IyUmdlblN6V0tyWkxwQjlsbE9WUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 3
+    },
+    {
+        "subject": "Соціальна робота з різними групами клієнтів",
+        "lecturer": "СР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/83694336904?pwd=SGQ5SnNCNWhaOW1VL3lDZkNhL0M5Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Соціальна робота з різними групами клієнтів",
+        "lecturer": "СР-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/83694336904?pwd=SGQ5SnNCNWhaOW1VL3lDZkNhL0M5Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Соціальна робота з різними групами клієнтів",
+        "lecturer": "СР-31, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/83694336904?pwd=SGQ5SnNCNWhaOW1VL3lDZkNhL0M5Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 4
+    },
+    {
+        "subject": "Соціальна робота з різними групами клієнтів",
+        "lecturer": "СР-32, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us02web.zoom.us/j/83694336904?pwd=SGQ5SnNCNWhaOW1VL3lDZkNhL0M5Zz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 5
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "date": "2023-06-19T00:00:00.000Z",
+        "lecturer": "Піцишин Б.С.,",
+        "subject": "Насосні станції",
+        "number": 2,
+        "urls": [
+            "https://us02web.zoom.us/j/5177220185?pwd=YnRTZEE5ajJETjFzNW9BSThvRDBRdz09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "Жук В.М.,",
+        "subject": "Будівельне водопониження та дренаж",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/87900372998?pwd=WWc1NzQ5ZXNvTGpvV0xZazZyRTJWUT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "Попадюк І.Ю.,",
+        "subject": "Мала гідроенергетика",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/2049150474?pwd=NTJoM2J4VEhFQ2xjSWdtZ0RpbGw5QT09"
+        ]
+    },
+    {
+        "date": "2023-06-28T00:00:00.000Z",
+        "lecturer": "Матлай І.І.,",
+        "subject": "Гідромеліорація",
+        "number": 1,
+        "urls": [
+            "https://us04web.zoom.us/j/7633955384?pwd=YkhzM3Y5UDNWclFodTJBbUZhMG5pdz09"
+        ]
+    }
+]

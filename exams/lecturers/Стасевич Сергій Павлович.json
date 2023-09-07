@@ -1,0 +1,29 @@
+[
+    {
+        "date": "2023-06-22T00:00:00.000Z",
+        "lecturer": "ПТ-11, ПТ-12, 111 I н.к.,",
+        "subject": "Інформатика",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/457746900?pwd=ck9NTGsyWnhGTUJ1MGhqclpWWVoxUT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "ПІ-11, 109 I н.к.,",
+        "subject": "Інформатика",
+        "number": 3,
+        "urls": [
+            "https://us04web.zoom.us/j/457746900?pwd=ck9NTGsyWnhGTUJ1MGhqclpWWVoxUT09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "ТЗ-31,",
+        "subject": "Системи автоматичного екологічного контролю та спостереження",
+        "number": 4,
+        "urls": [
+            "https://us04web.zoom.us/j/75756240755?pwd=2ruaqAClfME9axSdBblxtYP5khRlaA.1"
+        ]
+    }
+]

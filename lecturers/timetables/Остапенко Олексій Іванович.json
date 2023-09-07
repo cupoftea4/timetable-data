@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Світові тенденції розвитку адміністративно-правової науки",
+        "lecturer": "ПВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74141664388?pwd=z5V8FxiMrfYvYXpntyN34zBZuX7uiY.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Світові тенденції розвитку адміністративно-правової науки",
+        "lecturer": "ПВа-21, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/74141664388?pwd=z5V8FxiMrfYvYXpntyN34zBZuX7uiY.1"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    },
+    {
+        "subject": "Світові тенденції розвитку адміністративно-правової науки",
+        "lecturer": "ПВа-21, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/73382257707?pwd=MUxtDTgDXg7YsVwOVFf4terbFJI6ag.1"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 3
+    }
+]

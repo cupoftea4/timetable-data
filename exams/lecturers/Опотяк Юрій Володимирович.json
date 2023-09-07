@@ -1,0 +1,20 @@
+[
+    {
+        "date": "2023-06-20T00:00:00.000Z",
+        "lecturer": "КНМ-11, 802а V н.к.,",
+        "subject": "Промисловий інтернет речей",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/3472926241?pwd=a0FJT1A5eGpkMXkvb3E5bEtWZDFNQT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "КН-304, КН-305,",
+        "subject": "Інформаційні технології смарт-систем",
+        "number": 2,
+        "urls": [
+            "https://us04web.zoom.us/j/71971254807?pwd=7Roy7KnHkJmYm9LKLbvsCwpGhLQT15.1"
+        ]
+    }
+]

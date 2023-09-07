@@ -1,0 +1,47 @@
+[
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "СА-21, СА-22, СА-23, УП-21, 114 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/94789651378?pwd=VWtmMWpJYVY5VnlFd3FCVTRhenV6QT09%20%20%D0%86%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D1%96%D1%97:%20947%208965%201378%20%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%83:%2012345"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 3
+    },
+    {
+        "subject": "Організація баз даних та знань",
+        "lecturer": "СА-21, СА-22, СА-23, УП-21, 218 I н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/94789651378?pwd=VWtmMWpJYVY5VnlFd3FCVTRhenV6QT09%20%20%D0%86%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D1%96%D1%97:%20947%208965%201378%20%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%83:%2012345"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Управління вимогами в ІТ проектах",
+        "lecturer": "ІТУП-11, ІТУП-12, ІТУП-13, 207 VIа н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://zoom.us/j/96920247805?pwd=anZQT2dKSTM2TXNWQVBZYWRzcDNmZz09%20%20%D0%86%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82%D0%BE%D1%80%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D1%96%D1%97:%20969%202024%207805%20%20%D0%9A%D0%BE%D0%B4%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D1%83:%2012345"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 5
+    }
+]

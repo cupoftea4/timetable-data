@@ -1,0 +1,122 @@
+[
+    {
+        "subject": "Статистика",
+        "lecturer": "МК-24, 429 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/81510423448?pwd=VHBBNTZhZ0xNNWw4Q1VCZE1GU2Vxdz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 2
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МК-22, 425 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/86586032548?pwd=L05ZNVRiMWxHRnpBeUVhZnYyNHRHZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 4
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МК-21, МК-22, МК-23, МК-24, МК-25, 417 IV н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/89361131523?pwd=Tk03elR2czMvV0lwRlIzdFBNYWMxdz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 3
+    },
+    {
+        "subject": "Економіка і управління підприємством",
+        "lecturer": "БІІР-11, 232 III н.к., ",
+        "location": " лекція",
+        "urls": [
+            "https://us05web.zoom.us/j/87443332559?pwd=QytjVGgrNDdoZzJ3YXlkMmtoVzRBZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Економіка і управління підприємством",
+        "lecturer": "БІІР-11, 232 III н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/88055559304?pwd=Q2RFQ21Fb2ozT0VuczNuRFpLa2hCUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МК-21, 514 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84068333255?pwd=ZXBuekFnQXlKY0ZKWFdIUUtzNEs1dz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МК-23, 514 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/87288803484?pwd=MFFEWDVmNDJxalE1cnh4ZEFnV3VLUT09"
+        ],
+        "type": "practical",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 1
+    },
+    {
+        "subject": "Статистика",
+        "lecturer": "МК-25, 210 IV н.к., ",
+        "location": " практична",
+        "urls": [
+            "https://us05web.zoom.us/j/84958991672?pwd=Rlh0L0VheU03eVVVcDVKcERWRlEyZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 5,
+        "number": 2
+    }
+]

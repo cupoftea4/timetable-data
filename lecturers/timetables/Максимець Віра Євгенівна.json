@@ -1,0 +1,77 @@
+[
+    {
+        "subject": "Основи проектування інформаційних потоків",
+        "lecturer": "МІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": false,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи проектування інформаційних потоків",
+        "lecturer": "МІ-41, ",
+        "location": ", лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09"
+        ],
+        "type": "lab",
+        "isFirstWeek": false,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 1,
+        "number": 1
+    },
+    {
+        "subject": "Основи проектування інформаційних потоків",
+        "lecturer": "МІ-41, ",
+        "location": " лабораторна",
+        "urls": [
+            "https://us04web.zoom.us/j/73171319867?pwd=pwAqeN8ERonZ6JHmbLfOYqMa6jvvFL.1"
+        ],
+        "type": "lab",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": false,
+        "isSecondSubgroup": true,
+        "day": 2,
+        "number": 1
+    },
+    {
+        "subject": "Розвідувальні служби у забезпеченні зовнішньої політики держав",
+        "lecturer": "МІ-31, ",
+        "location": " практична",
+        "urls": [
+            "https://us04web.zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09"
+        ],
+        "type": "practical",
+        "isFirstWeek": true,
+        "isSecondWeek": true,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 3,
+        "number": 4
+    },
+    {
+        "subject": "Розвідувальні служби у забезпеченні зовнішньої політики держав",
+        "lecturer": "МІ-31, ",
+        "location": " лекція",
+        "urls": [
+            "https://us04web.zoom.us/j/4488707727?pwd=NytMTHNVMDZQSHlGM3RzKzlYUWUwZz09"
+        ],
+        "type": "lection",
+        "isFirstWeek": true,
+        "isSecondWeek": false,
+        "isFirstSubgroup": true,
+        "isSecondSubgroup": true,
+        "day": 4,
+        "number": 2
+    }
+]

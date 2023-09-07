@@ -1,0 +1,47 @@
+[
+    {
+        "date": "2023-04-19T00:00:00.000Z",
+        "lecturer": "КБ-41, КБ-42, КБ-43, КБ-44,",
+        "subject": "Комплексні системи захисту інформації",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ]
+    },
+    {
+        "date": "2023-04-21T00:00:00.000Z",
+        "lecturer": "КБ-45, КБ-46,",
+        "subject": "Комплексні системи захисту інформації",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ]
+    },
+    {
+        "date": "2023-06-23T00:00:00.000Z",
+        "lecturer": "КБУІ-11, 211 XIX н.к.,",
+        "subject": "Проектування та супровід КСЗІ",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ]
+    },
+    {
+        "date": "2023-06-26T00:00:00.000Z",
+        "lecturer": "КБСТ-11, КБСТ-12, 208 XIX н.к.,",
+        "subject": "Проектування комплексних систем захисту інформації",
+        "number": 5,
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ]
+    },
+    {
+        "date": "2023-06-29T00:00:00.000Z",
+        "lecturer": "КБ-31, КБ-32,",
+        "subject": "Методи та засоби захисту інформації, частина 2",
+        "number": 2,
+        "urls": [
+            "https://us05web.zoom.us/j/9719185553?pwd=bm5QREF3RzhQekU2cFozUUhuN3ZvUT09"
+        ]
+    }
+]
